@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    
+        <title>edulabs_0.1</title>
+    
+
+    <meta name="description" content="Freiraum für Gestaltung">
+
+    
+
+    <link rel="icon" href="/assets/img/favicon.png">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inconsolata:400,700">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="/assets/css/main.css">
+
+</head>
+
+<body>
+
+    <div class="wrapper">
+        <div class="blog">
+    <ul>
+        
+        <li>
+            <span class="date">2017 Mar 05</span> - <a href="/blog/Das-edulab-Berlin-stellt-sich-vor">Das edulab Berlin stellt sich vor</a>
+        </li>
+        
+        <li>
+            <span class="date">2017 Feb 05</span> - <a href="/blog/OER-sind-mehr-als-digitale-Arbeitsbl%C3%A4tter">OER sind mehr als digitale Arbeitsblätter</a>
+        </li>
+        
+        <li>
+            <span class="date">2017 Feb 04</span> - <a href="/blog/Hello-World">Hello World</a>
+        </li>
+        
+    </ul>
+</div>
+    </div>
+
+</body>
+<script
+  src="https://code.jquery.com/jquery-3.2.0.min.js"
+  integrity="sha256-JAW99MJVpJBGcbzEuXk4Az05s/XyDdBomFqNlM3ic+I="
+  crossorigin="anonymous">
+    </script>
+  <script>
+  $('a[href*="#"]:not([href="#"])').click(function() {
+  if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') && location.hostname == this.hostname) {
+    var target = $(this.hash);
+    target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
+    if (target.length) {
+      $('html, body').animate({
+        scrollTop: target.offset().top
+      }, 1000);
+      return false;
+    }
+  }
+});
+</script>
+</html>
