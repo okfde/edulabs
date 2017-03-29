@@ -289,9 +289,9 @@ section {
 .logol {
 	background-color: transparent;
 	text-aligne: center;
-	width: 49%;
+	width: 50%;
 	height: auto;
-	min-width: 117px;
+	min-width: 113px;
 	a:hover {background-color: transparent;}
 }
 .logolBox {
@@ -299,16 +299,16 @@ section {
 	float: left;
 	width: 50%;
 	height: auto;
-	min-width: 117px;
+	min-width: 113px;
 	margin-top: 15px;
 	a:hover {background-color: transparent;}
 }
 .logor {
 	background-color: transparent;
 	text-aligne: center;
-	width: 51%;
+	width: 50%;
 	height: auto;
-	min-width: 137px;
+	min-width: 133px;
 	a:hover {background-color: transparent;}
 }
 .logorBox {
@@ -316,7 +316,7 @@ section {
 	float: right;
 	width: 50%;
 	height: auto;
-	min-width: 137px;
+	min-width: 133px;
 	a:hover {background-color: transparent;}
 }
 .btn-default {
@@ -381,10 +381,9 @@ section {
 }
 
 .navbar-brand {
-    margin-left: -32px !important;
-		font-size: 2.3em;
-		color: #000267 !important;
-
+    	margin-left: -32px !important;
+	font-size: 2.3em;
+	color: #000267 !important;
 
   	@media screen and (max-width: 770px) {
 		margin-left: -15px !important;
@@ -396,10 +395,10 @@ section {
 .navbar-nav {
 	@media screen and (min-width: 770px){
 		float: right;
-		margin-right: -49px;
+		margin-right: -40px;
 	}
   	@media screen and (min-width: 1000px) {
-		margin-right: -53px;
+		margin-right: -45px;
     	}
 }
 .navbar-nav > li {
@@ -443,6 +442,7 @@ section {
 }
 .logo-note-txt {
 	font-size: 10px;
+	padding-bottom: 20px;
 }
 .foerdernr {
 	font-size: 10px;
@@ -459,3 +459,4 @@ section {
 .cta-blue-inner {
 	padding: 80px 0;
 }
+.row {margin-left: 0px !important; margin-right: 0px !important;}
