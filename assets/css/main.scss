@@ -295,9 +295,7 @@ section {
     	margin-left: 0rem;
     	margin-top: 0.4rem;
 		}
-	a:hover {background-color: transparent;
-		font-size: 10px;
-	}
+	a:hover {background-color: transparent;}
 .logor {
 	background-color: transparent;
 	float: right;
@@ -350,9 +348,6 @@ section {
 	}
 }
 
-nav>li>a:hover {
-	background-color: transparent;
-}
 .nav { li { a {
 	position: relative;
 	display: block;
@@ -393,25 +388,28 @@ nav>li>a:hover {
     	}
 }
 .navbar-nav > li {
-  font-size: 18px;
-	color: #000267
+  	font-size: 18px;
+	color: #000267;
+a:hover {
+	
+	font-size: 18px !important;}
   }
 
-	.splash {
-		padding-top: 80px;
-		padding-bottom: 40px;
-	}
+.splash {
+	padding-top: 80px;
+	padding-bottom: 40px;
+}
 
-	.splash p {
-		line-height: 2em;
-		font-size: 15px;
-	}
+.splash p {
+	line-height: 2em;
+	font-size: 15px;
+}
 
-	.splash h2 {
-		line-height: 1.3em;
-		font-size: 30px;
-		padding-bottom: 10px
-	}
+.splash h2 {
+	line-height: 1.3em;
+	font-size: 30px;
+	padding-bottom: 10px
+}
 
 .logo-note{
 	vertical-align: super;
