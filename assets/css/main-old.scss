@@ -69,7 +69,7 @@ blockquote {
 
 .container-fluid {
 	padding-right: 0px;
-  	padding-left: 0px;
+  padding-left: 0px;
 }
 
 
@@ -288,64 +288,47 @@ section {
 }
 .logol {
 	background-color: transparent;
-	text-aligne: center;
-	width: 50%;
-	height: auto;
-	min-width: 113px;
-	a:hover {background-color: transparent;}
-	@media screen and (min-width: 770px){width: 90%;}
-}
-.logolBox {
-	background-color: transparent;
 	float: left;
-	width: 50%;
+	width: 48%;
 	height: auto;
-	min-width: 113px;
-	margin-top: 15px;
+	min-width: 120px;
+    	margin-left: 0rem;
+    	margin-top: 0.4rem;
+		}
 	a:hover {background-color: transparent;}
-}
 .logor {
 	background-color: transparent;
-	text-aligne: center;
-	width: 50%;
-	height: auto;
-	min-width: 133px;
-	a:hover {background-color: transparent;}
-	@media screen and (min-width: 770px){width: 80%;}
-}
-.logorBox {
-	background-color: transparent;
 	float: right;
-	width: 50%;
+	width: 52%;
 	height: auto;
-	min-width: 133px;
+	min-width: 140px;
 	a:hover {background-color: transparent;}
 }
-.btn-default {
-	margin-top: 10px;
-	color: #000267 !important;
+.btn {
+	background-color: $color-white;
+	-webkit-border-radius: 0;
+	-moz-border-radius: 0;
+	border-radius: 3px;
+	padding: 3px 10px 0px 10px;
+	border: solid #000000 1px;
 	text-decoration: none;
+		h1 {
+		font-size: 1.3em;
+		//color: #9D9D9D;
+		}
+		//h1:hover {
+		//	color: #FFF;
+		//	background-color: transparent;
+		//}
+}
+.btn:hover {
+	 background-color: $color-grey;
+	 text-decoration: none;
 }
 .form-actions {
 	text-align: center;
     	background-color: transparent;
 	padding-bottom: 55px;
-}
-.mehrspaltig {
-	@media screen and (min-width: 770px){
-		-moz-column-count:    2;
-		-webkit-column-count: 2;
-		column-count:         2;
-		-moz-column-gap: 60px;
-		column-gap: 60px;
-	}
-	text-align: justify;
-	/* hyphens */
-   	-moz-hyphens: auto;
-   	-o-hyphens: auto;
-   	-webkit-hyphens: auto;
-   	-ms-hyphens: auto;
-   	hyphens: auto;
 }
 .starter {
 	padding-bottom: 40px;
@@ -383,9 +366,10 @@ section {
 }
 
 .navbar-brand {
-    	margin-left: -32px !important;
-	font-size: 2.3em;
-	color: #000267 !important;
+    margin-left: -32px !important;
+		font-size: 2.3em;
+		color: #000267 !important;
+
 
   	@media screen and (max-width: 770px) {
 		margin-left: -15px !important;
@@ -397,24 +381,19 @@ section {
 .navbar-nav {
 	@media screen and (min-width: 770px){
 		float: right;
-		margin-right: -40px;
+		margin-right: -49px;
 	}
   	@media screen and (min-width: 1000px) {
-		margin-right: -45px;
+		margin-right: -53px;
     	}
 }
 .navbar-nav > li {
-	a{
-		font-size: 18px;
-		padding: 5px;
-		padding-top: 20px;
-		color: #000267 !important;
-	}
-	a:hover {
+  	font-size: 18px;
+	color: #000267;
+a:hover {
 	
-		font-size: 18px !important;
-	}
-}
+	font-size: 18px !important;}
+  }
 
 .splash {
 	padding-top: 80px;
@@ -423,17 +402,12 @@ section {
 
 .splash p {
 	line-height: 2em;
-	font-size: 18px;
+	font-size: 15px;
 }
 
 .splash h2 {
 	line-height: 1.3em;
 	font-size: 30px;
-	padding-bottom: 10px
-}
-.splash h3 {
-	line-height: 1.3em;
-	font-size: 25px;
 	padding-bottom: 10px
 }
 
@@ -444,11 +418,9 @@ section {
 }
 .logo-note-txt {
 	font-size: 10px;
-	padding-bottom: 20px;
 }
 .foerdernr {
-	font-size: 10px;
-	text-aligne: right !important;
+	font-size: 9px;
 }
 
 
@@ -461,6 +433,3 @@ section {
 .cta-blue-inner {
 	padding: 80px 0;
 }
-.row {margin-left: 0px !important; margin-right: 0px !important;}
-
-.backcolor {background-color: $color-red;}
