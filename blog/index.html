@@ -1,0 +1,14 @@
+---
+layout: about
+---
+
+<div class="blog">
+<h1 class="about__title">Blog:</h1>
+    <ul>
+        {% for post in site.posts %}
+        <li>
+            <span class="date">{{ post.date | date: '%Y %b %d' }}</span> - <a href="{{ post.url }}">{{ post.title }}</a>
+        </li>
+        {% endfor %}
+    </ul>
+</div>
