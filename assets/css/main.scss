@@ -299,7 +299,7 @@ section {
 	height: auto;
 	max-width: 140px;
 	a:hover {background-color: transparent;}
-	@media screen and (min-width: 770px){width: 90%;}
+	@media screen and (min-width: 770px){width: 80%;}
 }
 .logolBox {
 	background-color: transparent;
@@ -449,7 +449,7 @@ section {
 	vertical-align: super;
 	font-size: 25px;
 	color: $color-red;
-	margin-top: 40px;
+	margin-top: 40px !important;
 }
 .logo-note-txt {
 	font-size: 15px;
