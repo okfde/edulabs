@@ -409,10 +409,11 @@ section {
 		padding: 5px;
 		padding-top: 20px;
 		color: #000267 !important;
+		@media screen and (min-width: 770px){font-size: 20px;}
 	}
 	a:hover {
-
-		font-size: 18px !important;
+		font-size: 18px;
+		@media screen and (min-width: 770px){font-size: 20px;}
 	}
 }
 
@@ -422,8 +423,9 @@ section {
 }
 
 .splash p {
-	line-height: 2em;
+	line-height: 1.5em;
 	font-size: 18px;
+	@media screen and (min-width: 770px){font-size: 20px; line-height: 2em;}
 }
 
 .splash h2 {
@@ -463,5 +465,4 @@ section {
 }
 .row {margin-left: 0px !important; margin-right: 0px !important;}
 
-.backcolor {
-	font-weight: 800;}
+.backcolor {font-weight: 800;}
