@@ -388,12 +388,27 @@ section {
     	}
 }
 .navbar-nav > li {
+<<<<<<< HEAD:assets/css/main-old.scss
   	font-size: 18px;
 	color: #000267;
 a:hover {
 	
 	font-size: 18px !important;}
   }
+=======
+	a{
+		font-size: 18px;
+		padding: 5px;
+		padding-top: 20px;
+		color: #000267 !important;
+		@media screen and (min-width: 770px){font-size: 20px;}
+	}
+	a:hover {
+		font-size: 18px;
+		@media screen and (min-width: 770px){font-size: 20px;}
+	}
+}
+>>>>>>> origin/development:assets/css/main3.scss
 
 .splash {
 	padding-top: 80px;
@@ -401,8 +416,14 @@ a:hover {
 }
 
 .splash p {
+<<<<<<< HEAD:assets/css/main-old.scss
 	line-height: 2em;
 	font-size: 15px;
+=======
+	line-height: 1.5em;
+	font-size: 18px;
+	@media screen and (min-width: 770px){font-size: 20px; line-height: 2em;}
+>>>>>>> origin/development:assets/css/main3.scss
 }
 
 .splash h2 {
@@ -433,3 +454,9 @@ a:hover {
 .cta-blue-inner {
 	padding: 80px 0;
 }
+<<<<<<< HEAD:assets/css/main-old.scss
+=======
+.row {margin-left: 0px !important; margin-right: 0px !important;}
+
+.backcolor {font-weight: 800;}
+>>>>>>> origin/development:assets/css/main3.scss
