@@ -293,6 +293,7 @@ section {
 	height: auto;
 	min-width: 113px;
 	a:hover {background-color: transparent;}
+	@media screen and (min-width: 770px){width: 90%;}
 }
 .logolBox {
 	background-color: transparent;
@@ -310,6 +311,7 @@ section {
 	height: auto;
 	min-width: 133px;
 	a:hover {background-color: transparent;}
+	@media screen and (min-width: 770px){width: 80%;}
 }
 .logorBox {
 	background-color: transparent;
