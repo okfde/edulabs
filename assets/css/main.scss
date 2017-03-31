@@ -102,6 +102,12 @@ blockquote {
 	}
 }
 
+.col-centered{
+	float: none;
+	margin: 0 auto;
+}
+
+
 section {
 
 }
@@ -288,10 +294,10 @@ section {
 }
 .logol {
 	background-color: transparent;
-	text-aligne: center;
+	text-align: center;
 	width: 50%;
 	height: auto;
-	min-width: 113px;
+	max-width: 140px;
 	a:hover {background-color: transparent;}
 	@media screen and (min-width: 770px){width: 90%;}
 }
@@ -306,10 +312,10 @@ section {
 }
 .logor {
 	background-color: transparent;
-	text-aligne: center;
+	text-align: center;
 	width: 50%;
 	height: auto;
-	min-width: 133px;
+	max-width: 140px;
 	a:hover {background-color: transparent;}
 	@media screen and (min-width: 770px){width: 80%;}
 }
