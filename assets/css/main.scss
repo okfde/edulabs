@@ -295,16 +295,16 @@ section {
 .logol {
 	background-color: transparent;
 	text-align: center;
-	width: 50%;
+	width: 49%;
 	height: auto;
-	max-width: 140px;
+	max-width: 150px;
 	a:hover {background-color: transparent;}
-	@media screen and (min-width: 770px){width: 80%;}
+	@media screen and (min-width: 770px){width: 90%;}
 }
 .logolBox {
 	background-color: transparent;
 	float: left;
-	width: 50%;
+	width: 47%;
 	height: auto;
 	min-width: 113px;
 	margin-top: 15px;
@@ -315,14 +315,14 @@ section {
 	text-align: center;
 	width: 50%;
 	height: auto;
-	max-width: 140px;
+	max-width: 150px;
 	a:hover {background-color: transparent;}
 	@media screen and (min-width: 770px){width: 80%;}
 }
 .logorBox {
 	background-color: transparent;
 	float: right;
-	width: 50%;
+	width: 47%;
 	height: auto;
 	min-width: 133px;
 	a:hover {background-color: transparent;}
@@ -449,12 +449,10 @@ section {
 	vertical-align: super;
 	font-size: 25px;
 	color: $color-red;
-	margin-top: 40px !important;
 }
 .logo-note-txt {
 	font-size: 15px;
-	margin-bottom: 20px;
-	margin-top: 40px;
+	color: $color-black;
 }
 .foerdernr {
 	font-size: 10px;
