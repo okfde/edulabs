@@ -116,6 +116,26 @@ section {
 	background-color: #f0f1f2;
 }
 
+
+.section-grey-header {
+	background-size: 100%;
+	width: 100%;
+}
+.inner{
+	position: relative;
+	z-index: -1;
+	background-color: #f0f1f2;
+}
+.headimg{
+	position: absolute;
+	width: 100%;
+	z-index: -1;
+}
+.header-text{
+	background: #f0f1f2;
+	padding: 1rem;
+}
+
 .section-white{
 	background-color: #ffffff;
 }
@@ -303,7 +323,7 @@ section {
 }
 .logolBox {
 	background-color: transparent;
-	float: left;
+	// float: left;
 	width: 50%;
 	height: auto;
 	min-width: 113px;
@@ -313,7 +333,7 @@ section {
 .logor {
 	background-color: transparent;
 	text-align: center;
-	width: 50%;
+	width: 40%;
 	height: auto;
 	max-width: 140px;
 	a:hover {background-color: transparent;}
@@ -384,8 +404,16 @@ section {
 }
 
 .navbar {
-	padding-top: 10px;
-	margin-bottom: 30px;
+    padding-top: 10px;
+    margin-bottom: 30px;
+    background: white;
+    width:100%;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    z-index: 10;
+    position: fixed;
+    margin-top: -20px;
+    border-radius: 0;
 }
 
 .navbar-brand {
