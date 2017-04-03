@@ -469,22 +469,3 @@ section {
 .row {margin-left: 0px !important; margin-right: 0px !important;}
 
 .backcolor {font-weight: 800;}
-
-.footer {
-		p {
-		line-height: 1.5em;
-		font-size: 18px;
-		@media screen and (min-width: 770px){font-size: 20px; line-height: 2em;}
-	}
-
-		h2 {
-		line-height: 1.3em;
-		font-size: 30px;
-		padding-bottom: 10px
-	}
-		h3 {
-		line-height: 1.3em;
-		font-size: 25px;
-		padding-bottom: 10px
-	}
-}
