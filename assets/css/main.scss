@@ -120,10 +120,6 @@ section {
 	background-color: #ffffff;
 }
 
-
-
-
-
 .blog {
 	padding-bottom: 30px;
 	text-align: justify;
@@ -155,7 +151,8 @@ section {
 	padding-bottom: 30px;
 	&__back {
 		a {
-
+		line-height: 1.5em !important;
+		font-size: 18px !important;
 		}
 	}
 	&__title {
@@ -472,3 +469,22 @@ section {
 .row {margin-left: 0px !important; margin-right: 0px !important;}
 
 .backcolor {font-weight: 800;}
+
+.footer {
+		p {
+		line-height: 1.5em;
+		font-size: 18px;
+		@media screen and (min-width: 770px){font-size: 20px; line-height: 2em;}
+	}
+
+		h2 {
+		line-height: 1.3em;
+		font-size: 30px;
+		padding-bottom: 10px
+	}
+		h3 {
+		line-height: 1.3em;
+		font-size: 25px;
+		padding-bottom: 10px
+	}
+}
