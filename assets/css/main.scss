@@ -139,6 +139,19 @@ blockquote {
     background-color: #ffffff
 }
 
+#lizenzhinweis {
+	text-align: right;
+	color: white;
+	font-size: 80%;
+	z-index: 999;
+}
+
+#lizenzhinweis a {
+	text-align: right;
+	color: white;
+
+}
+
 .blog {
 	padding-bottom: 30px;
 	text-align: justify;
