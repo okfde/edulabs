@@ -108,36 +108,35 @@ blockquote {
 }
 
 
-section {
 
+.section-grey {
+    background-color: #f0f1f2
 }
-
-.section-grey{
-	background-color: #f0f1f2;
-}
-
 
 .section-grey-header {
-	background-size: 100%;
-	width: 100%;
-}
-.inner{
-	position: relative;
-	z-index: -1;
-	background-color: #f0f1f2;
-}
-.headimg{
-	position: absolute;
-	width: 100%;
-	z-index: -1;
-}
-.header-text{
-	background: #f0f1f2;
-	padding: 1rem;
+    background-size: 100%;
+    width: 100%;
 }
 
-.section-white{
-	background-color: #ffffff;
+.inner{
+    position: relative;
+    z-index: -1;
+    background-color: #f0f1f2;
+}
+
+.headimg{
+    position: absolute;
+    width: 100%;
+    z-index: -1;
+}
+
+.header-text{
+    background: #f0f1f2;
+    padding: 1rem;
+}
+
+.section-white {
+    background-color: #ffffff
 }
 
 .blog {
