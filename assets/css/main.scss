@@ -140,10 +140,6 @@ section {
 	background-color: #ffffff;
 }
 
-
-
-
-
 .blog {
 	padding-bottom: 30px;
 	text-align: justify;
@@ -175,7 +171,8 @@ section {
 	padding-bottom: 30px;
 	&__back {
 		a {
-
+		line-height: 1.5em !important;
+		font-size: 18px !important;
 		}
 	}
 	&__title {
@@ -315,9 +312,9 @@ section {
 .logol {
 	background-color: transparent;
 	text-align: center;
-	width: 50%;
+	width: 85%;
 	height: auto;
-	max-width: 140px;
+	max-width: 130px;
 	a:hover {background-color: transparent;}
 	@media screen and (min-width: 770px){width: 90%;}
 }
@@ -326,16 +323,20 @@ section {
 	// float: left;
 	width: 50%;
 	height: auto;
-	min-width: 113px;
+	min-width: 120px;
 	margin-top: 15px;
 	a:hover {background-color: transparent;}
 }
 .logor {
 	background-color: transparent;
 	text-align: center;
+<<<<<<< HEAD
 	width: 40%;
+=======
+	width: 75%;
+>>>>>>> master
 	height: auto;
-	max-width: 140px;
+	max-width: 120px;
 	a:hover {background-color: transparent;}
 	@media screen and (min-width: 770px){width: 80%;}
 }
@@ -344,7 +345,7 @@ section {
 	float: right;
 	width: 50%;
 	height: auto;
-	min-width: 133px;
+	min-width: 120px;
 	a:hover {background-color: transparent;}
 }
 .btn-default {
@@ -480,7 +481,7 @@ section {
 }
 .logo-note-txt {
 	font-size: 15px;
-	margin-bottom: 20px;
+	color: $color-black;
 }
 .foerdernr {
 	font-size: 10px;
