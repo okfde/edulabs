@@ -119,9 +119,7 @@ blockquote {
 }
 
 .inner{
-    position: relative;
-    z-index: -1;
-    background-color: #f0f1f2;
+
 }
 
 .headimg{
@@ -326,9 +324,9 @@ blockquote {
 	text-align: center;
 	width: 85%;
 	height: auto;
-	max-width: 130px;
+	max-width: 120px;
 	a:hover {background-color: transparent;}
-	@media screen and (min-width: 770px){width: 90%;}
+	@media screen and (min-width: 770px){width: 80%;}
 }
 .logolBox {
 	background-color: transparent;
@@ -336,15 +334,13 @@ blockquote {
 	width: 50%;
 	height: auto;
 	min-width: 120px;
-	margin-top: 15px;
+
 	a:hover {background-color: transparent;}
 }
 .logor {
 	background-color: transparent;
 	text-align: center;
-
-	width: 40%;
-
+	width: 60%;
 	height: auto;
 	max-width: 120px;
 	a:hover {background-color: transparent;}
@@ -511,3 +507,8 @@ blockquote {
 .row {margin-left: 0px !important; margin-right: 0px !important;}
 
 .backcolor {font-weight: 800;}
+
+#innerback {
+    background-image: url("../../img/jam.jpg");
+    background-size: auto 100%;
+    }
