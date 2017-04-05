@@ -131,6 +131,7 @@ blockquote {
 .header-text{
     background: #f0f1f2;
     padding: 1rem;
+
 }
 
 .section-white {
@@ -319,10 +320,11 @@ blockquote {
 		}
 	}
 }
+.logoBoxes {padding-bottom: 10px;}
 .logol {
 	background-color: transparent;
 	text-align: center;
-	width: 85%;
+	width: 60%;
 	height: auto;
 	max-width: 120px;
 	a:hover {background-color: transparent;}
@@ -330,7 +332,7 @@ blockquote {
 }
 .logolBox {
 	background-color: transparent;
-	// float: left;
+	//float: left;
 	width: 50%;
 	height: auto;
 	min-width: 120px;
