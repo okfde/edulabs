@@ -512,5 +512,7 @@ blockquote {
 
 #innerback {
     background-image: url("../../img/jam.jpg");
-    background-size: auto 100%;
+    background-size:     cover;
+    background-repeat:   no-repeat;
+    background-position: center center;
     }
