@@ -72,7 +72,11 @@ blockquote {
   	padding-left: 0px;
 }
 
-
+.container {
+	padding-right: 15px;
+  	padding-left: 30px;
+  	padding-bottom: 10px;
+}
 
 .header {
 	display: flex;
@@ -152,7 +156,7 @@ blockquote {
 }
 
 .blog {
-	
+
 	text-align: justify;
 	/* hyphens */
    	-moz-hyphens: auto;
@@ -435,8 +439,6 @@ blockquote {
     margin-left: -32px !important;
 	font-size: 2.3em;
 	color: #000267 !important;
-
-
 }
 .navbar-nav > li {
 	a{
