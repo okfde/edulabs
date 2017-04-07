@@ -477,6 +477,16 @@ blockquote {
 	line-height: 1.5em;
 	font-size: 18px;
 	@media screen and (min-width: 770px){font-size: 20px; line-height: 2em;}
+
+}
+.splash ul > li:first-child {
+	    visibility: hidden;
+	    display: none;
+	}
+.splash hr {
+	border-color: #000267;
+	margin-top: 0px;
+	margin-bottom: -45px;
 }
 .logo-note{
 	vertical-align: super;
@@ -529,4 +539,15 @@ blockquote {
     	font-size: 30px;
     	padding-bottom: 10px
     }
+}
+.entrycontent {
+    margin-bottom: 40px;
+}
+.entrytitle {
+    margin-bottom: 10px;
+}
+.firstpost {
+    padding-left: 15px;
+    padding-right: 10px;
+    background-color: #d8d8d8 !important;
 }
