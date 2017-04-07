@@ -1,0 +1,7 @@
+---
+layout: post
+title: Los geht's
+excerpt: Es ist soweit, das edulabs Blog hat das Licht der digitalen Welt erblickt und ruft ein fröhliches “Hello World!” zu Euch da draußen!
+---
+
+Es ist soweit: Das edulabs Blog hat das Licht der digitalen Welt erblickt und ruft ein fröhliches “Hello World!” zu Euch da draußen! Ab sofort gibt es hier Informationen zum Fortschritt der Labs, zu tollen digital gestützten Bildungsformaten und den Menschen, die sie geschaffen haben.

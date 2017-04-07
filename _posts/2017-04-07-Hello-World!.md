@@ -1,7 +1,31 @@
 ---
 layout: post
-title: Los geht's
-excerpt: Es ist soweit, das edulabs Blog hat das Licht der digitalen Welt erblickt und ruft ein fröhliches “Hello World!” zu Euch da draußen!
+title: OER sind mehr als digitale Arbeitsblätter
+excerpt: Auch gibt es niemanden, der den Schmerz an sich liebt, sucht oder wünscht, nur, weil er Schmerz ist, es sei denn, es kommt zu zufälligen Umständen, in denen Mühen und Schmerz ihm große Freude bereiten können.
 ---
 
-Es ist soweit: Das edulabs Blog hat das Licht der digitalen Welt erblickt und ruft ein fröhliches “Hello World!” zu Euch da draußen! Ab sofort gibt es hier Informationen zum Fortschritt der Labs, zu tollen digital gestützten Bildungsformaten und den Menschen, die sie geschaffen haben.
+To make your first blog post, just create a new markdown file in the `_posts` directory with the title format `YYYY-MM-DD-title.md`. Posts follow the simple [markdown syntax](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and can include a wide array of multimedia formats.
+
+# This is a header
+
+And this is a simple paragraph.
+
+## Smaller header
+
+This is how you **bold** & *italicize* text.
+
+Here is some `inline code`.
+
+```
+blockCode() {
+	return true;
+}
+```
+
+# Another header
+
+And here's a list:
+
+* Item 1
+* Item 2
+* Item 3

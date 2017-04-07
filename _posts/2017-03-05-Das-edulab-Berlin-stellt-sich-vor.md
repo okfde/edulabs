@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Das edulab Berlin stellt sich vor
+title: OER sind mehr als digitale Arbeitsblätter
 excerpt: Auch gibt es niemanden, der den Schmerz an sich liebt, sucht oder wünscht, nur, weil er Schmerz ist, es sei denn, es kommt zu zufälligen Umständen, in denen Mühen und Schmerz ihm große Freude bereiten können.
 ---
 
