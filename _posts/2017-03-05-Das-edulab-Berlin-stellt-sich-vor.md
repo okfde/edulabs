@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Das edulab Berlin stellt sich vor
+excerpt: Auch gibt es niemanden, der den Schmerz an sich liebt, sucht oder wünscht, nur, weil er Schmerz ist, es sei denn, es kommt zu zufälligen Umständen, in denen Mühen und Schmerz ihm große Freude bereiten können.
 ---
 
 To make your first blog post, just create a new markdown file in the `_posts` directory with the title format `YYYY-MM-DD-title.md`. Posts follow the simple [markdown syntax](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and can include a wide array of multimedia formats.

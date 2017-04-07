@@ -1,43 +1,6 @@
 ---
 layout: default
 ---
-<!-- test -->
-<!-- Fixed navbar -->
-<nav class="navbar">
-    <div class="container">
-        <div class="navbar-header navbar-left">
-            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
-            <h1><a class="navbar-brand" href="index.html#">edulabs_0.1</a><span class="logo-note">*</span></h1>
-
-        </div>
-        <div class="collapse navbar-collapse" id="myNavbar">
-            <ul class="nav navbar-nav">
-
-                <li>
-                    <a href="index.html#projekt">Das Projekt</a>
-                </li>
-
-                <li>
-                    <a href="index.html#mitmachen">Mitmachen</a>
-                </li>
-
-                <li>
-                    <a href="index.html#kontakt">Kontakt</a>
-                </li>
-
-            </ul>
-        </div>
-        <!--/.nav-collapse -->
-    </div>
-</nav>
-
-<div class="container-fluid">
-
-
     <section class="section-grey-header">
         <div id="innerback" class="inner">
 
@@ -109,10 +72,10 @@ layout: default
 
 
     <section>
-        <div class="row cta-blue splash">
+        <div id="mitmachen" class="row cta-blue splash">
             <div class="col-xs-1 col-md-1 col-lg-2"></div>
             <div class="col-xs-10 col-md-10 col-lg-8 ">
-                <h2 id="mitmachen">Mitmachen und informiert bleiben</h2>
+                <h2>Mitmachen und informiert bleiben</h2>
                 <p>Freie Bildungsmaterialien sind Dir wichtig? <span class="backcolor">Du findest, dass digitale Bildung mehr als ein digitales Arbeitsblatt ist?</span>
                     Dann freuen wir uns auf Dich und Deine Erfahrungen. Über unseren Newsletter erhälst Du
                     Informationen zu den Planungsgesprächen, an denen Du teilnehmen kannst, hinzu kommen aktuelle
@@ -127,12 +90,29 @@ layout: default
         </div>
         <!-- row -->
     </section>
-
-    <section class="section-grey">
-        <div class="row row-eq-height splash">
+    <section id="blog" class="section-grey">
+        <div class="row splash">
             <div class="col-xs-1 col-md-1 col-lg-2"></div>
             <div class="col-xs-10 col-md-10 col-lg-8">
-                <h3 id="projekt">Über das Projekt</h3>
+                <div>
+                    <h2>Letzte Blogeinträge</h2>
+                    <p><ul>
+                        {% for post in site.posts %}
+                        <li>
+                            <h3><span class="date">{{ post.date | date: '%Y %b %d' }}</span> - <a href="{{ post.url }}">{{ post.title }}<br></a></h3><p>{{ post.excerpt }}<br><br></p>
+                        </li>
+                        {% endfor %}
+                </ul></p>
+                </div>
+            </div>
+        </div>
+        <div class="col-xs-1 col-md-1 col-lg-2"></div>
+    </section>
+    <section id="projekt">
+        <div class="row row-eq-height cta-blue splash">
+            <div class="col-xs-1 col-md-1 col-lg-2"></div>
+            <div class="col-xs-10 col-md-10 col-lg-8">
+                <h3>Über das Projekt</h3>
                 <p class="mehrspaltig"><span class="backcolor">Wie lassen sich offene Bildungsangebote mit digital gestützten Methoden gestalten?</span>
                     Edulabs sind lokale Gruppen aus Menschen, die ihre didaktischen, technischen und gestalterischen
                     Fähigkeiten einsetzen, um
@@ -150,20 +130,3 @@ layout: default
         <!-- row -->
     </section>
 
-    <footer>
-        <div class="row splash">
-            <div class="col-xs-1 col-md-1 col-lg-2"></div>
-            <div class="col-xs-10 col-md-10">
-                <h2 id="kontakt">Kontakt</h2>
-                <a href="mailto:info@edulabs.de">Email </a>|
-                <a href="https://twitter.com/edulabsde">Twitter </a>|
-                <a href="https://github.com/okfde/edulabs"> github</a>
-                <hr>
-                <a href="impressum/index.html">Impressum</a>
-            </div>
-            <div class="col-xs-1 col-md-1 col-lg-2"></div>
-        </div>
-        <!-- row -->
-    </footer>
-</div>
-<!-- /container -->

@@ -180,10 +180,11 @@ blockquote {
 
 .post {
 	padding-bottom: 30px;
+    hr {border-color: #000267 !important;}
 	&__back {
 		a {
 		line-height: 1.5em !important;
-		font-size: 18px !important;
+		font-size: 20px !important;
 		}
 	}
 	&__title {
@@ -320,7 +321,7 @@ blockquote {
 		}
 	}
 }
-.logoBoxes {padding-bottom: 10px;}
+.logoBoxes {padding-bottom: 40px;}
 .logol {
 	background-color: transparent;
 	text-align: center;
@@ -424,39 +425,30 @@ blockquote {
     margin-top: -20px;
     border-radius: 0;
 }
-
-.navbar-brand {
-    	margin-left: -32px !important;
-	font-size: 2.3em;
-	color: #000267 !important;
-
-  	@media screen and (max-width: 770px) {
-		margin-left: -15px !important;
-    	}
-}
 .navbar-toggle {
 	margin-right: -10px;
 }
 .navbar-nav {
-	@media screen and (min-width: 770px){
-		float: right;
-		margin-right: -40px;
-	}
-  	@media screen and (min-width: 1000px) {
-		margin-right: -45px;
-    	}
+
+}
+.navbar-brand {
+    margin-left: -32px !important;
+	font-size: 2.3em;
+	color: #000267 !important;
+
+
 }
 .navbar-nav > li {
 	a{
-		font-size: 18px;
+		font-size: 20px;
 		padding: 5px;
 		padding-top: 20px;
 		color: #000267 !important;
-		@media screen and (min-width: 770px){font-size: 20px;}
+		@media screen and (min-width: 1000px){font-size: 25px !important;}
 	}
 	a:hover {
-		font-size: 18px;
-		@media screen and (min-width: 770px){font-size: 20px;}
+		font-size: 20px !important;
+		@media screen and (min-width: 1000px){font-size: 25px !important;}
 	}
 }
 
@@ -466,6 +458,11 @@ blockquote {
 }
 
 .splash p {
+	line-height: 1.5em;
+	font-size: 18px;
+	@media screen and (min-width: 770px){font-size: 20px; line-height: 2em;}
+}
+.splash a {
 	line-height: 1.5em;
 	font-size: 18px;
 	@media screen and (min-width: 770px){font-size: 20px; line-height: 2em;}
@@ -481,7 +478,11 @@ blockquote {
 	font-size: 25px;
 	padding-bottom: 10px
 }
-
+.splash ul {
+	line-height: 1.5em;
+	font-size: 18px;
+	@media screen and (min-width: 770px){font-size: 20px; line-height: 2em;}
+}
 .logo-note{
 	vertical-align: super;
 	font-size: 25px;
@@ -516,3 +517,7 @@ blockquote {
     background-repeat:   no-repeat;
     background-position: center center;
     }
+.blogpost {
+    	padding-top: 80px;
+    	padding-bottom: 40px;
+}

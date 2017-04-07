@@ -51,36 +51,37 @@
     </script>
     <!-- End Piwik Code -->
 
-
 </head>
 <body>
-  
-<!-- test -->
-<!-- Fixed navbar -->
+    <!-- Fixed navbar -->
 <nav class="navbar">
     <div class="container">
-        <div class="navbar-header navbar-left">
+        <div class="navbar-header">
             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <h1><a class="navbar-brand" href="index.html#">edulabs_0.1</a><span class="logo-note">*</span></h1>
+            <h1><a class="navbar-brand navbar-left" href="../index.html#">edulabs_0.1</a><span class="logo-note">*</span></h1>
 
         </div>
-        <div class="collapse navbar-collapse" id="myNavbar">
+        <div class="collapse navbar-collapse navbar-right" id="myNavbar">
             <ul class="nav navbar-nav">
 
                 <li>
-                    <a href="index.html#projekt">Das Projekt</a>
+                    <a href="../index.html#projekt">Das Projekt</a>
                 </li>
 
                 <li>
-                    <a href="index.html#mitmachen">Mitmachen</a>
+                    <a href="../index.html#mitmachen">Mitmachen</a>
                 </li>
 
                 <li>
-                    <a href="index.html#kontakt">Kontakt</a>
+                    <a href="../index.html#blog">Blog</a>
+                </li>
+
+                <li>
+                    <a href="../index.html#kontakt">Kontakt</a>
                 </li>
 
             </ul>
@@ -89,10 +90,8 @@
     </div>
 </nav>
 
-<div class="container-fluid">
-
-
-    <section class="section-grey-header">
+    <div class="container-fluid">
+            <section class="section-grey-header">
         <div id="innerback" class="inner">
 
             <div class="row row-eq-height splash">
@@ -163,10 +162,10 @@
 
 
     <section>
-        <div class="row cta-blue splash">
+        <div id="mitmachen" class="row cta-blue splash">
             <div class="col-xs-1 col-md-1 col-lg-2"></div>
             <div class="col-xs-10 col-md-10 col-lg-8 ">
-                <h2 id="mitmachen">Mitmachen und informiert bleiben</h2>
+                <h2>Mitmachen und informiert bleiben</h2>
                 <p>Freie Bildungsmaterialien sind Dir wichtig? <span class="backcolor">Du findest, dass digitale Bildung mehr als ein digitales Arbeitsblatt ist?</span>
                     Dann freuen wir uns auf Dich und Deine Erfahrungen. Über unseren Newsletter erhälst Du
                     Informationen zu den Planungsgesprächen, an denen Du teilnehmen kannst, hinzu kommen aktuelle
@@ -181,12 +180,37 @@
         </div>
         <!-- row -->
     </section>
-
-    <section class="section-grey">
-        <div class="row row-eq-height splash">
+    <section id="blog" class="section-grey">
+        <div class="row splash">
             <div class="col-xs-1 col-md-1 col-lg-2"></div>
             <div class="col-xs-10 col-md-10 col-lg-8">
-                <h3 id="projekt">Über das Projekt</h3>
+                <div>
+                    <h2>Letzte Blogeinträge</h2>
+                    <p><ul>
+                        
+                        <li>
+                            <h3><span class="date">2017 Apr 07</span> - <a href="/blog/Hello-World!">Los geht's<br></a></h3><p>Es ist soweit, das edulabs Blog hat das Licht der digitalen Welt erblickt und ruft ein fröhliches “Hello World!” zu Euch da draußen!<br><br></p>
+                        </li>
+                        
+                        <li>
+                            <h3><span class="date">2017 Mar 05</span> - <a href="/blog/Das-edulab-Berlin-stellt-sich-vor">Das edulab Berlin stellt sich vor<br></a></h3><p>Auch gibt es niemanden, der den Schmerz an sich liebt, sucht oder wünscht, nur, weil er Schmerz ist, es sei denn, es kommt zu zufälligen Umständen, in denen Mühen und Schmerz ihm große Freude bereiten können.<br><br></p>
+                        </li>
+                        
+                        <li>
+                            <h3><span class="date">2017 Feb 05</span> - <a href="/blog/OER-sind-mehr-als-digitale-Arbeitsbl%C3%A4tter">OER sind mehr als digitale Arbeitsblätter<br></a></h3><p>Auch gibt es niemanden, der den Schmerz an sich liebt, sucht oder wünscht, nur, weil er Schmerz ist, es sei denn, es kommt zu zufälligen Umständen, in denen Mühen und Schmerz ihm große Freude bereiten können.<br><br></p>
+                        </li>
+                        
+                </ul></p>
+                </div>
+            </div>
+        </div>
+        <div class="col-xs-1 col-md-1 col-lg-2"></div>
+    </section>
+    <section id="projekt">
+        <div class="row row-eq-height cta-blue splash">
+            <div class="col-xs-1 col-md-1 col-lg-2"></div>
+            <div class="col-xs-10 col-md-10 col-lg-8">
+                <h3>Über das Projekt</h3>
                 <p class="mehrspaltig"><span class="backcolor">Wie lassen sich offene Bildungsangebote mit digital gestützten Methoden gestalten?</span>
                     Edulabs sind lokale Gruppen aus Menschen, die ihre didaktischen, technischen und gestalterischen
                     Fähigkeiten einsetzen, um
@@ -204,28 +228,24 @@
         <!-- row -->
     </section>
 
-    <footer>
-        <div class="row splash">
-            <div class="col-xs-1 col-md-1 col-lg-2"></div>
-            <div class="col-xs-10 col-md-10">
-                <h2 id="kontakt">Kontakt</h2>
-                <a href="mailto:info@edulabs.de">Email </a>|
-                <a href="https://twitter.com/edulabsde">Twitter </a>|
-                <a href="https://github.com/okfde/edulabs"> github</a>
-                <hr>
-                <a href="impressum/index.html">Impressum</a>
-            </div>
-            <div class="col-xs-1 col-md-1 col-lg-2"></div>
-        </div>
-        <!-- row -->
-    </footer>
+
+        <footer>
+<div class="row splash">
+    <div class="col-xs-1 col-sm-1 col-md-1 col-lg-2"></div>
+    <div class="col-xs-10 col-sm-10 col-md-10 col-lg-8">
+        <h2 id="kontakt">Kontakt</h2>
+        <a href="mailto:info@edulabs.de">Email </a>|
+        <a href="https://twitter.com/edulabsde">Twitter </a>|
+        <a href="https://github.com/okfde/edulabs"> github</a>
+        <hr>
+        <a href="impressum/index.html">Impressum</a>
+    </div>
+    <div class="col-xs-1 col-sm-1 col-md-1 col-lg-2"></div>
 </div>
-<!-- /container -->
+<!-- row -->
+</footer>
 
-
-
-
-
+    </div>
     <script>
         $('a[href*="#"]:not([href="#"])').click(function() {
             if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') && location.hostname == this.hostname) {
@@ -240,7 +260,5 @@
             }
         });
     </script>
-
 </body>
-
 </html>

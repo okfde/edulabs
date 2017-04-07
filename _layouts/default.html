@@ -54,15 +54,13 @@
     </script>
     <!-- End Piwik Code -->
 
-
 </head>
 <body>
-  
-{{ content }}
-
-
-
-
+    {% include header.html %}
+    <div class="container-fluid">
+        {{ content }}
+        {% include footer.html %}
+    </div>
     <script>
         $('a[href*="#"]:not([href="#"])').click(function() {
             if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') && location.hostname == this.hostname) {
@@ -77,7 +75,5 @@
             }
         });
     </script>
-
 </body>
-
 </html>
