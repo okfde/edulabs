@@ -152,7 +152,7 @@ blockquote {
 }
 
 .blog {
-	padding-bottom: 30px;
+	
 	text-align: justify;
 	/* hyphens */
    	-moz-hyphens: auto;
@@ -462,13 +462,6 @@ blockquote {
 	font-size: 18px !important;
 	@media screen and (min-width: 770px){font-size: 20px !important; line-height: 2em !important;}
 }
-.splash h1 {
-    padding-top: 0px !important;
-    padding-bottom: 0px !important;
-	line-height: 1.3em;
-	font-size: 30px;
-	padding-bottom: 10px;
-}
 .splash h2 {
 	line-height: 1.3em !important;
 	font-size: 35px !important;
@@ -577,10 +570,13 @@ blockquote {
     h2 {
         line-height: 1.3em !important;
         font-size: 35px !important;
-
         padding-top: 80px;
-
-       
+    }
+    h1 {
+        padding-top: 0px !important;
+        padding-bottom: 20px;
+        line-height: 1.3em;
+        font-size: 30px;
     }
 }
 .blogrollend {
