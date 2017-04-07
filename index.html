@@ -26,7 +26,6 @@ layout: default
                             <a href="https://www.bmbf.de/"><img class="logor" src="img/bmbf_logo.png"
                                                                 alt="Logo BMBF"></a>
                             <br>
-                            <span class="foerdernr">Förderkennzeichen: 01PO160024</span>
                         </div>
 
                         <div class="logolBox">
@@ -100,21 +99,23 @@ layout: default
                 {% assign content = post.content %}
                 {% include post_detail.html %}
             </div>
+            <div class="nextcontent">
                 <p><ul>
-                    {% for post in site.posts %}
+                    {% for post in site.posts limit:3 %}
                     <li>
                         <h3><span class="date">{{ post.date | date: '%-d %B %Y' }}</span> - <u><a href="{{ post.url }}">{{ post.title }}<br></a></u></h3><p>{{ post.excerpt }}<br><br></p>
                     </li>
                     {% endfor %}
-            </ul></p>
-            <hr>
+                </ul></p>
+                <p><a href="/blog">--> Weitere Blogeinträge</a></p>
+            </div>
         </div>
 
     </div>
     <div class="col-xs-1 col-md-1 col-lg-2"></div>
 </section>
-<section id="projekt" class="section-grey">
-    <div class="row row-eq-height splash">
+<section id="projekt">
+    <div class="row row-eq-height splash cta-blue">
         <div class="col-xs-1 col-md-1 col-lg-2"></div>
         <div class="col-xs-10 col-md-10 col-lg-8">
             <h3>Über das Projekt</h3>
