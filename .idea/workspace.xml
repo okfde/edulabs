@@ -78,8 +78,8 @@
       <file leaf-file-name="main.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/css/main.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="511">
-              <caret line="581" column="7" lean-forward="false" selection-start-line="581" selection-start-column="7" selection-end-line="581" selection-end-column="7" />
+            <state relative-caret-position="523">
+              <caret line="582" column="7" lean-forward="false" selection-start-line="582" selection-start-column="7" selection-end-line="582" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -561,7 +561,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="9" y="19" width="1271" height="735" extended-state="0" />
+    <frame x="9" y="19" width="1271" height="735" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -771,8 +771,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/main.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="511">
-          <caret line="581" column="7" lean-forward="false" selection-start-line="581" selection-start-column="7" selection-end-line="581" selection-end-column="7" />
+        <state relative-caret-position="523">
+          <caret line="582" column="7" lean-forward="false" selection-start-line="582" selection-start-column="7" selection-end-line="582" selection-end-column="7" />
           <folding />
         </state>
       </provider>
