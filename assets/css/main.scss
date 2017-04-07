@@ -458,21 +458,21 @@ blockquote {
 }
 
 .splash p {
-	line-height: 1.5em;
-	font-size: 18px;
-	@media screen and (min-width: 770px){font-size: 20px; line-height: 2em;}
+	line-height: 1.5em !important;
+	font-size: 18px !important;
+	@media screen and (min-width: 770px){font-size: 20px !important; line-height: 2em !important;}
 }
 .splash h1 {
     padding-top: 0px !important;
     padding-bottom: 0px !important;
 	line-height: 1.3em;
 	font-size: 30px;
-	padding-bottom: 10px
+	padding-bottom: 10px;
 }
 .splash h2 {
-	line-height: 1.3em;
-	font-size: 30px;
-	padding-bottom: 10px
+	line-height: 1.3em !important;
+	font-size: 35px !important;
+	padding-bottom: 10px !important;
 }
 .splash h3 {
 	line-height: 1.3em;
@@ -555,7 +555,36 @@ blockquote {
 .firstpost {
     margin-bottom: 30px;
     border-bottom: 1px solid #000267;
+    h3 {
+        font-size: 20px;
+        padding-bottom: 5px
+    }
 }
 .nextcontent {
     margin-top: 60px;
+    h3 {
+        font-size: 20px;
+        padding-bottom: 5px
+    }
+}
+.nextcontent ul > li:first-child {
+	    visibility: hidden;
+	    display: none;
+}
+.blogroll {
+    h2 {
+        line-height: 1.3em !important;
+        font-size: 35px !important;
+
+        padding-top: 80px;
+        padding-bottom: 30px;
+    }
+}
+.blogrollend {
+    p {
+        padding-bottom: 40px;
+        line-height: 1.5em !important;
+        font-size: 18px !important;
+        @media screen and (min-width: 770px){font-size: 20px !important; line-height: 2em !important;}
+    }
 }

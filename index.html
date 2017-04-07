@@ -90,10 +90,10 @@ layout: default
     <!-- row -->
 </section>
 <section id="blog" class="section-grey">
-    <div class="row splash">
+    <div class="row">
         <div class="col-xs-1 col-md-1 col-lg-2"></div>
         <div class="col-xs-10 col-md-10 col-lg-8">
-                <h2>Blog</h2>
+            <div class="blogroll"><h2>Letzte Blogeinträge</h2></div>
             <div class="blog-index">
                 {% assign post = site.posts.first %}
                 {% assign content = post.content %}
@@ -104,21 +104,20 @@ layout: default
                     {% for post in site.posts limit:3 %}
                     <li>
                         <h3><span class="date">{{ post.date | date: '%-d %B %Y' }}</span> - <u><a href="{{ post.url }}">{{ post.title }}<br></a></u></h3><p>{{ post.excerpt }}<br><br></p>
-                    </li>
-                    {% endfor %}
+                </li>
+                {% endfor %}
                 </ul></p>
-                <p><a href="/blog">--> Weitere Blogeinträge</a></p>
+                <div class="blogrollend"><p><a href="/blog">--> Weitere Blogeinträge</a></p></div>
             </div>
         </div>
-
+        <div class="col-xs-1 col-md-1 col-lg-2"></div>
     </div>
-    <div class="col-xs-1 col-md-1 col-lg-2"></div>
 </section>
 <section id="projekt">
     <div class="row row-eq-height splash cta-blue">
         <div class="col-xs-1 col-md-1 col-lg-2"></div>
         <div class="col-xs-10 col-md-10 col-lg-8">
-            <h3>Über das Projekt</h3>
+            <h2>Über das Projekt</h2>
             <p class="mehrspaltig"><span class="backcolor">Wie lassen sich offene Bildungsangebote mit digital gestützten Methoden gestalten?</span>
                 Edulabs sind lokale Gruppen aus Menschen, die ihre didaktischen, technischen und gestalterischen
                 Fähigkeiten einsetzen, um
