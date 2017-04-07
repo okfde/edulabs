@@ -556,14 +556,16 @@ blockquote {
     margin-bottom: 30px;
     border-bottom: 1px solid #000267;
     h3 {
-        font-size: 20px;
-        padding-bottom: 5px
+        font-size: 18px !important;
+        @media screen and (min-width: 770px){font-size: 20px !important; }
+
     }
 }
 .nextcontent {
     margin-top: 60px;
     h3 {
-        font-size: 20px;
+        font-size: 18px !important;
+	    @media screen and (min-width: 770px){font-size: 20px !important; line-height: 2em !important;}
         padding-bottom: 5px
     }
 }
