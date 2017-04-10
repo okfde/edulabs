@@ -1,12 +1,13 @@
 <div class="firstpost">
     <h3 class="entrytitle">
-        {{ post.date | date: '%-d %B %Y' }}
+        <strong>Letzter Beitrag: </strong>{{ post.date | date: '%-d %B %Y' }}
         {% if page.title %}
         <u><a href="{{ root_url }}{{ page.url }}">{{ page.title }}</a></u>
         {% endif %}
         {% if post.title %}
         <u><a href="{{ root_url }}{{ post.url }}">{{ post.title }}</a></u>
         {% endif %}
+        <div class="trenner"><hr></div>
     </h3>
     <div class="entrycontent post__content">{{ content }}</div>
 </div>

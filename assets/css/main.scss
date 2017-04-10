@@ -546,6 +546,9 @@ blockquote {
 }
 .entrytitle {
     margin-top: 20px;
+    strong {
+        font-weight: 700;
+    }
 }
 .firstpost {
     margin-bottom: 30px;
@@ -562,6 +565,16 @@ blockquote {
         font-size: 18px !important;
 	    @media screen and (min-width: 770px){font-size: 20px !important; line-height: 2em !important;}
         padding-bottom: 5px
+    }
+}
+.nextposts {
+    h3 {
+        font-size: 18px !important;
+	    @media screen and (min-width: 770px){font-size: 20px !important;}
+        padding-bottom: 5px
+    }
+    strong {
+        font-weight: 700;
     }
 }
 .nextcontent ul > li:first-child {
@@ -588,4 +601,9 @@ blockquote {
         font-size: 18px !important;
         @media screen and (min-width: 770px){font-size: 20px !important; line-height: 2em !important;}
     }
+}
+.trenner {
+    hr {
+        border-color: #000267 !important;
+        }
 }
