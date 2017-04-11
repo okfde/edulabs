@@ -4,6 +4,8 @@ _site
 .jekyll-metadata
 Gemfile.lock
 
+### Atom ###
+.idea
 
 ### Gulp ###
 package.json
