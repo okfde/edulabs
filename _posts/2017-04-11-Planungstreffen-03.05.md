@@ -8,7 +8,7 @@ Wer sich für offene, digitale Bildung engagiert und gerne
 
 unterrichtet / entwickelt / gestaltet / schreibt / [...]
 
-ist herzlich eingeladen,  Teil des edulabs Berlin zu werden und sich bei der Planung aktiv zu beteiligen. Bei dem Treffen besprechen wir die den Aufbau des edulabs und starten erste Projekte. Gesucht werden auch interessierte Lab-Leads, um die Aktivitäten der edulabs mit zu koordinieren.
+ist herzlich eingeladen,  Teil des edulabs Berlin zu werden und sich bei der Planung aktiv zu beteiligen. Bei dem Treffen besprechen wir den Aufbau des edulabs und starten erste Projekte. Gesucht werden auch interessierte Lab-Leads, um die Aktivitäten der edulabs mit zu koordinieren.
 
 * 18:30 Ankommen
 * 18:45 edulabs: Konzept und Team
