@@ -19,8 +19,8 @@ sass:
   sass_dir: _sass
 
 # Pagination
-paginate: 3
-paginate_path: "/blog/page:num/"
+#paginate: 3
+#paginate_path: "/blog/page:num/"
 
 # Markdown
 markdown: kramdown
@@ -30,5 +30,5 @@ kramdown:
 highlighter: rouge
 
 # Gems
-gems: [jekyll-paginate]
+#gems: [jekyll-paginate]
 
