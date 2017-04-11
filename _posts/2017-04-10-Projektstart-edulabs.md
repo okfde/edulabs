@@ -24,4 +24,4 @@ Das edulabs-Team: Dr. Markus Neuschäfer, Maximilian Voigt (OKF); Dr. Christine 
 
 # Was ist der aktuelle Stand?
 
-In den nächsten Wochen stellen wir das Konzept an dieser Stelle ausführlicher vor. Aktuell bauen wir das erste Lab in Berlin auf, besonders in Karlsruhe und Bonn suchen wir noch weitere Kooperationspartner.
+In den nächsten Wochen stellen wir das Konzept an dieser Stelle ausführlicher vor. Aktuell bauen wir das erste Lab in Berlin auf, in dessen Rahmen am 3.5. ein Planungstreffen im [Supermarkt](http://www.supermarkt-berlin.net) stattfinden wird, wozu wir herzlich einladen. Besonders in Karlsruhe und Bonn suchen wir noch weitere Kooperationspartner.
