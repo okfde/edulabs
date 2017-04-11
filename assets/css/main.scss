@@ -168,6 +168,11 @@ blockquote {
 		font-size: 1.4em;
 		margin-bottom: 5px;
 	}
+    h3 {
+        font-size: 18px !important;
+        @media screen and (min-width: 770px){font-size: 20px !important; }
+
+    }
 }
 
 .music {
@@ -545,7 +550,7 @@ blockquote {
 
 }
 .entrytitle {
-    margin-top: 20px;
+    margin-top: 20px !important;
     strong {
         font-weight: 700;
     }

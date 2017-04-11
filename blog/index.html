@@ -8,8 +8,8 @@ layout: default
 			<div class="blog">
 				<ul>
 					{% for post in site.posts %}
-					<li>
-						<dev class="entrytitle"><h3><span class="date">{{ post.date | date: '%-d %B %Y' }}</span> - <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}<br></a></h3></dev><p>{{ post.excerpt }}<br><br></p>
+				<li>
+					<h3>{{ post.date | date: '%-d. %B %Y:' }} - <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}<br></a></h3></dev><p>{{ post.excerpt }}<br><br></p>
 				</li>
 				{% endfor %}
 				</ul>

@@ -2,7 +2,7 @@
     <h3 class="entrytitle">
         <!-- <strong>Letzter Beitrag: </strong><br><br> -->
 
-        {{ post.date | date: '%-d. %B %Y' }}:
+        {{ post.date | date: '%-d. %B %Y:' }}
         {% if page.title %}
         <u><a href="{{ root_url }}{{ page.url }}">{{ page.title }}</a></u>
         {% endif %}
