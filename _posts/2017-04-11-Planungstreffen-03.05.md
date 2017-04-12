@@ -17,3 +17,14 @@ Am 3.5. organisieren wir ein erstes Planungstreffen im [Supermarkt Berlin](www.s
 # Was sind edulabs?
 
 Edulabs sind lokale Gruppen aus Menschen, die ihre didaktischen, technischen und gestalterischen Fähigkeiten einsetzen, um zusammen nachnutzbare Bildungsmaterialien zu entwickeln. Ein Schwerpunkt liegt dabei auf dem neuen und nachhaltigen Einsatz digital gestützter Methoden. Gesucht werden auch interessierte _Lab-Leads_, um die Aktivitäten der edulabs mit zu koordinieren. ([Weitere Informationen](https://edulabs.de/blog/projektstart-edulabs))
+
+
+# Adresse
+
+Supermarkt Berlin<br>
+Mehringplatz 9<br>
+D-10969 Berlin
+
+[Wegbeschreibung](http://www.supermarkt-berlin.net/de/kontakt/)
+
+[Link zur Anmeldung](https://goo.gl/forms/3XnSuWrrAwGcDqbx2)
