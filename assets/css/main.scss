@@ -175,6 +175,9 @@ blockquote {
     }
 }
 
+.img-center {
+}
+
 .music {
 	padding-bottom: 30px;
 	h1 {
@@ -272,13 +275,20 @@ blockquote {
 			}
 		}
 		img {
+			display: inline-block;
 			margin-top: 10px;
 			margin-bottom: 10px;
 			@media screen and (max-width: $br) {
-				width: 100%;
+				
 				margin: auto;
 			}
 		}
+
+		.img-wrap-center {
+			text-align: center;
+
+		}
+
 		code {
 			padding: 3px;
 			font-size: 1.2em;
