@@ -8,7 +8,7 @@ excerpt: "Am 3.5. organisieren wir ein erstes Planungstreffen im Supermarkt Berl
 <div style="text-align: right">Bild: Supermarkt Berlin<br><br></div>
 </div>
 
-Am 3.5. organisieren wir ein erstes Planungstreffen im [Supermarkt Berlin](www.supermarkt-berlin.net). Wer sich für offene, digitale Bildung engagiert und gerne _unterrichtet / entwickelt / gestaltet / schreibt / [...]_ ist herzlich eingeladen, Teil des edulabs Berlin zu werden und diesen offenen Raum mit aufzubauen. Wir stellen das Projekt vor, besprechen das Konzept, starten erste Projekte und freuen uns auf Euer Feedback und neue Ideen!
+Am 3.5. organisieren wir ein erstes Planungstreffen im [Supermarkt Berlin](http://www.supermarkt-berlin.net/). Wer sich für offene, digitale Bildung engagiert und gerne _unterrichtet / entwickelt / gestaltet / schreibt / [...]_ ist herzlich eingeladen, Teil des edulabs Berlin zu werden und diesen offenen Raum mit aufzubauen. Wir stellen das Projekt vor, besprechen das Konzept, starten erste Projekte und freuen uns auf Euer Feedback und neue Ideen!
 
 * 18:30 Ankommen
 * 18:45 edulabs: Konzept und Team
