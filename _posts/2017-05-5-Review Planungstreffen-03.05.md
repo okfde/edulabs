@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Toller Start: Zum 1. Planungstreffen und wie es weiter geht"
+title: "Erste Projekte: Zum edulabs-Planungstreffen und wie es weiter geht"
 excerpt: "Wir freuen uns über das große Interesse von über 35 Teilnehmer*innen, die für eine fruchtbare Atmosphäre auf dem ersten Planungstreffen der edulabs sorgten und die Räume des Supermarkt Berlins zu dem machten, wofür sie geschaffen wurden: digitale Kultur und kollaboratives Arbeiten."
 ---
 <div class="img-wrap-center">
