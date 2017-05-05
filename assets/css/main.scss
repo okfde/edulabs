@@ -530,7 +530,9 @@ blockquote {
 }
 .row {margin-left: 0px !important; margin-right: 0px !important;}
 
-.backcolor {font-weight: 800;}
+.backcolor {
+    font-weight: 800;
+}
 
 #innerback {
     background-image: url("../../img/jam.jpg");
@@ -575,7 +577,7 @@ blockquote {
     }
 }
 .nextcontent {
-    margin-top: 60px;
+    margin-top: 25px;
     h3 {
         font-size: 18px !important;
 	    @media screen and (min-width: 770px){font-size: 20px !important; line-height: 2em !important;}
@@ -586,7 +588,7 @@ blockquote {
     h3 {
         font-size: 18px !important;
 	    @media screen and (min-width: 770px){font-size: 20px !important;}
-        padding-bottom: 5px
+        padding-bottom: 5px;
     }
     strong {
         font-weight: 700;
@@ -596,7 +598,7 @@ blockquote {
 	    visibility: hidden;
 	    display: none;
 }
-.blogroll {
+.blogexcerpt {
     h2 {
         line-height: 1.3em !important;
         font-size: 35px !important;
@@ -609,7 +611,7 @@ blockquote {
         font-size: 30px;
     }
 }
-.blogrollend {
+.blogexcerptend {
     p {
         padding-bottom: 40px;
         line-height: 1.5em !important;
