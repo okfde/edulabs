@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02a88fca-ce50-4455-b37d-e72fd7f13dcd" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-05-5-Review Planungstreffen-03.05.md" afterPath="$PROJECT_DIR$/_posts/2017-05-5-Review Planungstreffen-03.05.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/blog/2017/hackdash2.png" afterPath="$PROJECT_DIR$/img/blog/2017/hackdash2.png" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
