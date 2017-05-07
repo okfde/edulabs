@@ -35,4 +35,4 @@ Zuletzt ergänzt ihr das Ganze noch durch einige Schlagworte (z.B. Schulfach, Ar
  *Wichtig: Bitte hinterlegt in der Beschreibung auch eine Emailadresse, damit wir Euch bei Anfragen benachrichtigen können.*
 <br><img src="/img/blog/2017/hackdash3.jpg" style="width: 65%; display: inline-block">
 
-Wenn Euer Projekt bei Hackdash eingetragen ist, könnt ihr es im edulabs-Call oder bei dem nächsten lab-Treffen an der Technischen Universität Berlin (hier eine [3D-Ansicht der Räumlichkeiten](http://s521291175.online.de/ibba/IBBA-Tour.html)) vorstellen, um Mitstreiter und weitere Unterstützung zu finden. Wir sind gespannt auf Eure Ideen und freuen uns auf den call am 17.05.! :)
+Wenn Euer Projekt bei Hackdash eingetragen ist, könnt ihr es im edulabs-Call oder bei dem nächsten Lab-Treffen an der Technischen Universität Berlin (hier eine [3D-Ansicht der Räumlichkeiten](http://s521291175.online.de/ibba/IBBA-Tour.html)) vorstellen, um Mitstreiter und weitere Unterstützung zu finden. Wir sind gespannt auf Eure Ideen und freuen uns auf den call am 17.05.! :)
