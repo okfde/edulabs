@@ -7,15 +7,15 @@ excerpt: "Im edulabs Hackdash könnt ihr Projektideen vorstellen und nach Format
 <img src="/img/blog/2017/labsituation.JPG" style="width: 100%; display: inline-block">
 <div style="text-align: right"><br><br></div>
 </div>
-*Bei edulabs möchten wir Menschen vernetzen, die mit ihrer Expertise offene Bildung gestalten. Dazu organisieren wir persönliche Treffen, Public Calls sowie eine Mailingliste; Projektideen sammeln wir in einem Hackdash.*
+*Durch edulabs möchten wir Menschen vernetzen, die mit ihrer Expertise offene Bildung gestalten. Dazu organisieren wir persönliche Treffen, Public Calls sowie eine Mailingliste; Projektideen sammeln wir in einem Hackdash.*
 
 Im [edulabs Hackdash](https://hackdash.org/dashboards/edulabs) könnt ihr Projektideen vorstellen und nach Formaten suchen, die ihr unterstützen möchtet. Zusammen erstellen wir neue Tools und Materialien für selbstgesteuertes, partizipatorisches Lernen und teilen diese als OER. Hackdash wird besonders im Rahmen von Hackathons verwendet und hilft dabei, Projekte zum Mitmachen zu finden und ihren Fortschritt im Auge zu behalten.
 
-# Du möchtest ein Lab-Projekt unterstützen?
-Im Public Call, auf der Mailingliste oder bei einem Lab-Treffen stellen sich neue Projekte vor. Neben Expertise in der Entwicklung, Gestaltung und Vermittlung ist auch anschauliches Schreiben und eine clevere Organisation gefragt.
+# Du möchtest ein lab-Projekt unterstützen?
+Im Public Call, auf der Mailingliste oder bei einem lab-Treffen stellen sich neue Projekte vor. Neben Expertise in der Entwicklung, Gestaltung und Vermittlung ist auch anschauliches Schreiben und eine clevere Organisation gefragt.
 
 # Du hast bereits eine Projektidee?
-Um ein Team für das Vorhaben zu finden, trägst Du das Vorhaben einfach in das Hackdash ein und stellst es im nächsten Public Call oder auf einem Lab-Treffen kurz vor. Auf diese Weise können sich potenzielle Mitstreiter*innen einen schnellen Überblick verschaffen und Teil des Projektes werden.
+Um ein Team für ein Vorhaben zu finden, trägst Du es einfach in das Hackdash ein und stellst es im nächsten Public Call oder auf einem Lab-Treffen kurz vor. Auf diese Weise können sich potenzielle Mitstreiter*innen einen schnellen Überblick verschaffen und Teil des Projektes werden.
             <center><a class="btn btn-lg btn-default"
                href="https://hackdash.org/dashboards/edulabs"
                role="button">Zum edulabs Hackdash »</a></center><br>
