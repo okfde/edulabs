@@ -10,7 +10,7 @@ excerpt: "Wir freuen uns über das große Interesse von über 35 Teilnehmer*inne
 <blockquote class="twitter-tweet tw-align-center" data-cards="hidden" data-lang="de"><p lang="de" dir="ltr"><a href="https://twitter.com/hashtag/edulabBE?src=hash">#edulabBE</a> startet..definitiv! Erste Projektideen, Konzeptfragen, Makerspirit. <a href="https://t.co/jeH1Tfckgn">pic.twitter.com/jeH1Tfckgn</a></p>&mdash; edulabs (@edulabsDE) <a href="https://twitter.com/edulabsDE/status/859832835053690887">3. Mai 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Wir freuen uns über das große Interesse von über 35 Teilnehmer*innen, die für eine fruchtbare Atmosphäre auf dem ersten Planungstreffen der edulabs sorgten und die Räume des [Supermarkt Berlins](http://www.supermarkt-berlin.net/) zu dem machten, wofür sie geschaffen wurden: digitale Kultur und kollaboratives Arbeiten.<br>
+[Wir](https://edulabs.de/team/) freuen uns über das große Interesse von über 35 Teilnehmer*innen, die für eine fruchtbare Atmosphäre auf dem ersten Planungstreffen der edulabs sorgten und die Räume des [Supermarkt Berlins](http://www.supermarkt-berlin.net/) zu dem machten, wofür sie geschaffen wurden: digitale Kultur und kollaboratives Arbeiten.<br>
 In zwei Gruppen entstanden nach einer einführenden [Präsentation](https://docs.google.com/presentation/d/19gxT1itoFu6Rnj64YC5TjJDa2Knsq_raPNA7gwBkM3I/edit?usp=sharing) erste Projektideen und Impulse für das #edulabBE, deren Ergebnisse über folgende Links zu finden sind: [Tisch 1](https://pad.okfn.de/p/edl-tisch1), [Tisch 2](https://pad.okfn.de/p/edl-tisch2) (gerne können diese auch noch im Nachhinein ergänzt werden).
 
 # Wie es weiter geht
