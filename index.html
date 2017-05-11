@@ -17,30 +17,32 @@ layout: default
                         bringen Menschen zusammen, die neue, <span
                             class="backcolor">digitale Bildungs&shy;formate</span> entwickeln und als <span
                             class="backcolor">OER</span> teilen.<br><br></p>
-                        <raw class="logo-note">*&nbsp;<span class="logo-note-txt">(neue Seite ab 08/2017)</span>
+                    <raw class="logo-note">*&nbsp;<span class="logo-note-txt">(neue Seite ab 08/2017)</span>
                         <br>
                         <br>
-                        </raw>
-                        <div style="float: left;width: 47%;">
-                            <a href="https://www.bmbf.de/"><img class="img-responsive" style="width: 204px; height: auto;" src="img/bmbf_logo.png"
-                                                                alt="Logo BMBF"></a>
-                            <br>
-                        </div>
-                        <div style="float: left;width: 6%;">&nbsp;</div>
-                        <div style="float: left;width: 47%;">
-                            <br>
-                            <a href="https://okfn.de/"><img class="img-responsive" style="width: 204px; height: auto;" src="img/logo-okfn.png"
-                                                            alt="Logo okfn DE">
-                            </a>
-                        </div>
-                        &nbsp;
+                    </raw>
+                    <div style="float: left;width: 47%;">
+                        <a href="https://www.bmbf.de/"><img class="img-responsive" style="width: 204px; height: auto;"
+                                                            src="img/bmbf_logo.png"
+                                                            alt="Logo BMBF"></a>
                         <br>
-                        <br>
-
                     </div>
+                    <div style="float: left;width: 6%;">&nbsp;</div>
+                    <div style="float: left;width: 47%;">
+                        <br>
+                        <a href="https://okfn.de/"><img class="img-responsive" style="width: 204px; height: auto;"
+                                                        src="img/logo-okfn.png"
+                                                        alt="Logo okfn DE">
+                        </a>
+                    </div>
+                    &nbsp;
+                    <br>
                     <br>
 
-                
+                </div>
+                <br>
+
+
                 <div id="lizenzhinweis">Bild: <a href="https://www.flickr.com/people/45335565@N00">Chris Koerner</a>
                     from St. Louis, USA, <a
                             href="https://commons.wikimedia.org/wiki/File:MediaWiki_1.25_(17868955499).jpg">MediaWiki
@@ -104,14 +106,19 @@ layout: default
             </div>
             <div class="nextposts"><strong><h3>Weitere Beiträge:</h3></strong></div>
             <div class="nextcontent">
-                <p><ul>
-                    {% for post in site.posts limit:3 %}
-                    <li>
-                        <h3><span class="date">{{ post.date | date: '%-d %B %Y' }}</span> - <u><a href="{{ post.url }}">{{ post.title }}<br></a></u></h3><p>{{ post.excerpt }}<br><br></p>
+                <p>
+                    <ul>
+                        {% for post in site.posts limit:3 %}
+                        <li>
+                            <h3><span class="date">{{ post.date | date: '%-d %B %Y' }}</span> - <u><a
+                                    href="{{ post.url }}">{{ post.title }}<br></a></u></h3>
+                <p>{{ post.excerpt }}<br><br></p>
                 </li>
                 {% endfor %}
                 </ul></p>
-                <div class="trenner"><hr></div>
+                <div class="trenner">
+                    <hr>
+                </div>
                 <div class="blogexcerptend"><p><a href="/blog">--> Zum Blog</a></p></div>
             </div>
         </div>

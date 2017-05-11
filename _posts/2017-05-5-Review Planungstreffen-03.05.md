@@ -19,20 +19,5 @@ Bei dem Planungstreffen wurden bereits erste Projekte und Ideen für neue Bildun
 
 Mit Euren Projekten könnt ihr aber schon vorher loslegen: Je genauer ihr beschreibt, was ihr vorhabt und an Unterstützung benötigt, desto leichter kann die Community etwas einbringen und das Projekt unterstützen.
 
-# Hackdash & Co: Projektideen mit der Community teilen
-Um Eure Projektideen vorzustellen und Unterstützung zu finden, tragt ihr das Vorhaben in das Online-Tool [**Hackdash**](https://hackdash.org/dashboards/edulabs) ein. Dabei konzentrieren wir uns zuerst auf Projekte aus dem Berliner Raum, bis die anderen Labs weiter fortgeschritten sind.
-Hackdash wird besonders im Rahmen von [Hackathons](https://handbuch.jugendhackt.de/) verwendet: Nach der Anmeldung lässt sich ein Projekt hinzufügen und nach wenigen Schritten ist das Vorhaben für andere sichtbar. Auf diese Weise können sich potenzielle Mitstreiter*innen einen schnellen Überblick verschaffen und Teil des Projektes werden. Um Hackdash zu nutzen, geht ihr folgendermaßen vor:
-<br><br>
-**1. Über github, twitter oder meetup anmelden.**
-<br><img src="/img/blog/2017/hackdash1.jpg" style="width: 65%; display: inline-block">
-
-**2. "create project"**<br>
-Mithilfe von “create project” legt ihr ein Projekt an und beschreibt es möglichst anschaulich. Dann ordnet ihr es einer dem Stand des Projektes entsprechenden Kategorien zu – von der Ideenfindung über die Recherchephase und die Erstellung eines Prototypen bis hin zum ersten Entwurf und dem fertigen Projekt. Um die Projekte regional leichter zu finden, stellt ihr dem Titel noch einen Hashtag voran – für Berlin #BE, Bonn #BE und für Karlsruhe #KA (z.B. “#BE Name_des_Projekts”).
-<br><img src="/img/blog/2017/hackdash2.png" style="width: 30%; display: inline-block">
-
-**3. Verschlagwortung und Verlinkung**<br>
-Zuletzt ergänzt ihr das Ganze noch durch einige Schlagworte (z.B. Schulfach, Art des Formates, Altersgruppe ect.) und, wenn vorhanden, einen Link zu einer ausführlichen Beschreibung des Vorhabens oder dem Arbeitsdokument. Auf diese Weise können Interessierte das Projekt leichter finden.
- *Wichtig: Bitte hinterlegt in der Beschreibung auch eine Emailadresse, damit wir Euch bei Anfragen benachrichtigen können.*
-<br><img src="/img/blog/2017/hackdash3.jpg" style="width: 65%; display: inline-block">
-
-Wenn Euer Projekt bei Hackdash eingetragen ist, könnt ihr es im edulabs-Call oder bei dem nächsten Lab-Treffen an der Technischen Universität Berlin (hier eine [3D-Ansicht der Räumlichkeiten](http://s521291175.online.de/ibba/IBBA-Tour.html)) vorstellen, um Mitstreiter und weitere Unterstützung zu finden. Wir sind gespannt auf Eure Ideen und freuen uns auf den call am 17.05.! :)
+# Update:
+Wie ihr Projektideen veröffentlichen oder finden könnt, ist im Blogpost [Du hast Projektideen oder möchtest welche unterstützen?]() dargestellt.
