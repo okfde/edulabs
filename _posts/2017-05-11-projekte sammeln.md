@@ -5,7 +5,7 @@ excerpt: "Im edulabs Hackdash könnt ihr Projektideen vorstellen und nach Format
 ---
 <div class="img-wrap-center">
 <img src="/img/blog/2017/labsituation.JPG" style="width: 100%; display: inline-block">
-<div style="text-align: right">edulabs Hackdash<br><br></div>
+<div style="text-align: right"><br><br></div>
 </div>
 *Bei edulabs möchten wir Menschen vernetzen, die mit ihrer Expertise offene Bildung gestalten. Dazu organisieren wir persönliche Treffen, Public Calls sowie eine Mailingliste; Projektideen sammeln wir in einem Hackdash.*
 
