@@ -20,4 +20,4 @@ Bei dem Planungstreffen wurden bereits erste Projekte und Ideen für neue Bildun
 Mit Euren Projekten könnt ihr aber schon vorher loslegen: Je genauer ihr beschreibt, was ihr vorhabt und an Unterstützung benötigt, desto leichter kann die Community etwas einbringen und das Projekt unterstützen.
 
 # Update:
-Wie ihr Projektideen veröffentlichen oder finden könnt, ist im Blogpost [Du hast Projektideen oder möchtest welche unterstützen?]() dargestellt.
+Wie ihr Projektideen veröffentlichen oder finden möchtet, ist im Blogpost [Du hast Projektideen oder möchtest welche unterstützen?]() dargestellt.
