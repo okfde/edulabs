@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Projektideen aus den Bereichen Gamification, Informatik, Deutsch und Naturwissenschaften suchen Unterstützung"
+title: "edulabs-Projekte unterstützen: Gamification, Informatik, Deutsch, Naturwissenschaften,..."
 excerpt: "Nach dem gut besuchten edulabs-call am Mittwoch gibt es erste konkrete Projekte, die Unterstützung suchen."
 ---
 <div class="img-wrap-center">
