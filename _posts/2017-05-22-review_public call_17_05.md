@@ -18,7 +18,7 @@ Ein Beispiel für eine solche App ist ein [Prototyp](http://mmlc.northwestern.ed
                 role="button">Zum Projekt »</a></center><br>
 
 # Chaos Macht Schule Berlin - Workshop Dokumentation
-Chaos Macht Schule ist eine [Bildungsinitiative vom CCC](https://berlin.ccc.de/wiki/Chaos_macht_Schule), die regelmäßig von Schulen eingeladen wird, um dort mit Schüler**innen* über technische Themen zu sprechen. Da sie nicht jeder Anfrage nachkommen können, möchten sie ihre erprobten und oft durchgeführten [Workshops](https://berlin.ccc.de/wiki/ChaosmachtSchule#Unsere_Workshops) besser dokumentieren und als OER der Öffentlichkeit zur Verfügung stellen.
+Chaos Macht Schule ist eine [Bildungsinitiative vom CCC](https://berlin.ccc.de/wiki/Chaos_macht_Schule), die regelmäßig von Schulen eingeladen wird, um dort mit Schüler**innen* über technische Themen zu sprechen. Da sie nicht jeder Anfrage nachkommen können, möchten sie ihre erprobten und oft durchgeführten [Workshops](https://berlin.ccc.de/wiki/Chaos_macht_Schule#Unsere_Workshops) besser dokumentieren und als OER der Öffentlichkeit zur Verfügung stellen.
 `Für dieses Vorhaben benötigen sie nicht nur Hilfe bei der Dokumentation, sondern auch beim Layout, bei rechtlichen Fragen rund um verwendete Materialien sowie beim Testen ihrer Workshops mit Lehrer*innen.`
 <center><a class="btn btn-lg btn-default"
                 href="https://hackdash.org/projects/591c5f394545fa01a8db17a5"
