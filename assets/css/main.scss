@@ -266,6 +266,7 @@ blockquote {
 			li {
 				padding: 5px;
 				padding-left: 5px;
+				line-height: 1.3em;
 				@media screen and (max-width: $br) {
 					padding: 10px 0 10px 0;
 				}
@@ -279,7 +280,7 @@ blockquote {
 			margin-top: 10px;
 			margin-bottom: 10px;
 			@media screen and (max-width: $br) {
-				
+
 				margin: auto;
 			}
 		}
