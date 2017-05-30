@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ein-Chip-Computer und die Arduino Plattform im Unterricht"
+title: "Ein-Chip-Computer und die Arduino-Plattform im Unterricht"
 excerpt: "Was ist die Arduino-Plattform und welche Vor- und Nachteile hat sie für die Anwendung im Schulunterricht?"
 ---
 <div class="img-wrap-center">
