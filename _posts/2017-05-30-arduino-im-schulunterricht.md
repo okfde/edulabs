@@ -16,13 +16,13 @@ Im Gegensatz zum Programmieren von Programmen, die auf Betriebssystemen ausgefü
 # Vorteile
 * Arduino ermöglicht einen anschaulichen Einstieg in Elektronik und Programmieren, die Projekte bieten anschauliche Anwendungsbeispiele für Physik und Mathematik.
 * Erste Projekte können schnell umgesetzt werden.
-* Die Auseinandersetzung mit Mikrocontrollern vermittelt Grundwissen über Technologien, die in vielen Produkten des Alltags zu finden ist. Dieses Verständnis stärkt die Mündigkeit in technischen Debatten und erhöht die Freiheit im Umgang mit Technik.
+* Die Auseinandersetzung mit Mikrocontrollern vermittelt Grundwissen über Technologien, die in vielen Produkten des Alltags zu finden sind. Dieses Verständnis stärkt die Mündigkeit in technischen Debatten und erhöht die Freiheit im Umgang mit Technik.
 
 # Nachteile
 * Arduino vereinfacht zwar den Einstieg in das Programmieren, die Programmiersprache bleibt aber [C](https://de.wikipedia.org/wiki/C_(Programmiersprache)). Diese erfordert ein gewisses Abstraktionsvermögen und die Kenntnis der Syntax. Auf beides sollten Schüler*innen vorbereitet werden. Tools wie [Scratch for Arduino](http://s4a.cat/) können dabei helfen.
 * Auch wenn es [Hardware-Simulatoren](http://fritzing.org/home/) gibt, so ist der haptische Zugang im Hinblick auf das [konstruktionistische Lernen](https://de.wikipedia.org/wiki/Konstruktionismus) der effektivere Weg: Der Unterricht setzt eine Grundausstattung an Hardware voraus. Verschiedene Hersteller bieten Starter-Kits an, in denen alle wichtigen Bauteile enthalten sind.
 
-Wer Geld sparen möchte, kann auf die Arduino-Boards verzichten und mit den Schüler*innen* die Hardware auf Steckplatinen selbst zusammenbauen. Die Teile dafür können z.B. gemeinsam mit den Schüler*innen durch die Demontage alter Hardware gewonnen werden.
+Wer Geld sparen möchte, kann auf die Arduino-Boards verzichten und mit den Schüler\*innen die Hardware auf Steckplatinen selbst zusammenbauen. Die Teile dafür können z.B. gemeinsam mit den Schüler\*innen durch die Demontage alter Hardware gewonnen werden.
 
 # Weiterführende Links und Quellen
 * [Erfahrungen mit Arduino im Schulunterricht von Mario Parade](http://fablearn.stanford.edu/fellows/blog/arduinos-classroom)
