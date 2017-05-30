@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="02a88fca-ce50-4455-b37d-e72fd7f13dcd" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
+=======
+    <list default="true" id="02a88fca-ce50-4455-b37d-e72fd7f13dcd" name="Default" comment="" />
+>>>>>>> master
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,8 +23,13 @@
         <entry file="file://$PROJECT_DIR$/_posts/2017-05-30-arduino-im-schulunterricht.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
+<<<<<<< HEAD
               <first_editor relative-caret-position="471">
                 <caret line="30" column="76" lean-forward="false" selection-start-line="30" selection-start-column="76" selection-end-line="30" selection-end-column="76" />
+=======
+              <first_editor relative-caret-position="487">
+                <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+>>>>>>> master
                 <folding />
               </first_editor>
               <second_editor />
@@ -1000,8 +1009,13 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
+<<<<<<< HEAD
           <first_editor relative-caret-position="471">
             <caret line="30" column="76" lean-forward="false" selection-start-line="30" selection-start-column="76" selection-end-line="30" selection-end-column="76" />
+=======
+          <first_editor relative-caret-position="487">
+            <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+>>>>>>> master
             <folding />
           </first_editor>
           <second_editor />
