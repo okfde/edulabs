@@ -28,6 +28,6 @@ Marchstraße 23
 10587 Berlin
 
 # Weitere Informationen
-[Zum Start von edulabs](https://edulabs.de/blog/projektstart-edulabs)
+[Zum Start von edulabs](https://edulabs.de/blog/projektstart-edulabs)<br>
 [Projektvorstellungen im edulabs Hackdash](https://hackdash.org/dashboards/edulabs)
 
