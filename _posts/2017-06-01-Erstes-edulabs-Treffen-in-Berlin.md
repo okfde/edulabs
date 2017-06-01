@@ -21,10 +21,10 @@ Es geht los! Am 13.06., um 18:30 Uhr, startet das erste edulab als Hackathon in 
 * Programm: 18:40 Uhr - 21:00 Uhr
 
 # Wo?
-Technische Universität Berlin, 
-Lehrwerkstatt 
-des Instituts für Berufliche Bildung und Arbeitslehre
-Marchstraße 23
+Technische Universität Berlin,<br> 
+Lehrwerkstatt<br>
+des Instituts für Berufliche Bildung und Arbeitslehre<br>
+Marchstraße 23<br>
 10587 Berlin
 
 # Weitere Informationen
