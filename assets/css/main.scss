@@ -577,6 +577,15 @@ blockquote {
 
     }
 }
+.events {
+    margin-bottom: 0px;
+
+    h3 {
+        font-size: 18px !important;
+        @media screen and (min-width: 770px){font-size: 20px !important; }
+
+    }
+}
 .nextcontent {
     margin-top: 25px;
     h3 {
