@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Das edulabs Berlin geht in die 2. Runde und freut sich auf Verstärkung"
-excerpt: "Nach dem ertragreichen ersten Treffen des edulabsBE steht nun der nächste Termin: Am 27. Juni, 18:30 Uhr, treffen sich wieder experimentierfreudige Pädagog\*innen, Making- und Designaffine, Menschen mit Freude am Coden... und arbeiten gemeinsam an alternativen und freien Bildungskonzepten."
+excerpt: "Nach dem ertragreichen ersten Treffen des edulabsBE steht nun der nächste Termin: Am 27. Juni, 18:30 Uhr, treffen sich wieder experimentierfreudige Pädagog*innen, Making- und Designaffine, Menschen mit Freude am Coden... und arbeiten gemeinsam an alternativen und freien Bildungskonzepten."
 ---
 <div class="img-wrap-center">
-<img src="/img/blog/2017/edulabsBE_#2.jpg" style="width: 100%; display: inline-block">
+<img src="/img/blog/2017/edulabsBE_2.jpg" style="width: 100%; display: inline-block">
 <div style="text-align: right"><br><br></div>
 </div>
  
