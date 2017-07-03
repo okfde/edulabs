@@ -1,0 +1,21 @@
+---
+layout: default
+title: Projekte
+permalink: /projects/
+---
+<!-- blog -->
+<div class="row">
+    <section class="section first green col-xs-24">
+        <div class="content-wrap">
+            <h2 class="section-headline">Projekte</h2>
+        </div>
+        <!-- filters -->
+        <div class="content-wrap filter-items white">
+            {% include partials/projects-filters.liquid %}
+        </div>
+        <!-- blog teasers -->
+        {% include partials/project/project-isotope.liquid %}
+    </section>
+</div>
+<!-- include mitmachen section -->
+{% include partials/sections/apply.liquid %}

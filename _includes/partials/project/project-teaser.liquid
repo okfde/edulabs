@@ -1,0 +1,28 @@
+{% assign filter_categories = include.filter | join:' ' %}
+<div class="teaser project-teaser {{ filter_categories }} {% if include.type != "featured-home" %}isotope-item{% endif %} {{ include.type }} {% if include.type == "featured" %}col-xs-24 col-sm-12 col-md-16 col-lg-12 col-xlg-8{% elsif include.type == "featured-home" %}col-xs-24 col-sm-12{% else %}col-xs-24 col-sm-12 col-md-8 col-lg-6 col-xlg-4{% endif %}">
+      <a href="{{ include.url }}" class="teaser-inner">
+        {% if(include.type contains 'featured') %}
+            <div class="teaser-image">
+                <img class="img-responsive" src="{{ site.baseurl }}{{ include.src }}"/>
+            </div>
+            <div class="teaser-content blog-teaser-content">
+                <span class="teaser-date">{{ include.categories }}</span>
+                <h3 class="teaser-headline">{{ include.headline }}</h3>
+                <p class="teaser-copy">{{ include.copy }}</p>
+                <div class="teaser-arrow has-arrow"></div>
+            </div>
+        {% else %}
+            <div class="teaser-content blog-teaser-content">
+                <span class="teaser-date">{{ include.category }}</span>
+                <h3 class="teaser-headline">{{ include.headline }}</h3>
+                <div class="teaser-arrow has-arrow"></div>
+            </div>
+            <div class="teaser-image" style="background-image: url('{{ site.baseurl }}{{ include.src }}');" >
+                <div class="teaser-copy">
+                    {{ include.copy }}
+                </div>
+            </div>
+        {% endif %}
+
+    </a>
+</div>

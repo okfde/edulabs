@@ -1,0 +1,49 @@
+<footer class="footer section white">
+    <h2>Kontakt</h2>
+    <div class="social-nav">
+        <ul>
+            <li><a class="edu-btn black" href="mailto:info@edulabs.de">Email</a></li>
+            <li><a class="edu-btn black" href="https://twitter.com/edulabsde" target="_blank" >Twitter</a></li>
+            <li><a class="edu-btn black" href="https://github.com/okfde/edulabs"target="_blank" >Github</a></li>
+        </ul>
+    </div>
+    <div class="sponsors-nav">
+        <ul>
+            <li>
+                <a href="https://www.bmbf.de/" target="_blank">
+                    <img class="img-responsive-height" src="{{ site.baseurl }}/assets/img/static/logo-bmbf.png"/>
+                </a>
+            </li>
+            <li>
+                <a href="https://okfn.de/" target="_blank">
+                    <img class="img-responsive-height" src="{{ site.baseurl }}/assets/img/static/logo-okfn.png"/>
+                </a>
+            </li>
+            <li class="cc-info">
+                <p class="bold">Inhalte dieser Webseite sind, sofern nicht anders angegeben, nach Creative Commons 4.0 Attribution lizensiert.</p>
+            </li>
+        </ul>
+        <a class="imprint simple-btn" href="/impressum">Impressum</a>
+    </div>
+</footer>
+
+        <!-- js libs -->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+        <script src="{{ site.baseurl }}/assets/js/vendor/isotope.pkgd.min.js"></script>
+        <script src="{{ site.baseurl }}/assets/js/vendor/imagesloaded.pkgd.min.js"></script>
+        <script src="{{ site.baseurl }}/assets/js/vendor/jquery.fitvids.js"></script>
+        <script src="{{ site.baseurl }}/assets/js/vendor/logger.min.js"></script>
+
+        <!-- js custom -->
+        <script src="{{ site.baseurl }}/assets/js/modules/IsotopeController.js"></script>
+        <script src="{{ site.baseurl }}/assets/js/main.js"></script>
+
+        <script>
+            jQuery(document).ready(function($) {
+                window.controller = new Controller($);
+                window.controller.init();
+            });
+        </script>
+
+</body>
+</html>

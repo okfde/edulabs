@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <title>edulabs</title>
+    <meta charset="utf-8">
+    <meta name="description" content="">
+    <meta name="author" content="Rainbow Unicorn">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="/assets/main.css">
+</head>
+<body>
+{% include header.liquid %}
+<div class="page-wrap">
+    <div class="row">
+        <section class="section first col-xs-24">
+            <div class="content-wrap subpage">
+                <h1 class="section-headline">{{ page.title }}</h1>
+            </div>
+            <div class="content-wrap subpage">
+                <div class="subpage-content">
+                    {{ content }}
+                </div>
+            </div>
+        </section>
+    </div>
+</div>
+{% include footer.liquid %}

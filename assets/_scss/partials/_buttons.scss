@@ -1,0 +1,111 @@
+@import 'variables';
+
+.edu-btn{
+
+  @include box();
+  cursor:pointer;
+  text-align: center;
+  min-width: 200px;
+
+  margin-bottom: 10px;
+
+  font-size: 1.2em;
+  padding: 10px 40px;
+
+  /*defaults to white*/
+  color: $white;
+  border: 2px solid $white;
+  background-color: transparent !important;
+  width: auto;
+
+  text-transform: uppercase;
+
+  &:hover{
+    color: $black !important;
+    background-color: $white;
+    border: 2px solid $white;
+  }
+
+  &.inactive{
+    pointer-events: none;
+    opacity: 0.3;
+  }
+
+  @include transition(all .25s ease);
+
+  &.black{
+    color: $black !important;
+    border: 2px solid $black;
+
+    &:hover{
+      color: $white !important;
+      background-color: $black !important;
+      border: 2px solid $black;
+    }
+
+  }
+
+}
+
+.teaser-buttons-wrap{
+  .edu-btn {
+    width: 100%;
+    min-width: 0;
+  }
+}
+
+
+.arrow-btn
+{
+  background: url($baseurl + '/assets/img/static/arrow.svg') no-repeat;
+  background-size: cover;
+  background-position: center;
+  width:15px;
+  height:15px;
+  display: inline-block;
+}
+
+.simple-btn{
+  text-transform: uppercase;
+  font-size: 1.3em;
+}
+
+.post-btn{
+
+  text-transform: uppercase;
+
+  padding: 20px;
+  display: block;
+
+  @include transition(all .25s ease);
+
+  &:hover{
+    color: $white;
+    background-color: $black;
+  }
+
+  &.next{
+
+    &::after{
+      margin: 0 5px;
+      content:"\2192";
+      display: inline-block;
+      font-family: $font-worksans;
+      line-height: 1;
+    }
+  }
+
+  &.prev{
+
+
+
+    &::before{
+      margin: 0 5px;
+      content:"\2190";
+      display: inline-block;
+      font-family: $font-worksans;
+      line-height: 1;
+    }
+  }
+
+}

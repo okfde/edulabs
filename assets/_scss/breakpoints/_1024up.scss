@@ -1,0 +1,247 @@
+
+/******************************************************************
+H1, H2, H3, H4, H5 STYLES
+******************************************************************/
+
+h1, .h1 {
+  font-size: 2.25rem;
+}
+
+h2, .h2 {
+  font-size: 3.25rem;
+}
+
+h3, .h3 {
+  font-size: 2.25rem;
+}
+
+h4, .h4 {
+  font-size: 1.1rem;
+}
+
+h5, .h5 {
+  font-size: 0.846rem;
+}
+
+.section-headline{
+  font-size: 3.25rem;
+}
+.about-subline{
+  font-size: 2.25rem;
+}
+
+/*********************
+WRAPPER STYLES
+*********************/
+
+.page-wrap {
+  .heading {
+    font-size: 1.6rem;
+  }
+  p,.subheading{
+    margin-bottom: 50px;
+  }
+  a, p,.subheading, .content-element .infobox-headline, .content-element .infobox-copy, ul li {
+    font-size: 1.25rem;
+  }
+}
+
+.content-wrap{
+  max-width: 800px;
+}
+
+
+/*********************
+HERO
+*********************/
+
+.hero {
+  .logo {
+    width: 30vw;
+  }
+}
+
+/*********************
+teasers
+*********************/
+.teaser {
+  .teaser-inner {
+    .teaser-content {
+      padding: 20px 30px;
+    }
+    .teaser-buttons-wrap {
+      padding: 20px 30px;
+    }
+  }
+
+  &.lab-teaser {
+
+    &:first-of-type{
+      margin-top: 0px;
+    }
+
+    padding: 60px 10px;
+  }
+
+}
+
+.edu-btn {
+
+  font-size: 1.6rem;
+  margin-bottom: 10px;
+}
+.teaser-buttons-wrap{
+  .edu-btn {
+    font-size: 1.1rem;
+    width: 100%;
+  }
+}
+
+/*********************
+HEADER STYLES
+*********************/
+
+.header {
+
+  .nav-toggle{
+    display: none;
+  }
+
+  .header-inner {
+
+    .search.desktop {
+      display: inline-block;
+    }
+    .search.mobile{
+      display: none !important;
+    }
+
+    .search-icon{
+
+      height: $header-height;
+      margin-right: 10px;
+      margin-top: 0px;
+
+      img{
+        height: 100%;
+        width: auto;
+      }
+
+    }
+
+    .search-icon.desktop{
+      display: inline-block;
+    }
+
+    ul.main-nav {
+
+      background-color: transparent;
+      display: inline-block;
+      top: 50%;
+      transform: translateY(-50%);
+      width: auto;
+      padding: 0;
+      max-height: none;
+
+      box-shadow: 0px 0px 0px 0px rgba(0,0,0,0.1);
+
+      margin-left: 20px;
+      margin-top: 2px;
+
+      li {
+        display: inline-block;
+        margin-right: 20px;
+        text-transform: uppercase;
+        text-align: left;
+
+        &:last-of-type {
+          margin-right: 0;
+        }
+
+        &.current {
+          a {
+            color: $primary-color;
+          }
+        }
+
+        a {
+
+          @include transition(color .25s ease);
+
+          :visited {
+            color: $black;
+          }
+
+          &:hover, &:focus {
+            color: $primary-color;
+          }
+        }
+
+      }
+
+    }
+  }
+}
+
+
+
+/*********************
+FOOTER STYLES
+*********************/
+
+.footer {
+
+  ul.nav-footer {
+
+  }
+
+  .social-nav {
+
+  }
+
+
+  .sponsors-nav{
+
+
+    ul {
+
+
+      li {
+
+        &.cc-info{
+          text-align: left;
+          margin-left: 50px;
+          margin-top: 0;
+          max-width: 300px;
+        }
+
+      }
+    }
+  }
+
+
+}
+
+/*********************
+contentpage elements
+*********************/
+.content-element{
+  display: block;
+  width: 40%;
+
+  &.left{
+    margin-left: 0;
+  }
+  &.right{
+    margin-right: 0;
+  }
+
+  &.infobox{
+    width: 33%;
+  }
+
+}
+
+.caption{
+  font-size: 1rem;
+}

@@ -1,0 +1,8 @@
+<div class="isotope-wrap col-xs-22 col-xs-push-1 no-padding">
+    <div class="grid-sizer col-xs-24 col-sm-12 col-md-8 col-lg-6 col-xlg-4"></div>
+    {% for post in site.posts %}
+      {% assign categories = post.categories | join:', ' %}
+      {% assign categories = "#" | append:categories %}
+      {% include partials/blog/blog-teaser.liquid date=post.date featured=post.featured url=post.url filter=post.categories categories=categories src=post.teaser_img_src headline=post.title copy=post.teaser %}
+    {% endfor %}
+</div>

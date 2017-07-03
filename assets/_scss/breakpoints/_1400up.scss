@@ -1,0 +1,40 @@
+.edu-btn {
+  font-size: 1.35rem;
+}
+
+/*********************
+HEADER STYLES
+*********************/
+
+.header {
+  .header-inner {
+    nav.main-nav {
+      display: inline-block;
+      font-size: 2rem;
+    }
+  }
+}
+
+/*********************
+FOOTER STYLES
+*********************/
+
+.footer {
+
+
+  .sponsors-nav {
+
+
+    ul {
+
+
+      li {
+
+        &.cc-info {
+          max-width: 500px;
+        }
+
+      }
+    }
+  }
+}

@@ -1,0 +1,677 @@
+/******************************************************************
+Site Name:
+Author:
+
+Stylesheet: Base Mobile Stylesheet
+
+Be light and don't over style since everything here will be
+loaded by mobile devices. You want to keep it as minimal as
+possible. This is called at the top of the main stylsheet
+and will be used across all viewports.
+
+******************************************************************/
+
+/*********************
+GENERAL STYLES
+*********************/
+
+html{
+  overflow-x: hidden;
+  overflow-y: auto;
+  height: auto;
+}
+
+html, body{
+  margin: 0;
+  padding: 0;
+  font-size: 14px;
+}
+
+body {
+  height: 100%;
+  font-family: $font-karla;
+  font-size: 100%;
+  line-height: 1.5;
+  color: $text-color;
+  background-color: $background-color;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  margin: 0;
+  padding: 0px;
+
+  overflow: hidden;
+
+}
+
+/*********************
+LAYOUT & GRID STYLES
+*********************/
+
+/* see partials/_bootstrap-grid24.scss */
+
+.section{
+
+  position: relative;
+  display: table;
+
+  &.fullwidth{
+    width:100%
+  }
+  &.fullheight{
+    height: 100vh;
+  }
+
+  &.fullheight.fit-to-mobile{
+    min-height: 100%;
+    margin-bottom: 50px;
+  }
+}
+
+/*********************
+LINK STYLES
+*********************/
+
+a, a:visited {
+  color: $link-color;
+  text-decoration: none;
+
+  /* on hover */
+  &:hover, &:focus {
+    color: $link-hover;
+  }
+
+  /* on click */
+  &:active {
+    color: $link-hover;
+  }
+
+  /* mobile tap color */
+  &:link {
+    /*
+    this highlights links on iPhones/iPads.
+    so it basically works like the :hover selector
+    for mobile devices.
+    */
+    -webkit-tap-highlight-color : transparent;
+  }
+}
+
+.has-arrow{
+  &::after{
+    margin-left: 5px;
+    content:"\2192";
+    display: inline-block;
+    font-family: $font-worksans;
+    line-height: 1;
+  }
+}
+
+.link-list{
+  color: $secondary-color;
+  .link-list-headline{
+    display: block;
+    margin-bottom: 20px;
+  }
+
+  a, a:hover, a:focus, a:visited{
+    background-color: transparent !important;
+  }
+
+}
+.external-link{
+
+  color: $secondary-color !important;
+  display: block;
+
+  &::before{
+    margin-right: 5px;
+    content:"\2197";
+    display: inline-block;
+    font-family: $font-worksans;
+    line-height: 1;
+    @include transition(all .25s ease);
+    transform: rotate(0deg);
+    margin-left: 0;
+  }
+
+  &:hover{
+    &::before{
+      transform: rotate(45deg);
+      margin-left: 23px;
+    }
+  }
+
+}
+
+/******************************************************************
+H1, H2, H3, H4, H5 STYLES
+******************************************************************/
+
+h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5 {
+  text-rendering: optimizelegibility;
+  font-weight: 700;
+  margin: 0 0 0.5em 0;
+}
+
+h1, .h1 {
+  font-size: 2rem;
+  line-height: 1.1em;
+}
+
+h2, .h2 {
+  font-size: 2rem;
+  line-height: 1.1em;
+  margin-bottom: 0.375em;
+}
+
+h3, .h3 {
+  font-size: 1.7rem;
+  line-height: 1;
+}
+
+h4, .h4 {
+  font-size: 1.1rem;
+}
+
+h5, .h5 {
+  font-size: 0.846rem;
+  line-height: 2.09em;
+  letter-spacing: 2px;
+}
+
+.section-headline{
+  font-size: 2rem;
+  line-height: 1.1em;
+  margin-bottom: 0.375em;
+}
+
+/*********************
+WRAPPER STYLES
+*********************/
+
+.page-wrap{
+  background-color: transparent;
+  width: 100%;
+  margin: 0 auto;
+  height: 100%;
+
+  min-height: 100%;
+  /* equal to footer height */
+
+  /*
+  &:after {
+    content: "";
+    display: block;
+    height: $footer-height;
+  }*/
+
+  .heading{
+    font-size: 1.5rem;
+    text-align: center;
+    margin-bottom: 25px;
+    word-break: break-all;
+  }
+
+  a, p, .subheading{
+    font-size: 1.25rem;
+  }
+
+  p, .subheading{
+
+    margin-bottom: 25px;
+
+    &:last-of-type{
+      margin-bottom: 0;
+    }
+
+  }
+
+  ul{
+
+    margin: 0;
+
+    li{
+
+      position: relative;
+      padding-left: 25px;
+      margin-bottom: 25px;
+
+      &:last-of-type{
+        margin-bottom: 0;
+      }
+
+      &::before{
+        margin-right: 5px;
+        content:"\2022";
+        display: inline-block;
+        font-family: $font-worksans;
+        font-size: 1.6em;
+        line-height: 1;
+        position: absolute;
+        left: 0;
+      }
+
+      font-size: 1.25rem;
+    }
+  }
+
+}
+
+/*********************
+HEADER STYLES
+*********************/
+
+.header{
+
+  position: fixed;
+  width: 100%;
+  background-color: $white;
+  height: $header-height;
+  z-index: 10;
+
+  @include transition(transform .25s ease);
+
+  &.fixed{
+    position: fixed;
+  }
+
+  &.gone{
+    transform: translateY(-100%);
+  }
+
+  .header-inner{
+
+    margin: 0 auto;
+    height: 100%;
+
+    .search.mobile{
+      position: relative;
+      padding: 10px 20px 0 20px;
+      display: inline-block;
+      left:50%;
+      transform: translateX(-50%);
+
+      .search-icon{
+        position: absolute;
+        margin-top: 0;
+        top: 9px;
+        right: 0;
+        margin-right: 20px;
+        height: 40px;
+      }
+
+    }
+    .search.desktop{
+      display: none;
+      width: 0;
+      @include transition(width .25s ease);
+      top: 5px;
+      position: absolute;
+      right: 60px;
+      overflow: hidden;
+
+      &.open{
+        width: 300px;
+      }
+
+    }
+
+    .search-field{
+      width: 100%;
+      height: 40px;
+      background-color: $grey-light;
+      border-width: 0;
+      padding-left: 10px;
+    }
+
+
+    .signet{
+
+      display: inline-block;
+      position: relative;
+      height: 100%;
+
+
+      img{
+        height: 100%;
+        width: auto;
+      }
+
+    }
+
+    .search-icon{
+      display: inline-block;
+      float: right;
+      height: 44px;
+      padding: 10px;
+      margin-right: 42px;
+      margin-top: 3px;
+      cursor: pointer;
+
+      img{
+        height: 100%;
+        width: auto;
+      }
+    }
+
+    .search-icon.desktop{
+      display: none;
+    }
+
+    ul.main-nav{
+
+      display: block;
+      background-color: $white;
+      margin-top: -6px;
+      font-size: 1.5rem;
+      font-family: $font-mono;
+      position: absolute;
+      width: 100%;
+      padding: 0;
+      overflow: hidden;
+      @include teaser-shadow();
+
+      @include transition(max-height .25s ease, padding .25s ease);
+      max-height: 0;
+
+      &.open{
+        max-height: 500px;
+        padding: 20px 0;
+      }
+
+      li{
+        display: block;
+        margin-right: 0px;
+        text-transform: uppercase;
+        text-align: center;
+
+        &:last-of-type{
+          margin-right: 0;
+        }
+
+        &.current{
+          a{
+            color: $primary-color;
+          }
+        }
+
+        a{
+
+          @include transition(color .25s ease);
+
+          :visited{
+            color: $black;
+          }
+
+          &:hover, &:focus{
+            color: $primary-color;
+          }
+        }
+
+      }
+
+    }
+
+  }
+
+}
+
+/*********************
+HERO
+*********************/
+
+.hero{
+
+  margin-top: $header-height;
+  width: 100%;
+
+  .logo{
+
+    width: 60vw;
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+
+    img{
+      width: 100%;
+      height: auto;
+      display: block;
+    }
+  }
+
+  &.home{
+    height: 80vh;
+    background: url($baseurl + '/assets/img/static/header-home.jpg') no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+  }
+
+  &.image{
+    height: 80vh;
+    background: url('') no-repeat;
+    background-size: cover;
+  }
+
+}
+
+/*********************
+PAGE & SECTIONS
+*********************/
+
+.page-wrap{
+  width: 100%;
+}
+
+.content-wrap{
+  width: 85%;
+  margin: 0 auto;
+
+  &.btn-wrap{
+    padding-top: 60px;
+  }
+
+}
+
+.subpage-content, .teaser-content{
+  text-align: left;
+
+  a{
+    @include transition(background-color .25s ease);
+  }
+
+  a, a:focus, a:visited{
+    background-color: $link-background;
+  }
+  a:hover{
+    background-color: $link-background-hover;
+  }
+
+}
+
+.isotope-wrap, .featured-projects-wrap{
+  margin: 20px 0;
+}
+
+.section{
+  width: 100%;
+  text-align: center;
+  padding: 30px 0;
+
+  &.first{
+    padding-top: 60px;
+    margin-top: $header-height;
+  }
+
+  &.white{
+    background-color: $white;
+    color: $black;
+  }
+
+  &.green{
+    background-color: $primary-color;
+    color: $black;
+  }
+
+  &.grey-light{
+    background-color: $grey-light;
+    color: $black;
+  }
+
+  &.grey-light-2{
+    background-color: $grey-light-2;
+    color: $black;
+  }
+
+
+  &.grey{
+    background-color: $grey;
+    color: $black;
+  }
+
+  &.blue{
+    background-color: $secondary-color;
+    color: $white;
+  }
+
+}
+
+/*********************
+HOME
+*********************/
+
+.about-subline{
+  padding: 20px 10px;
+  max-width: 800px;
+  margin: 0 auto;
+  font-size: 1.7rem;
+}
+.about-copy{
+  text-align: justify;
+  cursor: pointer;
+  position: relative;
+
+  &.has-arrow{
+    &:after{
+      bottom: 5px;
+      position: absolute;
+      @include transition(transform .25s ease);
+      transform: translateX(0%);
+    }
+  }
+
+  &:hover{
+    &.has-arrow{
+      &:after{
+        transform: translateX(50%);
+      }
+    }
+  }
+
+}
+
+.hackdash-info{
+  display: inline-block;
+  font-size: 1rem !important;
+  line-height: 1.25em;
+  font-weight: 700;
+}
+
+/*********************
+FOOTER STYLES
+*********************/
+
+.footer{
+
+  /*height: $footer-height;*/
+  position: relative;
+  width: 100%;
+
+  padding-bottom: 30px;
+
+  ul.nav-footer{
+
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+
+    font-size: 1.142rem;
+
+    li{
+
+      &.nav-footer-headline{
+        font-family: $font-karla;
+        font-weight: 700;
+      }
+
+    }
+  }
+
+  .social-nav{
+
+    display: block;
+    width: 100%;
+
+    ul{
+
+      display: inline-block;
+
+      li{
+
+        display: block;
+
+
+
+        .edu-btn{
+          padding-left: 50px;
+          padding-right: 50px;
+        }
+
+      }
+    }
+  }
+
+  .sponsors-nav{
+
+    margin: 30px 0 0 0;
+    display: block;
+    position: relative;
+    width: 100%;
+    padding: 0 50px;
+
+    ul {
+
+      display: inline-block;
+      float: left;
+      margin: 0;
+
+      li {
+
+        display: inline-block;
+        height: 80px;
+
+        margin-bottom: 20px;
+        &:last-of-type{
+          margin-bottom: 0;
+        }
+
+        &.cc-info{
+          text-align: center;
+          position: relative;
+          max-width: 300px;
+          margin-left: 0px;
+        }
+
+      }
+    }
+  }
+
+  .imprint{
+     position: relative;
+    margin-top: 30px;
+    display: inline-block;
+   }
+
+}
