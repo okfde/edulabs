@@ -257,13 +257,32 @@ WRAPPER STYLES
 
 }
 
+/********************
+SEARCH STYLE
+*********************/
+
+#search-results {
+    position: absolute;
+    right: 0;
+    z-index: 10;
+    background: rgba(255,255,255,0.95);
+    padding: 10px 40px;
+    top: 50px;
+    max-width: 800px;
+    border: 1px solid rgba(0,0,0,0.1);
+
+    h1 {
+        font-size: 2em;
+    }
+}
+
 /*********************
 HEADER STYLES
 *********************/
 
 .header{
 
-  position: fixed;
+  position: absolute;
   width: 100%;
   background-color: $white;
   height: $header-height;
@@ -273,6 +292,10 @@ HEADER STYLES
 
   &.fixed{
     position: fixed;
+  }
+
+  &.hardgone {
+      display:none;
   }
 
   &.gone{

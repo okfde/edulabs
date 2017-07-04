@@ -32,6 +32,7 @@ theme: minima
 gems:
   - jekyll-feed
   - jekyll-bootstrap-sass
+  - jekyll-lunr-js-search
   #- jekyll-autoprefixer
 exclude:
   - Gemfile

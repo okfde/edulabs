@@ -74,15 +74,15 @@
                 // down
                 if(st > hh){
                     //remove header
-                    //$header.addClass('fixed gone');
+                    $header.addClass('fixed gone');
                 }
             } else {
                 // up
-                //if($header.hasClass('gone')){
-                //    //show header
-                //    $header.removeClass('gone');
-                //}
-                //if(st < hh*2) $header.removeClass('fixed');
+                if($header.hasClass('gone')){
+                    //show header
+                    $header.removeClass('gone');
+                }
+                if(st < hh*2) $header.removeClass('fixed');
             }
             lastScrollTop = st;
         });

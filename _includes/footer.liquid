@@ -33,6 +33,7 @@
         <script src="{{ site.baseurl }}/assets/js/vendor/imagesloaded.pkgd.min.js"></script>
         <script src="{{ site.baseurl }}/assets/js/vendor/jquery.fitvids.js"></script>
         <script src="{{ site.baseurl }}/assets/js/vendor/logger.min.js"></script>
+        <script src="/js/search.min.js" type="text/javascript" charset="utf-8"></script>
 
         <!-- js custom -->
         <script src="{{ site.baseurl }}/assets/js/modules/IsotopeController.js"></script>
@@ -40,8 +41,18 @@
 
         <script>
             jQuery(document).ready(function($) {
+                jQuery('#search-query').lunrSearch({
+                  indexUrl  : '/js/index.json',           // url for the .json file containing search index data
+                  results   : '#search-results',          // selector for containing search results element
+                  template  : '#search-results-template', // selector for Mustache.js template
+                  titleMsg  : '<h1>Search results<h1>',   // message attached in front of results (can be empty)
+                  emptyMsg  : '<p>Nothing found.</p>'     // shown message if search returns no results
+                });
+
                 window.controller = new Controller($);
                 window.controller.init();
+
+
             });
         </script>
 
