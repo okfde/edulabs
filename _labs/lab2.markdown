@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  "Lab 1"
+title:  "Lab 2"
 headline: "Demo project headline"
 src: "/assets/img/static/lab-1080x720-1.jpg"
 ---

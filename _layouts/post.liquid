@@ -6,11 +6,18 @@
     <meta name="description" content="">
     <meta name="author" content="Rainbow Unicorn">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    {% if page.twitter_large_img %}
+    <meta name="twitter:card" content="summary_large_image" />
+    {% else %}
     <meta name="twitter:card" content="summary" />
+    {% endif %}
     <meta name="twitter:title" content="{{ page.title }}" />
     <meta name="twitter:description" content="{{ page.teaser }}" />
+    {% if page.twitter_large_img %}
+    <meta name="twitter:image" content="{{ site.baseurl }}{{ page.twitter_large_img }}" />
+    {% endif %}
     {% if page.twitter_img %}
-    <meta name="twitter:image" content="{{ page.twitter_img }}" />
+    <meta name="twitter:image" content="{{ site.baseurl }}{{ page.twitter_img }}" />
     {% endif %}
     <link rel="stylesheet" href="/assets/main.css">
 </head>
