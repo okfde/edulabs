@@ -23,7 +23,7 @@ Ich dachte, wenn es Social Design oder Transformationsdesign gibt, dann wollen w
 *Susanne Stauch*: Im Anschluss an die Workshops habe ich verschiedene Lehrer und die Headmasterin interviewt. Sie hatte beobachtet, wie ein paar Kinder, die zum Beispiel im Mathematikunterricht unaufmerksam waren, in den Workshops den ganzen Tag voll konzentriert gearbeitet hatten. Sie hat dabei verstanden, dass jedes Kind ein Talent hat und, dass diese unterschiedlich sind. Viele Kinder haben durch das handwerkliche Arbeiten erfahren, dass sie selbst etwas herstellen können, das hat ihnen Selbstvertrauen gegeben. 
 
 <div class="img-wrap-center">
-<img src="/assets/img/blog/2017/love_school_project_1.JPG" style="width: 100%; display: inline-block">
+<img src="/assets/img/blog/2017/Juni/loveschool/love_school_project_1.JPG" style="width: 100%; display: inline-block">
 <div style="text-align: right">Die Schüler*innen arbeiten an Projekten, die sie mit Studierenden entwickelt haben.</div>
 </div>
 
@@ -34,7 +34,7 @@ Ich dachte, wenn es Social Design oder Transformationsdesign gibt, dann wollen w
 *Susanne Stauch*: Ja, das kann ich mir vorstellen. Nach unserer Erfahrung mit dem Love School Projekt gibt es ein paar Faktoren, die ich als entscheidend für den Erfolg eines solchen Vorhabens halte. Es braucht auf beiden Seiten Moderator\*innen oder Lehrer\*innen, die als Ansprechpartner\*innen das Projekt/den Unterricht leiten. Es ist wichtig, dass sich die Teilnehmer\*innen vorab kennenlernen, idealerweise analog, zumindest aber ein sozialer Austausch stattfindet. Es muss ein Weg gefunden werden, die Konzentration der Schüler\*innen auf dem elektronische Ereignis zu halten, was durch die richtige Gestaltung der Anwendung gewährleistet werden könnte. Ich kann mir auch vorstellen, dass Virtual Reality ein solches Szenario wesentlich verbessern würde. Aber nach wie vor geht noch nichts über die reale, analoge Erfahrung des zwischenmenschlichen Austausches, der meines Erachtens in der elektronischen Anwendung so gut wie möglich integriert beziehungsweise nachempfunden werden muss. 
 
 <div class="img-wrap-center">
-<img src="/assets/img/blog/2017/love_school_project_2.JPG" style="width: 100%; display: inline-block">
+<img src="/assets/img/blog/2017/Juni/loveschool/love_school_project_2.JPG" style="width: 100%; display: inline-block">
 <div style="text-align: right">Die Studierenden zu Besuch in Kenia.</div>
 </div>
 
@@ -45,7 +45,7 @@ Ich dachte, wenn es Social Design oder Transformationsdesign gibt, dann wollen w
 *Susanne Stauch*: Ich bin keine Pädagogin, aber vorstellen kann ich es mir schon. Beispielsweise wäre ein Deutschunterricht denkbar, in dem Bauklötze eingesetzt werden, um Satzstrukturen zu ordnen. Wenn man zum Beispiel bei Montessori schaut, findet man verschiedene Ansätze in diese Richtung. Lernen findet über verschiedene Kanäle statt und dazu gehört neben dem auditiven und visuellen auch der haptische Sinn.
 
 <div class="img-wrap-center">
-<img src="/assets/img/blog/2017/love_school_project_3.JPG" style="width: 100%; display: inline-block">
+<img src="/assets/img/blog/2017/Juni/loveschool/love_school_project_3.JPG" style="width: 100%; display: inline-block">
 <div style="text-align: right">Die Schüler*innen beim Bau von Stühlen.</div>
 </div>
 
