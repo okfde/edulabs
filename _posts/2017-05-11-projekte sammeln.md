@@ -1,8 +1,12 @@
 ---
+
 layout: post
 title: "Du hast Projektideen und möchtest lab-Vorhaben unterstützen?"
 teaser: "Im edulabs Hackdash könnt ihr Projektideen vorstellen und nach Formaten suchen, die ihr unterstützen möchtet."
+teaser_img_src: /assets/img/static/arduino.jpg
+
 ---
+
 <div class="img-wrap-center">
 <img src="/assets/img/blog/2017/labsituation.JPG" style="width: 100%; display: inline-block">
 <div style="text-align: right"><br><br></div>

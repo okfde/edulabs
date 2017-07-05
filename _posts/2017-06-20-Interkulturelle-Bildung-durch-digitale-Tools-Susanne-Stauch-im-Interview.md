@@ -1,8 +1,13 @@
 ---
+
 layout: post
 title: "Interkulturelle Bildung durch digitale Tools - Ein Interview mit Susanne Stauch"
 teaser: "Mit digitalen Tools einen interkulturellen Bildungsprozess gestalten? Design Studierende aus Deutschland haben es mit Schüler*innen aus Kenia gemacht. Im Interview berichtet Susanne Stauch über ihre Erfahrungen mit dem Love School Projekt."
+twitter_bigger_img: /assets/img/blog/2017/susanne_stauch.jpg
+teaser_img_src: /assets/img/static/arduino.jpg
+
 ---
+
 <div class="img-wrap-center">
 <img src="/assets/img/blog/2017/susanne_stauch.jpg" style="width: 100%; display: inline-block">
 <div style="text-align: right">Susanne Stauch: Gastprofessorin, Goldschmiedin und Designerin<br><br></div>

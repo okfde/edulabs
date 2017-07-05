@@ -1,8 +1,12 @@
 ---
+
 layout: post
 title: "3. Mai 2017: Planungstreffen im Supermarkt Berlin"
 teaser: "Am 3.5. organisieren wir ein erstes Planungstreffen im Supermarkt Berlin. Wir stellen das Projekt vor, besprechen das Konzept, starten erste Projekte und freuen uns auf Euer Feedback und neue Ideen!"
+teaser_img_src: /assets/img/static/arduino.jpg
+
 ---
+
 <div class="img-wrap-center">
 <img src="/assets/img/blog/2017/supermarkt-berlin.jpg" style="width: 100%; display: inline-block">
 <div style="text-align: right">Bild: Supermarkt Berlin<br><br></div>

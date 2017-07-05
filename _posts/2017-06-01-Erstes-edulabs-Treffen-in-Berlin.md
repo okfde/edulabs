@@ -1,8 +1,12 @@
 ---
+
 layout: post
 title: "Es geht los! Erstes edulabs-Treffen in Berlin"
 teaser: "Am 13.06. startet das edulab Berlin in den Räumen der Technischen Universität als Hackathon. Du möchtest Bildung aktiv mitgestalten? Dann bist du herzlich eingeladen!"
+teaser_img_src: /assets/img/static/arduino.jpg
+
 ---
+
 <div class="img-wrap-center">
 <img src="/assets/img/blog/2017/Start des edulabs Berlin.jpg" style="width: 100%; display: inline-block">
 <div style="text-align: right"><br><br></div>

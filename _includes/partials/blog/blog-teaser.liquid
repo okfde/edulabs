@@ -7,7 +7,9 @@
         <div class="teaser-content blog-teaser-content">
             <span class="teaser-date">{{ include.date | date: '%d %B %Y' }}</span>
             <h3 class="teaser-headline">{{ include.headline }}</h3>
+            {% if include.featured %}
             <p class="teaser-copy">{{ include.copy }}</p>
+            {% endif %}
             <span class="teaser-cats">{{ include.categories }}</span>
             <div class="teaser-arrow has-arrow"></div>
         </div>

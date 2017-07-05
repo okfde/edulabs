@@ -1,8 +1,12 @@
 ---
+
 layout: post
 title: "edulabs-Projekte suchen Unterstützung"
 teaser: "Nach dem gut besuchten edulabs-call am Mittwoch gibt es erste konkrete Projekte, die Unterstützung suchen."
+teaser_img_src: /assets/img/static/arduino.jpg
+
 ---
+
 <div class="img-wrap-center">
 <img src="/assets/img/blog/2017/hackdash_22_5.png" style="width: 100%; display: inline-block">
 <div style="text-align: right"><br><br></div>

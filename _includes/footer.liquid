@@ -28,12 +28,17 @@
 </footer>
 
         <!-- js libs -->
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+        <script src="{{ site.baseurl }}/assets/js/vendor/jquery.min.js"></script>
         <script src="{{ site.baseurl }}/assets/js/vendor/isotope.pkgd.min.js"></script>
-        <script src="{{ site.baseurl }}/assets/js/vendor/imagesloaded.pkgd.min.js"></script>
+        <script src="{{ site.baseurl }}/assets/js/vendor/imagesloaded.pkgd.js"></script>
         <script src="{{ site.baseurl }}/assets/js/vendor/jquery.fitvids.js"></script>
         <script src="{{ site.baseurl }}/assets/js/vendor/logger.min.js"></script>
-        <script src="/js/search.min.js" type="text/javascript" charset="utf-8"></script>
+
+        <script src="{{ site.baseurl }}/assets/js/vendor/lunr.min.js"></script>
+        <script src="{{ site.baseurl }}/assets/js/vendor/mustache.min.js"></script>
+        <script src="{{ site.baseurl }}/assets/js/vendor/date.format.js"></script>
+        <script src="{{ site.baseurl }}/assets/js/vendor/URI.js"></script>
+        <script src="{{ site.baseurl }}/assets/js/vendor/jquery.lunr.search.js"></script>
 
         <!-- js custom -->
         <script src="{{ site.baseurl }}/assets/js/modules/IsotopeController.js"></script>
@@ -41,7 +46,7 @@
 
         <script>
             jQuery(document).ready(function($) {
-                jQuery('#search-query').lunrSearch({
+                $('#search-query').lunrSearch({
                   indexUrl  : '/js/index.json',           // url for the .json file containing search index data
                   results   : '#search-results',          // selector for containing search results element
                   template  : '#search-results-template', // selector for Mustache.js template
