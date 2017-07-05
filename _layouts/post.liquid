@@ -26,8 +26,19 @@
 <div class="page-wrap">
     <div class="row">
         <section class="section first col-xs-24">
+        <div class="content-wrap subpage">
+            <div class="post-date">{{ include.date | date: '%d. %B %Y'  }}</div>
+            <h1 class="section-headline">{{ page.title }}</h1>
+            {% if page.autor %}
+            <div class="blue post-author">Autor: {{ page.autor }}</div>
+            {% endif %}
+        </div>
+            <!-- a fullwidth image -->
+            {% if page.header_background %}
+            {% include partials/content/content-fullwidth-image.liquid src=page.header_background caption=page.header_background_caption %}
+            {% endif %}
             <div class="content-wrap subpage">
-                <h1 class="section-headline">{{ page.title }}</h1>
+                <h1 class="section-headline"></h1>
             </div>
             <div class="content-wrap subpage">
                 <div class="subpage-content">
@@ -35,6 +46,21 @@
                 </div>
             </div>
         </section>
+        <!-- blog -->
+        <div class="row">
+            <section class="section green col-xs-24">
+                <div class="content-wrap">
+                    <h2 class="section-headline">Verwandte Artikel</h2>
+                </div>
+                <!-- blog teasers -->
+                {% include partials/blog/blog-isotope.liquid posts_num=5 %}
+                <div class="content-wrap btn-wrap">
+                    <a class="edu-btn black" href="/blog" target="_blank">Alle Artikel</a>
+                </div>
+            </section>
+        </div>
+        <!-- blog -->
+
     </div>
 </div>
 {% include footer.liquid %}
