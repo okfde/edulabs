@@ -10,7 +10,7 @@
             <li {% if base_dir[1] == 'projects' %} class="current" {% endif %}><a href="/projects">Projekte</a></li>
             <li {% if base_dir[1] == 'blog' %} class="current" {% endif %}><a href="/blog">Blog</a></li>
             <li {% if base_dir[1] == 'about' %} class="current" {% endif %}><a href="/about">About</a></li>
-            <li><a href="/#apply">Mitmachen</a></li>
+            <li {% if base_dir[1] == 'join' %} class="current" {% endif %}><a href="/join">Mitmachen</a></li>
             <li class="search mobile">
                 <form action="" method="get">
                     <div class="form-group">
