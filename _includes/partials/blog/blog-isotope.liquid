@@ -1,7 +1,11 @@
+{%if include.posts_num %}
+<div class="isotope-wrap col-xs-22 col-xs-push-3 no-padding">
+{% else %}
 <div class="isotope-wrap col-xs-22 col-xs-push-1 no-padding">
+{% endif %}
     <div class="grid-sizer col-xs-24 col-sm-12 col-md-8 col-lg-6 col-xlg-4"></div>
     {% if include.posts_num %}
-    {% assign posts = site.posts | slice: 0, include.posts_num %}
+    {% assign posts = site.posts | where_exp:"post","post.featured != include.not_featured" | slice: 0, include.posts_num %}
     {% else %}
     {% assign posts = site.posts %}
     {% endif %}
