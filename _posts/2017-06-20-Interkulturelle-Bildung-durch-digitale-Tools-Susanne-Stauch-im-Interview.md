@@ -4,14 +4,15 @@ layout: post
 title: "Interkulturelle Bildung durch digitale Tools - Ein Interview mit Susanne Stauch"
 teaser: "Mit digitalen Tools einen interkulturellen Bildungsprozess gestalten? Design Studierende aus Deutschland haben es mit Schüler*innen aus Kenia gemacht. Im Interview berichtet Susanne Stauch über ihre Erfahrungen mit dem Love School Projekt."
 twitter_bigger_img: /assets/img/blog/2017/susanne_stauch.jpg
-teaser_img_src: /assets/img/static/arduino.jpg
+teaser_img_src: /assets/img/blog/2017/Juni/loveschool/susanne_stauch.jpg
+featured: true
+categories: Interviews
+twitter_large_img: /assets/img/blog/2017/Juni/loveschool/susanne_stauch.jpg
+header_background: /assets/img/blog/2017/Juni/loveschool/susanne_stauch.jpg
+header_background_caption: "Susanne Stauch: Gastprofessorin, Goldschmiedin und Designerin"
+autor: Maximilian Voigt
 
 ---
-
-<div class="img-wrap-center">
-<img src="/assets/img/blog/2017/susanne_stauch.jpg" style="width: 100%; display: inline-block">
-<div style="text-align: right">Susanne Stauch: Gastprofessorin, Goldschmiedin und Designerin<br><br></div>
-</div>
 [Susanne Stauch](http://susannestauch.de/) ist Goldschmiedin, Designerin und Gastprofessorin an der Universität der Künste Berlin. Design ist für sie ein Mittel für die Gestaltung gesellschaftlicher Prozesse. Im Rahmen des [Love School Projektes](http://theloveschoolproject.cre8tives.org/) hat sie mit Studierenden aus Deutschland und Schüler\*innen aus Kenia über Skype, WhatsApp und Email einen gemeinsamen Designprozess durchgeführt:
 
 # Worum ging es im Love School Projekt?

@@ -3,14 +3,15 @@
 layout: post
 title: "Es geht los! Erstes edulabs-Treffen in Berlin"
 teaser: "Am 13.06. startet das edulab Berlin in den Räumen der Technischen Universität als Hackathon. Du möchtest Bildung aktiv mitgestalten? Dann bist du herzlich eingeladen!"
-teaser_img_src: /assets/img/static/arduino.jpg
+teaser_img_src: /assets/img/blog/2017/Juni/edulabsBE1/Start des edulabs Berlin.jpg
+featured: false
+categories: edulabsBE
+twitter_large_img: /assets/img/blog/2017/Juni/edulabsBE1/caption.jpg
+header_background: /assets/img/blog/2017/Juni/edulabsBE1/Start des edulabs Berlin.jpg
+header_background_caption: ""
+autor: Maximilian Voigt
 
 ---
-
-<div class="img-wrap-center">
-<img src="/assets/img/blog/2017/Start des edulabs Berlin.jpg" style="width: 100%; display: inline-block">
-<div style="text-align: right"><br><br></div>
-</div>
 Es geht los! Am 13.06., um 18:30 Uhr, startet das erste edulab als Hackathon in den [Werkstätten für Arbeitslehre der Technischen Universität Berlin](http://s521291175.online.de/ibba/IBBA-Tour.html). Dort könnt ihr Eure Projektideen für freie und digital gestützte Bildungsformate vorstellen und Konzepte mitgestalten. Du kannst coden, schreiben, hast ein Händchen für Design oder pädagogische Erfahrung? Du möchtest freie Bildungsformate voranbringen? Dann bist du herzlich eingeladen, Teil des edulabs Berlin zu werden!
 
 # Programm

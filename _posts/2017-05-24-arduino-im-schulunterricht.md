@@ -3,14 +3,16 @@
 layout: post
 title: "Ein-Chip-Computer und die Arduino-Plattform im Unterricht"
 teaser: "Was ist die Arduino-Plattform und welche Vor- und Nachteile hat sie für die Anwendung im Schulunterricht?"
-teaser_img_src: /assets/img/static/arduino.jpg
+teaser_img_src: /assets/img/blog/2017/Mai/arduino/arduino.png
+featured: true
+categories: Toolcard
+twitter_large_img: /assets/img/blog/2017/Mai/arduino/arduino.png
+header_background: /assets/img/blog/2017/Mai/arduino/arduino.png
+header_background_caption: ""
+autor: Maximilian Voigt
 
 ---
-
-<div class="img-wrap-center">
-<img src="/assets/img/blog/2017/arduino.png" style="width: 100%; display: inline-block">
-<div style="text-align: right"><br><br>Bild: Kallap85, <a href="https://commons.wikimedia.org/wiki/File:Barbone_Arduino_Uno.jpg">Barbone Arduino Uno</a>, <a href="https://commons.wikimedia.org/wiki/Category:CC-BY-SA-4.0">CC-BY-SA-4.0</a></div>
-</div>
+Bild: Kallap85, <a href="https://commons.wikimedia.org/wiki/File:Barbone_Arduino_Uno.jpg">Barbone Arduino Uno</a>, <a href="https://commons.wikimedia.org/wiki/Category:CC-BY-SA-4.0">CC-BY-SA-4.0</a>
 # Beschreibung
 Arduino ist der Markenname sowohl für eine Software als auch für eine Hardware-Plattform. Die Kombination beider Systeme erlaubt den vereinfachten Einstieg in die Programmierung von Elektronik oder auch das "physical computing". Der Kern liegt in der Arduino [IDE](https://de.wikipedia.org/wiki/Integrierte_Entwicklungsumgebung), die eine übersichtliche Oberfläche, schnelle Verbindung zur Hardware und den Zugriff auf eine große Bibliothek ermöglicht. Die Bibliothek erlaubt das Programmieren mit alltagsähnlichen Begriffen. Die Hardware erspart durch vereinfachtes Design den Blick ins Datenblatt des verbauten [Mikrocontrollers](https://de.wikipedia.org/wiki/Mikrocontroller), der normalerweise nötig ist.
 

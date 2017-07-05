@@ -3,14 +3,14 @@
 layout: post
 title: "edulabs-Projekte suchen Unterstützung"
 teaser: "Nach dem gut besuchten edulabs-call am Mittwoch gibt es erste konkrete Projekte, die Unterstützung suchen."
-teaser_img_src: /assets/img/static/arduino.jpg
+teaser_img_src: /assets/img/blog/2017/Mai/hackdash2/hackdash_22_5.png
+categories: Projekte edulabsCall
+twitter_large_img: /assets/img/blog/2017/Mai/hackdash2/hackdash_22_5.png
+header_background: /assets/img/blog/2017/Mai/hackdash2/hackdash_22_5.png
+header_background_caption: ""
+autor: Maximilian Voigt
 
 ---
-
-<div class="img-wrap-center">
-<img src="/assets/img/blog/2017/hackdash_22_5.png" style="width: 100%; display: inline-block">
-<div style="text-align: right"><br><br></div>
-</div>
 Nach dem gut besuchten edulabs-call am Mittwoch gibt es erste konkrete Projekte, die Unterstützung suchen. Im Folgenden haben wir einige für Euch kurz zusammengefasst, alle weiteren Projektideen findet ihr im [edulabs Hackdash](https://hackdash.org/dashboards/edulabs). Bei Interesse könnt ihr über den Link zum Projekt Kontakt aufnehmen:
 
 # Game-based Apps zum Deutschlernen

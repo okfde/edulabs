@@ -3,14 +3,14 @@
 layout: post
 title: "Du hast Projektideen und möchtest lab-Vorhaben unterstützen?"
 teaser: "Im edulabs Hackdash könnt ihr Projektideen vorstellen und nach Formaten suchen, die ihr unterstützen möchtet."
-teaser_img_src: /assets/img/static/arduino.jpg
+teaser_img_src: /assets/img/blog/2017/Mai/hackdash1/labsituation.JPG
+categories: Projekte
+twitter_large_img: /assets/img/blog/2017/Mai/hackdash1/labsituation.JPG
+header_background: /assets/img/blog/2017/Mai/hackdash1/labsituation.JPG
+header_background_caption: ""
+autor: Maximilian Voigt
 
 ---
-
-<div class="img-wrap-center">
-<img src="/assets/img/blog/2017/labsituation.JPG" style="width: 100%; display: inline-block">
-<div style="text-align: right"><br><br></div>
-</div>
 *Durch edulabs möchten wir Menschen vernetzen, die mit ihrer Expertise offene Bildung gestalten. Dazu organisieren wir persönliche Treffen, Public Calls sowie eine Mailingliste; Projektideen sammeln wir in einem Hackdash.*
 
 Im [edulabs Hackdash](https://hackdash.org/dashboards/edulabs) könnt ihr Projektideen vorstellen und nach Formaten suchen, die ihr unterstützen möchtet. Zusammen erstellen wir neue Tools und Materialien für selbstgesteuertes, partizipatorisches Lernen und teilen diese als OER. Hackdash wird besonders im Rahmen von Hackathons verwendet und hilft dabei, Projekte zum Mitmachen zu finden und ihren Fortschritt im Auge zu behalten.

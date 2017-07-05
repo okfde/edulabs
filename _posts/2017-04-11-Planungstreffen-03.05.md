@@ -3,15 +3,14 @@
 layout: post
 title: "3. Mai 2017: Planungstreffen im Supermarkt Berlin"
 teaser: "Am 3.5. organisieren wir ein erstes Planungstreffen im Supermarkt Berlin. Wir stellen das Projekt vor, besprechen das Konzept, starten erste Projekte und freuen uns auf Euer Feedback und neue Ideen!"
-teaser_img_src: /assets/img/static/arduino.jpg
+teaser_img_src: /assets/img/blog/2017/April/edulabs1/supermarkt-berlin.jpg
+categories: Kickoff
+twitter_large_img: /assets/img/blog/2017/April/edulabs1/supermarkt-berlin.jpg
+header_background: /assets/img/blog/2017/April/edulabs1/supermarkt-berlin.jpg
+header_background_caption: "Bild: Supermarkt Berlin"
+autor: Maximilian Voigt
 
 ---
-
-<div class="img-wrap-center">
-<img src="/assets/img/blog/2017/supermarkt-berlin.jpg" style="width: 100%; display: inline-block">
-<div style="text-align: right">Bild: Supermarkt Berlin<br><br></div>
-</div>
-
 Am 3.5. organisieren wir ein erstes Planungstreffen im [Supermarkt Berlin](http://www.supermarkt-berlin.net/). Wer sich für offene, digitale Bildung engagiert und gerne _unterrichtet / entwickelt / gestaltet / schreibt / [...]_ ist herzlich eingeladen, Teil des edulabs Berlin zu werden und diesen offenen Raum mit aufzubauen. Wir stellen das Projekt vor, besprechen das Konzept, starten erste Projekte und freuen uns auf Euer Feedback und neue Ideen!
 
 * 18:30 Ankommen

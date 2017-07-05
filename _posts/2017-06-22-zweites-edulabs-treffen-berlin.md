@@ -3,15 +3,15 @@
 layout: post
 title: "Das edulabs Berlin geht in die 2. Runde und freut sich auf Verstärkung"
 teaser: "Nach dem ertragreichen ersten Treffen des edulabsBE steht nun der nächste Termin: Am 27. Juni, 18:30 Uhr, treffen sich wieder experimentierfreudige Pädagog*innen, Making- und Designaffine, Menschen mit Freude am Coden... und arbeiten gemeinsam an alternativen und freien Bildungskonzepten."
-teaser_img_src: /assets/img/static/arduino.jpg
+teaser_img_src: /assets/img/blog/2017/Juni/edulabsBE2/edulabsBE_2.jpg
+featured: false
+categories: edulabsBE
+twitter_large_img: /assets/img/blog/2017/Juni/edulabsBE2/caption.jpg
+header_background: /assets/img/blog/2017/Juni/edulabsBE2/edulabsBE_2.jpg
+header_background_caption: ""
+autor: Maximilian Voigt
 
 ---
-
-<div class="img-wrap-center">
-<img src="/assets/img/blog/2017/edulabsBE_2.jpg" style="width: 100%; display: inline-block">
-<div style="text-align: right"><br><br></div>
-</div>
- 
 Nach dem ertragreichen ersten Treffen des edulabsBE steht nun der nächste Termin: Am 27. Juni, 18:30 Uhr, treffen sich wieder experimentierfreudige Pädagog\*innen, Making- und Designaffine, Menschen mit Freude am Coden... und arbeiten gemeinsam an alternativen und freien Bildungskonzepten.<br>
 
 Eingangs wird Anne-Sophie Pahl kurz die Plattform [youvo.org](https://www.youvo.org) vorstellen, über die sich sozial orientierte Projekte und engagierte Kreative suchen und finden.<br>

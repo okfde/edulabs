@@ -3,14 +3,15 @@
 layout: post
 title: "Making im Schulunterricht: Besucht uns auf der Maker-Faire Berlin"
 teaser: "Am 13.06. startet das edulab Berlin in den Räumen der Technischen Universität als Hackathon. Du möchtest Bildung aktiv mitgestalten? Dann bist du herzlich eingeladen!"
-teaser_img_src: /assets/img/static/arduino.jpg
+teaser_img_src: /assets/img/blog/2017/Juni/makerfaire/maker-faire-berlin.png
+featured: false
+categories: Events
+twitter_large_img: /assets/img/blog/2017/Juni/makerfaire/caption.png
+header_background: /assets/img/blog/2017/Juni/makerfaire/maker-faire-berlin.png
+header_background_caption: ""
+autor: Maximilian Voigt
 
 ---
-
-<div class="img-wrap-center">
-<img src="/assets/img/blog/2017/maker-faire-berlin.png" style="width: 100%; display: inline-block">
-<div style="text-align: right"><br><br></div>
-</div>
 Am 10. und 11. Juni treffen sich Maker, Eltern, Kinder und andere Freund\*innen von Hardware, DIY, Technik und Kreativität auf der Maker-Faire Berlin. Dabei steht das Teilen von Wissen und Ideen sowie die Freude am kollaborativen Arbeiten im Mittelpunkt. edulabs ist auch dabei und an der Frage interessiert, wie mit Hilfe von making Bildung bereichert werden kann.
 
 Neben zahlreichen Projekt-Ständen, auf denen Maker ihre Erfindungen ausstellen, gibt es noch viele andere Dinge zu entdecken. So könnt  ihr in [Workshops](https://maker-faire.de/berlin/workshops/) [kleine Roboter bauen](https://maker-faire.de/workshop/berlin/2017/bau-dir-einen-sensorgesteuerten-mini-roboter/) oder in [Vorträgen](https://maker-faire.de/berlin/vortraege/) spannenden Inputs lauschen. Wie beispielsweise Nikola Chernev, der über [“Educational Materials and Games Created in FabLabs – Use Cases, How-tos and Success Stories”](https://maker-faire.de/vortrag/berlin/2017/educational-materials-and-games-created-in-fablabs-use-cases-how-tos-and-success-stories/) oder Astrid Lorenzen, die über [“Wiederverwendung durch Reparatur stärken – Potenziale des 3D-Druck zur Ersatzteilbeschaffung nutzen”](https://maker-faire.de/vortrag/berlin/2017/wiederverwendung-durch-reparatur-staerken-potentiale-des-3d-druck-zur-ersatzteilbeschaffung-nutzen/) sprechen werden.
