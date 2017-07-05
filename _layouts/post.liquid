@@ -46,6 +46,18 @@
                 </div>
             </div>
         </section>
+        <!-- prev/next -->
+        <div class="row">
+            <section class="section col-xs-24">
+                {% if page.previous %}
+                <a class="post-btn prev" href="{{ page.previous.url }}">Vorheriger Artikel</a>
+                {% endif %}
+                {% if page.next %}
+                <a class="post-btn next" href="{{ page.next.url }}">Nächster Artikel</a>
+                {% endif %}
+            </section>
+        </div>
+
         <!-- blog -->
         <div class="row">
             <section class="section green col-xs-24">

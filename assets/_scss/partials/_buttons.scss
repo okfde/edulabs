@@ -70,7 +70,7 @@
   font-size: 1.3em;
 }
 
-.post-btn{
+a.post-btn{
 
   text-transform: uppercase;
 
@@ -79,12 +79,16 @@
 
   @include transition(all .25s ease);
 
-  &:hover{
-    color: $white;
-    background-color: $black;
+  &:hover,
+  &:visited {
+    background-color: rgba(0,0,0,0.9);
   }
 
   &.next{
+    color: $black;
+    &:hover, &:focus {
+         color: $white;
+    }
 
     &::after{
       margin: 0 5px;
@@ -95,9 +99,11 @@
     }
   }
 
-  &.prev{
-
-
+   &.prev{
+    color: $black;
+    &:hover, &:focus {
+         color: $white;
+    }
 
     &::before{
       margin: 0 5px;
@@ -106,6 +112,7 @@
       font-family: $font-worksans;
       line-height: 1;
     }
+
   }
 
 }
