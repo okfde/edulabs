@@ -15,13 +15,17 @@
     <div class="row">
         <section class="section first col-xs-24">
             <div class="content-wrap subpage">
-                <h1 class="section-headline">{{ page.title }}</h1>
+                <h1 class="section-headline">#{{ page.title }}</h1>
             </div>
- 
             <div class="content-wrap subpage">
             {{ content }}
             </div>
+
         </section>
     </div>
+    <div class="row">
+        {% include partials/sections/apply.liquid %}
+    </div>
 </div>
+<!-- include mitmachen section -->
 {% include footer.liquid %}

@@ -33,13 +33,14 @@ teasers
       padding: 20px;
       display: inline-block;
       width: 100%;
+      text-align: center;
 
       .edu-btn{
         padding: 10px;
         margin-bottom: 20px;
 
         &:nth-child(odd){
-          float: left;
+          float: none;
         }
         &:nth-child(even){
           float: right;
@@ -223,7 +224,7 @@ teasers
     }
 
     .teaser-copy{
-      display: none;
+      display: block;
     }
 
   }
