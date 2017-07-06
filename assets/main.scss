@@ -35,6 +35,7 @@ $baseurl: "{{ site.baseurl }}";
 @import "modules/teasers";
 @import "modules/filter-items";
 @import "modules/nav-toggle";
+@import "modules/comments";
 
 
 /*********************
