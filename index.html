@@ -39,12 +39,12 @@ layout: default
             <h2 class="section-headline">Aus dem Blog</h2>
         </div>
         <!-- blog teasers -->
-        <div class="featured-projects-wrap col-xs-22 col-md-20 col-lg-21">
+        <div class="featured-projects-wrap col-xs-22 col-md-20 col-md-push-2 col-lg-22 col-lg-push-1">
             {% assign posts = site.posts | slice: 0, 5 %}
             {% for post in posts %}
               {% assign categories = post.categories | join:', ' %}
               {% assign categories = "#" | append:categories %}
-              {% include partials/blog/blog-teaser.liquid date=post.date url=post.url filter=post.categories categories=categories src=post.teaser_img_src headline=post.title copy=post.teaser %}
+              {% include partials/blog/blog-teaser.liquid date=post.date featured=post.featured url=post.url filter=post.categories categories=categories src=post.teaser_img_src headline=post.title copy=post.teaser %}
             {% endfor %}
         </div>
         <div class="content-wrap btn-wrap">
