@@ -1,8 +1,8 @@
 ---
 layout: project
-title:  "edulabsBE"
+title:  "BE"
 headline: "edulabs Berlin"
-src: "/assets/img/static/lab-1080x720-1.jpg"
+src: "/assets/img/static/edulabsBE.jpg"
 ---
 
 Willkommen bei edulabsBE! Wir arbeiten in verschiedenen Gruppen an Projekten
