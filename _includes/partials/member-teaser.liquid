@@ -11,10 +11,10 @@
             <p class="teaser-copy">{{ include.copy }}</p>
         </div>
         <div class="teaser-buttons-wrap">
-            {% if include.email %}<a class="edu-btn black" href="#" target="_blank" >Email</a>{% endif %}
-            {% if include.twitter %}<a class="edu-btn black" href="#" target="_blank">Twitter</a>{% endif %}
-            {% if include.github %}<a class="edu-btn black" href="#" target="_blank">Github</a>{% endif %}
-            {% if include.website %}<a class="edu-btn black" href="#" target="_blank">Website</a>{% endif %}
+          {% if include.email %}<a class="edu-btn black" href="mailto:{{include.email}}" target="_blank" >Email</a>{% endif %}
+          {% if include.twitter %}<a class="edu-btn black" href="{{include.twitter}}" target="_blank">Twitter</a>{% endif %}
+          {% if include.github %}<a class="edu-btn black" href="{{include.github}}" target="_blank">Github</a>{% endif %}
+          {% if include.website %}<a class="edu-btn black" href="{{include.website}}" target="_blank">Website</a>{% endif %}
         </div>
 
     </div>
