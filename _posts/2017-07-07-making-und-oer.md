@@ -37,7 +37,7 @@ Es wäre gut, wenn sich die Menschen, die das schon machen, noch mehr vernetzen 
 Das Prinzip der Offenheit steckt in beiden drin. Diejenigen, die Making machen, sind oft Personen, die ihre Erfahrungen und Ressourcen auch anderen zur Verfügung stellen. Das hängt mit einer Haltung zusammen: Ich mach das nicht nur für mich, sondern auch für andere. In diesem Zuge wird auch oft mit offenen Lizenzen und offenen Daten etc. gearbeitet, wodurch wir in einem sehr ähnlichen Feld sind. Ich bin selbst unschlüssig, um welchen Verwandtschaftsgrad es sich handelt. Aber die Idee des Teilens ist bei jemanden, der OER macht, ebenfalls ein unglaublicher Treiber. Ich finde es erst einmal sehr spannend und wunderbar, dass sehr viele Sachen, die wir im Making-Bereich in Bezug auf Bildung kennen, frei lizenziert sind. OER sind in den unterschiedlichen Bildungsbereichen unterschiedlich verankert. Ich freue mich, dass wir mit Making einen guten, vor allem flexiblen Zugang gefunden haben, außerschulische, non-formale Bildung und OER in Verbindung zu bringen.
 
 <p class="link-list">
-<span class="link-list-headline">Weiterführende Links</span>
+<span class="link-list-headline">Links</span>
 <a class="external-link" href="http://www.bimsev.de/n/userfiles/downloads/making_handbuch_online_final.pdf" target="_blank">Das Handbuch "Making-Aktivitäten mit Kindern und Jugendlichen"</a>
 <a class="external-link" href="https://de.slideshare.net/KristinNarr/making-oer-prsentation-oercamp17" target="_blank">Die Präsentation von Christin Narr auf dem OERcamp 2017 West</a>
 </p>
