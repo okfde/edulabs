@@ -114,6 +114,8 @@ teasers
     featured blog teaser
     *********************/
     &.featured, &.featured-home{
+       margin: auto;
+       max-width: 500px;
       .teaser-copy{
         display: block;
       }
