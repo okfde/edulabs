@@ -2,7 +2,7 @@
 
 layout: post
 title: "Making und Open Educational Resources - Kristin Narr im Interview"
-teaser: "Die Medienpädagogin Kristin Narr berichtet uns von ihren Erfahrungen mit Making sowie der Verwandtschaft von Making und OER."
+teaser: "Die Medienpädagogin Kristin Narr berichtet von ihren Erfahrungen mit Making sowie der Verwandtschaft von Making und OER."
 teaser_img_src: /assets/img/blog/2017/Juli/interview_kristin_narr/Foto Kristin_CC BY 4.0 Anika Dollmeyer_klein.jpg
 featured: true
 categories: Interviews
@@ -12,7 +12,7 @@ header_background_caption: "Bild: Kristin Narr, by Anika Dollmeyer"
 autor: Maximilian Voigt
 
 ---
-Die Medienpädagogin Kristin Narr berichtet uns von ihren Erfahrungen mit Making sowie der Verwandtschaft von Making und OER.
+Die Medienpädagogin Kristin Narr berichtet von ihren Erfahrungen mit Making sowie der Verwandtschaft von Making und OER.
 
 **Liebe Kristin, im Handbuch ["Making-Aktivitäten mit Kindern und Jugendlichen"](http://www.bimsev.de/n/userfiles/downloads/making_handbuch_online_final.pdf) hast Du, Sandra Schön und Martin Ebner einige tolle Bildungsformate dokumentiert, die Making zum Gegenstand haben. Welches gefällt dir besonders?**<br>
 Das, was sehr schnell einsetzbar ist, wie z.B. der Makey Makey. Den nehme ich einfach mit, zusammen mit meinem Laptop und noch etwas Knete sowie Alufolie. Damit kann man schon relativ viel zeigen. Das mache ich nicht nur mit Kindern und Jugendlichen, sondern vor allem auch mit Erwachsenen. Zum Beispiel, um damit bei Fortbildungen mit Sozialpädagog\*innen oder auch Lehrerinnen und Lehrern die Thematik etwas greifbar zu machen. Ich nutze gerne die kleinen, einfachen Möglichkeiten, mit denen sich die Thematik „quick and dirty“ darstellen lässt. Dabei sehe ich mich als eine Art Vermittlerin von diesen Dingen. Mit dem Handbuch haben Sandra Schön, Martin Ebner und ich  eine Form gesucht, Expertisen und Erfahrungen, die es in diesem Bereich bereits gibt, zusammenzutragen. Ich lerne da selbst immer wieder Neues und habe bei Weitem noch nicht alles selbst ausprobiert.
