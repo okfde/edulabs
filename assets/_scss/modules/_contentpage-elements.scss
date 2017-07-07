@@ -46,10 +46,14 @@ posts + projects page
   color: $grey;
   font-size: 1rem;
   margin-top: 10px;
+  /*********************
+  changed link style: grey, underlined, with white background
+  *********************/
   a{
     text-decoration: underline;
     font-size: 1rem !important;
     color: $grey !important;
+    background-color: $white !important;
   }
 }
 
