@@ -1,0 +1,70 @@
+/*********************
+filter items
+*********************/
+
+.filter-items{
+
+  display: none;
+  margin: 30px 0 !important;
+
+  .filter-items-headline{
+    color: $black;
+    font-size: 0.8em;
+  }
+
+  .filter-item{
+    @include box();
+    @include teaser-shadow();
+    display: inline-block;
+    font-size: 1.5em;
+    cursor: pointer;
+    padding: 5px 15px;
+    margin: 6px 4px;
+    min-width: 180px;
+  }
+
+  &.green{
+
+    .filter-item{
+      background-color: $primary-color;
+      color: $black;
+
+      &.hover, &.active{
+        background-color: $black;
+        color: $white;
+      }
+    }
+
+  }
+
+  &.black{
+
+    .filter-item{
+      background-color: $black;
+      color: $white;
+
+      &.hover, &.active{
+        background-color: $white;
+        color: $black;
+      }
+    }
+
+  }
+
+  &.white{
+
+    .filter-item{
+      background-color: $white;
+      color: $black;
+
+      &.hover, &.active{
+        background-color: $black;
+        color: $white;
+      }
+    }
+
+
+  }
+
+}
+

@@ -1,0 +1,180 @@
+/******************************************************************
+H1, H2, H3, H4, H5 STYLES
+******************************************************************/
+
+h1, .h1 {
+  font-size: 3.25rem;
+}
+
+h2, .h2 {
+  font-size: 3rem;
+}
+
+h3, .h3 {
+  font-size: 2.25rem;
+}
+
+h4, .h4 {
+  font-size: 1.1rem;
+}
+
+h5, .h5 {
+  font-size: 0.846rem;
+}
+
+.section-headline{
+  font-size: 3rem;
+}
+.about-subline{
+  font-size: 2.25rem;
+}
+
+/*********************
+WRAPPER STYLES
+*********************/
+
+.heading {
+  font-size: 2.15rem;
+}
+.page-wrap {
+  a, p,.subheading, .content-element .infobox-headline, .content-element .infobox-copy, ul li {
+    font-size: 1.5rem;
+  }
+}
+
+.section {
+  padding: 60px 0;
+}
+
+.caption{
+  font-size: 1.2rem;
+}
+
+
+
+/*********************
+HERO
+*********************/
+
+.hero {
+  .logo {
+    width: 50vw;
+  }
+}
+
+/*********************
+BUTTONS
+*********************/
+
+.post-btn{
+
+  display: inline-block;
+  @include teaser-shadow();
+
+  &.next{
+    float: right;
+  }
+
+  &.prev{
+    float: left;
+  }
+
+}
+
+.edu-btn {
+  margin-bottom: 0;
+  &:last-of-type{
+    margin-left: 20px;
+  }
+
+  font-size: 2em;
+}
+
+.teaser-buttons-wrap{
+  .edu-btn {
+    width: 48%;
+  }
+}
+
+/*********************
+FOOTER STYLES
+*********************/
+
+.footer {
+
+  ul.nav-footer {
+
+  }
+
+  .social-nav {
+
+    display: block;
+    width: 100%;
+
+    ul {
+
+      display: inline-block;
+
+      li {
+
+        margin-right: 10px;
+        &:last-of-type{
+          margin-right: 0;
+        }
+
+        float: left;
+        display: inline-block;
+      }
+    }
+  }
+
+  .sponsors-nav{
+
+    margin: 100px 0 0 0;
+    display: block;
+    position: relative;
+    float: left;
+    width: 100%;
+
+    ul {
+
+      display: inline-block;
+      float: left;
+      margin: 0;
+
+      li {
+
+        float: left;
+        display: inline-block;
+        height: 90px;
+        margin-bottom: 0px;
+
+        margin-right: 30px;
+        &:last-of-type{
+          margin-right: 0;
+        }
+
+        &.cc-info{
+          text-align: left;
+          margin-left: 0px;
+          margin-top: 50px;
+          max-width: 400px;
+        }
+
+      }
+    }
+  }
+
+  .conduct {
+     padding-right: 15px;
+  }
+
+  .imprint{
+    bottom: 0;
+  }
+
+}
+
+.filter-items {
+  display: inline-block;
+}

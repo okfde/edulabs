@@ -1,0 +1,250 @@
+/*********************
+teasers
+*********************/
+.teaser{
+
+  text-align: left;
+
+  .teaser-inner{
+
+    background-color: $white;
+    width: 100%;
+    display: block;
+
+    @include teaser-shadow();
+
+    .teaser-image{
+      width: 100%;
+    }
+
+    .teaser-content{
+
+      padding: 20px;
+
+      .teaser-headline{
+        word-break: break-word;
+        color: $primary-color;
+      }
+
+    }
+
+    .teaser-buttons-wrap{
+
+      padding: 20px;
+      display: inline-block;
+      width: 100%;
+      text-align: center;
+
+      .edu-btn{
+        padding: 10px;
+        margin-bottom: 20px;
+
+        &:nth-child(odd){
+          float: none;
+        }
+        &:nth-child(even){
+          float: right;
+        }
+
+      }
+    }
+  }
+
+  .teaser-arrow{
+    height: 15px;
+    margin-top: 10px;
+    font-size: 1.5rem;
+    position: relative;
+
+    &:after{
+      margin-left: 0;
+      position: absolute;
+      left:0;
+      @include transition(all .5s ease);
+    }
+  }
+
+  &.lab-teaser{
+
+    /*********************
+    lab-teaser specific
+    *********************/
+
+    &:first-of-type{
+      margin-top: 30px;
+    }
+
+    padding: 20px 10px;
+
+    @include transition(transform .5s ease);
+    transform: scale(1);
+
+    @include teaser-shadow-hover();
+
+  }
+
+  &.member-teaser{
+
+    padding: 20px 10px;
+
+    .member-position{
+      font-size: 1.25rem;
+    }
+
+    .member-headline{
+      font-size: 2em;
+    }
+
+    .member-position{
+      color: $grey;
+      margin-bottom: 5px;
+    }
+
+    .member-teaser-content{
+      .teaser-copy{
+        margin-top: 0;
+      }
+    }
+  }
+
+
+  &.blog-teaser, &.project-teaser {
+
+    /*********************
+    featured blog teaser
+    *********************/
+    &.featured, &.featured-home{
+       margin: auto;
+       max-width: 500px;
+      .teaser-copy{
+        display: block;
+      }
+    }
+
+    padding: 0 10px 20px 10px;
+
+    .teaser-inner{
+
+      display: block;
+      background-color: $white;
+
+      .teaser-headline{
+        color: $black;
+      }
+
+      &:hover{
+        .teaser-arrow:after{
+          left: 100%;
+        }
+      }
+    }
+
+    .teaser-content{
+      padding: 20px;
+    }
+
+    .teaser-date, .teaser-cats,{
+      font-size: 0.85rem;
+    }
+
+    .teaser-date{
+      color: $grey;
+      display: block;
+      margin-bottom: 5px;
+    }
+
+    .teaser-cats{
+      font-weight: 700;
+      display: block;
+      margin-top: 10px;
+    }
+
+    .teaser-headline{
+      font-size: 1.7rem;
+    }
+
+    .teaser-copy{
+      font-size: 1.42rem;
+      margin-top: 0;
+    }
+  }
+
+  /*********************
+  project teaser specific
+  *********************/
+
+  &.project-teaser{
+    padding: 0 10px 20px 10px;
+
+    &.featured-home{
+      /*hint: never enable custom transitions for isotope
+        because this will lead to isotope filter-transition jitters*/
+      @include transition(transform .5s ease);
+      transform: scale(1);
+    }
+
+    &:hover{
+      .teaser-inner{
+        box-shadow: 0px 0px 15px 1px rgba(0,0,0,0.1);
+      }
+      .teaser-image{
+        .teaser-copy{
+          opacity: 1;
+        }
+      }
+    }
+
+    .teaser-image{
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: center;
+
+      .teaser-copy{
+        padding: 0 30px 20px 30px;
+        background-color: $white;
+        opacity: 0;
+        min-height: 200px;
+        @include transition(opacity .25s ease);
+      }
+
+    }
+
+  }
+
+  /*********************
+    blog teaser specific
+  *********************/
+
+  &.blog-teaser{
+    .teaser-inner{
+      &:hover {
+        background-color: $primary-color;
+        .teaser-date, .teaser-arrow:after {
+          color: $white;
+        }
+      }
+    }
+
+    .teaser-copy{
+      display: block;
+    }
+
+  }
+
+}
+
+.green{
+  .teaser{
+    &.blog-teaser{
+      .teaser-inner{
+        &:hover {
+          background-color: $grey-light;
+          .teaser-date, .teaser-arrow:after {
+            color: $black;
+          }
+        }
+      }
+
+    }
+  }
+}

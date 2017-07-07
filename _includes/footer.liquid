@@ -1,0 +1,73 @@
+<footer class="footer section white">
+    <h2>Kontakt</h2>
+    <div class="social-nav">
+        <ul>
+            <li><a class="edu-btn black" href="mailto:info@edulabs.de">Email</a></li>
+            <li><a class="edu-btn black" href="https://twitter.com/edulabsde" target="_blank" >Twitter</a></li>
+            <li><a class="edu-btn black" href="https://github.com/okfde/edulabs" target="_blank" >Github</a></li>
+        </ul>
+    </div>
+    <div class="sponsors-nav">
+        <ul>
+            <li>
+                <a href="https://www.bmbf.de/" target="_blank">
+                    <img class="img-responsive-height" src="{{ site.baseurl }}/assets/img/static/logo-bmbf.png"/>
+                </a>
+            </li>
+            <li>
+                <a href="https://okfn.de/" target="_blank">
+                    <img class="img-responsive-height" src="{{ site.baseurl }}/assets/img/static/logo-okfn.png"/>
+                </a>
+            </li>
+            <li>
+                <a href="http://www.medialepfade.org/" target="_blank">
+                    <img class="img-responsive-height" src="{{ site.baseurl }}/assets/img/static/mp.org.png"/>
+                </a>
+            </li>
+            <li class="cc-info">
+                <p class="bold">Inhalte dieser Webseite sind, sofern nicht anders angegeben, nach Creative Commons 4.0 Attribution lizenziert.</p>
+            </li>
+        </ul>
+        <div class="foot-links">
+        <a class="conduct simple-btn" href="/codeofconduct">Code of Conduct</a>
+        <a class="imprint simple-btn" href="/impressum">Impressum</a>
+        </div>
+    </div>
+</footer>
+
+        <!-- js libs -->
+        <script src="{{ site.baseurl }}/assets/js/vendor/jquery.min.js"></script>
+        <script src="{{ site.baseurl }}/assets/js/vendor/isotope.pkgd.min.js"></script>
+        <script src="{{ site.baseurl }}/assets/js/vendor/imagesloaded.pkgd.js"></script>
+        <script src="{{ site.baseurl }}/assets/js/vendor/jquery.fitvids.js"></script>
+        <script src="{{ site.baseurl }}/assets/js/vendor/logger.min.js"></script>
+
+        <script src="{{ site.baseurl }}/assets/js/vendor/lunr.min.js"></script>
+        <script src="{{ site.baseurl }}/assets/js/vendor/mustache.min.js"></script>
+        <script src="{{ site.baseurl }}/assets/js/vendor/date.format.js"></script>
+        <script src="{{ site.baseurl }}/assets/js/vendor/URI.js"></script>
+        <script src="{{ site.baseurl }}/assets/js/vendor/jquery.lunr.search.js"></script>
+
+        <!-- js custom -->
+        <script src="{{ site.baseurl }}/assets/js/modules/IsotopeController.js"></script>
+        <script src="{{ site.baseurl }}/assets/js/main.js"></script>
+
+        <script>
+            jQuery(document).ready(function($) {
+                $('#search-query').lunrSearch({
+                  indexUrl  : '/js/index.json',           // url for the .json file containing search index data
+                  results   : '#search-results',          // selector for containing search results element
+                  template  : '#search-results-template', // selector for Mustache.js template
+                  titleMsg  : '<h1>Search results<h1>',   // message attached in front of results (can be empty)
+                  emptyMsg  : '<p>Nothing found.</p>'     // shown message if search returns no results
+                });
+
+                window.controller = new Controller($);
+                window.controller.init();
+
+
+            });
+        </script>
+
+</body>
+</html>

@@ -1,12 +1,16 @@
 ---
+
 layout: post
 title: "Erste Projekte: zum edulabs-Planungstreffen und wie es weiter geht"
-excerpt: "Wir freuen uns über das große Interesse von über 35 Teilnehmer*innen, die für eine fruchtbare Atmosphäre auf dem ersten Planungstreffen der edulabs sorgten und die Räume des Supermarkt Berlins zu dem machten, wofür sie geschaffen wurden: digitale Kultur und kollaboratives Arbeiten."
+teaser: "Wir freuen uns über das große Interesse von über 35 Teilnehmer*innen, die für eine fruchtbare Atmosphäre auf dem ersten Planungstreffen der edulabs sorgten und die Räume des Supermarkt Berlins zu dem machten, wofür sie geschaffen wurden: digitale Kultur und kollaboratives Arbeiten."
+teaser_img_src: /assets/img/blog/2017/Mai/edulabs1review/planungstreffen_review.jpg
+categories: Kickoff Projekte
+twitter_large_img: /assets/img/blog/2017/Mai/edulabs1review/planungstreffen_review.jpg
+header_background: /assets/img/blog/2017/Mai/edulabs1review/planungstreffen_review.jpg
+header_background_caption: "Bild: 1. Planungstreffen von edulabs im Supermarkt Berlin"
+autor: Maximilian Voigt
+
 ---
-<div class="img-wrap-center">
-<img src="/img/blog/2017/planungstreffen_review.jpg" style="width: 100%; display: inline-block">
-<div style="text-align: right">Bild: 1. Planungstreffen von edulabs im Supermarkt Berlin<br><br></div>
-</div>
 <blockquote class="twitter-tweet tw-align-center" data-cards="hidden" data-lang="de"><p lang="de" dir="ltr"><a href="https://twitter.com/hashtag/edulabBE?src=hash">#edulabBE</a> startet..definitiv! Erste Projektideen, Konzeptfragen, Makerspirit. <a href="https://t.co/jeH1Tfckgn">pic.twitter.com/jeH1Tfckgn</a></p>&mdash; edulabs (@edulabsDE) <a href="https://twitter.com/edulabsDE/status/859832835053690887">3. Mai 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

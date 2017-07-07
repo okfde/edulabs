@@ -1,0 +1,19 @@
+{% assign filter_categories = include.filter | join:' ' %}
+<div class="teaser blog-teaser isotope-item {{ filter_categories }} {{ include.type }} {% if include.featured %}col-xs-24 col-sm-12 col-md-8 col-lg-12 col-xlg-8 {% else %}col-xs-24 col-sm-12 col-md-8 col-lg-6 col-xlg-4{% endif %}">
+        <a href="{{ include.url }}" class="teaser-inner">
+        <div class="teaser-image">
+            <img class="img-responsive" src="{{ include.src }}"/>
+        </div>
+        <div class="teaser-content blog-teaser-content">
+            <span class="teaser-date">{{ include.date | date: '%d %B %Y' }}</span>
+            <h3 class="teaser-headline">{{ include.headline }}</h3>
+            {% if include.featured %}
+            <p class="teaser-copy">{{ include.copy }}</p>
+            {% endif %}
+            {% if include.categories %}
+            <span class="teaser-cats">{{ include.categories }}</span>
+            {% endif %}
+            <div class="teaser-arrow has-arrow"></div>
+        </div>
+    </a>
+</div>

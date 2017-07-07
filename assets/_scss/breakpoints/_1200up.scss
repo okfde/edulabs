@@ -1,0 +1,28 @@
+.edu-btn {
+    margin-bottom: 0px;
+
+    &:last-of-type{
+      margin-left: 10px;
+    }
+}
+.teaser-buttons-wrap{
+  .edu-btn {
+    width: 48%;
+  }
+}
+
+/*********************
+contentpage elements
+*********************/
+.content-element{
+  display: block;
+  width: 40%;
+
+  &.left{
+    margin-left: -150px;
+  }
+  &.right{
+    margin-right: -100px;
+  }
+
+}

@@ -1,12 +1,18 @@
 ---
+
 layout: post
 title: "Ein-Chip-Computer und die Arduino-Plattform im Unterricht"
-excerpt: "Was ist die Arduino-Plattform und welche Vor- und Nachteile hat sie für die Anwendung im Schulunterricht?"
+teaser: "Was ist die Arduino-Plattform und welche Vor- und Nachteile hat sie für die Anwendung im Schulunterricht?"
+teaser_img_src: /assets/img/blog/2017/Mai/arduino/arduino.png
+featured: false
+categories: Toolcard
+twitter_large_img: /assets/img/blog/2017/Mai/arduino/arduino.png
+header_background: /assets/img/blog/2017/Mai/arduino/arduino.png
+header_background_caption: ""
+autor: Maximilian Voigt
+
 ---
-<div class="img-wrap-center">
-<img src="/img/blog/2017/arduino.png" style="width: 100%; display: inline-block">
-<div style="text-align: right"><br><br>Bild: Kallap85, <a href="https://commons.wikimedia.org/wiki/File:Barbone_Arduino_Uno.jpg">Barbone Arduino Uno</a>, <a href="https://commons.wikimedia.org/wiki/Category:CC-BY-SA-4.0">CC-BY-SA-4.0</a></div>
-</div>
+Bild: Kallap85, <a href="https://commons.wikimedia.org/wiki/File:Barbone_Arduino_Uno.jpg">Barbone Arduino Uno</a>, <a href="https://commons.wikimedia.org/wiki/Category:CC-BY-SA-4.0">CC-BY-SA-4.0</a>
 # Beschreibung
 Arduino ist der Markenname sowohl für eine Software als auch für eine Hardware-Plattform. Die Kombination beider Systeme erlaubt den vereinfachten Einstieg in die Programmierung von Elektronik oder auch das "physical computing". Der Kern liegt in der Arduino [IDE](https://de.wikipedia.org/wiki/Integrierte_Entwicklungsumgebung), die eine übersichtliche Oberfläche, schnelle Verbindung zur Hardware und den Zugriff auf eine große Bibliothek ermöglicht. Die Bibliothek erlaubt das Programmieren mit alltagsähnlichen Begriffen. Die Hardware erspart durch vereinfachtes Design den Blick ins Datenblatt des verbauten [Mikrocontrollers](https://de.wikipedia.org/wiki/Mikrocontroller), der normalerweise nötig ist.
 
@@ -24,8 +30,10 @@ Im Gegensatz zum Programmieren von Programmen, die auf Betriebssystemen ausgefü
 
 Wer Geld sparen möchte, kann auf die Arduino-Boards verzichten und mit den Schüler\*innen die Hardware auf Steckplatinen selbst zusammenbauen. Die Teile dafür können z.B. gemeinsam mit den Schüler\*innen durch die Demontage alter Hardware gewonnen werden.
 
-# Weiterführende Links und Quellen
-* [Erfahrungen mit Arduino im Schulunterricht von Mario Parade](http://fablearn.stanford.edu/fellows/blog/arduinos-classroom)
-* [Ein Unterrichtskonzept von Maik Riecken](https://riecken.de/index.php/2013/09/informatik-mit-arduino/)
-* [Kurzworkshop und Materialien für den Schulunterricht von Stefan Hermann](http://starthardware.org/arduino-unterrichtsmaterial/)
-* [Ein Artikel über die Arduino IDE](http://www.spiegel.de/netzwelt/gadgets/arduino-erklaert-das-kann-der-microcontroller-a-1105328.html)
+<p class="link-list">
+<span class="link-list-headline">Links und Quellen</span>
+<a class="external-link" href="http://fablearn.stanford.edu/fellows/blog/arduinos-classroom" target="_blank">Erfahrungen mit Arduino im Schulunterricht von Mario Parade</a>
+<a class="external-link" href="https://riecken.de/index.php/2013/09/informatik-mit-arduino/" target="_blank">Ein Unterrichtskonzept von Maik Riecken</a>
+<a class="external-link" href="http://starthardware.org/arduino-unterrichtsmaterial/" target="_blank">Kurzworkshop und Materialien für den Schulunterricht von Stefan Hermann</a>
+<a class="external-link" href="http://www.spiegel.de/netzwelt/gadgets/arduino-erklaert-das-kann-der-microcontroller-a-1105328.html" target="_blank">Ein Artikel über die Arduino IDE</a>
+</p>

@@ -1,0 +1,37 @@
+<header class="header">
+    <div class="header-inner">
+        <a class="signet" href="/">
+                <img src="{{ site.baseurl }}/assets/img/static/edulabs-signet.svg"/>
+        </a>
+        <ul class="main-nav">
+            {% assign base_dir = page.url | split:'/'  %}
+            {% assign base_dir = base_dir  %}
+            <li {% if base_dir[1] == 'labs' %} class="current" {% endif %}><a href="/labs">Labs</a></li>
+            <li {% if base_dir[1] == 'projects' %} class="current" {% endif %}><a href="/projects">Projekte</a></li>
+            <li {% if base_dir[1] == 'blog' %} class="current" {% endif %}><a href="/blog">Blog</a></li>
+            <li {% if base_dir[1] == 'about' %} class="current" {% endif %}><a href="/about">About</a></li>
+            <li {% if base_dir[1] == 'join' %} class="current" {% endif %}><a href="/join">Mitmachen</a></li>
+            <li class="search mobile">
+                <form action="" method="get">
+                    <div class="form-group">
+                        <input class="search-field mobile" type="text" name="search" placeholder="Suche...">
+                    </div>
+                </form>
+                <div class="search-icon mobile">
+                    <img src="{{ site.baseurl }}/assets/img/static/search-icon.svg"/>
+                </div>
+            </li>
+        </ul>
+        <div class="search desktop">
+            <form action="#" method="get">
+                <div class="form-group">
+                    <input id="search-query" class="search-field desktop" type="text" name="q" autocomplete="off" placeholder="Suche..." onkeypress="return event.keyCode!=13">
+                </div>
+            </form>
+        </div>
+        <div class="search-icon desktop">
+            <img src="{{ site.baseurl }}/assets/img/static/search-icon.svg"/>
+        </div>
+        <div class="nav-toggle"><span></span></div>
+    </div>
+</header>

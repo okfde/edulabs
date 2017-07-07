@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <title>edulabs</title>
+    <meta charset="utf-8">
+    <meta name="description" content="">
+    <meta name="author" content="Rainbow Unicorn">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" type="image/x-icon" href="/assets/img/static/edulabs.ico">
+    {% if page.twitter_large_img %}
+    <meta name="twitter:card" content="summary_large_image" />
+    {% else %}
+    <meta name="twitter:card" content="summary" />
+    {% endif %}
+    <meta name="twitter:title" content="{{ page.title }}" />
+    <meta name="twitter:description" content="{{ page.teaser }}" />
+    {% if page.twitter_large_img %}
+    <meta name="twitter:image" content="{{ page.twitter_large_img }}" />
+    {% endif %}
+    {% if page.twitter_img %}
+    <meta name="twitter:image" content="{{ page.twitter_img }}" />
+    {% endif %}
+    <link rel="stylesheet" href="/assets/main.css">
+</head>
+<body>
+{% include header.liquid %}
+<div class="page-wrap">
+    <div class="row">
+        <section class="section first col-xs-24">
+        <div class="content-wrap subpage">
+            <div class="post-date">{{ include.date | date: '%d. %B %Y'  }}</div>
+            <h1 class="section-headline">{{ page.title }}</h1>
+            {% if page.autor %}
+            <div class="blue post-author">{{ page.autor }}</div>
+            {% endif %}
+        </div>
+            <!-- a fullwidth image -->
+            {% if page.header_background %}
+            {% include partials/content/content-fullwidth-image.liquid src=page.header_background caption=page.header_background_caption %}
+            {% endif %}
+            <div class="content-wrap subpage">
+                <h1 class="section-headline"></h1>
+            </div>
+            <div class="content-wrap subpage">
+                <div class="subpage-content">
+                    {{ content }}
+                </div>
+            </div>
+        </section>
+        <!-- prev/next -->
+        <div class="row">
+            <section class="section col-xs-24">
+                {% if page.previous %}
+                <a class="post-btn prev" href="{{ page.previous.url }}">Vorheriger Artikel</a>
+                {% endif %}
+                {% if page.next %}
+                <a class="post-btn next" href="{{ page.next.url }}">Nächster Artikel</a>
+                {% endif %}
+            </section>
+        </div>
+
+        <!-- blog -->
+        <div class="row">
+            <section class="section green col-xs-24">
+                <div class="content-wrap">
+                    <h2 class="section-headline">Verwandte Artikel</h2>
+                </div>
+                <!-- blog teasers -->
+                {% include partials/blog/blog-isotope.liquid posts_num=5 not_featured=true %}
+                <div class="content-wrap btn-wrap">
+                    <a class="edu-btn black" href="/blog" target="_blank">Alle Artikel</a>
+                </div>
+            </section>
+        </div>
+        <!-- blog -->
+
+    </div>
+</div>
+<!-- include mitmachen section -->
+{% include partials/sections/apply.liquid %}
+{% include footer.liquid %}

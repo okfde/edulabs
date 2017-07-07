@@ -1,0 +1,17 @@
+{% if include.homepage %}
+<div class="isotope-wrap">
+{% else %}
+<div class="isotope-wrap col-xs-22 col-xs-push-1 col-lg-push-8 col-md-push-8 no-padding">
+{% endif %}
+    <div class="grid-sizer col-xs-24 col-sm-12 col-md-8 col-md-push-8 col-lg-6 col-xlg-4"></div>
+    {% for project in site.projects %}
+      {% assign categories = project.categories | join:', ' %}
+      {% assign categories = "#" | append:categories %}
+      {% if project.link %}
+      {% assign url = project.link %}
+      {% else %}
+      {% assign url = project.url %}
+      {% endif %}
+      {% include partials/project/project-teaser.liquid url=url featured=project.featured teaser=project.teaser filter=project.categories categories=categories src=project.teaser_img_src headline=project.headline copy=project.teaser %}
+    {% endfor %}
+</div>

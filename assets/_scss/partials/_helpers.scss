@@ -1,0 +1,165 @@
+/******************************************************************
+Generic helper classes
+******************************************************************/
+
+/* removes dotted lines around links*/
+a, a:active, a:focus {
+  outline: none;
+}
+
+*:not(input):not(textarea) {
+  -webkit-touch-callout: none; /* disable the IOS popup when long-press on a link */
+}
+
+*::selection {
+  background: $selection-background-color;
+  color: $selection-color;
+}
+
+input:-webkit-autofill {
+  -webkit-box-shadow: 0 0 0 1000px white inset !important;
+}
+
+.hidden{
+  border: 0;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+}
+
+.invisible{
+  visibility: hidden;
+}
+
+.no-padding{
+  padding: 0 !important;
+}
+
+.uppercase{
+  text-transform: uppercase;
+}
+
+.lowercase{
+  text-transform: lowercase;
+}
+
+.fullwidth{
+  width:100%
+}
+.fullheight{
+  min-height: 100vh;
+}
+
+.centered{
+  text-align: center !important;
+}
+
+.align-left{
+  text-align: left !important;
+}
+
+.align-right{
+  text-align: right !important;
+}
+
+.karla{
+  font-family: $font-karla;
+}
+
+.worksans{
+  font-family: $font-worksans;
+}
+
+.mono{
+  font-family: $font-mono;
+}
+
+.relative{
+  position: relative;
+}
+
+.absolute{
+  position: absolute;
+}
+
+.regular{
+  font-weight: 400;
+}
+
+.bold{
+  font-weight: 700;
+}
+
+.italic{
+  font-style: italic;
+}
+
+.uppercase{
+  text-transform: uppercase;
+}
+
+.inactive {
+  cursor: default;
+}
+
+.black{
+  color: $black;
+}
+.white{
+  color: $white;
+}
+.grey-light{
+  color: $grey-light;
+}
+.green{
+  color: $primary-color;
+}
+.blue{
+  color: $secondary-color;
+}
+
+.bg-black{
+  background-color: $black;
+}
+.bg-white{
+  background-color: $white;
+}
+.bg-grey-light{
+  background-color: $grey-light;
+}
+.bg-green{
+  background-color: $primary-color;
+}
+.bg-blue{
+  background-color: $secondary-color;
+}
+
+.img-responsive{
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.img-responsive-height{
+  width: auto;
+  height: 100%;
+  display: block;
+}
+
+.greyscale{
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
+}
+
+.unselectable {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
