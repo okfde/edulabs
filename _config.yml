@@ -60,4 +60,4 @@ collections:
 repository: 'okfde/edulabs'
 
 staticman:
-  branch: "dev-new-website-comments"
+  branch: "master"
