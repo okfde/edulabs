@@ -102,9 +102,10 @@ contentpage elements
     }
 
     .infobox-copy{
-
+    a{
+      text-decoration: underline;
     }
-
+    }
     .infobox-headline, .infobox-copy{
       font-size: 1.25rem;
       display: block;
