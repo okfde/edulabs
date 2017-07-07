@@ -2,6 +2,11 @@
 layout: default
 title: About
 permalink: /about/
+info_text: |
+  this an example
+  <a href="http://vaz.io">Link </a>
+
+  What
 ---
 <!-- über das projekt -->
 <div class="row">
@@ -32,7 +37,7 @@ permalink: /about/
                     und verbessert werden.
 
                     <!-- include an infobox -->
-                    {% include partials/content/content-infobox.liquid float="right" headline="Title of info box" copy="Itaquatur, velitiu mquatectis ea quistius volupid eruptatatet haruptatiis apereca ercipictem quas dolorero beate aut doloribus rectem aut et accupidias ma dol. Itaquatur, velitiu mquatectis ea quistius volupid eruptatatet haruptatiis apereca ercipictem quas dolorero beate aut doloribus rectem aut et accupidias ma dol. " %}
+                    {% include partials/content/content-infobox.liquid float="right" headline="Title of info box" copy=page.info_text %}
 
                     In
                     drei Bundesländern organisiert

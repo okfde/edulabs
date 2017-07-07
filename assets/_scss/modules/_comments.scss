@@ -1,0 +1,160 @@
+/* ==========================================================================
+   Comments
+   ========================================================================== */
+
+#comments {
+  font-size: 0.8em;
+}
+
+#respond {
+  font-size: 1rem;
+}
+
+.page__reactions {
+  margin: auto;
+  text-align: left;
+  max-width: 800px;
+
+}
+
+.comment {
+  position: relative;
+  margin-bottom: 4em;
+  padding-left: 4.5em;
+
+  // comment replies
+  &.child {
+    margin-left: 4.5em;
+
+    &:before {
+      position: absolute;
+      top: 4em;
+      left: 2.75em;
+      bottom: 0;
+      content: '';
+      width: 0.5em;
+      background-color: #e3e3e3;
+    }
+  }
+
+  // admin commenter
+  &.admin {
+
+    &.child {
+
+      &:before {
+        background-color: $primary-color;
+      }
+    }
+
+    .comment__avatar {
+
+     /* &:after {
+        background-color: $primary-color;
+      } */
+    }
+  }
+}
+
+.comment__timestamp {
+  font-size: 0.8em;
+
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
+}
+
+.comment__content {
+
+  > p, > ul, > ol, > figure, > table {
+    margin-bottom: 1.5em;
+  }
+
+  ul {
+    list-style-type: square;
+  }
+
+  li {
+    margin-bottom: 0.5em;
+  }
+
+  li > ul,
+  li > ol {
+    margin-top: 0.5em;
+  }
+
+  img {
+    max-width: 100%;
+  }
+
+  div.highlighter-rouge .highlight code {
+    font-size: 0.8em;
+  }
+}
+
+.comment__avatar {
+  float: left;
+  margin-right: 20px;
+  top: 0;
+  left: 0;
+
+/*  &:after {
+    position: absolute;
+    bottom: 0.5em;
+    right: 0.5em;
+    width: 3.25em;
+    height: 3.25em;
+    content: '';
+    background: #e3e3e3 repeating-linear-gradient(-45deg, transparent, transparent 0.25%, white 0.25%, white 0.5%);
+    z-index: -1;
+  } */
+}
+
+.comment__author-name {
+  margin: 0 0 0.25em 0;
+  font-size: 1.25em;
+  line-height: 1;
+
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
+}
+
+.comment__reply {
+  text-align: right;
+
+  .icon {
+    display: inline-block;
+    position: relative;
+    top: -.125em;
+    line-height: 1;
+    vertical-align: middle;
+    fill: currentColor;
+  }
+
+  .btn {
+  }
+}
+
+#cancel-comment-reply-link {
+  margin-left: 1em;
+}
+
+#comment-form {
+  margin-bottom: 3em;
+  font-size: 1.6em;
+
+  a {
+    font-style: italic;
+    font-size: 1em;
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+
+  fieldset {
+     border: none;
+  }
+}

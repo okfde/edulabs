@@ -299,6 +299,7 @@
     })(jQuery);
 
     // Staticman comment replies
+    // code from Michael Rose: https://github.com/mmistakes/made-mistakes-jekyll
     // modified from Wordpress https://core.svn.wordpress.org/trunk/wp-includes/js/comment-reply.js
     window.addComment = {
       moveForm: function( commId, parentId, respondId, postId ) {
