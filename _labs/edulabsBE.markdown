@@ -8,12 +8,10 @@ src: "/assets/img/labs/edulabsBE.jpg"
 <img src="/assets/img/labs/edulabsBE.jpg" style="width: 100%; display: inline-block">
 <div style="text-align: right"></div>
 </div>
-Willkommen bei edulabsBE! Wir arbeiten in verschiedenen Gruppen an Projekten
-rund um freie und zeitgemäße Bildung. Wir kommen aus ganz verschiedenen
-Bereichen, entsprechend behandeln auch die Projekte, an denen wir arbeiten,
-ganz unterschiedliche Themen. Wir treffen uns jeden ersten und dritten Dienstag
-im Monat, um 18:30 Uhr, in den Lehrwerkstätten der TU-Berlin (Marchstraße 23,
-10587, Untergeschoss) und arbeiten an unseren Projekten. Anfangs machen wir
-eine Vorstellungsrunde, bei der wir zeigen, woran wir gerade arbeiten. Wenn du
-neue Ideen und Projekte hast, kannst du sie ebenfalls vorstellen. Du hast Lust,
-dir unser Lab anzuschauen? Dann komm einfach zum nächsten Treffen vorbei!
+Willkommen bei edulabsBE! In selbstorganisierten Teams entwickeln wir neue Tools, Materialien und Methoden für offene Bildung.<br>Wir kommen aus ganz verschiedenen
+Bereichen, entsprechend behandeln auch unsere <a href="hackdash.org/dashboards/edulabs">Lab-Projekte</a> ganz unterschiedliche Themen.<br>
+<br>
+Wir treffen uns regelmäßig in den Lehrwerkstätten der TU-Berlin (**Marchstraße 23,
+10587 Berlin, Untergeschoss** (<a href="https://goo.gl/maps/ghTV3dpD4Nr">Karte</a>)) und arbeiten an unseren Projekten.  Neue Vorhaben und Ideen kannst du zu Beginn gerne vorstellen. Du hast Lust, dir unser Lab anzuschauen? Dann komm einfach zum nächsten Treffen vorbei:
+
+<a class="edu-btn black" href="https://www.meetup.com/edulabsBE/">Meetup-Gruppe</a>
