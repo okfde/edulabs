@@ -1,6 +1,6 @@
 comments:
   allowedFields     : ['name', 'email', 'url', 'message', 'replying_to']
-  branch            : "dev-new-website-comments"
+  branch            : "master"
   commitMessage     : "New comment."
   filename          : "comment-{@timestamp}"
   format            : "yaml"
