@@ -4,7 +4,10 @@ title:  "BE"
 headline: "edulabs Berlin"
 src: "/assets/img/labs/edulabsBE.jpg"
 ---
-
+<div class="img-wrap-center">
+<img src="/assets/img/labs/edulabsBE.jpg" style="width: 100%; display: inline-block">
+<div style="text-align: right"></div>
+</div>
 Willkommen bei edulabsBE! Wir arbeiten in verschiedenen Gruppen an Projekten
 rund um freie und zeitgemäße Bildung. Wir kommen aus ganz verschiedenen
 Bereichen, entsprechend behandeln auch die Projekte, an denen wir arbeiten,
