@@ -2,7 +2,7 @@
 layout: project
 title:  "KA"
 headline: "edulabs Karlsruhe (geplant)"
-src: "/assets/img/static/edulabsKA.jpg"
+src: "/assets/img/labs/edulabsKA.jpg"
 ---
 
 

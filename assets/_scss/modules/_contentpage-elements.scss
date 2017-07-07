@@ -46,6 +46,11 @@ posts + projects page
   color: $grey;
   font-size: 1rem;
   margin-top: 10px;
+  a{
+    text-decoration: underline;
+    font-size: 1rem !important;
+    color: $grey !important;
+  }
 }
 
 /*********************
