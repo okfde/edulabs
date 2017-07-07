@@ -57,7 +57,7 @@ collections:
     output: true
     permalink: /:collection/:name
 
-repository: 'okde/edulabs'
+repository: 'okfde/edulabs'
 
 staticman:
   branch: "dev-new-website-comments"
