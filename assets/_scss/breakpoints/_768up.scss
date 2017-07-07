@@ -135,7 +135,6 @@ FOOTER STYLES
     position: relative;
     float: left;
     width: 100%;
-    padding: 0 50px;
 
     ul {
 
@@ -166,9 +165,11 @@ FOOTER STYLES
     }
   }
 
+  .conduct {
+     padding-right: 15px;
+  }
+
   .imprint{
-    right: 50px;
-    position: absolute;
     bottom: 0;
   }
 

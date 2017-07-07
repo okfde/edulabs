@@ -8,7 +8,7 @@ categories: About
 twitter_large_img:
 header_background:
 header_background_caption: ""
-autor: Maximilian Voigt
+autor: Markus Neuschäfer
 ---
 
 Es ist soweit: Das edulabs-Blog hat das Licht der digitalen Welt erblickt. Das Projekt ist am 1.3. gestartet; im ersten Monat ist bereits viel geschehen: Es gibt ein Team, erste Kooperationen, Events und Partner, nun auch eine vorläufige Website. Ab sofort gibt es hier Informationen zum Fortschritt der Labs, zu tollen digital gestützten Bildungsformaten und den Menschen, die sie geschaffen haben.

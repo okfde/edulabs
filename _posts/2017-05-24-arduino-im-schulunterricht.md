@@ -4,7 +4,7 @@ layout: post
 title: "Ein-Chip-Computer und die Arduino-Plattform im Unterricht"
 teaser: "Was ist die Arduino-Plattform und welche Vor- und Nachteile hat sie für die Anwendung im Schulunterricht?"
 teaser_img_src: /assets/img/blog/2017/Mai/arduino/arduino.png
-featured: true
+featured: false
 categories: Toolcard
 twitter_large_img: /assets/img/blog/2017/Mai/arduino/arduino.png
 header_background: /assets/img/blog/2017/Mai/arduino/arduino.png
@@ -30,8 +30,10 @@ Im Gegensatz zum Programmieren von Programmen, die auf Betriebssystemen ausgefü
 
 Wer Geld sparen möchte, kann auf die Arduino-Boards verzichten und mit den Schüler\*innen die Hardware auf Steckplatinen selbst zusammenbauen. Die Teile dafür können z.B. gemeinsam mit den Schüler\*innen durch die Demontage alter Hardware gewonnen werden.
 
-# Weiterführende Links und Quellen
-* [Erfahrungen mit Arduino im Schulunterricht von Mario Parade](http://fablearn.stanford.edu/fellows/blog/arduinos-classroom)
-* [Ein Unterrichtskonzept von Maik Riecken](https://riecken.de/index.php/2013/09/informatik-mit-arduino/)
-* [Kurzworkshop und Materialien für den Schulunterricht von Stefan Hermann](http://starthardware.org/arduino-unterrichtsmaterial/)
-* [Ein Artikel über die Arduino IDE](http://www.spiegel.de/netzwelt/gadgets/arduino-erklaert-das-kann-der-microcontroller-a-1105328.html)
+<p class="link-list">
+<span class="link-list-headline">Links und Quellen</span>
+<a class="external-link" href="http://fablearn.stanford.edu/fellows/blog/arduinos-classroom" target="_blank">Erfahrungen mit Arduino im Schulunterricht von Mario Parade</a>
+<a class="external-link" href="https://riecken.de/index.php/2013/09/informatik-mit-arduino/" target="_blank">Ein Unterrichtskonzept von Maik Riecken</a>
+<a class="external-link" href="http://starthardware.org/arduino-unterrichtsmaterial/" target="_blank">Kurzworkshop und Materialien für den Schulunterricht von Stefan Hermann</a>
+<a class="external-link" href="http://www.spiegel.de/netzwelt/gadgets/arduino-erklaert-das-kann-der-microcontroller-a-1105328.html" target="_blank">Ein Artikel über die Arduino IDE</a>
+</p>

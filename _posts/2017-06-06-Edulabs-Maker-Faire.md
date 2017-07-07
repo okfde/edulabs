@@ -19,12 +19,12 @@ Neben zahlreichen Projekt-Ständen, auf denen Maker ihre Erfindungen ausstellen,
 Du hast ein Projekt entdeckt, das Dir besonders gefällt und kannst Dir vorstellen, dass es sich für den Unterricht eignet? Dann besuche unsere Meetups am __Samstag und Sonntag (10./11.6.), jeweils um 14 Uhr__ an unserem Stand. Dort stellen wir [aktuelle Vorhaben](https://hackdash.org/dashboards/edulabs) aus den edulabs vor, planen zusammen die nächsten Events und freuen uns über neue Ideen.
 
 Ihr findet uns am Stand 96, direkt neben [Jugend Hackt](https://jugendhackt.org/).
-
 <center><a class="btn btn-lg btn-default"
    href="https://www.meetup.com/edulabsBE/events/240574355/"
    role="button">Zur Anmeldung (Sa. 10.6. und So. 11.6., 14:00) »</a></center>
-
-# Weitere Informationen
-[Anmeldung (Meetup)](https://www.meetup.com/edulabsBE/events/240574355/)<br>
-[Edulabs-Treffen am 13.6. (TU Berlin)](https://edulabs.de/blog/Erstes-edulabs-Treffen-in-Berlin)<br>
-[Aktuelle Projekte im edulabs Hackdash](https://hackdash.org/dashboards/edulabs)
+<p class="link-list">
+<span class="link-list-headline">Weitere Informationen</span>
+<a class="external-link" href="https://www.meetup.com/edulabsBE/events/240574355/" target="_blank">Anmeldung (Meetup)</a>
+<a class="external-link" href="https://edulabs.de/blog/Erstes-edulabs-Treffen-in-Berlin" target="_blank">Edulabs-Treffen am 13.6. (TU Berlin)</a>
+<a class="external-link" href="https://hackdash.org/dashboards/edulabs" target="_blank">Projektvorstellungen im edulabs Hackdash</a>
+</p>

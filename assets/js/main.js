@@ -268,7 +268,7 @@
         var form = this;
 
         $(form).addClass('disabled');
-        $('#comment-form-submit').html('<svg class="icon spin"><use xlink:href="#icon-loading"></use></svg> Loading...');
+        $('#comment-form-submit').html('Loading...');
 
         $.ajax({
           type: $(this).attr('method'),

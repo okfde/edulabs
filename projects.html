@@ -8,13 +8,28 @@ permalink: /projects/
     <section class="section first green col-xs-24">
         <div class="content-wrap">
             <h2 class="section-headline">Projekte</h2>
+            <!--    <p>Von der Idee zum Projekt: In den edulabs entwickeln Teams zusammen Projekte für zeitgemäße Bildung. Projektideen sammeln wir zuerst im <a href="https://hackdash.org/dashboards/edulabs">edulabs Hackdash</a>. Hat sich eine Arbeitsgruppe gefunden, wird diese sowie das Vorhaben im Folgenden aufgeführt.</p> -->
         </div>
         <!-- filters -->
+        <!--
         <div class="content-wrap filter-items white">
             {% include partials/projects-filters.liquid %}
-        </div>
+        </div> -->
         <!-- blog teasers -->
-        {% include partials/project/project-isotope.liquid %}
+        <div class="row content-wrap">
+            {% for project in site.projects %}
+            {% if project.homepage %}
+            {% if project.link %}
+            {% assign url = project.link %}
+            {% else %}
+            {% assign url = project.url %}
+            {% endif %}
+            {% include partials/project/project-teaser.liquid homepage=true url=url src=project.teaser_img_src
+            type="featured-home" featured=project.featured headline=project.headline  copy=project.teaser %}
+            {% endif %}
+            {% endfor %}
+        </div>
+        </div>
     </section>
 </div>
 <!-- include mitmachen section -->
