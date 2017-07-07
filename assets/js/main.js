@@ -278,7 +278,7 @@
           success: function (data) {
             $('#comment-form-submit').html('Kommentar eingereicht').addClass('btn--disabled');
             $('#comment-form .js-notice').removeClass('notice--danger').addClass('notice--success');
-            showAlert('<strong>Danke für deinen Kommentar!</strong> Er wird sichtbar, sobald du deine Email-Adresse verifiziert und die Seite neu geladen hast.');
+            showAlert('<strong>Danke für deinen Kommentar!</strong> Er wird sichtbar, sobald er freigegeben wurde.');
           },
           error: function (err) {
             console.log(err);
