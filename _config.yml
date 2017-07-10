@@ -56,3 +56,8 @@ collections:
   labs:
     output: true
     permalink: /:collection/:name
+
+repository: 'okfde/edulabs'
+
+staticman:
+  branch: "master"
