@@ -4,7 +4,7 @@ layout: post
 title: "Lösung für fehlendes WLAN an Schulen: Das edulabsBE geht in die 3. Runde"
 teaser: "Gerade erst eröffnet und doch steht schon das dritte Treffen des edulabsBE: Am 18.07., um 18:30 Uhr, kommen wieder Engagierte aus unterschiedlichen Bereichen zusammen, um gemeinsam neue Bildungskonzepte zu entwickeln."
 teaser_img_src: /assets/img/blog/2017/Juli/edulabsBE3/edulabsBE_3.jpg
-featured: false
+featured: true
 categories: edulabsBE
 twitter_large_img: /assets/img/blog/2017/Juli/edulabsBE3/edulabsBE_3_twitter.jpg
 header_background: /assets/img/blog/2017/Juli/edulabsBE3/edulabsBE_3.jpg
