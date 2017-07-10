@@ -4,7 +4,7 @@ layout: post
 title: "Erste Projekte: zum edulabs-Planungstreffen und wie es weiter geht"
 teaser: "Wir freuen uns über das große Interesse von über 35 Teilnehmer*innen, die für eine fruchtbare Atmosphäre auf dem ersten Planungstreffen der edulabs sorgten und die Räume des Supermarkt Berlins zu dem machten, wofür sie geschaffen wurden: digitale Kultur und kollaboratives Arbeiten."
 teaser_img_src: /assets/img/blog/2017/Mai/edulabs1review/planungstreffen_review.jpg
-categories: Kickoff Projekte
+categories: Events
 twitter_large_img: /assets/img/blog/2017/Mai/edulabs1review/planungstreffen_review.jpg
 header_background: /assets/img/blog/2017/Mai/edulabs1review/planungstreffen_review.jpg
 header_background_caption: "Bild: 1. Planungstreffen von edulabs im Supermarkt Berlin"
