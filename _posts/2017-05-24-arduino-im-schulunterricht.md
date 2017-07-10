@@ -22,6 +22,7 @@ Im Gegensatz zum Programmieren von Programmen, die auf Betriebssystemen ausgefü
 # Vorteile
 * Arduino ermöglicht einen anschaulichen Einstieg in Elektronik und Programmieren, die Projekte bieten anschauliche Anwendungsbeispiele für Physik und Mathematik.
 * Erste Projekte können schnell umgesetzt werden.
+* Die Hardware sowie die Software sind [Open Source](https://de.wikipedia.org/wiki/Open_Source). 
 * Die Auseinandersetzung mit Mikrocontrollern vermittelt Grundwissen über Technologien, die in vielen Produkten des Alltags zu finden sind. Dieses Verständnis stärkt die Mündigkeit in technischen Debatten und erhöht die Freiheit im Umgang mit Technik.
 
 # Nachteile

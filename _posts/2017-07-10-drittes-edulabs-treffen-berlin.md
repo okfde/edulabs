@@ -32,6 +32,7 @@ Marchstraße 23<br>
 
 <p class="link-list">
 <span class="link-list-headline">Links</span>
+<a class="external-link" href="http://okfn.us5.list-manage.com/track/click?u=929f1e07936386d34833e20d1&id=7b24780aae&e=2a8c001707" target="_blank">Etherpad zum Treffen</a>
 <a class="external-link" href="https://www.meetup.com/edulabsBE/events/241174572/" target="_blank">Anmeldung (Meetup)</a>
 <a class="external-link" href="https://edulabs.de/blog/projektstart-edulabs" target="_blank">Zum Start von edulabs</a>
 <a class="external-link" href="https://hackdash.org/dashboards/edulabs" target="_blank">Projektvorstellungen im edulabs Hackdash</a>
