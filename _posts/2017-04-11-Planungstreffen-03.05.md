@@ -4,7 +4,7 @@ layout: post
 title: "3. Mai 2017: Planungstreffen im Supermarkt Berlin"
 teaser: "Am 3.5. organisieren wir ein erstes Planungstreffen im Supermarkt Berlin. Wir stellen das Projekt vor, besprechen das Konzept, starten erste Projekte und freuen uns auf Euer Feedback und neue Ideen!"
 teaser_img_src: /assets/img/blog/2017/April/edulabs1/supermarkt-berlin.jpg
-categories: Kickoff
+categories: Events
 twitter_large_img: /assets/img/blog/2017/April/edulabs1/supermarkt-berlin.jpg
 header_background: /assets/img/blog/2017/April/edulabs1/supermarkt-berlin.jpg
 header_background_caption: "Bild: Supermarkt Berlin"

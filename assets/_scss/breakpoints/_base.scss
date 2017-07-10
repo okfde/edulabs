@@ -443,6 +443,14 @@ HEADER STYLES
 HERO
 *********************/
 
+body:not(.safari){
+  .hero{
+    &.home{
+      background-attachment: fixed;
+    }
+  }
+}
+
 .hero{
 
   margin-top: $header-height;
@@ -468,7 +476,6 @@ HERO
     height: 80vh;
     background: url($baseurl + '/assets/img/static/header-home.jpg') no-repeat;
     background-size: cover;
-    background-attachment: fixed;
     background-position: center;
   }
 

@@ -115,7 +115,7 @@
             Logger.log("reinit isotope");
 
             $grid = $itemsWrap.imagesLoaded().progress( function( imgLoad, image ) {
-                Logger.log("loaded one");
+                $itemsWrap.isotope('layout');
             }).isotope({
                 itemSelector: '.isotope-item',
                 percentPosition: true,
