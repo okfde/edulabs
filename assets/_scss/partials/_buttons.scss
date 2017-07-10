@@ -13,6 +13,13 @@
   padding: 10px 40px;
 
   /*defaults to white*/
+
+  &:visited{
+    color: $white;
+    border: 2px solid $white;
+    background-color: transparent !important;
+  }
+
   color: $white;
   border: 2px solid $white;
   background-color: transparent !important;
@@ -37,10 +44,33 @@
     color: $black !important;
     border: 2px solid $black;
 
+    &:visited{
+      color: $black !important;
+      border: 2px solid $black;
+    }
+
     &:hover{
       color: $white !important;
       background-color: $black !important;
       border: 2px solid $black;
+    }
+
+  }
+
+  &.white{
+    color: $white !important;
+    border: 2px solid $white;
+
+    &:visited{
+      color: $white !important;
+      border: 2px solid $white;
+    }
+
+
+    &:hover{
+      color: $black !important;
+      background-color: $white !important;
+      border: 2px solid $white;
     }
 
   }
