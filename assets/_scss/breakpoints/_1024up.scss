@@ -184,7 +184,6 @@ HEADER STYLES
 }
 
 
-
 /*********************
 FOOTER STYLES
 *********************/
@@ -201,26 +200,21 @@ FOOTER STYLES
 
 
   .sponsors-nav{
-
-
     ul {
-
-
       li {
-
         &.cc-info{
           text-align: left;
-          margin-left: 50px;
-          margin-top: 0;
+          margin-left: 0px;
+          margin-top: 50px;
           max-width: 300px;
         }
-
       }
     }
   }
 
 
 }
+
 
 /*********************
 contentpage elements

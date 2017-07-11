@@ -26,3 +26,30 @@ contentpage elements
   }
 
 }
+
+/*********************
+FOOTER STYLES
+*********************/
+.footer {
+  .sponsors-nav{
+    ul {
+
+      padding-bottom: 80px;
+
+      li {
+
+        margin-right: 50px;
+
+        &.cc-info{
+          margin-top: 0px;
+          margin-right: 0;
+        }
+      }
+    }
+  }
+
+  .foot-links{
+    margin-top: 0;
+  }
+
+}
