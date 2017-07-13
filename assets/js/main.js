@@ -21,6 +21,9 @@
 
         Logger.useDefaults();
         Logger.setLevel(Logger.OFF);
+		
+		var browser = ref.getBrowser();
+        $('body').addClass(browser.name.toLowerCase()).addClass('version-' + browser.version.toLowerCase());
 
     };
 
@@ -257,6 +260,28 @@
         }
         return { width : e[ a+'Width' ] , height : e[ a+'Height' ] };
     };
+	
+	/*********************
+    get browser type + version
+    *********************/
+    Controller.prototype.getBrowser = function()
+    {
+        var ua=navigator.userAgent,tem,M=ua.match(/(opera|chrome|safari|firefox|msie|trident(?=\/))\/?\s*(\d+)/i) || [];
+        if(/trident/i.test(M[1])){
+            tem=/\brv[ :]+(\d+)/g.exec(ua) || [];
+            return {name:'IE',version:(tem[1]||'')};
+        }
+        if(M[1]==='Chrome'){
+            tem=ua.match(/\bOPR\/(\d+)/)
+            if(tem!=null)   {return {name:'Opera', version:tem[1]};}
+        }
+        M=M[2]? [M[1], M[2]]: [navigator.appName, navigator.appVersion, '-?'];
+        if((tem=ua.match(/version\/(\d+)/i))!=null) {M.splice(1,1,tem[1]);}
+        return {
+            name: M[0],
+            version: M[1]
+        };
+    };
 
     window.Controller = Controller;
 
@@ -268,7 +293,7 @@
         var form = this;
 
         $(form).addClass('disabled');
-        $('#comment-form-submit').html('Loading...');
+        $('#comment-form-submit').html('Wird geladen...');
 
         $.ajax({
           type: $(this).attr('method'),
@@ -276,15 +301,15 @@
           data: $(this).serialize(),
           contentType: 'application/x-www-form-urlencoded',
           success: function (data) {
-            $('#comment-form-submit').html('Submitted').addClass('btn--disabled');
+            $('#comment-form-submit').html('Kommentar eingereicht').addClass('btn--disabled');
             $('#comment-form .js-notice').removeClass('notice--danger').addClass('notice--success');
-            showAlert('<strong>Thanks for your comment!</strong> It will show on the site once it has been reviewed and approved.');
+            showAlert('<strong>Danke für deinen Kommentar!</strong> Er wird sichtbar, sobald du deine Email-Adresse verifiziert und die Seite neu geladen hast.');
           },
           error: function (err) {
             console.log(err);
-            $('#comment-form-submit').html('Submit Comment');
+            $('#comment-form-submit').html('Kommentar senden');
             $('#comment-form .js-notice').removeClass('notice--success').addClass('notice--danger');
-            showAlert('<strong>Sorry, there was an error with your submission.</strong> Please make sure all required fields have been completed and try again.');
+            showAlert('<strong>Sorry, bei deiner Eingabe gab es einen Fehler.</strong> Bitte überprüfe, ob du alle nötigen Felder richtig ausgefüllt hast und versuche es erneut.');
             $(form).removeClass('disabled');
           }
         });

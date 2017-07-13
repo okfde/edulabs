@@ -4,7 +4,7 @@ layout: post
 title: "Making und Open Educational Resources - Kristin Narr im Interview"
 teaser: "Die Medienpädagogin Kristin Narr berichtet von ihren Erfahrungen mit Making sowie der Verwandtschaft von Making und OER."
 teaser_img_src: /assets/img/blog/2017/Juli/interview_kristin_narr/Foto Kristin_CC BY 4.0 Anika Dollmeyer_klein.jpg
-featured: true
+featured: false
 categories: Interviews
 twitter_large_img: /assets/img/blog/2017/Juli/interview_kristin_narr/Foto Kristin_CC BY 4.0 Anika Dollmeyer_klein.jpg
 header_background: /assets/img/blog/2017/Juli/interview_kristin_narr/Foto Kristin_CC BY 4.0 Anika Dollmeyer_klein.jpg
@@ -18,7 +18,7 @@ Die Medienpädagogin Kristin Narr berichtet von ihren Erfahrungen mit Making sow
 Das, was sehr schnell einsetzbar ist, wie z.B. der Makey Makey. Den nehme ich einfach mit, zusammen mit meinem Laptop und noch etwas Knete sowie Alufolie. Damit kann man schon relativ viel zeigen. Das mache ich nicht nur mit Kindern und Jugendlichen, sondern vor allem auch mit Erwachsenen. Zum Beispiel, um damit bei Fortbildungen mit Sozialpädagog\*innen oder auch Lehrerinnen und Lehrern die Thematik etwas greifbar zu machen. Ich nutze gerne die kleinen, einfachen Möglichkeiten, mit denen sich die Thematik „quick and dirty“ darstellen lässt. Dabei sehe ich mich als eine Art Vermittlerin von diesen Dingen. Mit dem Handbuch haben Sandra Schön, Martin Ebner und ich  eine Form gesucht, Expertisen und Erfahrungen, die es in diesem Bereich bereits gibt, zusammenzutragen. Ich lerne da selbst immer wieder Neues und habe bei Weitem noch nicht alles selbst ausprobiert.
 <div class="img-wrap-center">
 <img src="/assets/img/blog/2017/Juli/interview_kristin_narr/making_1.jpg" style="width: 100%; display: inline-block">
-<div style="text-align: right">Bild: „Makey Makey“, by Kristin Narr</div>
+<div class="caption" style="text-align: right">Bild: „Makey Makey“, by Kristin Narr, <a href="https://creativecommons.org/licenses/by/4.0/legalcode">CC-BY-4.0</a></div>
 </div>
 **Was ist daran neu? Inwiefern ist Making ein Beispiel für zeitgemäße Bildung?**<br>
 Das ist eine schöne Frage, weil es im Grunde nichts Neues ist. Das ist das, was mich daran so interessiert, weswegen ich auch Medienpädagogin bin. Aufgrund meines Studiums in Leipzig fühle ich mich handlungsorientierter Medienpädagogik sehr verbunden. Im Mittelpunkt steht das Konzept der „aktiven Medienarbeit“, das sich dann oft in Projekten und Methoden wiederfindet. Das geht über das Selbstzweckhafte hinaus, denn im Grunde will man damit die Welt ein Stück weit mehr begreifbar machen und verändern. 
@@ -28,7 +28,7 @@ Die Haltung, die dahinter steht, ist: Indem wir etwas praktisch umsetzen, könne
 Ja, genau. Das, was wir brauchen, sind mündige Bürgerinnen und Bürger, die die Gesellschaft selber mitgestalten. Das können sie nur, wenn wir ihnen die Möglichkeit dazu geben. Geben wir den Schülerinnen und Schülern die Freiräume und ein bisschen Handwerkszeug, dann werden da Kräfte freigesetzt und die Kompetenz erlangt, nicht nur wiederzugeben, sondern selber zu verändern. Es geht um das Geben von Freiräumen. Meine Erfahrung ist, dass dieser Freiheit erst einmal mit Distanz begegnet wird. Die Resonanz ist aber in der Regel enorm.
 <div class="img-wrap-center">
 <img src="/assets/img/blog/2017/Juli/interview_kristin_narr/making_2.jpg" style="width: 100%; display: inline-block">
-<div style="text-align: right">Bild: „Mein Guckkasten“, by Kristin Narr</div>
+<div class="caption" style="text-align: right">Bild: „Mein Guckkasten“, by Kristin Narr, <a href="https://creativecommons.org/licenses/by/4.0/legalcode">CC-BY-4.0</a></div>
 </div>
 **Was braucht es, um diese Form der Lehre, wie Making ja auch eine ist, in den Schulen zu realisieren?**<br>
 Es wäre gut, wenn sich die Menschen, die das schon machen, noch mehr vernetzen würden. Und es  braucht mehr Geld, um solche Vorhaben zu unterstützen. Aber es ist auch eine Haltungsfrage. Man braucht ja nicht nur einen Raum, mit Gerätschaften, sondern auch Erfahrene, die die Räume bespielen können. Wir brauchen also Formen, wo sich diejenigen, die schon Erfahrungen gesammelt haben, mit solchen austauschen, die es in ihrer Einrichtung ebenfalls umsetzen möchten. Das sollte unser Handbuch auch bewirken, eine Orientierung für Einsteiger\*innen. Uns hat überrascht, wie viel am Ende zusammen gekommen ist. Aber es braucht nicht nur ein solches Buch, es braucht den persönlichen Austausch.
@@ -39,7 +39,7 @@ Das Prinzip der Offenheit steckt in beiden drin. Diejenigen, die Making machen, 
 <p class="link-list">
 <span class="link-list-headline">Links</span>
 <a class="external-link" href="http://www.bimsev.de/n/userfiles/downloads/making_handbuch_online_final.pdf" target="_blank">Das Handbuch "Making-Aktivitäten mit Kindern und Jugendlichen"</a>
-<a class="external-link" href="https://de.slideshare.net/KristinNarr/making-oer-prsentation-oercamp17" target="_blank">Die Präsentation von Christin Narr auf dem OERcamp 2017 West</a>
+<a class="external-link" href="https://de.slideshare.net/KristinNarr/making-oer-prsentation-oercamp17" target="_blank">Die Präsentation von Kristin Narr auf dem OERcamp 2017 West</a>
 </p>
 
 

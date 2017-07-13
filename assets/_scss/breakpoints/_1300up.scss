@@ -13,3 +13,23 @@ PAGE & SECTIONS
   }
 
 }
+
+/*********************
+FOOTER STYLES
+*********************/
+.footer {
+  .sponsors-nav{
+    ul {
+
+
+
+      li {
+        &.cc-info{
+          margin-top: 0px;
+          max-width: 400px;
+        }
+      }
+    }
+  }
+
+}

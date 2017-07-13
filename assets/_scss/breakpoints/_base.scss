@@ -443,6 +443,14 @@ HEADER STYLES
 HERO
 *********************/
 
+body:not(.safari){
+  .hero{
+    &.home{
+      background-attachment: fixed;
+    }
+  }
+}
+
 .hero{
 
   margin-top: $header-height;
@@ -468,7 +476,6 @@ HERO
     height: 80vh;
     background: url($baseurl + '/assets/img/static/header-home.jpg') no-repeat;
     background-size: cover;
-    background-attachment: fixed;
     background-position: center;
   }
 
@@ -602,6 +609,8 @@ HOME
   font-weight: 700;
 }
 
+
+
 /*********************
 FOOTER STYLES
 *********************/
@@ -662,7 +671,6 @@ FOOTER STYLES
     display: block;
     position: relative;
     width: 100%;
-    padding: 0 50px;
 
     ul {
 
@@ -673,7 +681,7 @@ FOOTER STYLES
       li {
 
         display: inline-block;
-        height: 80px;
+        height: 60px;
 
         margin-bottom: 20px;
         &:last-of-type{
@@ -685,16 +693,24 @@ FOOTER STYLES
           position: relative;
           max-width: 300px;
           margin-left: 0px;
+          margin-bottom: 50px;
         }
 
       }
     }
   }
 
-  .imprint{
-     position: relative;
+  .foot-links{
     margin-top: 30px;
-    display: inline-block;
-   }
+    position: relative;
+    display: table;
+    width: 100%;
+
+    a{
+      display: block;
+      float: none;
+    }
+
+  }
 
 }
