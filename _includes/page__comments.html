@@ -1,4 +1,4 @@
-<section class="page__reactions" style="display: none">
+<section class="page__reactions">
   {% if site.repository and site.staticman.branch %}
     {% if site.data.comments[page.slug] %}
       <!-- Start static comments -->
@@ -47,6 +47,9 @@
         <fieldset>
           <label for="comment-form-url"><strong>Website</strong> <small>(optional)</small></label>
           <input type="url" id="comment-form-url" name="fields[url]" spellcheck="false" />
+        </fieldset>
+        <fieldset iclass="hidden" style="display:none;">
+          <input id="spam_info" type="hidden" name="fields[human]" value="false">
         </fieldset>
         <fieldset class="hidden" style="display:none;">
           <input type="hidden" name="options[origin]" value="{{ page.url | absolute_url }}">
