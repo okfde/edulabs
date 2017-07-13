@@ -1,6 +1,6 @@
 comments:
   allowedFields     : ['name', 'email', 'url', 'message', 'replying_to']
-  branch            : "master"
+  branch            : "dev-new-website-comments"
   commitMessage     : "New comment."
   filename          : "comment-{@timestamp}"
   format            : "yaml"
@@ -14,3 +14,6 @@ comments:
       type          : "date"
       options:
         format      : "iso8601"
+  akismet:
+      enabled:
+          true

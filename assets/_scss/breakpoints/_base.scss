@@ -465,6 +465,14 @@ body:not(.safari){
     left: 50%;
     transform: translate(-50%,-50%);
 
+    @media only screen and (max-width: 640px) {
+      transform: none;
+      position: relative;
+      left: 0;
+      top: 40%;
+      margin: auto;
+    }
+
     img{
       width: 100%;
       height: auto;
@@ -477,6 +485,10 @@ body:not(.safari){
     background: url($baseurl + '/assets/img/static/header-home.jpg') no-repeat;
     background-size: cover;
     background-position: center;
+
+    @media only screen and (max-width: 640px) {
+      height: 300px;
+    }
   }
 
   &.image{
