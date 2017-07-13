@@ -21,7 +21,7 @@
 
         Logger.useDefaults();
         Logger.setLevel(Logger.OFF);
-		
+
 		var browser = ref.getBrowser();
         $('body').addClass(browser.name.toLowerCase()).addClass('version-' + browser.version.toLowerCase());
 
@@ -260,7 +260,7 @@
         }
         return { width : e[ a+'Width' ] , height : e[ a+'Height' ] };
     };
-	
+
 	/*********************
     get browser type + version
     *********************/
@@ -289,11 +289,14 @@
     (function ($) {
       var $comments = $('.js-comments');
 
+      $('#spam_info').remove();
+
       $('#comment-form').submit(function () {
         var form = this;
 
         $(form).addClass('disabled');
         $('#comment-form-submit').html('Wird geladen...');
+
 
         $.ajax({
           type: $(this).attr('method'),

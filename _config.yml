@@ -57,11 +57,7 @@ collections:
     output: true
     permalink: /:collection/:name
 
-repository: 'aivuk/edulabs'
+repository: 'okfde/edulabs'
 
 staticman:
   branch: "master"
-
-akismet:
-  site: 'http://edulabs.vaz.io'
-  apiKey: '6b39dbd6fcfe'
