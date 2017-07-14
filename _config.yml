@@ -56,7 +56,7 @@ collections:
   labs:
     output: true
     permalink: /:collection/:name
-  data.projects:
+  project:
     output: true
     permalink: /:collection/:name
 

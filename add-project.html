@@ -14,11 +14,11 @@ permalink: /add-project/
           <form id="add-project-form" class="form" method="post" action="https://api.staticman.net/v2/entry/{{ site.repository }}/{{ site.staticman.branch }}/projects">
             <fieldset>
               <label for="project-form-name"><strong>Projekte</strong> <span class="required">*</span></label>
-              <input type="text" id="project-form-name" name="fields[project-name]" spellcheck="false" />
+              <input type="text" id="project-form-name" name="fields[title]" spellcheck="false" />
             </fieldset>
             <fieldset>
               <label for="project-form-description"><strong>Name</strong> <span class="required">*</span></label>
-              <textarea type="text" rows="6" id="project-form-description" name="fields[project-description]" spellcheck="true"></textarea>
+              <textarea type="text" rows="6" id="project-form-description" name="fields[content]" spellcheck="true"></textarea>
             </fieldset>
             <fieldset class="hidden" style="display:none;">
               <input type="hidden" name="options[origin]" value="{{ page.url | absolute_url }}">
