@@ -16,14 +16,14 @@ comments:
         format      : "iso8601"
 
 projects:
-  allowedFields     : ['title', 'content']
+  allowedFields     : ['title', 'frontmatter']
   branch            : "project-creator"
   commitMessage     : "New project."
   filename          : "project-{@timestamp}"
   format            : "frontmatter"
   moderation        : true
   path              : "_project/{fields.title}"
-  requiredFields    : ['title', 'content']
+  requiredFields    : ['title', 'frontmatter']
   generatedFields:
     date:
       type          : "date"
