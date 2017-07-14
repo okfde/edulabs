@@ -60,4 +60,4 @@ collections:
 repository: 'okfde/edulabs'
 
 staticman:
-  branch: "master"
+  branch: "project-creator"

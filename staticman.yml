@@ -1,6 +1,6 @@
 comments:
   allowedFields     : ['name', 'email', 'url', 'message', 'replying_to']
-  branch            : "master"
+  branch            : "project-creator"
   commitMessage     : "New comment."
   filename          : "comment-{@timestamp}"
   format            : "yaml"
@@ -9,6 +9,21 @@ comments:
   requiredFields    : ['name', 'message']
   transforms:
     email           : md5
+  generatedFields:
+    date:
+      type          : "date"
+      options:
+        format      : "iso8601"
+
+projectts:
+  allowedFields     : ['project-name', 'project-description']
+  branch            : "project-creator"
+  commitMessage     : "New project."
+  filename          : "project-{@timestamp}"
+  format            : "yaml"
+  moderation        : true
+  path              : "_data/projects/{options.slug}"
+  requiredFields    : ['project-name', 'project-description']
   generatedFields:
     date:
       type          : "date"
