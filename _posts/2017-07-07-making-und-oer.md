@@ -9,7 +9,8 @@ categories: Interviews
 twitter_large_img: /assets/img/blog/2017/Juli/interview_kristin_narr/Foto Kristin_CC BY 4.0 Anika Dollmeyer_klein.jpg
 header_background: /assets/img/blog/2017/Juli/interview_kristin_narr/Foto Kristin_CC BY 4.0 Anika Dollmeyer_klein.jpg
 header_background_caption: "Bild: Kristin Narr, by Anika Dollmeyer"
-autor: Maximilian Voigt
+author: Maximilian Voigt
+image: /assets/img/blog/2017/Juli/interview_kristin_narr/Foto Kristin_CC BY 4.0 Anika Dollmeyer_klein.jpg
 
 ---
 Die Medienpädagogin Kristin Narr berichtet von ihren Erfahrungen mit Making sowie der Verwandtschaft von Making und OER.

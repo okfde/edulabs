@@ -35,6 +35,8 @@ GEM
       therubyracer (~> 0.12)
     jekyll-sass-converter (1.5.0)
       sass (~> 3.4)
+    jekyll-seo-tag (2.2.3)
+      jekyll (~> 3.3)
     jekyll-watch (1.5.0)
       listen (~> 3.0, < 3.1)
     json (2.1.0)
@@ -50,6 +52,8 @@ GEM
     minima (2.1.1)
       jekyll (~> 3.3)
     nokogiri (1.8.0)
+      mini_portile2 (~> 2.2.0)
+    nokogiri (1.8.0-x64-mingw32)
       mini_portile2 (~> 2.2.0)
     pathutil (0.14.0)
       forwardable-extended (~> 2.6)
@@ -78,12 +82,13 @@ DEPENDENCIES
   jekyll-bootstrap-sass
   jekyll-feed (~> 0.6)
   jekyll-lunr-js-search
+  jekyll-seo-tag
   liquid-template-inheritance
   minima (~> 2.0)
   tzinfo-data
 
 RUBY VERSION
-   ruby 2.1.5p273
+   ruby 2.3.3p222
 
 BUNDLED WITH
    1.15.1

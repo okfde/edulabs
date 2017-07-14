@@ -9,7 +9,7 @@ categories: Events
 twitter_large_img: /assets/img/blog/2017/Juni/makerfaire/caption.png
 header_background: /assets/img/blog/2017/Juni/makerfaire/maker-faire-berlin.png
 header_background_caption: ""
-autor: Maximilian Voigt
+author: Maximilian Voigt
 
 ---
 Am 10. und 11. Juni treffen sich Maker, Eltern, Kinder und andere Freund\*innen von Hardware, DIY, Technik und Kreativität auf der Maker-Faire Berlin. Dabei steht das Teilen von Wissen und Ideen sowie die Freude am kollaborativen Arbeiten im Mittelpunkt. edulabs ist auch dabei und an der Frage interessiert, wie mit Hilfe von making Bildung bereichert werden kann.

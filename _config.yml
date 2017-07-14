@@ -61,3 +61,8 @@ repository: 'okfde/edulabs'
 
 staticman:
   branch: "master"
+
+title: "Edulabs"
+description: "Offene Bildung mit digital gestützten Methoden"
+logo: "/assets/img/static/edulabs-logo.svg"
+lang: "de_DE"
