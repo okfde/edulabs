@@ -52,7 +52,7 @@ Ein Beispiel, mit dem wir versuchen offene Kooperation anzustoßen, ist digitale
 **Ist dann am Ende das Projekt das, was bewertet wird?**<br>
 Genau, das ist die Herausforderung, an der aktuell eine AG arbeitet, die auf die Initiative des Senats hin gegründet wurde. Sie besteht aus acht Lehrenden der Fortbildung und ist mit der Aufgabe betraut, ein erstes Konzept in Richtung Rahmenlehrplan zu entwickeln. Das wird auch die Frage beinhalten, ob man im Fach digitale Welten von den vorgegebenen Klausuren abweichen kann. Normalerweise muss es zwei Prüfungen im Jahr geben, wobei eine als Projekt bewertet werden kann. Wir müssen gemeinsam mit den Lehrenden den Unterricht strukturieren und gestalten, dass sich nach dem ersten Halbjahr eine schriftliche Arbeit ergibt, die bewertet wird. Am Ende soll nicht allein das Projekt an sich beurteilt werden, sondern der ganze Prozess, in dem es entstanden ist.
 
-**Und welche Kompetenzen sollen die Schüler\*innen dabei erwerben, gibt es da Vorgaben?**<br>
+**Und welche Kompetenzen sollen die Schüler\*innen dabei erwerben, gibt es Vorgaben?**<br>
 Damit beschäftigt sich ebenfalls die AG. Ich denke aber, dass die Schlagworte “digitale Mündigkeit” für uns über allem stehen - der selbstständige, mündige Umgang mit digitalen Fragestellungen. Ob das die Freizeit betrifft, die Arbeit, Big Data oder digitale Fabrikation: Die Schüler\*innen sollen befähigt werden, zu solchen Themen eine eigene Einschätzung zu entwickeln.
 
 <!-- include floated image -->
