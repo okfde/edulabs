@@ -37,6 +37,8 @@ GEM
       sass (~> 3.4)
     jekyll-seo-tag (2.2.3)
       jekyll (~> 3.3)
+    jekyll-sitemap (1.1.1)
+      jekyll (~> 3.3)
     jekyll-watch (1.5.0)
       listen (~> 3.0, < 3.1)
     json (2.1.0)
@@ -83,6 +85,7 @@ DEPENDENCIES
   jekyll-feed (~> 0.6)
   jekyll-lunr-js-search
   jekyll-seo-tag
+  jekyll-sitemap
   liquid-template-inheritance
   minima (~> 2.0)
   tzinfo-data

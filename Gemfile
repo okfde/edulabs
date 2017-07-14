@@ -24,6 +24,7 @@ group :jekyll_plugins do
    gem 'jekyll-bootstrap-sass'
    gem 'jekyll-lunr-js-search'
    gem 'jekyll-seo-tag'
+   gem 'jekyll-sitemap'
    # gem 'jekyll-autoprefixer'
 end
 
