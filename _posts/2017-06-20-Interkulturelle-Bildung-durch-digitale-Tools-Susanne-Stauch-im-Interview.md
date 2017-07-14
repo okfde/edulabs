@@ -10,7 +10,7 @@ categories: Interviews
 twitter_large_img: /assets/img/blog/2017/Juni/loveschool/susanne_stauch.jpg
 header_background: /assets/img/blog/2017/Juni/loveschool/susanne_stauch.jpg
 header_background_caption: "Susanne Stauch: Gastprofessorin, Goldschmiedin und Designerin"
-autor: Maximilian Voigt
+author: Maximilian Voigt
 
 ---
 [Susanne Stauch](http://susannestauch.de/) ist Goldschmiedin, Designerin und Gastprofessorin an der Universität der Künste Berlin. Design ist für sie ein Mittel für die Gestaltung gesellschaftlicher Prozesse. Im Rahmen des [Love School Projektes](http://theloveschoolproject.cre8tives.org/) hat sie mit Studierenden aus Deutschland und Schüler\*innen aus Kenia über Skype, WhatsApp und Email einen gemeinsamen Designprozess durchgeführt:

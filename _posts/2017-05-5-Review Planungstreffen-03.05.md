@@ -8,7 +8,7 @@ categories: Events
 twitter_large_img: /assets/img/blog/2017/Mai/edulabs1review/planungstreffen_review.jpg
 header_background: /assets/img/blog/2017/Mai/edulabs1review/planungstreffen_review.jpg
 header_background_caption: "Bild: 1. Planungstreffen von edulabs im Supermarkt Berlin"
-autor: Maximilian Voigt
+author: Maximilian Voigt
 
 ---
 <blockquote class="twitter-tweet tw-align-center" data-cards="hidden" data-lang="de"><p lang="de" dir="ltr"><a href="https://twitter.com/hashtag/edulabBE?src=hash">#edulabBE</a> startet..definitiv! Erste Projektideen, Konzeptfragen, Makerspirit. <a href="https://t.co/jeH1Tfckgn">pic.twitter.com/jeH1Tfckgn</a></p>&mdash; edulabs (@edulabsDE) <a href="https://twitter.com/edulabsDE/status/859832835053690887">3. Mai 2017</a></blockquote>
