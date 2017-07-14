@@ -20,6 +20,10 @@ permalink: /add-project/
               <label for="project-form-description"><strong>Name</strong> <span class="required">*</span></label>
               <textarea type="text" rows="6" id="project-form-description" name="fields[project-description]" spellcheck="true"></textarea>
             </fieldset>
+            <fieldset class="hidden" style="display:none;">
+              <input type="hidden" name="options[origin]" value="{{ page.url | absolute_url }}">
+              <label for="comment-form-location">Leave blank if you are a human</label>
+            </fieldset>
             <fieldset iclass="hidden" style="display:none;">
               <input id="spam_info" type="hidden" name="fields[human]" value="false">
             </fieldset>
@@ -29,9 +33,9 @@ permalink: /add-project/
             <!-- End comment form alert messaging -->
             <fieldset>
               <button type="submit" id="comment-form-submit" class="edu-btn black">Projekte senden</button>
+            </fieldset>
       </form>
 
-        </div>
         </div>
     </section>
 </div>

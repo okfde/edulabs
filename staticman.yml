@@ -22,7 +22,7 @@ projectts:
   filename          : "project-{@timestamp}"
   format            : "yaml"
   moderation        : true
-  path              : "_data/projects/{options.slug}"
+  path              : "_data/projects/{fields.project-name}"
   requiredFields    : ['project-name', 'project-description']
   generatedFields:
     date:
