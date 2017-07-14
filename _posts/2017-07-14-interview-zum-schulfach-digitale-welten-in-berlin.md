@@ -9,7 +9,7 @@ categories: Interviews
 twitter_large_img: /assets/img/blog/2017/Juli/interview_melanie/melanie_stilz_twitter.jpg
 header_background: /assets/img/blog/2017/Juli/interview_melanie/melanie_stilz_boell.jpg
 header_background_caption: "Bild: Melanie Stilz, by Stephan Röhl CC-BY-SA-2.0"
-autor: Maximilian Voigt
+author: Maximilian Voigt
 info_text: |
    <a href="/blog/making-und-oer"><img src="/assets/img/blog/2017/Juli/interview_kristin_narr/making_1.jpg"></a>
    <br>Die Medienpädagogin Kristin Narr berichtet von ihren Erfahrungen mit Making sowie der Verwandtschaft von Making und OER.
