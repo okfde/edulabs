@@ -63,7 +63,7 @@ src="/assets/img/blog/2017/Juli/interview_melanie/fortbildung_digitale_welten_3.
 Diese Aspekte spielen eine Rolle. Zum Beispiel zu “Fake News” haben wir Unterlagen. Die Themen sollen allerdings von den Schüler\*innen selbst erarbeitet werden. Gerade die Bereiche, die weniger anwendungsbezogen sind, haben wir so konzipiert, dass sie in verschiedenen Abstufungen und Teams erarbeitet werden können. Nach dem Schema: Teamarbeit, Präsentation, Diskussion und anschließende Dokumentation.
 Wir konnten natürlich nicht für ein Schuljahr und Fach alle Themen umfassend umsetzen.
 
-**Das hört sich an einer Menge Arbeit an. Wie wird das Vorhaben unterstützt?**<br>
+**Das hört sich nach einer Menge Arbeit an. Wie wird das Vorhaben unterstützt?**<br>
 Die Konzeption und Umsetzung wird komplett von der TU-Berlin getragen. Wir haben auch noch keine Projektfinanzierung. Momentan machen wir das aus Überzeugung für das Thema. Ohne die Unterstützung und offenen Lehrmaterialien von Initiativen wie [dEIn Labor](http://www.dein-labor.tu-berlin.de/) an der TU oder [AppCamps](https://appcamps.de/) wäre das aber nicht möglich gewesen.
 
 **Und die Lehrenden, welche Unterstützung erhalten sie?**<br>
