@@ -15,7 +15,7 @@ comments:
       options:
         format      : "iso8601"
 
-projectts:
+projects:
   allowedFields     : ['project-name', 'project-description']
   branch            : "project-creator"
   commitMessage     : "New project."
