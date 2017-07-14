@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: "Über Berlins neues Schulfach 'digitale Welten', im Gespräch mit Melanie Stilz"
+title: "Über Berlins neues Schulfach 'Digitale Welten', im Gespräch mit Melanie Stilz"
 teaser: "Auf eigene Initiative hin und mit der Unterstützung des Berliner Senats, führt die TU-Berlin ein neues Schulfach ein. 'Digitale Welten' soll es heißen. Aktuell finden Fortbildungen statt, in denen interessierte Lehrer*innen sich auf das neue Vorhaben vorbereiten. Wir haben mit Melanie Stilz von der TU-Berlin gesprochen, die die Einführung des Schulfaches koordiniert."
 teaser_img_src: /assets/img/blog/2017/Juli/interview_melanie/melanie_stilz_boell.jpg
 featured: true
@@ -26,7 +26,7 @@ Das Wahlfach wird in der ersten Runde in 11. und 12. Klassen an Berliner Schulen
 
 <!-- include floated image -->
 {% include partials/content/content-float-image.liquid float="right"
-src="/assets/img/blog/2017/Juli/interview_melanie/fortbildung_digitale_welten_1.jpg" caption="Bild: Fortbildung „digitale Welten“, by Melanie Stilz" %}
+src="/assets/img/blog/2017/Juli/interview_melanie/fortbildung_digitale_welten_1.jpg" caption="Bild: Fortbildung „Digitale Welten“, by Melanie Stilz" %}
 
 
 **Gibt es so viele technisch versierte Lehrer\*innen? Wer nimmt an den Fortbildungen genau teil?**<br>
@@ -50,14 +50,14 @@ Genau, das Fach hat auch sehr kreative Aspekte. Es spielt eine große Rolle, sic
 Ein Beispiel, mit dem wir versuchen offene Kooperation anzustoßen, ist digitale Fabrikation. Zum Beispiel setzen sich Schüler\*innen im Rahmen eines Projektes mit der Frage auseinander, was sinnvoll mit 3D gedruckten Elementen gebaut, repariert oder weiterentwickelt werden kann. Schulen können mit [Fab Labs](https://de.wikipedia.org/wiki/FabLab) oder 3D-Druck-Cafés, von denen es einige in Berlin gibt, zusammenarbeiten und dort auf entsprechende Geräte zurückgreifen.
 
 **Ist dann am Ende das Projekt das, was bewertet wird?**<br>
-Genau, das ist die Herausforderung, an der aktuell eine AG arbeitet, die auf die Initiative des Senats hin gegründet wurde. Sie besteht aus acht Lehrenden der Fortbildung und ist mit der Aufgabe betraut, ein erstes Konzept in Richtung Rahmenlehrplan zu entwickeln. Das wird auch die Frage beinhalten, ob man im Fach digitale Welten von den vorgegebenen Klausuren abweichen kann. Normalerweise muss es zwei Prüfungen im Jahr geben, wobei eine als Projekt bewertet werden kann. Wir müssen gemeinsam mit den Lehrenden den Unterricht strukturieren und gestalten, dass sich nach dem ersten Halbjahr eine schriftliche Arbeit ergibt, die bewertet wird. Am Ende soll nicht allein das Projekt an sich beurteilt werden, sondern der ganze Prozess, in dem es entstanden ist.
+Genau, das ist die Herausforderung, an der aktuell eine AG arbeitet, die auf die Initiative des Senats hin gegründet wurde. Sie besteht aus acht Lehrenden der Fortbildung und ist mit der Aufgabe betraut, ein erstes Konzept in Richtung Rahmenlehrplan zu entwickeln. Das wird auch die Frage beinhalten, ob man im Fach Digitale Welten von den vorgegebenen Klausuren abweichen kann. Normalerweise muss es zwei Prüfungen im Jahr geben, wobei eine als Projekt bewertet werden kann. Wir müssen gemeinsam mit den Lehrenden den Unterricht strukturieren und gestalten, dass sich nach dem ersten Halbjahr eine schriftliche Arbeit ergibt, die bewertet wird. Am Ende soll nicht allein das Projekt an sich beurteilt werden, sondern der ganze Prozess, in dem es entstanden ist.
 
 **Und welche Kompetenzen sollen die Schüler\*innen dabei erwerben, gibt es Vorgaben?**<br>
 Damit beschäftigt sich ebenfalls die AG. Ich denke aber, dass die Schlagworte “digitale Mündigkeit” für uns über allem stehen - der selbstständige, mündige Umgang mit digitalen Fragestellungen. Ob das die Freizeit betrifft, die Arbeit, Big Data oder digitale Fabrikation: Die Schüler\*innen sollen befähigt werden, zu solchen Themen eine eigene Einschätzung zu entwickeln.
 
 <!-- include floated image -->
 {% include partials/content/content-float-image.liquid float="left"
-src="/assets/img/blog/2017/Juli/interview_melanie/fortbildung_digitale_welten_3.jpg" caption="Bild: Fortbildung „digitale Welten“, by Melanie Stilz" %}
+src="/assets/img/blog/2017/Juli/interview_melanie/fortbildung_digitale_welten_3.jpg" caption="Bild: Fortbildung „Digitale Welten“, by Melanie Stilz" %}
 
 **Wie wird das Fach in diesem Prozess Jugendlichen gerecht? Welche Rolle spielen zum Beispiel soziale Netzwerke, Gaming oder der Gebrauch von Smartphones? Werden die Lehrenden speziell darauf vorbereitet?**<br>
 Diese Aspekte spielen eine Rolle. Zum Beispiel zu “Fake News” haben wir Unterlagen. Die Themen sollen allerdings von den Schüler\*innen selbst erarbeitet werden. Gerade die Bereiche, die weniger anwendungsbezogen sind, haben wir so konzipiert, dass sie in verschiedenen Abstufungen und Teams erarbeitet werden können. Nach dem Schema: Teamarbeit, Präsentation, Diskussion und anschließende Dokumentation.
