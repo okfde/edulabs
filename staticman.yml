@@ -20,7 +20,7 @@ projects:
   branch            : "project-creator"
   commitMessage     : "New project."
   filename          : "project-{@timestamp}"
-  format            : "yaml"
+  format            : "frontmatter"
   moderation        : true
   path              : "_data/projects/{fields.project-name}"
   requiredFields    : ['project-name', 'project-description']

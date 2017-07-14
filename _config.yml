@@ -56,6 +56,9 @@ collections:
   labs:
     output: true
     permalink: /:collection/:name
+  data.projects:
+    output: true
+    permalink: /:collection/:name
 
 repository: 'okfde/edulabs'
 
