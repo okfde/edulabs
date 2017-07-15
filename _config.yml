@@ -58,7 +58,7 @@ collections:
     permalink: /:collection/:name
   project:
     output: true
-    permalink: /:collection/:name
+    permalink: /:collection/:title
 
 repository: 'aivuk/edulabs'
 
