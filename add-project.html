@@ -11,7 +11,7 @@ permalink: /add-project/
             <!--    <p>Von der Idee zum Projekt: In den edulabs entwickeln Teams zusammen Projekte für zeitgemäße Bildung. Projektideen sammeln wir zuerst im <a href="https://hackdash.org/dashboards/edulabs">edulabs Hackdash</a>. Hat sich eine Arbeitsgruppe gefunden, wird diese sowie das Vorhaben im Folgenden aufgeführt.</p> -->
         </div>
         <div class="row content-wrap">
-          <form id="add-project-form" class="form" method="post" action="https://api.staticman.net/v2/entry/{{ site.repository }}/{{ site.staticman.branch }}/projects">
+          <form id="add-project-form" class="form" method="post" action="http://vaz.io:8888/v2/entry/{{ site.repository }}/{{ site.staticman.branch }}/projects">
             <fieldset>
               <label for="project-form-name"><strong>Projekte</strong> <span class="required">*</span></label>
               <input type="text" id="project-form-name" name="fields[title]" spellcheck="false" />

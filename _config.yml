@@ -60,7 +60,7 @@ collections:
     output: true
     permalink: /:collection/:name
 
-repository: 'okfde/edulabs'
+repository: 'aivuk/edulabs'
 
 staticman:
   branch: "project-creator"
