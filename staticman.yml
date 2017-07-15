@@ -19,7 +19,7 @@ projects:
   allowedFields     : ['title', 'content']
   branch            : "project-creator"
   commitMessage     : "New project."
-  filename          : "index.html"
+  filename          : "index"
   format            : "frontmatter"
   moderation        : true
   path              : "_project/{fields.slug}"
