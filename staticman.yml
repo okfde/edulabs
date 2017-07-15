@@ -19,10 +19,10 @@ projects:
   allowedFields     : ['title', 'content']
   branch            : "project-creator"
   commitMessage     : "New project."
-  filename          : "project-{fields.title}-{@timestamp}"
+  filename          : "index.html"
   format            : "frontmatter"
   moderation        : true
-  path              : "_project/{slug}"
+  path              : "_project/{fields.slug}"
   requiredFields    : ['title', 'content']
   transforms:
     content         : frontmatterContent
@@ -33,3 +33,5 @@ projects:
         format      : "iso8601"
     slug:
       type          : "slugify"
+      options:
+        field       :  title
