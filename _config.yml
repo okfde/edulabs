@@ -56,11 +56,14 @@ collections:
   labs:
     output: true
     permalink: /:collection/:name
+  project:
+    output: true
+    permalink: /:collection/:name
 
 repository: 'okfde/edulabs'
 
 staticman:
-  branch: "master"
+  branch: "project-creator"
 
 title: "edulabs"
 description: "Offene Bildung mit digital gestützten Methoden"
