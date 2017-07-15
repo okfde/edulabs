@@ -19,10 +19,10 @@ projects:
   allowedFields     : ['title', 'content']
   branch            : "project-creator"
   commitMessage     : "New project."
-  filename          : "index"
+  filename          : "{fields.slug}"
   format            : "frontmatter"
   moderation        : true
-  path              : "_project/{fields.slug}"
+  path              : "_project"
   requiredFields    : ['title', 'content']
   transforms:
     content         : frontmatterContent
