@@ -37,7 +37,7 @@ Natürlich wäre es wünschenswert, dass die Themen der Digitalisierung in versc
 Was meiner Erfahrung nach zu oft einseitig beantwortet wird, ist die Frage "Was bedeutet eigentlich Digitalisierung in der Bildung?" Zum einen ist das natürlich die Anwendung. Da wird auch breit gefordert, dass die in allen Fächern stattfindet. Ob das jetzt Smartboards, Tablets oder Smartphones sind. Das hat aber noch gar nichts mit den Inhalten zu tun. Man kann klassischen Deutschunterricht mit dem Smartphone machen, ohne sich nur im geringsten mit den Technologien dahinter auseinanderzusetzen. Zum anderen sind also inhaltliche Aspekte notwendig. Die zweite Ebene, neben der Anwendung, ist die Technische, die Auseinandersetzung mit der Funktion. Die spielt ein Stück weit in den Informatikunterricht mit rein. Die dritte Ebene ist die Soziokulturelle: Was bedeutet das für meinen Umgang mit Daten, mit Überwachung und so weiter. Alle drei Aspekte gehören zusammen. Dieser Zusammenhang kann nicht von allen Fächern geleistet werden. Das überfordert Lehrende oder Schulen. Deswegen bin ich auch überzeugt, dass es ein solches Fach braucht. Die Digitalisierung entwickelt sich so rasant, dass ein Impulsfach notwendig ist, welches sich ganz explizit mit aktuellen Themen auseinandersetzt.
 
 <div class="img-wrap-center">
-<img src="/assets/img/blog/2017/Juli/interview_melanie/education_tools.JPG" style="width: 100%; display: inline-block">
+<img src="/assets/img/blog/2017/Juli/interview_melanie/education_tools.jpg" style="width: 100%; display: inline-block">
 <div class="caption" style="text-align: right">Bild: Digitale Tools für den Klassenraum, by Maximilian Voigt</div>
 </div>
 

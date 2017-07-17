@@ -3,10 +3,10 @@
 layout: post
 title: "Du hast Projektideen und möchtest lab-Vorhaben unterstützen?"
 teaser: "Im edulabs Hackdash könnt ihr Projektideen vorstellen und nach Formaten suchen, die ihr unterstützen möchtet."
-teaser_img_src: /assets/img/blog/2017/Mai/hackdash1/labsituation.JPG
+teaser_img_src: /assets/img/blog/2017/Mai/hackdash1/labsituation.jpg
 categories: Projekte
-twitter_large_img: /assets/img/blog/2017/Mai/hackdash1/labsituation.JPG
-header_background: /assets/img/blog/2017/Mai/hackdash1/labsituation.JPG
+twitter_large_img: /assets/img/blog/2017/Mai/hackdash1/labsituation.jpg
+header_background: /assets/img/blog/2017/Mai/hackdash1/labsituation.jpg
 header_background_caption: ""
 author: Maximilian Voigt
 
