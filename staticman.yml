@@ -35,4 +35,3 @@ projects:
       type          : "slugify"
       options:
         field       :  title
-    layout: "project"
