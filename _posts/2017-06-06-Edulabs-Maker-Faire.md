@@ -6,7 +6,7 @@ teaser: "Am 13.06. startet das edulab Berlin in den Räumen der Technischen Univ
 teaser_img_src: /assets/img/blog/2017/Juni/makerfaire/maker-faire-berlin.png
 featured: false
 categories: Events
-twitter_large_img: /assets/img/blog/2017/Juni/makerfaire/caption.png
+twitter_large_img: /assets/img/blog/2017/Juni/makerfaire/caption.jpg
 header_background: /assets/img/blog/2017/Juni/makerfaire/maker-faire-berlin.png
 header_background_caption: ""
 author: Maximilian Voigt
