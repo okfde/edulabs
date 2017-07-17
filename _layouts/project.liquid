@@ -44,6 +44,19 @@
 
         </section>
     </div>
+    <!-- team -->
+    {% if page.team %}
+    <div class="row">
+        <section class="section grey-light col-xs-24">
+            <div class="content-wrap">
+                <h2 class="section-headline">Team</h2>
+            </div>
+            <!-- member teasers -->
+
+            {% include {{ page.team }} %}
+        </section>
+    </div>
+    {% endif %}
     <div class="row">
         {% include partials/sections/apply.liquid %}
     </div>

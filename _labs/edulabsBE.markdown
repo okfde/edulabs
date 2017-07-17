@@ -1,6 +1,7 @@
 ---
 layout: project
 title:  "BE"
+team: "/partials/member-teasers-edulabsBE.liquid"
 headline: "edulabs Berlin"
 src: "/assets/img/labs/edulabsBE.jpg"
 ---
