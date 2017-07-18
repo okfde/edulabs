@@ -12,7 +12,7 @@ header_background_caption: ""
 author: Maximilian Voigt
 
 ---
-Gerade erst eröffnet und schon steht das dritte Treffen des edulabsBE: Am 18. Juli, um 18:30 Uhr kommen wieder Engagierte aus unterschiedlichen Bereichen zusammen, um gemeinsam neue Bildungskonzepte zu entwickeln. Einige Projekte wurden bereits vorgestellt und erste Gruppen haben sich gebildet. Andere suchen noch Unterstützung. Einen Überblick findet ihr im [edulabs Hackdash](http://okfn.us5.list-manage1.com/track/click?u=929f1e07936386d34833e20d1&id=e676c7bfcb&e=2a8c001707) sowie im [Etherpad zum Treffen](http://okfn.us5.list-manage.com/track/click?u=929f1e07936386d34833e20d1&id=7b24780aae&e=2a8c001707).
+Gerade erst eröffnet und schon steht das dritte Treffen des edulabsBE: Am 18. Juli, um 18:30 Uhr kommen wieder Engagierte aus unterschiedlichen Bereichen zusammen, um gemeinsam neue Bildungskonzepte zu entwickeln. Einige Projekte wurden bereits vorgestellt und erste Gruppen haben sich gebildet. Andere suchen noch Unterstützung. Einen Überblick findet ihr im [edulabs Hackdash](https://hackdash.org/dashboards/edulabs) sowie im [Etherpad zum Treffen](https://pad.okfn.de/p/edulabsbe_1_DT).
 
 Ein Beispiel für edulabs Vorhaben ist ein [Raspberry Pi-basiertes Projekt](https://hackdash.org/projects/5959fcb34545fa01a8db1a1c), das eine Lösung für fehlende WLAN-Zugänge an Schulen darstellt. Ein erster Prototyp ist schon im Einsatz: Mit Hilfe ihres Smartphones können sich die Schüler\*innen über WLAN mit einem kleinen Computer verbinden und bequem in der internen Datenbank recherchieren. Das System benötigt keine Internetverbindung, Unterstützung wird bei der technischen und didaktischen Weiterentwicklung benötigt.
 
@@ -32,7 +32,7 @@ Marchstraße 23<br>
 
 <p class="link-list">
 <span class="link-list-headline">Links</span>
-<a class="external-link" href="http://okfn.us5.list-manage.com/track/click?u=929f1e07936386d34833e20d1&id=7b24780aae&e=2a8c001707" target="_blank">Etherpad zum Treffen</a>
+<a class="external-link" href="https://pad.okfn.de/p/edulabsbe_1_DT" target="_blank">Etherpad zum Treffen</a>
 <a class="external-link" href="https://www.meetup.com/edulabsBE/events/241174572/" target="_blank">Anmeldung (Meetup)</a>
 <a class="external-link" href="https://edulabs.de/blog/projektstart-edulabs" target="_blank">Zum Start von edulabs</a>
 <a class="external-link" href="https://hackdash.org/dashboards/edulabs" target="_blank">Projektvorstellungen im edulabs Hackdash</a>
