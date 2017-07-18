@@ -8,7 +8,7 @@ featured: false
 categories: Toolcard
 twitter_large_img: /assets/img/blog/2017/Mai/arduino/arduino.jpg
 header_background: /assets/img/blog/2017/Mai/arduino/arduino.jpg
-header_background_caption: "Bild: <a href="https://commons.wikimedia.org/wiki/File:Barbone_Arduino_Uno.jpg">"Barbone Arduino Uno"</a> by Kallap85"
+header_background_caption: "Bild: <a href="https://commons.wikimedia.org/wiki/File:Barbone_Arduino_Uno.jpg">Barbone Arduino Uno</a> by Kallap85"
 author: Maximilian Voigt
 
 ---
