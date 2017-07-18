@@ -8,11 +8,10 @@ featured: false
 categories: Toolcard
 twitter_large_img: /assets/img/blog/2017/Mai/arduino/arduino.jpg
 header_background: /assets/img/blog/2017/Mai/arduino/arduino.jpg
-header_background_caption: ""
+header_background_caption: 'Bild: <a href="https://commons.wikimedia.org/wiki/File:Barbone_Arduino_Uno.jpg">Barbone Arduino Uno</a> by Kallap85'
 author: Maximilian Voigt
 
 ---
-Bild: <a href="https://commons.wikimedia.org/wiki/File:Barbone_Arduino_Uno.jpg">Barbone Arduino Uno</a> by Kallap85
 # Beschreibung
 Arduino ist der Markenname sowohl für eine Software als auch für eine Hardware-Plattform. Die Kombination beider Systeme erlaubt den vereinfachten Einstieg in die Programmierung von Elektronik oder auch das "physical computing". Der Kern liegt in der Arduino [IDE](https://de.wikipedia.org/wiki/Integrierte_Entwicklungsumgebung), die eine übersichtliche Oberfläche, schnelle Verbindung zur Hardware und den Zugriff auf eine große Bibliothek ermöglicht. Die Bibliothek erlaubt das Programmieren mit alltagsähnlichen Begriffen. Die Hardware erspart durch vereinfachtes Design den Blick ins Datenblatt des verbauten [Mikrocontrollers](https://de.wikipedia.org/wiki/Mikrocontroller), der normalerweise nötig ist.
 
