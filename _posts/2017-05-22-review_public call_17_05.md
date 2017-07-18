@@ -3,10 +3,10 @@
 layout: post
 title: "edulabs-Projekte suchen Unterstützung"
 teaser: "Nach dem gut besuchten edulabs-call am Mittwoch gibt es erste konkrete Projekte, die Unterstützung suchen."
-teaser_img_src: /assets/img/blog/2017/Mai/hackdash2/hackdash_22_5.png
+teaser_img_src: /assets/img/blog/2017/Mai/hackdash2/hackdash_22_5.jpg
 categories: Projekte edulabsCall
-twitter_large_img: /assets/img/blog/2017/Mai/hackdash2/hackdash_22_5.png
-header_background: /assets/img/blog/2017/Mai/hackdash2/hackdash_22_5.png
+twitter_large_img: /assets/img/blog/2017/Mai/hackdash2/hackdash_22_5.jpg
+header_background: /assets/img/blog/2017/Mai/hackdash2/hackdash_22_5.jpg
 header_background_caption: ""
 author: Maximilian Voigt
 
