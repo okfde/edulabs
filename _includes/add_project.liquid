@@ -1,0 +1,75 @@
+{% if include.new %}
+  {% assign redirect = site.url %}
+  {% assign project_title = '' %}
+{% else %}
+  {% capture redirect %}{{site.url}}/project/{{page.slug}}{% endcapture %}
+  {% assign editable = 'readonly' %}
+  {% assign project_title = page.title %}
+  {% assign project_text = page.text %}
+  {% assign project_link = page.link %}
+  {% assign project_contact_name = page.contact_name %}
+  {% assign project_contact_email = page.contact_email %}
+{% endif %}
+<div class="row">
+    <section class="section first white col-xs-24">
+        <div class="content-wrap">
+            <h2 class="section-headline">Projekte</h2>
+            <!--    <p>Von der Idee zum Projekt: In den edulabs entwickeln Teams zusammen Projekte für zeitgemäße Bildung. Projektideen sammeln wir zuerst im <a href="https://hackdash.org/dashboards/edulabs">edulabs Hackdash</a>. Hat sich eine Arbeitsgruppe gefunden, wird diese sowie das Vorhaben im Folgenden aufgeführt.</p> -->
+        </div>
+        <div class="row content-wrap">
+          <form id="edit-project-form" class="form" method="post" action="http://vaz.io:8888/v2/entry/{{ site.repository }}/{{ site.staticman.branch }}/projects">
+
+            <!-- Project Name -->
+            <fieldset>
+              <label for="project-form-name"><strong>Projekt Name</strong> <span class="required">*</span></label>
+              <input type="text" id="project-form-name" name="fields[title]" value="{{ project_title }}" spellcheck="false" {{editable}}/>
+            </fieldset>
+
+            <!-- Project Short Text -->
+            <fieldset>
+              <label for="project-form-short-description"><strong>Short description</strong> <span class="required">*</span></label>
+              <textarea type="text" rows="6" id="project-form-short-description" name="fields[short-desc]" spellcheck="true">{{ project_text }}</textarea>
+            </fieldset>
+
+            <!-- Project Text -->
+            <fieldset>
+              <label for="project-form-description"><strong>Project Text</strong> <span class="required">*</span></label>
+              <textarea type="text" rows="6" id="project-form-description" name="fields[content]" spellcheck="true">{{ page.raw_content }}</textarea>
+            </fieldset>
+
+            <!-- Link to the Project -->
+            <fieldset>
+              <label for="project-form-link"><strong>Projekt Link</strong> <span class="required">*</span></label>
+              <input type="text" id="project-form-link" name="fields[link]" value="{{ project_link }}" spellcheck="false"/>
+            </fieldset>
+
+            <!-- Project Contact -->
+            <fieldset>
+              <label for="project-form-contact-name"><strong>Contact Name</strong> <span class="required">*</span></label>
+              <input type="text" id="project-form-contact-name" name="fields[contact-name]" value="{{ project_contact_name }}" spellcheck="false"/>
+              <label for="project-form-contact-email"><strong>Contact Name</strong> <span class="required">*</span></label>
+              <input type="text" id="project-form-contact-email" name="fields[contact-email]" value="{{ project_contact_email }}" spellcheck="false"/>
+            </fieldset>
+
+            <fieldset class="hidden" style="display:none;">
+              <input type="hidden" name="options[origin]" value="{{ page.url | absolute_url }}">
+              <label for="comment-form-location">Leave blank if you are a human</label>
+            </fieldset>
+
+            <fieldset iclass="hidden" style="display:none;">
+              <input id="spam_info" type="hidden" name="fields[human]" value="false">
+             <input id="redirect_url" type="hidden" name="options[redirect]" value="{{ redirect }}">
+            </fieldset>
+
+            <p class="hidden js-notice">
+              <span class="js-notice-text"></span>
+            </p>
+            <!-- End comment form alert messaging -->
+            <fieldset>
+              <button type="submit" id="comment-form-submit" class="edu-btn black">Projekte senden</button>
+            </fieldset>
+      </form>
+        </div>
+    </section>
+</div>
+

@@ -16,7 +16,7 @@ comments:
         format      : "iso8601"
 
 projects:
-  allowedFields     : ['title', 'content']
+  allowedFields     : ['title', 'content', 'short-desc', 'link']
   branch            : "project-creator"
   commitMessage     : "New project."
   filename          : "{fields.slug}"
