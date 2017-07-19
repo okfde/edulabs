@@ -1,7 +1,6 @@
 <!doctype html>
 <html lang="en">
 <head>
-    <title>edulabs</title>
     <meta charset="utf-8">
     <meta name="description" content="">
     <meta name="author" content="Rainbow Unicorn">
@@ -21,6 +20,7 @@
     <meta name="twitter:image" content="{{ page.twitter_img }}" />
     {% endif %}
     <link rel="stylesheet" href="/assets/main.css">
+    {% seo %}
 </head>
 <body>
 {% include header.liquid %}
@@ -30,8 +30,8 @@
         <div class="content-wrap subpage">
             <div class="post-date">{{ include.date | date: '%d. %B %Y'  }}</div>
             <h1 class="section-headline">{{ page.title }}</h1>
-            {% if page.autor %}
-            <div class="blue post-author">{{ page.autor }}</div>
+            {% if page.author %}
+            <div class="blue post-author">{{ page.author }}</div>
             {% endif %}
         </div>
             <!-- a fullwidth image -->

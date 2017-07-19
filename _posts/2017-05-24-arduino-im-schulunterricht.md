@@ -9,7 +9,7 @@ categories: Toolcard
 twitter_large_img: /assets/img/blog/2017/Mai/arduino/arduino.png
 header_background: /assets/img/blog/2017/Mai/arduino/arduino.png
 header_background_caption: ""
-autor: Maximilian Voigt
+author: Maximilian Voigt
 
 ---
 Bild: Kallap85, <a href="https://commons.wikimedia.org/wiki/File:Barbone_Arduino_Uno.jpg">Barbone Arduino Uno</a>, <a href="https://commons.wikimedia.org/wiki/Category:CC-BY-SA-4.0">CC-BY-SA-4.0</a>

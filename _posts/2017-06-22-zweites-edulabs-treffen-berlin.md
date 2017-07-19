@@ -9,7 +9,7 @@ categories: edulabsBE Events
 twitter_large_img: /assets/img/blog/2017/Juni/edulabsBE2/caption.jpg
 header_background: /assets/img/blog/2017/Juni/edulabsBE2/edulabsBE_2.jpg
 header_background_caption: ""
-autor: Maximilian Voigt
+author: Maximilian Voigt
 
 ---
 Nach dem ertragreichen ersten Treffen des edulabsBE steht nun der nächste Termin: Am 27. Juni, 18:30 Uhr, treffen sich wieder experimentierfreudige Pädagog\*innen, Making- und Designaffine, Menschen mit Freude am Coden... und arbeiten gemeinsam an alternativen und freien Bildungskonzepten.

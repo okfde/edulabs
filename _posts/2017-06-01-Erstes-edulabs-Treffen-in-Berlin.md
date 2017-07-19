@@ -9,7 +9,7 @@ categories: edulabsBE Events
 twitter_large_img: /assets/img/blog/2017/Juni/edulabsBE1/caption.jpg
 header_background: /assets/img/blog/2017/Juni/edulabsBE1/Start des edulabs Berlin.jpg
 header_background_caption: ""
-autor: Maximilian Voigt
+author: Maximilian Voigt
 
 ---
 Es geht los! Am 13.06., um 18:30 Uhr, startet das erste edulab als Hackathon in den [Werkstätten für Arbeitslehre der Technischen Universität Berlin](http://s521291175.online.de/ibba/IBBA-Tour.html). Dort könnt ihr Eure Projektideen für freie und digital gestützte Bildungsformate vorstellen und Konzepte mitgestalten. Du kannst coden, schreiben, hast ein Händchen für Design oder pädagogische Erfahrung? Du möchtest freie Bildungsformate voranbringen? Dann bist du herzlich eingeladen, Teil des edulabs Berlin zu werden!

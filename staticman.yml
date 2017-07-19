@@ -16,13 +16,13 @@ comments:
         format      : "iso8601"
 
 projects:
-  allowedFields     : ['title', 'content']
+  allowedFields     : ['title', 'content', 'short-desc', 'image', 'link', 'contact-name', 'contact-email']
   branch            : "project-creator"
   commitMessage     : "New project."
-  filename          : "project-{@timestamp}"
+  filename          : "{fields.slug}"
   format            : "frontmatter"
   moderation        : true
-  path              : "_project/{fields.title}"
+  path              : "_project"
   requiredFields    : ['title', 'content']
   transforms:
     content         : frontmatterContent
@@ -31,4 +31,7 @@ projects:
       type          : "date"
       options:
         format      : "iso8601"
-
+    slug:
+      type          : "slugify"
+      options:
+        field       :  title

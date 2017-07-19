@@ -58,9 +58,30 @@ collections:
     permalink: /:collection/:name
   project:
     output: true
-    permalink: /:collection/:name
+    permalink: /:collection/:title
+  project-edit:
+    output: true
+    permalink: /edit/project/:title
 
-repository: 'okfde/edulabs'
+defaults:
+ -
+   scope:
+     path: "_project"
+   values:
+     layout: project
+ -
+   scope:
+     path: "_project-edit"
+   values:
+     layout: add-project
+
+
+repository: 'aivuk/edulabs'
 
 staticman:
   branch: "project-creator"
+
+title: "edulabs"
+description: "Offene Bildung mit digital gestützten Methoden"
+logo: "/assets/img/static/edulabs-logo.svg"
+lang: "de_DE"

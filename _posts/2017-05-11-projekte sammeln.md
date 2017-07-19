@@ -8,7 +8,7 @@ categories: Projekte
 twitter_large_img: /assets/img/blog/2017/Mai/hackdash1/labsituation.JPG
 header_background: /assets/img/blog/2017/Mai/hackdash1/labsituation.JPG
 header_background_caption: ""
-autor: Maximilian Voigt
+author: Maximilian Voigt
 
 ---
 *Durch edulabs möchten wir Menschen vernetzen, die mit ihrer Expertise offene Bildung gestalten. Dazu organisieren wir persönliche Treffen, Public Calls sowie eine Mailingliste; Projektideen sammeln wir in einem Hackdash.*

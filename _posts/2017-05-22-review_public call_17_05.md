@@ -8,7 +8,7 @@ categories: Projekte edulabsCall
 twitter_large_img: /assets/img/blog/2017/Mai/hackdash2/hackdash_22_5.png
 header_background: /assets/img/blog/2017/Mai/hackdash2/hackdash_22_5.png
 header_background_caption: ""
-autor: Maximilian Voigt
+author: Maximilian Voigt
 
 ---
 Nach dem gut besuchten edulabs-call am Mittwoch gibt es erste konkrete Projekte, die Unterstützung suchen. Im Folgenden haben wir einige für Euch kurz zusammengefasst, alle weiteren Projektideen findet ihr im [edulabs Hackdash](https://hackdash.org/dashboards/edulabs). Bei Interesse könnt ihr über den Link zum Projekt Kontakt aufnehmen:

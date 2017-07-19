@@ -8,7 +8,7 @@ categories: Events
 twitter_large_img: /assets/img/blog/2017/April/edulabs1/supermarkt-berlin.jpg
 header_background: /assets/img/blog/2017/April/edulabs1/supermarkt-berlin.jpg
 header_background_caption: "Bild: Supermarkt Berlin"
-autor: Maximilian Voigt
+author: Maximilian Voigt
 
 ---
 Am 3.5. organisieren wir ein erstes Planungstreffen im [Supermarkt Berlin](http://www.supermarkt-berlin.net/). Wer sich für offene, digitale Bildung engagiert und gerne _unterrichtet / entwickelt / gestaltet / schreibt / [...]_ ist herzlich eingeladen, Teil des edulabs Berlin zu werden und diesen offenen Raum mit aufzubauen. Wir stellen das Projekt vor, besprechen das Konzept, starten erste Projekte und freuen uns auf Euer Feedback und neue Ideen!

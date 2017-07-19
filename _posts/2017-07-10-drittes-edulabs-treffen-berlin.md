@@ -4,12 +4,12 @@ layout: post
 title: "WLAN-Lösungen & neue Unterrichtskonzepte: Das edulabsBE geht in die 3. Runde"
 teaser: "Gerade erst gestartet und schon steht das dritte Treffen des edulabsBE: Am 18.07., um 18:30 Uhr, kommen wieder Engagierte aus unterschiedlichen Bereichen zusammen, um gemeinsam neue Bildungskonzepte zu entwickeln."
 teaser_img_src: /assets/img/blog/2017/Juli/edulabsBE3/edulabsBE_3.jpg
-featured: true
+featured: false
 categories: edulabsBE Events
 twitter_large_img: /assets/img/blog/2017/Juli/edulabsBE3/edulabsBE_3_twitter.jpg
 header_background: /assets/img/blog/2017/Juli/edulabsBE3/edulabsBE_3.jpg
 header_background_caption: ""
-autor: Maximilian Voigt
+author: Maximilian Voigt
 
 ---
 Gerade erst eröffnet und schon steht das dritte Treffen des edulabsBE: Am 18. Juli, um 18:30 Uhr kommen wieder Engagierte aus unterschiedlichen Bereichen zusammen, um gemeinsam neue Bildungskonzepte zu entwickeln. Einige Projekte wurden bereits vorgestellt und erste Gruppen haben sich gebildet. Andere suchen noch Unterstützung. Einen Überblick findet ihr im [edulabs Hackdash](http://okfn.us5.list-manage1.com/track/click?u=929f1e07936386d34833e20d1&id=e676c7bfcb&e=2a8c001707) sowie im [Etherpad zum Treffen](http://okfn.us5.list-manage.com/track/click?u=929f1e07936386d34833e20d1&id=7b24780aae&e=2a8c001707).
