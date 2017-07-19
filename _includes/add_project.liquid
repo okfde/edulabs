@@ -5,10 +5,10 @@
   {% capture redirect %}{{site.url}}/project/{{page.slug}}{% endcapture %}
   {% assign editable = 'readonly' %}
   {% assign project_title = page.title %}
-  {% assign project_text = page.text %}
+  {% assign project_text = page.short-desc %}
   {% assign project_link = page.link %}
-  {% assign project_contact_name = page.contact_name %}
-  {% assign project_contact_email = page.contact_email %}
+  {% assign project_contact_name = page.contact-name %}
+  {% assign project_contact_email = page.contact-email %}
 {% endif %}
 <div class="row">
     <section class="section first white col-xs-24">
@@ -55,9 +55,6 @@
             <fieldset class="hidden" style="display:none;">
               <input type="hidden" name="options[origin]" value="{{ page.url | absolute_url }}">
               <label for="comment-form-location">Leave blank if you are a human</label>
-            </fieldset>
-
-            <fieldset iclass="hidden" style="display:none;">
               <input id="spam_info" type="hidden" name="fields[human]" value="false">
              <input id="redirect_url" type="hidden" name="options[redirect]" value="{{ redirect }}">
             </fieldset>
