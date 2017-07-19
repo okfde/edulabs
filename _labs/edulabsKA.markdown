@@ -18,5 +18,6 @@ jubez-Café [Eingang auf der Brücke]<br>
 Kronenplatz 1<br>
 76133 Karlsruhe
 
-## Anmeldung
-[Über Meetup](https://www.meetup.com/preview/edulabsKA/events/241838736)
+<div class="content-wrap btn-wrap">
+    <a class="edu-btn black" href="https://www.meetup.com/preview/edulabsKA/events/241838736" target="_blank">Anmeldung</a>
+</div>
