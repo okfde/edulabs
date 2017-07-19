@@ -16,7 +16,7 @@ comments:
         format      : "iso8601"
 
 projects:
-  allowedFields     : ['title', 'content', 'short-desc', 'link', 'contact-name', 'contact-email']
+  allowedFields     : ['title', 'content', 'short-desc', 'image', 'link', 'contact-name', 'contact-email']
   branch            : "project-creator"
   commitMessage     : "New project."
   filename          : "{fields.slug}"
@@ -35,4 +35,3 @@ projects:
       type          : "slugify"
       options:
         field       :  title
-    layout: "project"

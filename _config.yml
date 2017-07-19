@@ -76,7 +76,7 @@ defaults:
      layout: add-project
 
 
-repository: 'okfde/edulabs'
+repository: 'aivuk/edulabs'
 
 staticman:
   branch: "project-creator"
