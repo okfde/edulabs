@@ -5,10 +5,14 @@
   {% capture redirect %}{{site.url}}/project/{{page.slug}}{% endcapture %}
   {% assign editable = 'readonly' %}
   {% assign project_title = page.title %}
+  {% assign project_needs = page.needs %}
   {% assign project_text = page.short-desc %}
   {% assign project_link = page.link %}
+  {% assign project_status = page.status %}
+  {% assign project_lab = page.lab %}
   {% assign project_contact_name = page.contact-name %}
   {% assign project_contact_email = page.contact-email %}
+  {% assign project_image = page.image %}
 {% endif %}
 <div class="row">
     <section class="section first white col-xs-24">
@@ -25,10 +29,39 @@
               <input type="text" id="project-form-name" name="fields[title]" value="{{ project_title }}" spellcheck="false" {{editable}}/>
             </fieldset>
 
+            <! -- Project Lab -->
+            <fieldset>
+              <label for="project-form-lab"><strong>Lab</strong> <span class="required">*</span></label>
+              <select name="status" required>
+                <option value="#BE" selected>#BE</option>
+                <option value="#K/BN">#K/BN</option>
+                <option value="#KA">#KA</option>
+              </select>
+            </fieldset>
+
+
+            <! -- Project status -->
+            <fieldset>
+              <label for="project-form-status"><strong>Status</strong> <span class="required">*</span></label>
+              <select name="status" required>
+                <option value="brainstorming" selected>brainstorming</option>
+                <option value="researching">researching</option>
+                <option value="prototyping">prototyping</option>
+                <option value="building">building</option>
+                <option value="releasing">releasing</option>
+              </select>
+            </fieldset>
+
             <!-- Project Short Text -->
             <fieldset>
               <label for="project-form-short-description"><strong>Short description</strong> <span class="required">*</span></label>
               <textarea type="text" rows="6" id="project-form-short-description" name="fields[short-desc]" spellcheck="true">{{ project_text }}</textarea>
+            </fieldset>
+
+            <!-- Project Needs Text -->
+            <fieldset>
+              <label for="project-form-needs"><strong>What the project needs?</strong> <span class="required">*</span></label>
+              <textarea type="text" rows="6" id="project-form-needs" name="fields[needs]" spellcheck="true">{{ project_needs }}</textarea>
             </fieldset>
 
             <!-- Project Text -->
@@ -42,6 +75,13 @@
               <label for="project-form-link"><strong>Projekt Link</strong> <span class="required">*</span></label>
               <input type="text" id="project-form-link" name="fields[link]" value="{{ project_link }}" spellcheck="false"/>
             </fieldset>
+
+            <!-- Link to a Project Image -->
+            <fieldset>
+              <label for="project-form-image"><strong>Image URL</strong> <span class="required">*</span></label>
+              <input type="text" id="project-form-image" name="fields[image]" value="{{ project_image }}" spellcheck="false"/>
+            </fieldset>
+
 
             <!-- Project Contact -->
             <fieldset>
