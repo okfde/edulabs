@@ -76,5 +76,8 @@ Wir stehen noch ganz am Anfang und es ist klar, dass sich da noch viel entwickel
 <a class="external-link" href="http://www.dein-labor.tu-berlin.de/" target="_blank">dEIn Labor - das Elektrotechnik und Informatik Labor an der TU-Berlin</a>
 <a class="external-link" href="https://appcamps.de" target="_blank">AppCamps - eine Plattform für Unterrichtsmaterialien</a>
 </p>
+<div class="content-wrap btn-wrap">
+    <a class="edu-btn black" href="http://okfn.us5.list-manage.com/subscribe?u=929f1e07936386d34833e20d1&id=9ceae2ed43" target="_blank">Newsletter</a>
+</div>
 
 
