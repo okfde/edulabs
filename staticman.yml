@@ -1,6 +1,6 @@
 comments:
   allowedFields     : ['name', 'email', 'url', 'message', 'replying_to']
-  branch            : "master"
+  branch            : "project-creator"
   commitMessage     : "New comment."
   filename          : "comment-{@timestamp}"
   format            : "yaml"
@@ -14,3 +14,24 @@ comments:
       type          : "date"
       options:
         format      : "iso8601"
+
+projects:
+  allowedFields     : ['title', 'content', 'short-desc', 'image', 'link', 'contact-name', 'contact-email']
+  branch            : "project-creator"
+  commitMessage     : "New project."
+  filename          : "{fields.slug}"
+  format            : "frontmatter"
+  moderation        : true
+  path              : "_project"
+  requiredFields    : ['title', 'content']
+  transforms:
+    content         : frontmatterContent
+  generatedFields:
+    date:
+      type          : "date"
+      options:
+        format      : "iso8601"
+    slug:
+      type          : "slugify"
+      options:
+        field       :  title
