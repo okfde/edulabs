@@ -664,10 +664,20 @@ FOOTER STYLES
 
       li{
 
+        float: left;
         display: block;
 
-        .edu-btn{
-            font-size: 1rem;
+        .icon {
+            font-size: 1.5rem;
+            min-width: 0;
+            border: none;
+            padding: 10px 10px;
+            text-align: center;
+
+                &:hover{
+                    color: $primary-color;
+                }
+
             i {
                 font-family: 'fontello';
                 margin-right: 15px;
@@ -689,7 +699,7 @@ FOOTER STYLES
 
                 /* Animation center compensation - margins should be symmetric */
                 /* remove if not needed */
-                margin-left: .2em;
+                margin: auto;
 
                 /* You can be more comfortable with increased icons size */
                 /* font-size: 120%; */
