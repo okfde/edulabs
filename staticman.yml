@@ -14,3 +14,24 @@ comments:
       type          : "date"
       options:
         format      : "iso8601"
+
+projects:
+  allowedFields     : ['title', 'content', 'short-desc', 'needs', 'lab', 'status', 'image', 'link', 'contact-name', 'contact-email']
+  branch            : "dev-new-website"
+  commitMessage     : "New project"
+  filename          : "{fields.slug}"
+  format            : "frontmatter"
+  moderation        : true
+  path              : "_project"
+  requiredFields    : ['title', 'content', 'short-desc', 'lab', 'status', 'image', 'link', 'contact-name', 'contact-email']
+  transforms:
+    content         : frontmatterContent
+  generatedFields:
+    date:
+      type          : "date"
+      options:
+        format      : "iso8601"
+    slug:
+      type          : "slugify"
+      options:
+        field       :  title

@@ -1,4 +1,5 @@
-<section class="page__reactions">
+<div id="open-comments" class="edu-btn black" onclick="$('#comments-section').slideToggle()">Kommentare</div>
+<section id="comments-section" class="page__reactions" style="display: none">
   {% if site.repository and site.staticman.branch %}
     {% if site.data.comments[page.slug] %}
       <!-- Start static comments -->
