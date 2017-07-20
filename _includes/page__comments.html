@@ -1,4 +1,5 @@
-<section class="page__reactions">
+<div id="open-comments" class="edu-btn black" onclick="$('#comments-section').slideToggle()">Kommentare</div>
+<section id="comments-section" class="page__reactions" style="display: none">
   {% if site.repository and site.staticman.branch %}
     {% if site.data.comments[page.slug] %}
       <!-- Start static comments -->
@@ -28,8 +29,7 @@
 
     {% unless page.comments_locked == true %}
     <!-- Start new comment form -->
-    <div id="open-comments" class="edu-btn black" onclick="$('#respond').slideToggle()">Kommentare</div>
-    <div id="respond" style="display: none">
+    <div id="respond">
       <h3 class="page__section-label">Hinterlasse einen Kommentar <small><a rel="nofollow" id="cancel-comment-reply-link" href="{{ page.url | absolute_url }}#respond" style="display:none;">Cancel reply</a></small></h3>
       <p class="instruct"><a href="https://daringfireball.net/projects/markdown/syntax">Markdown</a> ist erlaubt. Die Email-Adresse wird nicht veröffentlicht.</p>
       <form id="comment-form" class="page__form js-form form" method="post" action="https://api.staticman.net/v2/entry/{{ site.repository }}/{{ site.staticman.branch }}/comments">
