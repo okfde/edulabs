@@ -10,6 +10,17 @@ Do whatever you want to...GOSH!
 
 ******************************************************************/
 
+@font-face {
+      font-family: 'fontello';
+      src: url($baseurl + '/assets/fonts/fontello.eot?59799402');
+      src: url($baseurl + '/assets/fonts/fontello.eot?59799402#iefix') format('embedded-opentype'),
+           url($baseurl + '/assets/fonts/fontello.woff?59799402') format('woff'),
+           url($baseurl + '/assets/fonts/fontello.ttf?59799402') format('truetype'),
+           url($baseurl + '/assets/fonts/fontello.svg?59799402#fontello') format('svg');
+      font-weight: normal;
+      font-style: normal;
+}
+
 @import url('https://fonts.googleapis.com/css?family=Karla:400,700');
 
 @font-face {
