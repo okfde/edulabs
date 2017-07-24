@@ -21,7 +21,7 @@
             <!--    <p>Von der Idee zum Projekt: In den edulabs entwickeln Teams zusammen Projekte für zeitgemäße Bildung. Projektideen sammeln wir zuerst im <a href="https://hackdash.org/dashboards/edulabs">edulabs Hackdash</a>. Hat sich eine Arbeitsgruppe gefunden, wird diese sowie das Vorhaben im Folgenden aufgeführt.</p> -->
         </div>
         <div class="row content-wrap">
-          <form id="edit-project-form" class="form" method="post" action="http://vaz.io:8888/v2/entry/{{ site.repository }}/{{ site.staticman.branch }}/projects">
+          <form id="edit-project-form" class="form" method="post" action="{{ site.staticman_server }}/v2/entry/{{ site.repository }}/{{ site.staticman.branch }}/projects">
 
             <!-- Project Name -->
             <fieldset>
@@ -29,7 +29,7 @@
               <input type="text" id="project-form-name" name="fields[title]" value="{{ project_title }}" spellcheck="false" {{editable}}/>
             </fieldset>
 
-            <! -- Project Lab -->
+            <!-- Project Lab -->
             <fieldset>
               <label for="project-form-lab"><strong>Lab</strong> <span class="required">*</span></label>
               <select name="fields[lab]" required>
@@ -40,7 +40,7 @@
             </fieldset>
 
 
-            <! -- Project status -->
+            <!-- Project status -->
             <fieldset>
               <label for="project-form-status"><strong>Status</strong> <span class="required">*</span></label>
               <select name="fields[status]" required>
