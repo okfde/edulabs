@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: lab
 title:  "KA"
 about: true
 headline: "edulabs Karlsruhe (geplant)"

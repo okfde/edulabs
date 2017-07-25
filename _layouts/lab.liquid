@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="description" content="">
+    <meta name="author" content="Rainbow Unicorn">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" type="image/x-icon" href="/assets/img/static/edulabs.ico">
+    <link rel="stylesheet" href="/assets/main.css">
+    {% seo %}
+    <!-- Piwik -->
+   <script type="text/javascript">
+       var _paq = _paq || [];
+       /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+       _paq.push(['trackPageView']);
+       _paq.push(['enableLinkTracking']);
+       (function() {
+           var u = "//piwik.okfn.de/";
+           _paq.push(['setTrackerUrl', u + 'piwik.php']);
+           _paq.push(['setSiteId', '35']);
+           var d = document,
+               g = d.createElement('script'),
+               s = d.getElementsByTagName('script')[0];
+           g.type = 'text/javascript';
+           g.async = true;
+           g.defer = true;
+           g.src = u + 'piwik.js';
+           s.parentNode.insertBefore(g, s);
+       })();
+   </script>
+   <!-- End Piwik Code -->
+</head>
+<body>
+{% include header.liquid %}
+<div class="page-wrap subpage-content">
+    <div class="row">
+        <section class="section first col-xs-24">
+            <div class="content-wrap subpage">
+                <h1 class="section-headline">{{ page.title }}</h1>
+            </div>
+            <div class="content-wrap subpage">
+                {{ content }}
+                </div>
+            </div>
+
+        </section>
+    </div>
+    <!-- team -->
+    {% if page.team %}
+    <div class="row">
+        <section class="section grey-light col-xs-24">
+            <div class="content-wrap">
+                <h2 class="section-headline">Team</h2>
+            </div>
+            <!-- member teasers -->
+
+            {% include {{ page.team }} %}
+        </section>
+    </div>
+    {% endif %}
+    <div class="row">
+        {% include partials/sections/apply.liquid %}
+    </div>
+</div>
+<!-- über das projekt -->
+<div class="row">
+    <section class="section col-xs-24">
+        <div class="content-wrap">
+            <h2 class="section-headline">Über das Projekt</h2>
+            <h3 class="blue about-subline">Wie lassen sich offene Bildungsangebote mit digital gestützten Methoden
+                gestalten? </h3>
+            <p>Edulabs sind lokale Gruppen aus Menschen, die ihre didaktischen,
+                technischen und gestalterischen Fähigkeiten einsetzen, um zusammen innovative und nachnutzbare
+                Bildungsmaterialien zu entwickeln. <a href="https://edulabs.de/about/">[...]</a></p>
+        </div>
+        <div class="content-wrap btn-wrap">
+            <a class="edu-btn black" href="/about" target="_blank">mehr</a>
+        </div>
+        </section>
+</div>
+<!-- include mitmachen section -->
+{% include footer.liquid %}

@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: lab
 title:  "BE"
 team: "/partials/member-teasers-edulabsBE.liquid"
 headline: "edulabs Berlin"
