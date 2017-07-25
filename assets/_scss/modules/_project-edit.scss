@@ -5,3 +5,45 @@
     text-align: left;
   }
 }
+
+.project-desc {
+
+  .project-short-desc {
+  }
+
+  .project-image {
+  }
+}
+
+.project-status {
+
+  .status {
+    float: left;
+    display: table;
+    width: 20%;
+    background: $grey-light;
+    text-align: center;
+    &.completed {
+      background-color: #004dff;
+      opacity: 0.8;
+    }
+    &.selected {
+      background-color: #004dff;
+      font-weight: bold;
+      color: white;
+    }
+    .label {
+      margin: auto;
+      height: 50px;
+      vertical-align: middle;
+      display: table-cell;
+      width: 100%;
+    }
+  }
+
+  &:after {
+    content: '';
+    display: table;
+    clear: both;
+  }
+}
