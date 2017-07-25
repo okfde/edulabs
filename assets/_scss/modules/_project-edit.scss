@@ -4,6 +4,10 @@
     border: none;
     text-align: left;
   }
+
+  .small {
+    font-size: 0.6em;
+  }
 }
 
 .project-desc {
@@ -26,6 +30,7 @@
     &.completed {
       background-color: #004dff;
       opacity: 0.8;
+      color: white;
     }
     &.selected {
       background-color: #004dff;
