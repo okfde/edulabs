@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="description" content="">
+    <meta name="author" content="Rainbow Unicorn">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" type="image/x-icon" href="/assets/img/static/edulabs.ico">
+    <link rel="stylesheet" href="/assets/main.css">
+    {% seo %}
+    <!-- Piwik -->
+   <script type="text/javascript">
+       var _paq = _paq || [];
+       /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+       _paq.push(['trackPageView']);
+       _paq.push(['enableLinkTracking']);
+       (function() {
+           var u = "//piwik.okfn.de/";
+           _paq.push(['setTrackerUrl', u + 'piwik.php']);
+           _paq.push(['setSiteId', '35']);
+           var d = document,
+               g = d.createElement('script'),
+               s = d.getElementsByTagName('script')[0];
+           g.type = 'text/javascript';
+           g.async = true;
+           g.defer = true;
+           g.src = u + 'piwik.js';
+           s.parentNode.insertBefore(g, s);
+       })();
+   </script>
+   <!-- End Piwik Code -->
+</head>
+<body>
+{% include header.liquid %}
+{% raw %}
+<script id="search-results-template" type="text/mustache">
+  {{#entries}}
+    <article>
+      <h3>
+        {{#date}}<small><time datetime="{{pubdate}}" pubdate>{{displaydate}}</time></small>{{/date}}
+        <a href="{{url}}">{{title}}</a>
+      </h3>
+      {{#is_post}}
+      <ul>
+        {{#tags}}<li>{{.}} </li>{{/tags}}
+      </ul>
+      {{/is_post}}
+    </article>
+  {{/entries}}
+</script>
+{% endraw %}
+<div class="page-wrap">
+    <section id="search-results" style="display: none;"> </section>
+    </div>
+    {{ content }}
+</div>
+{% include footer.liquid %}

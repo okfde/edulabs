@@ -1,0 +1,39 @@
+.themes-menu {
+  padding-left: 50px;
+  .menu {
+    .theme {
+      &.edu-btn.black {
+        font-size: 1em;
+        border-bottom: none;
+        width: 100%;
+        min-width: 0;
+        &:last-of-type {
+          margin: 0;
+          border-bottom: 1px solid black;
+        }
+
+        .subtheme {
+          background-color: $grey-light;
+          .edu-btn.black {
+            font-size: 1em;
+            border-bottom: none;
+            width: 100%;
+            min-width: 0;
+
+            &:last-of-type {
+              margin: 0;
+              border-bottom: 1px solid black;
+            }
+            &:hover {
+              background-color: rgba(0,0,0,0.3);
+            }
+          }
+
+        }
+      }
+    }
+  }
+}
+
+.menu-button {
+}

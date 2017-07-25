@@ -1,0 +1,35 @@
+---
+layout: dw
+title: Bildung in der Digitalen Welt
+permalink: /dw/
+---
+<!-- blog -->
+<div class="row">
+    <section class="section first grey-light col-xs-24">
+        <div class="content-wrap">
+            <h2 class="section-headline"> Bildung in der Digitalen Welt</h2>
+        </div>
+        <!-- filters -->
+        <div class="content-wrap filter-items green">
+        </div>
+        <!-- blog teasers -->
+        <div class="themes-menu col-xs-4">
+          <div class="menu">
+          {% for theme in site.data.digitalen_welt.themes %}
+          <div class="theme menu-button edu-btn black" onclick="$('.subtheme-{{forloop.index}}').slideToggle();">{{ theme.name }}
+            <div class="subtheme-{{forloop.index}} grey-light subtheme" style="display: none">
+            {% for subtheme in theme.subthemes %}
+            <div class="menu-button edu-btn black">{{ subtheme.name }}</div>
+            {% endfor %}
+            </div>
+          </div>
+          {% endfor %}
+          </div>
+        </div>
+        <div class="col-xs-20">
+        {% include partials/blog/blog-isotope.liquid %}
+        </div>
+    </section>
+</div>
+<!-- include mitmachen section -->
+{% include partials/sections/apply.liquid %}
