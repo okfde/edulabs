@@ -2,7 +2,7 @@
   {% assign redirect = site.url %}
   {% assign project_title = '' %}
 {% else %}
-  {% capture redirect %}{{site.url}}/project/{{page.slug}}{% endcapture %}
+  {% capture redirect %}{{site.url}}/projects/{{page.slug}}{% endcapture %}
   {% assign editable = 'readonly' %}
   {% assign project_title = page.title %}
   {% assign project_needs = page.needs %}
