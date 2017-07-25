@@ -1,5 +1,5 @@
 {% if include.new %}
-  {% assign redirect = site.url %}
+  {% assign redirect = '/' %}
   {% assign project_title = '' %}
 {% else %}
   {% capture redirect %}{{site.url}}/projects/{{page.slug}}{% endcapture %}
@@ -107,7 +107,7 @@
                       </div>
                     <p>
                     <button type="button" class="edu-btn small black" onclick="$('#contact-template').children().clone().appendTo('.contacts')">+ Andere Kontakt</button>
-                    </p></span></strong>
+                    </p>
                     <br/>
             </fieldset>
 
