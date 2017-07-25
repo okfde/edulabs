@@ -86,10 +86,29 @@
             <!-- Project Contact -->
             <fieldset>
               <h3>Kontakt</h3>
-              <label for="project-form-contact-name"><strong>Name</strong> <span class="required">*</span></label>
-              <input type="text" id="project-form-contact-name" name="fields[contact-name]" value="{{ project_contact_name }}" spellcheck="false"/>
-              <label for="project-form-contact-email"><strong>Email</strong> <span class="required">*</span></label>
-              <input type="text" id="project-form-contact-email" name="fields[contact-email]" value="{{ project_contact_email }}" spellcheck="false"/>
+                    {% for contact in page.contact-name %}
+                         {% if forloop.length == 1 %}
+                           {% assign contact_name = contact %}
+                           {% assign contact_email = page.contact-email %}
+                         {% else %}
+                           {% assign contact_name = contact %}
+                           {% assign contact_email = page.contact-email[forloop.index0] %}
+                         {% endif %}
+                        <label for="project-form-contact-name"><strong>Name</strong> <span class="required">*</span></label>
+                        <input type="text" id="project-form-contact-name" name="fields[contact-name]" value="{{ contact_name }}" spellcheck="false"/>
+                        <label for="project-form-contact-email"><strong>Email</strong> <span class="required">*</span></label>
+                        <input type="text" id="project-form-contact-email" name="fields[contact-email]" value="{{ contact_email }}" spellcheck="false"/>
+                    {% endfor %}
+                    <div class="contacts">
+                          <label for="project-form-contact-name"><strong>Name</strong> <span class="required">*</span></label>
+                          <input type="text" id="project-form-contact-name" name="fields[contact-name]" value="{{ project_contact_name  }}" spellcheck="false"/>
+                          <label for="project-form-contact-email"><strong>Email</strong> <span class="required">*</span></label>
+                          <input type="text" id="project-form-contact-email" name="fields[contact-email]" value="{{ project_contact_email  }}" spellcheck="false"/>
+                      </div>
+                    <p>
+                    <button type="button" class="edu-btn small black" onclick="$('#contact-template').children().clone().appendTo('.contacts')">+ Andere Kontakt</button>
+                    </p></span></strong>
+                    <br/>
             </fieldset>
 
             <fieldset class="hidden" style="display:none;">
@@ -107,7 +126,13 @@
               <button type="submit" id="comment-form-submit" class="edu-btn black">Projekte senden</button>
             </fieldset>
       </form>
-        </div>
+      <div id="contact-template" style="display: none">
+        <label for="project-form-contact-name"><strong>Name</strong> <span class="required">*</span></label>
+        <input type="text" id="project-form-contact-name" name="fields[contact-name]" value="" spellcheck="false"/>
+        <label for="project-form-contact-email"><strong>Email</strong> <span class="required">*</span></label>
+        <input type="text" id="project-form-contact-email" name="fields[contact-email]" value="" spellcheck="false"/>
+      </div>
+      </div>
     </section>
 </div>
 

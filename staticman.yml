@@ -17,7 +17,7 @@ comments:
 
 projects:
   allowedFields     : ['title', 'content', 'short-desc', 'needs', 'lab', 'status', 'image', 'link', 'contact-name', 'contact-email']
-  branch            : "dev-new-website"
+  branch            : "master"
   commitMessage     : "New project"
   filename          : "{fields.slug}"
   format            : "frontmatter"

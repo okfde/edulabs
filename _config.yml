@@ -59,10 +59,10 @@ collections:
     permalink: /:collection/:name
   project:
     output: true
-    permalink: /:collection/:title
+    permalink: /projects/:title/index.html
   project-edit:
     output: true
-    permalink: /edit/project/:title
+    permalink: /projects/:title/edit
 
 defaults:
  -
