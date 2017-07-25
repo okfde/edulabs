@@ -80,7 +80,7 @@ defaults:
 repository: 'okfde/edulabs'
 
 staticman:
-  branch: "dev-new-website"
+  branch: "master"
 
 title: "edulabs"
 description: "Offene Bildung mit digital gestützten Methoden"
