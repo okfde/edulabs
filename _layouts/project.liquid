@@ -54,12 +54,14 @@
                     {% endif %}
                     {% endfor %}
                 </div>
+                <!-- project image -->
                 <p>
-                {% if page.image %}
-                <div class="row">
-                   <img src="{{ page.image }}">
-                </div>
-                {% endif %}
+                    {% if page.image %}
+                        <div class="img-wrap-center">
+                            <img src="{{ page.image }}" style="width: 100%; display: inline-block">
+                        </div>
+                    {% endif %}
+                    <!-- project description -->
                    <h3>Projektbeschreibung</h3>
                    <p> {{ page.short-desc }}</p>
                 <p>
@@ -84,7 +86,6 @@
                 </div>
                 <div class="content-wrap btn-wrap">
                     <a class="edu-btn black" href="{{ page.link }}" target="_blank">Projektlink</a>
-                </div>
                 </div>
             </div>
 
