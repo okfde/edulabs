@@ -24,6 +24,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 permalink: /blog/:title
+staticman_server: 'https://staticman.vaz.io'
 
 # Build settings
 highlighter: rouge
@@ -58,10 +59,10 @@ collections:
     permalink: /:collection/:name
   project:
     output: true
-    permalink: /projects/:title
+    permalink: /projects/:title/index.html
   project-edit:
     output: true
-    permalink: /projects/:title
+    permalink: /projects/:title/edit
 
 defaults:
  -
