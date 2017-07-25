@@ -82,7 +82,14 @@
                 <p>
                 <div class="row">
                     <h3>Kontakt</h3>
-                    <a href="mailto:{{ page.contact-email }}">{{ page.contact-name }}</a>
+                    {% for contact in page.contact-name %}
+                         {% if forloop.length == 1 %}
+                         <a href="mailto:{{ page.contact-email }}">{{ contact }}</a>
+                         {% else %}
+                         <a href="mailto:{{ page.contact-email[forloop.index0] }}">{{ contact }}</a>
+                         {% endif %}
+                    <br/>
+                    {% endfor %}
                 </div>
                 </div>
             </div>
