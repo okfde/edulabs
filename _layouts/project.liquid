@@ -37,7 +37,7 @@
         <section class="section first col-xs-24">
             <div class="content-wrap subpage">
                 <h1 class="section-headline">{{ page.title }}</h1>
-                <h3 class="blue">{{ page.lab }}</h3>
+                <h3 class="blue">edulabs {{ page.lab }}</h3>
                 <div class="row project-status">
                     {% assign selected_status = 'completed' %}
                     {% for status in site.data.projects.status %}
@@ -54,30 +54,21 @@
                     {% endif %}
                     {% endfor %}
                 </div>
-                <!--                <div class="row project-desc">
-                    <div class="project-short-desc cols-lg-6">
-                        {{ page.short-desc }}
-                    </div>
-                    <div class="project-image col-lg-8">
-                        <img src="{{ page.image }}">
-                    </div>
-                    </div> -->
                 <p>
                 {% if page.image %}
                 <div class="row">
                    <img src="{{ page.image }}">
                 </div>
                 {% endif %}
+                   <h3>Projektbeschreibung</h3>
                    <p> {{ page.short-desc }}</p>
                 <p>
                 <div class="row">
-                    <h3>Unterstützung</h3>
+                    <h3>Das wird gesucht</h3>
                     {{ page.needs  | markdownify }}
                 </div>
-                <div class="row">
-                    <a href="{{ page.link }}">Weiter Informationen</a>
-                </div>
                 <p>
+                <h3>Projektdetails</h3>
                 {{ content }}
                 <p>
                 <div class="row">
@@ -90,6 +81,9 @@
                          {% endif %}
                     <br/>
                     {% endfor %}
+                </div>
+                <div class="content-wrap btn-wrap">
+                    <a class="edu-btn black" href="{{ page.link }}" target="_blank">Projektlink</a>
                 </div>
                 </div>
             </div>
