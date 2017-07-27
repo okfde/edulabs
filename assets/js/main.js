@@ -22,7 +22,7 @@
         Logger.useDefaults();
         Logger.setLevel(Logger.OFF);
 
-		var browser = ref.getBrowser();
+        var browser = ref.getBrowser();
         $('body').addClass(browser.name.toLowerCase()).addClass('version-' + browser.version.toLowerCase());
 
     };
@@ -56,6 +56,24 @@
 
         ref.addEventHandlers();
         ref.resize();
+
+        $projectShortDescLeft = $('#project-form-short-description-left');
+        $projectShortDesc = $('#project-form-short-description');
+        $projectShortDesc.keypress(function(event){
+            var maxLen = 300;
+            var Length =  $projectShortDesc.val().length;
+            var AmountLeft = maxLen - Length;
+            if(Length >= maxLen) {
+                if (event.which != 8) {
+                    return false;
+                }
+            }
+        }).on('input', function(event) {
+            var maxLen = 300;
+            var Length =  $projectShortDesc.val().length;
+            var AmountLeft = maxLen - Length;
+            $projectShortDescLeft.html(`(noch ${AmountLeft} Zeichen)`);
+        });
 
     };
 
@@ -261,7 +279,7 @@
         return { width : e[ a+'Width' ] , height : e[ a+'Height' ] };
     };
 
-	/*********************
+    /*********************
     get browser type + version
     *********************/
     Controller.prototype.getBrowser = function()
