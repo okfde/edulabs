@@ -27,6 +27,13 @@
     width: 20%;
     background: $grey-light;
     text-align: center;
+
+    @media screen and (max-width: 320px) {
+      width: 80%;
+      margin: auto;
+      float: none;
+    }
+
     &.completed {
       background-color: #004dff;
       opacity: 0.8;
