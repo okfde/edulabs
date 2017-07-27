@@ -1,5 +1,9 @@
 #edit-project-form {
 
+  .disabled {
+    display: none;
+  }
+
   fieldset {
     border: none;
     text-align: left;
@@ -33,9 +37,11 @@
     text-align: center;
 
     @media screen and (max-width: 320px) {
-      width: 80%;
+      width: 50%;
+      font-size: 0.8em;
       margin: auto;
       float: none;
+      max-height: 40px;
     }
 
     &.completed {
@@ -54,6 +60,9 @@
       vertical-align: middle;
       display: table-cell;
       width: 100%;
+      @media screen and (max-width: 320px) {
+        height: 35px;
+      }
     }
   }
 

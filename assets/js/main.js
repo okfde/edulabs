@@ -57,7 +57,17 @@
         ref.addEventHandlers();
         ref.resize();
 
+        /*******************************************
+         Project Edit/Add Form
+         *******************************************/
+
         $projectShortDescLeft = $('#project-form-short-description-left');
+        var updateShortDescCounter = function () {
+            var maxLen = 300;
+            var Length =  $projectShortDesc.val().length;
+            var AmountLeft = maxLen - Length;
+            $projectShortDescLeft.html(`(noch ${AmountLeft} Zeichen)`);
+        };
         $projectShortDesc = $('#project-form-short-description');
         $projectShortDesc.keypress(function(event){
             var maxLen = 300;
@@ -69,11 +79,33 @@
                 }
             }
         }).on('input', function(event) {
-            var maxLen = 300;
-            var Length =  $projectShortDesc.val().length;
-            var AmountLeft = maxLen - Length;
-            $projectShortDescLeft.html(`(noch ${AmountLeft} Zeichen)`);
+            updateShortDescCounter();
         });
+        updateShortDescCounter();
+
+        $('#edit-project-form').submit(function () {
+          var form = this;
+          $('#edit-project-form-submit').html('<h3>Wird geladen...</h3>');
+
+          $.ajax({
+            type: $(this).attr('method'),
+            url: $(this).attr('action'),
+            data: $(this).serialize(),
+            contentType: 'application/x-www-form-urlencoded',
+            success: function (data) {
+                $('#edit-project-form-submit').toggle();
+                $('#project-submit-message').toggle();
+                $(form).toggle();
+                window.scrollTo(0, 0);
+            },
+            error: function (err) {
+              console.log(err);
+            }
+          });
+
+          return false;
+        });
+
 
     };
 

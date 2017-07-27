@@ -33,12 +33,11 @@
             <fieldset>
               <label for="project-form-lab"><strong>Lab</strong> <span class="required">*</span></label>
               <select name="fields[lab]" required>
-                <option value="#BE" {% if project_lab == "#BE" %}selected{% endif %}>#BE</option>
-                <option value="#K/BN" {% if project_lab == "#K/BN" %}selected{% endif %}>#K/BN</option>
-                <option value="#KA" {% if project_lab == "#KA" %}selected{% endif %}>#KA</option>
+                <option value="#BE" {% if project_lab == "#BE - Berlin" %}selected{% endif %}>#BE - Berlin</option>
+                <option value="#K/BN" {% if project_lab == "#K/BN - Köln/Bonn" %}selected{% endif %}>#K/BN - Köln/Bonn</option>
+                <option value="#KA" {% if project_lab == "#KA - Karlsruhe" %}selected{% endif %}>#KA - Karlsruhe</option>
               </select>
             </fieldset>
-
 
             <!-- Project status -->
             <fieldset>
@@ -128,6 +127,15 @@
               <button type="submit" id="comment-form-submit" class="edu-btn black">Projekte senden</button>
             </fieldset>
       </form>
+      <div id="edit-project-form-submit"></div>
+      <div id="project-submit-message" style="display: none">
+        <h2>Vielen Dank, dass du dein Projekt veröffentlicht hast.<h2>
+            <p>
+            Nach einer kurzen Sichtung, wird es für edulabs.de freigeschaltet und abrufbar sein. Um mit der Community in Kontakt zu treten und für dein Projekt zu werben steht die edulabs Mailingliste zur Verfügung:
+            <div class="content-wrap btn-wrap">
+                <a class="edu-btn black" href="https://listen.jpberlin.de/mailman/listinfo/edulabs" target="_blank">zur Mailingliste</a>
+            </div>
+      </div>
       <div id="contact-template" style="display: none">
         <label for="project-form-contact-name"><strong>Name</strong> <span class="required">*</span></label>
         <input type="text" id="project-form-contact-name" name="fields[contact-name]" value="" spellcheck="false"/>
