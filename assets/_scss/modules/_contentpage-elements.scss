@@ -131,10 +131,25 @@ contentpage elements
     width: 100%;
     padding: 20px;
 
-        .content{
-            font-size: 2.0rem;
-            font-style: Italic;
-            display: block;
-            line-height: 1.5;
-         }
+    &.left{
+    float: left;
+    margin-top: 35px;
+    margin-right: 40px;
+    margin-left: 0px;
+    margin-bottom: 20px;
+    }
+    &.right{
+    float:right;
+    margin-top: 35px;
+    margin-right: 0px;
+    margin-left: 40px;
+    margin-bottom: 20px;
+    }
+
+    .content{
+        font-size: 2.0rem;
+        font-style: Italic;
+        display: block;
+        line-height: 1.5;
+     }
 }
