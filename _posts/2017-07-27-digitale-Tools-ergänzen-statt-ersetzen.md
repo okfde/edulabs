@@ -3,7 +3,8 @@
 layout: post
 title: "'Mein Grundsatz ist: ergänzen statt ersetzen' - Kai Wörner im Interview"
 teaser: "Kai Wörner ist Lehrer an der für Medienbildung ausgezeichneten Realschule am Europakanal Erlangen II. Er unterrichtet Deutsch, Geschichte, Ethik und Sozialkunde und betreibt mit Kollegen des Schulversuchs Digitale Schule 2020 einen gemeinsamen Blog, in dem sie über ihre Erfahrungen berichten, die sie im Rahmen des Schulversuchs machen."
-/assets/img/static/lab-1080x720-3.jpgfeatured: true
+teaser_img_src: /assets/img/static/lab-1080x720-3.jpg
+featured: true
 categories: Interviews
 twitter_large_img: /assets/img/static/lab-1080x720-3.jpg
 header_background: /assets/img/static/lab-1080x720-3.jpg
@@ -16,7 +17,7 @@ info_text: |
 ---
 <!-- include floated image -->
 {% include partials/content/content-float-image.liquid float="right"
-src="/assets/img/blog/2017/Juli/interview_kai_woerner/Kai_Woerner.jpg" caption="Bild: Kai Wörner" %}
+src="/assets/img/blog/2017/Juli/interview_kai_woerner/Kai_Woerner.jpg" caption="Bild: Kai Wörner Lizenz: <a href='https://creativecommons.org/licenses/by/4.0/legalcode'>CC-BY 4.0</a>" %}
 
 Kai Wörner ist Lehrer an der für Medienbildung ausgezeichneten Realschule am Europakanal Erlangen II. Er unterrichtet Deutsch, Geschichte, Ethik und Sozialkunde und betreibt mit Kollegen des Schulversuchs [“Digitale Schule 2020”](http://bildungspakt-bayern.de/digitale-schule-2020/) einen gemeinsamen [Blog](https://bayernedu.wordpress.com/2017/04/09/28/), in dem Erfahrungen zu digitaler Bildung vorgestellt werden. 
 
@@ -33,7 +34,7 @@ Eine solche Arbeit ist dann in meiner Schulstunde beispielsweise ein kurzer Vide
 <br>Das ist schwierig. Eine App-Parade würde ich jetzt gar nicht nennen wollen. Ich finde aber alles interessant, was mit dem digitalen Prüfen zusammenhängt, zum Beispiel [socrative](https://www.socrative.com/). Allerdings steht der Server nicht in Deutschland und das ist problematisch. In diesem Bereich testen wir zur Zeit Alternativen, wie z. B. über die bayerische Plattform [mebis](https://www.mebis.bayern.de). Feedback-Apps finde ich ebenfalls gut, wie beispielsweise [AnswerGarden](https://answergarden.ch/). Die App lässt sich unterschiedlich einsetzen, nicht nur für Feedback. Du kannst eine Frage stellen und die Schüler\*innen können in 40 Zeichen antworten. Man könnte z.B. fragen "Wie war der Unterricht?" man könnte aber auch fragen "Welche Frage habt ihr an das Thema?". Wenn anonym gefragt wird, kommen oft Themen auf den Tisch, die sonst darunter geblieben wären. 
 <!-- include floated image -->
 {% include partials/content/content-float-image.liquid float="right"
-src="/assets/img/blog/2017/Juli/interview_kai_woerner/app_idee.jpg" caption="Bild: 'Schüler entwickeln eine App-Idee' by Kai Wörner" %}
+src="/assets/img/blog/2017/Juli/interview_kai_woerner/app_idee.jpg" caption="Bild: 'Schüler entwickeln eine App-Idee' by Kai Wörner Lizenz: <a href='https://creativecommons.org/licenses/by/4.0/legalcode'>CC-BY 4.0</a>" %}
 
 Solche Sachen sollen den Unterricht nicht auf Teufel komm raus digitalisieren. Sie machen ihn einfach etwas anders, interaktiver. Etwas, das sicherlich nicht stimmt, ist, dass die Schüler\*innen nicht mehr miteinander reden und nur noch konsumieren. Das Gegenteil ist der Fall. Auch die Motivation ist gestiegen. Zum Beispiel schauen sich die Schüler\*innen häufig nach der Schule z. B. noch ein [MrWissen2go](https://www.youtube.com/user/MrWissen2go) Video an, um den Inhalt der Stunde zu vertiefen. Für derartige Videos gibt es auch noch ein gutes Tool, das man an dieser Stelle nennen könnte: [h5p](https://h5p.org/). Das ist eine Open Source Software, die in verschiedene Blogs integriert werden kann. Damit lassen sich Videos interaktiv gestalten. Beispielsweise pausiert das Video und der Schüler oder die Schülerin muss eine Frage beantworten, bevor es weitergeht.
 
@@ -46,7 +47,7 @@ Zweitens fehlt Wissen rund um das Thema Urheberrecht. Was ist [OER](https://de.w
 **Zur Zeit arbeitest du gemeinsam mit Kollegen an einem Seminar-Konzept, das diese Wissenslücken schließen und Themen der digitalen Bildung Referendaren zugänglich machen soll. Welche Inhalte sind die wichtigsten, um den Schulunterricht zeitgemäß zu gestalten?**
 <!-- include quote -->
 <div class="content-element infobox right" style="background-color: transparent; box-shadow: none">
-    <span class="quote-headline">„Lehramtsstudieren-de sind wenig digital-affin. Das kann ich teilweise bestätigen, teilweise auch nicht.“</span>
+    <span class="quote-headline">„Mir geht es [...] in erster Linie um guten Unterricht.“</span>
 </div>
 <br>Die meisten werden die [Studie](https://www.bertelsmann-stiftung.de/fileadmin/files/BSt/Publikationen/GrauePublikationen/DigiMonitor_Hochschulen_final.pdf) gelesen haben: Lehramtsstudierende sind wenig digital-affin. Das kann ich teilweise bestätigen, teilweise auch nicht. Dass da etwas passieren muss, steht aber außer Frage. Deswegen arbeite ich mit meinen Kollegen an [DiBis - Digitale Bildung im Seminar](https://bayernedu.wordpress.com/2017/05/01/digitale-bildung-im-seminar-im-widerstreit-mit-ohp-folien-und-schwammvorrichtungen/), womit wir unsere Erfahrungen weitergeben möchten. Dafür haben wir bereits einen [Seminarplan](https://bayernedu.files.wordpress.com/2017/07/dibis-wochenplan.pdf) erstellt. Mir geht es natürlich in erster Linie um guten Unterricht. Die meisten Themen, die im Plan aufgelistet sind, sollen mit konkreten Unterrichtsbeispielen unterfüttert werden.
 Eine der weiteren wichtigen Fragen ist die, wie meine eigene Schule technisch aufgestellt ist. Denn davon hängt ab, welche Medien ich überhaupt nutzen kann. Der zweite ergänzende Punkt sind rechtliche Fragen und alles rund um OER. Und der letzte Schwerpunkt soll die Schattenseiten der digitaler Welt beleuchten. Dies möchten wir u. a. in den Fachbereichen Pädagogik und Psychologie vertiefen. 

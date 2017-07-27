@@ -4,7 +4,7 @@ layout: post
 title: "Über Berlins neues Schulfach 'Digitale Welten', im Gespräch mit Melanie Stilz"
 teaser: "Auf eigene Initiative hin und mit der Unterstützung des Berliner Senats, führt die TU-Berlin ein neues Schulfach ein. 'Digitale Welten' soll es heißen. Aktuell finden Fortbildungen statt, in denen interessierte Lehrer*innen sich auf das neue Vorhaben vorbereiten. Wir haben mit Melanie Stilz von der TU-Berlin gesprochen, die die Einführung des Schulfaches koordiniert."
 teaser_img_src: /assets/img/blog/2017/Juli/interview_melanie/melanie_stilz_boell.jpg
-featured: true
+featured: false
 categories: Interviews
 twitter_large_img: /assets/img/blog/2017/Juli/interview_melanie/melanie_stilz_twitter.jpg
 header_background: /assets/img/blog/2017/Juli/interview_melanie/melanie_stilz_boell.jpg
@@ -27,7 +27,6 @@ Das Wahlfach wird in der ersten Runde in 11. und 12. Klassen an Berliner Schulen
 <!-- include floated image -->
 {% include partials/content/content-float-image.liquid float="right"
 src="/assets/img/blog/2017/Juli/interview_melanie/fortbildung_digitale_welten_1.jpg" caption="Bild: Fortbildung „Digitale Welten“, by Melanie Stilz" %}
-
 
 **Gibt es so viele technisch versierte Lehrer\*innen? Wer nimmt an den Fortbildungen genau teil?**<br>
 Es nehmen vorwiegend Informatik-, Mathematik- und Physiklehrer\*innen teil, die sowieso schon in dem Bereich unterrichten, aber auch solche, die aus ganz anderen Fächern kommen. Das war auch unserer Anspruch an das Fach, dass wir gesagt haben: Wir wissen, dass es an Informatiklehrer\*innen mangelt und wir brauchen jetzt nicht auf Informatik-Niveau Fortbildung betreiben. Denn dann haben die Schulen weiterhin das gleiche Problem. Unser Anspruch war, dass wir ein Eintauchen in verschiedene Themen bieten, das sehr praxisnah ist. Ein Eintauchen, das in den Schulen dann in Projekten vertieft werden kann. Es ging also darum, in bestimmten Bereichen die Expertenrollen zu verschieben oder abzuschwächen. Um eben stärker die Verantwortung an die Schüler\*innen abzugeben, sich selbst Kompetenzen anzueignen, eigenständig zu lernen, natürlich methodisch und didaktisch angeleitet durch die Lehrenden.
