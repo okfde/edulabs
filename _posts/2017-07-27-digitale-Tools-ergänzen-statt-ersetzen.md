@@ -1,80 +1,61 @@
 ---
 
 layout: post
-title: "Über Berlins neues Schulfach 'Digitale Welten', im Gespräch mit Melanie Stilz"
-teaser: "Auf eigene Initiative hin und mit der Unterstützung des Berliner Senats, führt die TU-Berlin ein neues Schulfach ein. 'Digitale Welten' soll es heißen. Aktuell finden Fortbildungen statt, in denen interessierte Lehrer*innen sich auf das neue Vorhaben vorbereiten. Wir haben mit Melanie Stilz von der TU-Berlin gesprochen, die die Einführung des Schulfaches koordiniert."
-teaser_img_src: /assets/img/blog/2017/Juli/interview_melanie/melanie_stilz_boell.jpg
-featured: true
+title: "'Mein Grundsatz ist: ergänzen statt ersetzen' - Kai Wörner im Interview"
+teaser: "Kai Wörner ist Lehrer an der für Medienbildung ausgezeichneten Realschule am Europakanal Erlangen II. Er unterrichtet Deutsch, Geschichte, Ethik und Sozialkunde und betreibt mit Kollegen des Schulversuchs Digitale Schule 2020 einen gemeinsamen Blog, in dem sie über ihre Erfahrungen berichten, die sie im Rahmen des Schulversuchs machen."
+/assets/img/static/lab-1080x720-3.jpgfeatured: true
 categories: Interviews
-twitter_large_img: /assets/img/blog/2017/Juli/interview_melanie/melanie_stilz_twitter.jpg
-header_background: /assets/img/blog/2017/Juli/interview_melanie/melanie_stilz_boell.jpg
-header_background_caption: "Bild: Melanie Stilz, by Stephan Röhl CC-BY-SA-2.0"
+twitter_large_img: /assets/img/static/lab-1080x720-3.jpg
+header_background: /assets/img/static/lab-1080x720-3.jpg
+header_background_caption: 
 author: Maximilian Voigt
 info_text: |
-   <a href="/blog/making-und-oer"><img src="/assets/img/blog/2017/Juli/interview_kristin_narr/making_1.jpg"></a>
-   <br>Die Medienpädagogin Kristin Narr berichtet von ihren Erfahrungen mit Making sowie der Verwandtschaft von Making und OER.
+  <a href="/blog/making-und-oer"><img src="/assets/img/blog/2017/Juli/interview_kristin_narr/making_1.jpg"></a>
+  <br>Die Medienpädagogin Kristin Narr berichtet von ihren Erfahrungen mit Making sowie der Verwandtschaft von Making und OER.
 
 ---
-
-Auf eigene Initiative hin und mit der Unterstützung des Berliner Senats, führt die TU-Berlin ein neues Schulfach ein. "Digitale Welten" soll es heißen. Aktuell finden Fortbildungen statt, in denen interessierte Lehrer\*innen sich auf das neue Vorhaben vorbereiten. Wir haben mit Melanie Stilz von der TU-Berlin gesprochen, die die Einführung des Schulfaches koordiniert.
-
-**Welches Ziel hat das Fach "Digitale Welten"?**<br>
-Es bildet die Brücke zwischen dem Studienfach "Wirtschaft Arbeit Technik", das an der TU-Berlin für Lehramtsstudierende angeboten wird, und dem großen Bedarf der Schulen, Aspekte der Digitalisierung zu thematisieren. Durch dieses neue Fach werden insofern neue Wege gegangen, indem wir versuchen Digitalisierung angewandt und praxisnah umzusetzen. Das Konzept, welches dahinter steckt, ist die digitale Mündigkeit.
-
-**Die Nachfrage der Schulen ist hoch, die Fortbildungskurse sind voll. An welchen Einrichtungen wird das Fach eingeführt?**<br>
-Das Wahlfach wird in der ersten Runde in 11. und 12. Klassen an Berliner Schulen angeboten, erst einmal für den Zeitraum von einem Jahr. Lehrende, die an der Fortbildung teilnehmen, kommen hauptsächlich von Gymnasien und auch teilweise von integrierten Sekundarschulen. Unser Anspruch ist, dass das Fach langfristig mindestens in die Sekundarstufe eins kommt und länger als ein Jahr geht. Die Erwartung war, dass sich sehr wenig Schulen melden werden. Aber dann kamen Rückmeldungen von über 20 Schulen und wir mussten die Bremse ziehen. Wir waren selbst überrascht über das Feedback.
-
 <!-- include floated image -->
 {% include partials/content/content-float-image.liquid float="right"
-src="/assets/img/blog/2017/Juli/interview_melanie/fortbildung_digitale_welten_1.jpg" caption="Bild: Fortbildung „Digitale Welten“, by Melanie Stilz" %}
+src="/assets/img/blog/2017/Juli/interview_kai_woerner/Kai_Woerner.jpg" caption="Bild: Kai Wörner" %}
 
+Kai Wörner ist Lehrer an der für Medienbildung ausgezeichneten Realschule am Europakanal Erlangen II. Er unterrichtet Deutsch, Geschichte, Ethik und Sozialkunde und betreibt mit Kollegen des Schulversuchs [“Digitale Schule 2020”](http://bildungspakt-bayern.de/digitale-schule-2020/) einen gemeinsamen [Blog](https://bayernedu.wordpress.com/2017/04/09/28/), in dem Erfahrungen zu digitaler Bildung vorgestellt werden. 
 
-**Gibt es so viele technisch versierte Lehrer\*innen? Wer nimmt an den Fortbildungen genau teil?**<br>
-Es nehmen vorwiegend Informatik-, Mathematik- und Physiklehrer\*innen teil, die sowieso schon in dem Bereich unterrichten, aber auch solche, die aus ganz anderen Fächern kommen. Das war auch unserer Anspruch an das Fach, dass wir gesagt haben: Wir wissen, dass es an Informatiklehrer\*innen mangelt und wir brauchen jetzt nicht auf Informatik-Niveau Fortbildung betreiben. Denn dann haben die Schulen weiterhin das gleiche Problem. Unser Anspruch war, dass wir ein Eintauchen in verschiedene Themen bieten, das sehr praxisnah ist. Ein Eintauchen, das in den Schulen dann in Projekten vertieft werden kann. Es ging also darum, in bestimmten Bereichen die Expertenrollen zu verschieben oder abzuschwächen. Um eben stärker die Verantwortung an die Schüler\*innen abzugeben, sich selbst Kompetenzen anzueignen, eigenständig zu lernen, natürlich methodisch und didaktisch angeleitet durch die Lehrenden.
-
-**"Digitale Welten" soll also Themen der Digitalisierung in einem Fach bündeln. Diese Ein-Fach-Lösung ist nicht unumstritten. Was antwortest Du Kritikern?**<br>
-Natürlich wäre es wünschenswert, dass die Themen der Digitalisierung in verschiedenen Fächern auftauchen. Aber momentan beobachten wir das Problem, dass selbst Informatiklehrende Schwierigkeiten haben. Das hängt an ganz vielen Gründen. Zum einen gibt es nicht genügend Lehrer\*innen, die über entsprechende Kompetenzen verfügen. Zum anderen fehlt es aber auch an Unterrichtsmaterialien, die sich durch digitale Inhalte auszeichnen. Darunter haben dann nicht nur die Informatiklehrer\*innen zu leiden. Selbst wenn man versucht digitale Themen in anderen Fächern unterzubringen, kann man nicht erwarten, dass alle diese Leistung erbringen können, wenn die Lehrenden nicht zumindest Unterrichtsmaterialien gestellt bekommen.<br>
-Was meiner Erfahrung nach zu oft einseitig beantwortet wird, ist die Frage "Was bedeutet eigentlich Digitalisierung in der Bildung?" Zum einen gibt es natürlich die Ebene der Anwendung. Da wird auch breit gefordert, dass die in allen Fächern stattfindet. Ob das jetzt Smartboards, Tablets oder Smartphones sind. Das hat aber noch gar nichts mit den Inhalten zu tun. Man kann klassischen Deutschunterricht mit dem Smartphone machen, ohne sich nur im geringsten mit den Technologien dahinter auseinanderzusetzen. Zum anderen sind also inhaltliche Aspekte notwendig. Die zweite Ebene, neben der der Anwendung, ist die technische, die Auseinandersetzung mit der Funktion. Die spielt ein Stück weit in den Informatikunterricht mit rein. Die dritte Ebene ist die soziokulturelle: Was bedeutet das für meinen Umgang mit Daten, mit Überwachung und so weiter. Alle drei Aspekte gehören zusammen. Dieser Zusammenhang kann nicht von allen Fächern geleistet werden. Das überfordert Lehrende oder Schulen. Deswegen bin ich auch überzeugt, dass es ein solches Fach braucht. Die Digitalisierung entwickelt sich so rasant, dass ein Impulsfach notwendig ist, welches sich ganz explizit mit aktuellen Themen auseinandersetzt.
-
-<div class="img-wrap-center">
-<img src="/assets/img/blog/2017/Juli/interview_melanie/education_tools.jpg" style="width: 100%; display: inline-block">
-<div class="caption" style="text-align: right">Bild: Digitale Tools für den Klassenraum, by Maximilian Voigt</div>
+**Im [BayernEdu Blog](https://bayernedu.wordpress.com/) gibt es einige konkrete Anregungen, wie der Schulunterricht digital und zeitgemäß gestaltet werden kann. Wie gehst du im Alltag vor, wie integrierst du digitale Tools in deinen Unterricht?**
+<br>Mein Grundsatz ist: ergänzen statt ersetzen. Ich suche mir Unterrichtsbausteine, die ich digitalisieren kann. 
+Dabei orientiere ich mich an dem [4K-Modell](https://de.wikipedia.org/wiki/4K-Modell_des_Lernens) und nutze Tools wie Etherpad oder Mindmap. Arbeitsblätter gehören auch noch dazu. Allerdings können die Schüler\*innen diese über einen Blog abrufen, kommentieren sowie editieren. Es gibt genügend Möglichkeiten, das Problem ist eher der Rahmen einer Schulstunde: Digitale und zeitgemäße Bildung benötigen Zeit. 45 Minuten sind da oft zu kurz, daher setzen wir bei uns an der Schule schon seit Jahren auf das Doppelstundenprinzip, was sich jetzt besonders auszahlt. Denn wenn sich die Schüler\*innen einen Mehrwert erarbeiten sollen, brauchen sie einerseits Zeit für die Einarbeitung in ein Thema und andererseits für die anschließende Umsetzung im Rahmen einer produktionsorientierten Vertiefung. 
+<!-- include quote -->
+<div class="content-element infobox left" style="background-color: transparent; box-shadow: none">
+    <span class="quote-headline">„Digitale und zeitgemäße Bildung benötigen Zeit.“</span>
 </div>
+Eine solche Arbeit ist dann in meiner Schulstunde beispielsweise ein kurzer Video-Trailer oder eine Präsentation. Die Schüler\*innen beschäftigen sich also mit einem Inhalt und strukturieren ihn danach in ihrer Art und Weise, um ein Produkt zu erstellen. Mir ist wichtig, dass ich mit den Schüler\*innen anschließend über den Ablauf rede und die Tools sowie das Vorgehen reflektiere. Zum Beispiel ist es schon vorgekommen, dass sich die Schüler\*innen ein bestimmtes Programm wünschen, das ich noch nicht auf dem Schirm hatte. In der siebten und achten Klasse gebe ich noch vor, welche Programme eingesetzt werden können. In der Zehnten mache ich das nicht mehr. Ab dieser Klasse ist der Auftrag globaler und die Schüler\*innen können sich aussuchen, mit welchen Tools sie arbeiten möchten.
 
-**"Digitale Welten" ist also auch auf Schüler\*innen ausgelegt, die weniger technisch versiert sind?**<br>
-Genau, das Fach hat auch sehr kreative Aspekte. Es spielt eine große Rolle, sich selbst Zusammenhänge zu überlegen, mit anderen im Team Ideen und Projekte zu entwickeln, die nicht nur das Technische beinhalten.
-<!-- include an infobox -->
-{% include partials/content/content-infobox.liquid float="right" headline="Making und OER" copy=page.info_text %}
-
-**Das hört sich nach einem sehr offenen Unterricht an. Aber auch der braucht konkrete Bildungskonzepte. Welche Ideen wurden da bereits entwickelt?**<br>
-Ein Beispiel, mit dem wir versuchen offene Kooperation anzustoßen, ist digitale Fabrikation. Zum Beispiel setzen sich Schüler\*innen im Rahmen eines Projektes mit der Frage auseinander, was sinnvoll mit 3D gedruckten Elementen gebaut, repariert oder weiterentwickelt werden kann. Schulen können mit [Fab Labs](https://de.wikipedia.org/wiki/FabLab) oder 3D-Druck-Cafés, von denen es einige in Berlin gibt, zusammenarbeiten und dort auf entsprechende Geräte zurückgreifen.
-
-**Ist dann am Ende das Projekt das, was bewertet wird?**<br>
-Genau, das ist die Herausforderung, an der aktuell eine AG arbeitet, die auf die Initiative des Senats hin gegründet wurde. Sie besteht aus acht Lehrenden der Fortbildung und ist mit der Aufgabe betraut, ein erstes Konzept in Richtung Rahmenlehrplan zu entwickeln. Das wird auch die Frage beinhalten, ob man im Fach Digitale Welten von den vorgegebenen Klausuren abweichen kann. Normalerweise muss es zwei Prüfungen im Jahr geben, wobei eine als Projekt bewertet werden kann. Wir müssen gemeinsam mit den Lehrenden den Unterricht strukturieren und gestalten, dass sich nach dem ersten Halbjahr eine schriftliche Arbeit ergibt, die bewertet wird. Am Ende soll nicht allein das Projekt an sich beurteilt werden, sondern der ganze Prozess, in dem es entstanden ist.
-
-**Und welche Kompetenzen sollen die Schüler\*innen dabei erwerben, gibt es Vorgaben?**<br>
-Damit beschäftigt sich ebenfalls die AG. Ich denke aber, dass die Schlagworte “digitale Mündigkeit” für uns über allem stehen - der selbstständige, mündige Umgang mit digitalen Fragestellungen. Ob das die Freizeit betrifft, die Arbeit, Big Data oder digitale Fabrikation: Die Schüler\*innen sollen befähigt werden, zu solchen Themen eine eigene Einschätzung zu entwickeln.
-
+**Das klingt nach einem offen gestalteten Unterricht. Mit welchen Tools habt ihr die besten Erfahrungen gemacht?**
+<br>Das ist schwierig. Eine App-Parade würde ich jetzt gar nicht nennen wollen. Ich finde aber alles interessant, was mit dem digitalen Prüfen zusammenhängt, zum Beispiel [socrative](https://www.socrative.com/). Allerdings steht der Server nicht in Deutschland und das ist problematisch. In diesem Bereich testen wir zur Zeit Alternativen, wie z. B. über die bayerische Plattform [mebis](https://www.mebis.bayern.de). Feedback-Apps finde ich ebenfalls gut, wie beispielsweise [AnswerGarden](https://answergarden.ch/). Die App lässt sich unterschiedlich einsetzen, nicht nur für Feedback. Du kannst eine Frage stellen und die Schüler\*innen können in 40 Zeichen antworten. Man könnte z.B. fragen "Wie war der Unterricht?" man könnte aber auch fragen "Welche Frage habt ihr an das Thema?". Wenn anonym gefragt wird, kommen oft Themen auf den Tisch, die sonst darunter geblieben wären. 
 <!-- include floated image -->
-{% include partials/content/content-float-image.liquid float="left"
-src="/assets/img/blog/2017/Juli/interview_melanie/fortbildung_digitale_welten_3.jpg" caption="Bild: Fortbildung „Digitale Welten“, by Melanie Stilz" %}
+{% include partials/content/content-float-image.liquid float="right"
+src="/assets/img/blog/2017/Juli/interview_kai_woerner/app_idee.jpg" caption="Bild: 'Schüler entwickeln eine App-Idee' by Kai Wörner" %}
 
-**Wie wird das Fach in diesem Prozess Jugendlichen gerecht? Welche Rolle spielen zum Beispiel soziale Netzwerke, Gaming oder der Gebrauch von Smartphones? Werden die Lehrenden speziell darauf vorbereitet?**<br>
-Diese Aspekte spielen eine Rolle. Zum Beispiel zu “Fake News” haben wir Unterlagen. Die Themen sollen allerdings von den Schüler\*innen selbst erarbeitet werden. Gerade die Bereiche, die weniger anwendungsbezogen sind, haben wir so konzipiert, dass sie in verschiedenen Abstufungen und Teams erarbeitet werden können. Nach dem Schema: Teamarbeit, Präsentation, Diskussion und anschließende Dokumentation.
-Wir konnten natürlich nicht für ein Schuljahr und Fach alle Themen umfassend umsetzen.
+Solche Sachen sollen den Unterricht nicht auf Teufel komm raus digitalisieren. Sie machen ihn einfach etwas anders, interaktiver. Etwas, das sicherlich nicht stimmt, ist, dass die Schüler\*innen nicht mehr miteinander reden und nur noch konsumieren. Das Gegenteil ist der Fall. Auch die Motivation ist gestiegen. Zum Beispiel schauen sich die Schüler\*innen häufig nach der Schule z. B. noch ein [MrWissen2go](https://www.youtube.com/user/MrWissen2go) Video an, um den Inhalt der Stunde zu vertiefen. Für derartige Videos gibt es auch noch ein gutes Tool, das man an dieser Stelle nennen könnte: [h5p](https://h5p.org/). Das ist eine Open Source Software, die in verschiedene Blogs integriert werden kann. Damit lassen sich Videos interaktiv gestalten. Beispielsweise pausiert das Video und der Schüler oder die Schülerin muss eine Frage beantworten, bevor es weitergeht.
 
-**Das hört sich nach einer Menge Arbeit an. Wie wird das Vorhaben unterstützt?**<br>
-Die Konzeption und Umsetzung wird komplett von der TU-Berlin getragen. Wir haben auch noch keine Projektfinanzierung. Momentan machen wir das aus Überzeugung für das Thema. Ohne die Unterstützung und offenen Lehrmaterialien von Initiativen wie [dEIn Labor](http://www.dein-labor.tu-berlin.de/) an der TU oder [AppCamps](https://appcamps.de/) wäre das aber nicht möglich gewesen.
+**Das sind spannende Möglichkeiten. Was fehlt denn noch, um den Unterricht digital und zeitgemäß zu gestalten?**
+<!-- include ionfobox -->
+{% include partials/content/content-infobox.liquid float="left" headline="Making und OER" copy=page.info_text %}
+<br>Es fehlen weniger Tools, sondern die Dinge, die den Alltag erleichtern und zwar in zwei Bereichen: Erstens müsste die Verwaltung digitalisiert werden, zum Beispiel das Prüfen. Wir prüfen noch sehr analog. Der Deutschaufsatz wird noch mit der Hand geschrieben. Mit einem Deutschdidaktiker von der FAU Erlangen-Nürnberg, Herrn Axel Krommer, möchte ich bald ein Seminar mit dem Thema „Wie prüfe ich im digitalen Zeitalter?“ anbieten und dieser Frage wissenschaftlich nachgehen. Dabei soll es nicht darum gehen, Prüfungen in Multiple Choice-Abfragen umzuwandeln, sondern viel mehr, wie Projektergebnisse bewertet werden können, die manche Prüfungen ersetzen könnten. Es geht also um die Frage: Wie lassen sich der projektbezogene Inhalt und die technische Umsetzung konkret bewerten? Denn ich denke, dass diese Frage viele davon abhält, den Unterricht projektorientiert und durch digitale Tools strukturiert zu gestalten. 
+Zweitens fehlt Wissen rund um das Thema Urheberrecht. Was ist [OER](https://de.wikipedia.org/wiki/Open_Educational_Resources), was ist eine [CC-Lizenz](https://creativecommons.org/licenses/?lang=de)? Die wenigsten Lehrer\*innen wissen das. Ich wusste es auch nicht, bevor ich mich nicht über Twitter begonnen habe zu informieren. Fehlt aber dieses Wissen, hemmt es die Verbreitung der eigenen Materialien. Auch Fragen rund um den Datenschutz müssen beantwortet werden. 
 
-**Und die Lehrenden, welche Unterstützung erhalten sie?**<br>
-Das ist ein schwieriges Thema. Der Senat unterstützt aktuell die acht Schulen durch Abminderungsstunden, welche sich an der "AG Curriculare Vorgaben" beteiligen. Außerdem konnten alle teilnehmenden Schulen Anträge für Ausstattung einreichen.<br>
-Wir stehen noch ganz am Anfang und es ist klar, dass sich da noch viel entwickeln wird. Auch die Erwartungen an die Lehrenden sind hoch. Es gehört natürlich dazu, dass engagierte Lehrer\*innen sich dieser Herausforderung stellen.
+**Zur Zeit arbeitest du gemeinsam mit Kollegen an einem Seminar-Konzept, das diese Wissenslücken schließen und Themen der digitalen Bildung Referendaren zugänglich machen soll. Welche Inhalte sind die wichtigsten, um den Schulunterricht zeitgemäß zu gestalten?**
+<!-- include quote -->
+<div class="content-element infobox right" style="background-color: transparent; box-shadow: none">
+    <span class="quote-headline">„Lehramtsstudieren-de sind wenig digital-affin. Das kann ich teilweise bestätigen, teilweise auch nicht.“</span>
+</div>
+<br>Die meisten werden die [Studie](https://www.bertelsmann-stiftung.de/fileadmin/files/BSt/Publikationen/GrauePublikationen/DigiMonitor_Hochschulen_final.pdf) gelesen haben: Lehramtsstudierende sind wenig digital-affin. Das kann ich teilweise bestätigen, teilweise auch nicht. Dass da etwas passieren muss, steht aber außer Frage. Deswegen arbeite ich mit meinen Kollegen an [DiBis - Digitale Bildung im Seminar](https://bayernedu.wordpress.com/2017/05/01/digitale-bildung-im-seminar-im-widerstreit-mit-ohp-folien-und-schwammvorrichtungen/), womit wir unsere Erfahrungen weitergeben möchten. Dafür haben wir bereits einen [Seminarplan](https://bayernedu.files.wordpress.com/2017/07/dibis-wochenplan.pdf) erstellt. Mir geht es natürlich in erster Linie um guten Unterricht. Die meisten Themen, die im Plan aufgelistet sind, sollen mit konkreten Unterrichtsbeispielen unterfüttert werden.
+Eine der weiteren wichtigen Fragen ist die, wie meine eigene Schule technisch aufgestellt ist. Denn davon hängt ab, welche Medien ich überhaupt nutzen kann. Der zweite ergänzende Punkt sind rechtliche Fragen und alles rund um OER. Und der letzte Schwerpunkt soll die Schattenseiten der digitaler Welt beleuchten. Dies möchten wir u. a. in den Fachbereichen Pädagogik und Psychologie vertiefen. 
+So viel Know-How wie bei uns in Erlangen gibt es im Referendariat meines Wissens noch nicht und ich denke, dass sich durch dieses Projekt einiges bewirken lässt. 
 
 <p class="link-list">
-<span class="link-list-headline">Weitere Informationen</span>
-<a class="external-link" href="http://www.technik.tu-berlin.de/menue/arbeitslehretechnik_und_partizipation/" target="_blank">TU-Berlin: Institut für Berufliche Bildung und Arbeitslehre - Arbeitslehre/Technik und Partizipation</a>
-<a class="external-link" href="http://www.dein-labor.tu-berlin.de/" target="_blank">dEIn Labor - das Elektrotechnik und Informatik Labor an der TU-Berlin</a>
-<a class="external-link" href="https://appcamps.de" target="_blank">AppCamps - eine Plattform für Unterrichtsmaterialien</a>
+<span class="link-list-headline">Links</span>
+<a class="external-link" href="http://bildungspakt-bayern.de/digitale-schule-2020/" target="_blank">Zur Projektseite “Digitale Schule 2020”</a>
+<a class="external-link" href="https://bayernedu.wordpress.com/" target="_blank">Der Blog “BayernEdu”</a>
+<a class="external-link" href="https://h5p.org/" target="_blank">Ein einfaches Open Source Tool zur interaktiven Gestaltung von Blogs</a>
+<a class="external-link" href="https://www.youtube.com/user/MrWissen2go" target="_blank">Der youtube-Channel 'MrWissen2go'</a>
 </p>
-
-

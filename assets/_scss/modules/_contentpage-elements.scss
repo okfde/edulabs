@@ -94,8 +94,24 @@ contentpage elements
     margin-bottom: 20px;
   }
 
-  &.infobox{
+  &.quote{
+    @include teaser-shadow();
 
+    background-color: none;
+    color: $black;
+    text-align: left;
+    width: 100%;
+    padding: 20px;
+
+    .quote-headline{
+        font-size: 1.70rem;
+        font-style: Italic;
+        display: block;
+        line-height: 1.2;
+      }
+  }
+
+  &.infobox{
     @include teaser-shadow();
 
     background-color: $primary-color;
@@ -108,6 +124,13 @@ contentpage elements
       font-weight: 700;
       margin-bottom: 15px;
     }
+
+    .quote-headline{
+        font-size: 1.70rem;
+        font-style: Italic;
+        display: block;
+        line-height: 1.2;
+      }
 
     .infobox-copy{
     a{
