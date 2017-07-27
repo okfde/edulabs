@@ -65,7 +65,7 @@
 
             <!-- Project Text -->
             <fieldset>
-              <label for="project-form-description"><strong>Weitere Informationen</strong><span class="required"> *</span><br>Hier ist Platz für mehr Details zum Projekt.</label>
+              <label for="project-form-description"><strong>Weitere Informationen</strong><br>Hier ist Platz für mehr Details zum Projekt.</label>
               <textarea type="text" rows="6" id="project-form-description" name="fields[content]" spellcheck="true">{{ page.raw_content }}</textarea>
             </fieldset>
 
@@ -78,14 +78,15 @@
             <!-- Link to a Project Image -->
             <fieldset>
               <label for="project-form-image"><strong>Projektbild</strong><br>
-              Du hast ein Bild, welches dein Projekt darstellt? Dann Schicke es uns in einer <a href="mailto:info@edulabs.de">E-Mail</a>, mit einer der folgenden <a target="_blank" href="https://creativecommons.org/licenses/">Creative Commons</a> Lizenzangaben: CC0, CC-BY und CC-BY-SA.
+              Du hast ein Bild, welches dein Projekt darstellt? Dann schicke es uns in einer <a href="mailto:info@edulabs.de">E-Mail</a>, mit einer der folgenden <a target="_blank" href="https://creativecommons.org/licenses/">Creative Commons</a> Lizenzangaben: CC0, CC-BY und CC-BY-SA.
               </label>
             </fieldset>
 
 
             <!-- Project Contact -->
             <fieldset>
-              <h3>Kontakt</h3>
+              <strong>Kontakt</strong>
+                    <br>Um es möglichen Unterstützer*innen leicht zu machen, Kontakt mit dir aufzunehmen sowie für Rückfragen benötigen wir einen Kontakt, der auf edulabs.de veröffentlicht wird. Du kannst weitere Kontaktpersonen hinzufügen, sofern dein Team größer ist.
                     {% for contact in page.contact-name %}
                          {% if forloop.length == 1 %}
                            {% assign contact_name = contact %}
