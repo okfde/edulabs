@@ -6,7 +6,7 @@ teaser: "Kai Wörner ist Lehrer an der für Medienbildung ausgezeichneten Realsc
 teaser_img_src: /assets/img/static/lab-1080x720-3.jpg
 featured: true
 categories: Interviews
-twitter_large_img: /assets/img/static/lab-1080x720-3.jpg
+twitter_large_img: /assets/img/blog/2017/Juli/interview_kai_woerner/twitter.jpg
 header_background: /assets/img/static/lab-1080x720-3.jpg
 header_background_caption: "Bild: <a href='http://katringreiner.com/'>Kathrin Greiner</a>, <a href='https://creativecommons.org/licenses/by/4.0/legalcode'>CC-BY 4.0</a>"
 author: Maximilian Voigt
