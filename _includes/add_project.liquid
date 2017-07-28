@@ -43,11 +43,9 @@
             <fieldset>
               <label for="project-form-status"><strong>Status</strong> <span class="required">*</span></label>
               <select name="fields[status]" required>
-                <option value="brainstorming" {% if project_status == "brainstorming" %}selected{% endif %}>brainstorming</option>
-                <option value="researching" {% if project_status == "researching" %}selected{% endif %}>researching</option>
-                <option value="prototyping" {% if project_status == "prototyping" %}selected{% endif %}>prototyping</option>
-                <option value="building" {% if project_status == "building" %}selected{% endif %}>building</option>
-                <option value="releasing" {% if project_status == "releasing" %}selected{% endif %}>releasing</option>
+                {% for status in site.data.projects.status %}
+                  <option value="{{ status }}" {% if project_status == status %}selected{% endif %}>{{ status }}</option>
+                {% endfor %}
               </select>
             </fieldset>
 
