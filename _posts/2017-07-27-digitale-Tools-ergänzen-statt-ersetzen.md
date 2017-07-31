@@ -8,7 +8,7 @@ featured: true
 categories: Interviews
 twitter_large_img: /assets/img/blog/2017/Juli/interview_kai_woerner/twitter.jpg
 header_background: /assets/img/static/lab-1080x720-3.jpg
-header_background_caption: "Bild: <a href='http://katringreiner.com/'>Kathrin Greiner</a>, <a href='https://creativecommons.org/licenses/by/4.0/legalcode'>CC-BY 4.0</a>"
+header_background_caption: "Bild: <a href='http://katringreiner.com/'>Katrin Greiner</a>, <a href='https://creativecommons.org/licenses/by/4.0/legalcode'>CC-BY 4.0</a>"
 author: Maximilian Voigt
 info_text: |
   <a href="/blog/making-und-oer"><img src="/assets/img/blog/2017/Juli/interview_kristin_narr/making_1.jpg"></a>
