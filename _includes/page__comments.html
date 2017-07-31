@@ -1,16 +1,17 @@
 <div id="open-comments" class="edu-btn black" onclick="$('#comments-section').slideToggle()">Kommentare</div>
-<section id="comments-section" class="page__reactions" style="display: none">
+<section id="comments-section" class="page__reactions" >
   {% if site.repository and site.staticman.branch %}
-    {% if site.data.comments[page.slug] %}
+   {% capture ps %}{{ page.slug | sanitize}}{% endcapture %}
+    {% if site.data.comments[ps] %}
       <!-- Start static comments -->
       <div id="comments" class="js-comments">
         <h3 class="page__section-label">
-          {% if site.data.comments[page.slug].size > 1 %}
-            {{ site.data.comments[page.slug] | size }}
+          {% if site.data.comments[ps].size > 1 %}
+            {{ site.data.comments[ps] | size }}
           {% endif %}
           Comments
         </h3>
-        {% assign comments = site.data.comments[page.slug] | where_exp:"item","item._parent == nil" %}
+        {% assign comments = site.data.comments[ps] | where_exp:"item","item._parent == nil" %}
         {% for comment in comments %}
           {% assign index   = forloop.index %}
           {% assign p       = comment._parent %}
