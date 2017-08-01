@@ -33,40 +33,52 @@
 }
 
 .project-status {
+  .status-block {
 
-  .status {
-    float: left;
-    display: table;
-    width: 20%;
-    background: $grey-light;
-    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 
     @media screen and (max-width: 320px) {
-      width: 50%;
-      font-size: 0.8em;
-      margin: auto;
-      float: none;
-      max-height: 40px;
+      display: block;
     }
 
-    &.completed {
-      background-color: #004dff;
-      opacity: 0.8;
-      color: white;
-    }
-    &.selected {
-      background-color: #004dff;
-      font-weight: bold;
-      color: white;
-    }
-    .label {
-      margin: auto;
-      height: 50px;
-      vertical-align: middle;
-      display: table-cell;
-      width: 100%;
+    .status {
+      width: 20%;
+      background: $grey-light;
+      text-align: center;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+
       @media screen and (max-width: 320px) {
-        height: 35px;
+        width: 50%;
+        font-size: 0.8em;
+        margin: auto;
+        float: none;
+        max-height: 40px;
+      }
+
+      &.completed {
+        background-color: #004dff;
+        opacity: 0.8;
+        color: white;
+      }
+      &.selected {
+        background-color: #004dff;
+        font-weight: bold;
+        color: white;
+      }
+      .label {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        height: 50px;
+        width: 100%;
+        @media screen and (max-width: 320px) {
+          height: 35px;
+        }
       }
     }
   }

@@ -39,20 +39,22 @@
                 <h1 class="section-headline">{{ page.title }}</h1>
                 <h3 class="blue">edulabs {{ page.lab }}</h3>
                 <div class="row project-status">
-                    {% assign selected_status = 'completed' %}
-                    {% for status in site.data.projects.status %}
-                    {% if page.status == status %}
-                        {% assign selected_status = "selected" %}
-                    {% endif %}
-                    <div class="status {{selected_status}}">
-                        <div class="label">
-                            {{ status }}
+                    <div class="status-block">
+                        {% assign selected_status = 'completed' %}
+                        {% for status in site.data.projects.status %}
+                        {% if page.status == status %}
+                            {% assign selected_status = "selected" %}
+                        {% endif %}
+                        <div class="status {{selected_status}}">
+                            <div class="label">
+                                {{ status }}
+                            </div>
                         </div>
+                        {% if selected_status == 'selected' %}
+                            {% assign selected_status = "" %}
+                        {% endif %}
+                        {% endfor %}
                     </div>
-                    {% if selected_status == 'selected' %}
-                        {% assign selected_status = "" %}
-                    {% endif %}
-                    {% endfor %}
                 </div>
                 <!-- project image -->
                 <p>
