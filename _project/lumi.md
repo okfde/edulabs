@@ -1,6 +1,6 @@
 ---
 _id: 879a8350-77d1-11e7-807c-1bb98bc71e68
-title: Lumi
+title: Lumi - Eine WLAN Lösung für den Klassenraum
 lab: '#BE'
 status: prototyping
 short-desc: >-
