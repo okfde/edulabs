@@ -1,8 +1,8 @@
 {% assign filter_categories = include.filter | join:' ' %}
 {% if include.homepage %}
-<div class="teaser project-teaser isotope-item {{ filter_categories }} {{ include.type }}">
+<div class="teaser project-teaser {% unless include.image_src %}random-image {% endunless %}isotope-item {{ filter_categories }} {{ include.type }}">
 {% else %}
-<div class="teaser project-teaser isotope-item {{ filter_categories }} {{ include.type }} {% if include.featured %}col-xs-24 col-sm-12 col-md-8 col-lg-12 col-xlg-8 {% else %}col-xs-24 col-sm-12 col-md-8 col-lg-6 col-xlg-4{% endif %}">
+<div class="teaser project-teaser {% unless !include.image_src %}random-image {% endunless %}isotope-item {{ filter_categories }} {{ include.type }} {% if include.featured %}col-xs-24 col-sm-12 col-md-8 col-lg-12 col-xlg-8 {% else %}col-xs-24 col-sm-12 col-md-8 col-lg-6 col-xlg-4{% endif %}">
 {% endif %}
         <a href="/projects/{{ include.url }}" class="teaser-inner">
         <div class="teaser-image">
