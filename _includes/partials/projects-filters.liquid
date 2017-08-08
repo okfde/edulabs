@@ -19,7 +19,7 @@
 <h4 class="filter-items-headline">NACH REGIONALEM EDULAB FILTERN:</h4>
 <div class="filter-items-inner col-xs-24">
     {% for cat in categories %}
-    <a href="/" data-filter=".{{ cat }}" class="filter-item">{{ cat }}</a>
+    <a href="/" data-filter=".{{ cat | replace:"#","" }}" class="filter-item">{{ cat }}</a>
     {% endfor %}
     {% comment %}
     <a href="/" data-filter=".kategorie-1" class="filter-item">#kategorie 1</a>
