@@ -57,6 +57,7 @@
         <script src="{{ site.baseurl }}/assets/js/vendor/date.format.js"></script>
         <script src="{{ site.baseurl }}/assets/js/vendor/URI.js"></script>
         <script src="{{ site.baseurl }}/assets/js/vendor/jquery.lunr.search.js"></script>
+        <script src="{{ site.baseurl }}/assets/js/vendor/trianglify.min.js"></script>
 
         <!-- js custom -->
         <script src="{{ site.baseurl }}/assets/js/modules/IsotopeController.js"></script>
@@ -72,9 +73,16 @@
                   emptyMsg  : '<p>Nothing found.</p>'     // shown message if search returns no results
                 });
 
+                $.each($('.project-teaser'), function(i,e) {
+                    var pattern = Trianglify({
+                                      height: 200,
+                                      width: $(e).width(),
+                                      cell_size: 30 + Math.random() * 100});
+                    $('.teaser-image', this).html(pattern.canvas());
+                });
+
                 window.controller = new Controller($);
                 window.controller.init();
-
 
             });
         </script>
