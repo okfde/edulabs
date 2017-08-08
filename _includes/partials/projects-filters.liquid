@@ -1,6 +1,6 @@
 {% assign rawcategories = "" %}
-{% for project in site.projects %}
-    {% assign proj_categories = project.categories | join:'|' | append:'|' %}
+{% for project in site.project %}
+    {% assign proj_categories = project.lab | join:'|' | append:'|' %}
     {% assign rawcategories = rawcategories | append:proj_categories %}
 {% endfor %}
 {% assign rawcategories = rawcategories | split:'|' | sort %}
