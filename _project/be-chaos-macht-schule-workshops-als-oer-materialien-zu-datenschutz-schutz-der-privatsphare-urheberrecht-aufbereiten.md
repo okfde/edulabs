@@ -13,5 +13,6 @@ contact-email: schule@berlin.ccc.de
 date: '2017-08-02T21:44:36.963Z'
 slug: >-
   be-chaos-macht-schule-workshops-als-oer-materialien-zu-datenschutz-schutz-der-privatsphare-urheberrecht-aufbereiten
+featured: true
 ---
 Chaos Macht Schule ist einen Bildungsinitiative vom CCC. Wir sprechen im Rahmen von Workshops mit Schülern über das Netz und andere technische Themen. Dabei möchten wir sowohl für Technik begeistern  als diese auch kritisch reflektieren.

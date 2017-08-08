@@ -15,5 +15,6 @@ contact-name: Jan Philip Schellenberg
 contact-email: jps@Lumi.education
 date: '2017-08-02T22:25:46.703Z'
 slug: lumi
+featured: true
 ---
 

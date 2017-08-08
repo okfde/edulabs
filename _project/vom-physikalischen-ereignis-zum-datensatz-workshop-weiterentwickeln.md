@@ -15,6 +15,7 @@ contact-email: maximilian.voigt@okfn.de
 date: '2017-08-01T10:09:01.987Z'
 slug: vom-physikalischen-ereignis-zum-datensatz-workshop-weiterentwickeln
 image_src: /assets/img/projects/von_der_messung_zum_datensatz.jpg
+featured: true
 ---
 Täglich vermessen tausende technische Geräte mithilfe von Sensoren unsere Umwelt, reagieren anhand der Ergebnisse oder speichern sie in Datenbanken ab. Sind die Daten einmal erfasst, wirken sie wie kleine Wahrheiten, mit denen wir z.B. die Wasser- oder Luftqualität erforschen. Auf dem Weg dahin kann aber vieles schiefgehen, weswegen die eigentliche Aufgabe der Forscher*innen* in der Fehleranalyse und Interpretation liegt. 
 Am Beispiel eines Temperatursensors, eines sogenannten Heißleiters oder auch Thermistors, wird erforscht, was beim Erfassen einer Temperatur passiert.
