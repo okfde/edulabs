@@ -1,7 +1,7 @@
 ---
 _id: 711c9400-76a1-11e7-807c-1bb98bc71e68
 title: Vom physikalischen Ereignis zum Datensatz - Workshop weiterentwickeln
-lab: '#BEF'
+lab: '#BE'
 status: prototyping
 short-desc: >-
   Wie erfassen Geräte, die uns umgeben, Daten? Das Verhalten dieser und damit
