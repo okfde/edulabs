@@ -4,6 +4,6 @@
       {% assign categories = project.lab | join:', ' %}
       {% assign categories = "" | append:categories %}
       {% assign url = project.slug %}
-      {% include partials/project/project-teaser.liquid url=url featured=project.featured teaser=project.teaser filter=project.categories categories=categories src=project.teaser_img_src headline=project.title copy=project.teaser %}
+      {% include partials/project/project-teaser.liquid url=url featured=project.featured teaser=project.teaser filter=project.categories categories=categories image_src=project.image_src headline=project.title copy=project.teaser %}
     {% endfor %}
 </div>
