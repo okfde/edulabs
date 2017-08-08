@@ -70,18 +70,8 @@ layout: default
             edulabs.de.</p>
         </div>
         <p>
-        <div class="row content-wrap">
-            {% for project in site.projects %}
-            {% if project.homepage %}
-            {% if project.link %}
-            {% assign url = project.link %}
-            {% else %}
-            {% assign url = project.url %}
-            {% endif %}
-            {% include partials/project/project-teaser.liquid homepage=true url=url src=project.teaser_img_src
-            type="featured-home" featured=project.featured headline=project.headline  copy=project.teaser %}
-            {% endif %}
-            {% endfor %}
+        <div class="row">
+            {% include partials/project/project-isotope.liquid %}
         </div>
         <div class="content-wrap btn-wrap">
             <a class="edu-btn black" href="https://hackdash.org/dashboards/edulabs" target="_blank">Projektideen</a>
