@@ -80,13 +80,14 @@
                         <br>
                     </div>
 
+                    {% if content.size > 1 %}
                     <div class="row">
                         <h3 class="heading" style="text-align: left">Projektdetails</h3>
                         {{ content }}
                         <br>
                         <br>
                     </div>
-                   
+                    {% endif %}
                     <div class="row">
                         <h3 class="heading" style="text-align: left">Kontakt</h3>
                         {% for contact in page.contact-name %}
