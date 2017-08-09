@@ -1,5 +1,5 @@
 {% if include.new %}
-  {% assign redirect = '/' %}
+  {% assign redirect = '{{site.url}}' %}
   {% assign project_title = '' %}
 {% else %}
   {% capture redirect %}{{site.url}}/projects/{{page.slug}}{% endcapture %}
@@ -116,7 +116,7 @@
               <input type="hidden" name="options[origin]" value="{{ page.url | absolute_url }}">
               <label for="comment-form-location">Leave blank if you are a human</label>
               <input id="spam_info" type="hidden" name="fields[human]" value="false">
-             <input id="redirect_url" type="hidden" name="options[redirect]" value="{{ redirect }}">
+              <input id="redirect_url" type="hidden" name="options[redirect]" value="{{ redirect }}">
             </fieldset>
 
             <p class="hidden js-notice">
