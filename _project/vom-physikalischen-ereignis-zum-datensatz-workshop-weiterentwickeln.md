@@ -1,5 +1,5 @@
 ---
-_id: 491faa60-7ce0-11e7-807c-1bb98bc71e68
+_id: 3ca3d300-7d04-11e7-807c-1bb98bc71e68
 title: Vom physikalischen Ereignis zum Datensatz - Workshop weiterentwickeln
 lab: '#BE'
 status: prototyping
@@ -12,9 +12,8 @@ needs: "- Informatiklehrer*innen* / technisch versierte Pädagog*innen*, um das 
 link: 'https://www.instructables.com/id/Wie-Entstehen-Daten-How-to-Get-Physical-Data/'
 contact-name: Maximilian Voigt
 contact-email: maximilian.voigt@okfn.de
-date: '2017-08-09T08:54:00.098Z'
+date: '2017-08-09T13:11:21.080Z'
 slug: vom-physikalischen-ereignis-zum-datensatz-workshop-weiterentwickeln
-image_src: /assets/img/projects/von_der_messung_zum_datensatz.jpg
 ---
 Täglich vermessen tausende technische Geräte mithilfe von Sensoren unsere Umwelt, reagieren anhand der Ergebnisse oder speichern sie in Datenbanken ab. Sind die Daten einmal erfasst, wirken sie wie kleine Wahrheiten, mit denen wir z.B. die Wasser- oder Luftqualität erforschen. Auf dem Weg dahin kann aber vieles schiefgehen, weswegen die eigentliche Aufgabe der Forscher*innen* in der Fehleranalyse und Interpretation liegt. 
 Am Beispiel eines Temperatursensors, eines sogenannten Heißleiters oder auch Thermistors, wird erforscht, was beim Erfassen einer Temperatur passiert.
