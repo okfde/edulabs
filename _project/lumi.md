@@ -16,5 +16,6 @@ contact-email: jps@Lumi.education
 date: '2017-08-02T22:25:46.703Z'
 slug: lumi
 featured: true
+image_src: /assets/img/projects/Lumi.png
 ---
 

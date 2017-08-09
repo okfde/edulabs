@@ -15,10 +15,10 @@ author: Maximilian Voigt
 
 Im [edulabs Hackdash](https://hackdash.org/dashboards/edulabs) könnt ihr Projektideen vorstellen und nach Formaten suchen, die ihr unterstützen möchtet. Zusammen erstellen wir neue Tools und Materialien für selbstgesteuertes, partizipatorisches Lernen und teilen diese als OER. Hackdash wird besonders im Rahmen von Hackathons verwendet und hilft dabei, Projekte zum Mitmachen zu finden und ihren Fortschritt im Auge zu behalten.
 
-# Du möchtest ein lab-Projekt unterstützen?
+### Du möchtest ein lab-Projekt unterstützen?
 Im Public Call, auf der Mailingliste oder bei einem lab-Treffen stellen sich neue Projekte vor. Neben Expertise in der Entwicklung, Gestaltung und Vermittlung ist auch anschauliches Schreiben und eine clevere Organisation gefragt.
 
-# Du hast bereits eine Projektidee?
+### Du hast bereits eine Projektidee?
 Um ein Team für ein Vorhaben zu finden, trägst Du es einfach in das Hackdash ein und stellst es im nächsten Public Call oder auf einem Lab-Treffen kurz vor. Auf diese Weise können sich potenzielle Mitstreiter*innen einen schnellen Überblick verschaffen und Teil des Projektes werden.
             <center><a class="btn btn-lg btn-default"
                href="https://hackdash.org/dashboards/edulabs"

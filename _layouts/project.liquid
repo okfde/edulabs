@@ -60,37 +60,47 @@
                 <p>
                     {% if page.image_src %}
                         <div class="img-wrap-center">
-                            <img src="{{ page.image_src }}" style="width: 100%; display: inline-block">
+                            <img src="{{ page.image_src }}" style="width: 90%; display: inline-block">
                         </div>
                     {% endif %}
+                <p>
+                <div class="subpage-content">
                     <!-- project description -->
-                   <h3>Projektbeschreibung</h3>
-                   <p> {{ page.short-desc }}</p>
-                <p>
-                <div class="row">
-                    <h3>Das wird gesucht</h3>
-                    {{ page.needs  | markdownify }}
-                </div>
-                <p>
-                <h3>Projektdetails</h3>
-                {{ content }}
-                <p>
-                <div class="row">
-                    <h3>Kontakt</h3>
-                    {% for contact in page.contact-name %}
-                         {% if forloop.length == 1 %}
-                         <a href="mailto:{{ page.contact-email }}">{{ contact }}</a>
-                         {% else %}
-                         <a href="mailto:{{ page.contact-email[forloop.index0] }}">{{ contact }}</a>
-                         {% endif %}
-                    <br/>
-                    {% endfor %}
+                    <div class="row">
+                       <h3 class="heading" style="text-align: left">Projektbeschreibung</h3>
+                       <p>{{ page.short-desc }}</p>
+                        <br>
+                        <br>
+                    </div>
+
+                    <div class="row">
+                        <h3 class="heading" style="text-align: left">Das wird gesucht</h3>
+                        {{ page.needs  | markdownify }}
+                        <br>
+                        <br>
+                    </div>
+                    <div class="row">
+                        <h3 class="heading" style="text-align: left">Projektdetails</h3>
+                        {{ content }}
+                        <br>
+                        <br>
+                    </div>
+                    <div class="row">
+                        <h3 class="heading" style="text-align: left">Kontakt</h3>
+                        {% for contact in page.contact-name %}
+                             {% if forloop.length == 1 %}
+                             <a href="mailto:{{ page.contact-email }}">{{ contact }}</a>
+                             {% else %}
+                             <a href="mailto:{{ page.contact-email[forloop.index0] }}">{{ contact }}</a>
+                             {% endif %}
+                        <br/>
+                        {% endfor %}
+                    </div>
                 </div>
                 <div class="content-wrap btn-wrap">
                     <a class="edu-btn black" href="{{ page.link }}" target="_blank">Projektlink</a>
                 </div>
             </div>
-
         </section>
 
     <!-- include mitmachen section -->

@@ -15,6 +15,7 @@ contact-email: info@raspberryblog.de
 date: '2017-08-03T12:35:07.135Z'
 slug: mess-und-laborgerate-fur-den-mint-unterricht
 featured: true
+image_src: /assets/img/projects/Messgeraete_fuer_den_Unterricht.jpg
 ---
 Schulen können sich in der Regel keine teuren Mess- und Laborgeräte für wiss. Experimente und den Einsatz im MINT-Unterricht leisten. Basierend auf der Arduino, ESP8266 oder Raspberry Pi Plattform sollen Labor- und Messgeräte als preisgünstige Bausätze entwickelt werden, die sich für den Biologie, Chemie, Physik oder Geographie-Unterricht eignen. Wichtig: Es geht mir nicht darum das Rad neu zu erfinden! Im Netz finden sich zahlreiche Beispiele für diese Geräte. Davon sind viele jedoch nur lückenhaft dokumentiert oder verwaist. Diese Beispiele sollen aufgegriffen, vervollständigt und/ oder weiterentwickelt werden, so dass sie auch von technisch weniger versierten Lehrern im Unterricht gebaut und eingesetzt werden können.
 
