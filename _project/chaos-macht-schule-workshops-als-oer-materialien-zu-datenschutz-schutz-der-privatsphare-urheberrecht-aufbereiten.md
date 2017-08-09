@@ -13,6 +13,7 @@ link: 'https://berlin.ccc.de/wiki/Chaos_macht_Schule'
 contact-name: Chaos Macht Schule
 contact-email: schule@berlin.ccc.de
 date: '2017-08-09T08:52:50.488Z'
+featured: true
 slug: >-
   chaos-macht-schule-workshops-als-oer-materialien-zu-datenschutz-schutz-der-privatsphare-urheberrecht-aufbereiten
 ---
