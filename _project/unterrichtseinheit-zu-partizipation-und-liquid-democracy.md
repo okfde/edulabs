@@ -17,6 +17,7 @@ contact-email:
   - info@aula.de
 date: '2017-08-10T14:25:17.930Z'
 slug: unterrichtseinheit-zu-partizipation-und-liquid-democracy
+image_src: /assets/img/projects/aula.jpg
 ---
 Ziele der Einheit sind: 
 - praktisches ausprobieren von Liquid Democracy 
