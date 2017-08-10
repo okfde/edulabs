@@ -15,7 +15,7 @@ contact-name: Jan Philip Schellenberg
 contact-email: jps@Lumi.education
 date: '2017-08-09T08:54:39.017Z'
 slug: lumi-eine-wlan-losung-fur-den-klassenraum
-image_src: /assets/img/projects/Lumi.jpg
+image_src: /assets/img/projects/Lumi.png
 featured: true
 ---
 
