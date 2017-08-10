@@ -1,5 +1,5 @@
 ---
-_id: 491faa60-7ce0-11e7-807c-1bb98bc71e68
+_id: 51042930-7dd6-11e7-a2c6-89c80ca8ca23
 title: Vom physikalischen Ereignis zum Datensatz - Workshop weiterentwickeln
 lab: '#BE'
 status: prototyping
@@ -12,7 +12,7 @@ needs: "- Informatiklehrer*innen* / technisch versierte Pädagog*innen*, um das 
 link: 'https://www.instructables.com/id/Wie-Entstehen-Daten-How-to-Get-Physical-Data/'
 contact-name: Maximilian Voigt
 contact-email: maximilian.voigt@okfn.de
-date: '2017-08-09T08:54:00.098Z'
+date: '2017-08-10T14:15:09.745Z'
 slug: vom-physikalischen-ereignis-zum-datensatz-workshop-weiterentwickeln
 ---
 <div class="img-wrap-center">
