@@ -99,7 +99,12 @@
                 window.scrollTo(0, 0);
             },
             error: function (err) {
-              console.log(err);
+                console.log(err);
+                $('#edit-project-form-submit').toggle();
+                $('#project-submit-message').toggle();
+                $(form).toggle();
+                window.scrollTo(0, 0);
+
             }
           });
 
