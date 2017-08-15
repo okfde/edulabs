@@ -4,7 +4,7 @@ layout: post
 title: "Neues Design, neue Projekte"
 teaser: "Projekte bekommen mehr Aufmerksamkeit: edulabs.de ist aus der Alpha-Phase heraus und verabschiedet sich von Hackdash."
 teaser_img_src: https://m.popkey.co/1385a7/rOg0X.gif
-featured: true
+featured: false
 categories: News
 twitter_large_img: /assets/img/blog/2017/...
 header_background: https://m.popkey.co/1385a7/rOg0X.gif
