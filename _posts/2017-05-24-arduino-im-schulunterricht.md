@@ -37,3 +37,5 @@ Wer Geld sparen möchte, kann auf die Arduino-Boards verzichten und mit den Sch�
 <a class="external-link" href="http://starthardware.org/arduino-unterrichtsmaterial/" target="_blank">Kurzworkshop und Materialien für den Schulunterricht von Stefan Hermann</a>
 <a class="external-link" href="http://www.spiegel.de/netzwelt/gadgets/arduino-erklaert-das-kann-der-microcontroller-a-1105328.html" target="_blank">Ein Artikel über die Arduino IDE</a>
 </p>
+
+**Dieser Artikel ist im Aufbau: Du hast Verbesserungsvorschläge oder Aspekte, die beigefügt werden sollten? Dann hinterlasse einfach einen Kommentar.**
