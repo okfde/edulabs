@@ -6,7 +6,7 @@ teaser: "Projekte bekommen mehr Aufmerksamkeit: edulabs.de ist aus der Alpha-Pha
 teaser_img_src: https://m.popkey.co/1385a7/rOg0X.gif
 featured: false
 categories: News
-twitter_large_img: /assets/img/blog/2017/...
+twitter_large_img:
 header_background: https://m.popkey.co/1385a7/rOg0X.gif
 header_background_caption: "Gif: © <a href='http://popkey.co/u/mwvOa'>mwvOa</a> auf <a href='http://popkey.co/m/rOg0X-kazoo+kid-wow'>popkey</a>"
 author: Maximilian Voigt
