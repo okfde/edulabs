@@ -37,7 +37,7 @@ Unser Ziel war es, in vier Schulen das System aula zu testen. Wir hätten gerne 
 <div class="caption" style="text-align: right">Bild: Zoé Losch auf der re:publica, by Maximilian Voigt</div>
 </div>
 
-**Neben den Zielen, die ihr für das Projekt festgelegt habt, die ihr erreicht habt, ist es für mich auch deswegen erfolgreich, weil es sich bei aula um ein kritisches System gegenüber dem System Schule handelt und die Einwilligung der Schulen in die Umsetzung ein Eingriff bedeutet.**<br>
+**Neben den Zielen, die ihr für das Projekt festgelegt habt, die ihr erreicht habt, ist es für mich auch deswegen erfolgreich, weil es sich bei aula um eine kritische Position gegenüber dem System Schule handelt und die Einwilligung der Schulen in die Umsetzung ein Eingriff bedeutet.**<br>
 Wenn du sagst, Erfolg bedeutet, dass die Schulen das annehmen und es einsetzen möchten, würde ich das auf jeden Fall unterschreiben.
 Es gab ja noch viel mehr Anfragen. Wobei auch unterschieden werden muss, wer sich für die Umsetzung einsetzt. Das sind immer ganz unterschiedliche Akteure, mit unterschiedlichen Motivationen. 
 
