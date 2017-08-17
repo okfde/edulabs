@@ -62,9 +62,10 @@ Abhängig vom Format, erlernen die Schüler\*innen weitere Kompetenzen:*
 
 ### Spielfilm
 
-*Beim Spielfilm kommen Schüler\*innen auch selbst vor die Kamera und lernen darstellendes Spiel und neue kreative Ausdrucksmöglichkeiten kennen. Dabei überwinden sie die Scheu vor der Kamera und setzen sich mit Körpersprache und Stimme auseinander.*
 <!-- include ionfobox -->
 {% include partials/content/content-infobox.liquid float="right" headline="Tipp:" copy="Die Wahrnehmung von Film kann durch folgendes Experiment reflektiert werden: Die Schüler*innen teilen sich auf zwei Gruppen auf. Eine Gruppe hat verbundene Augen, die andere ist mit Ohrstöpseln ausgestattet. Die jeweiligen Gruppen sollen sich auf das Hören beziehungsweise Sehen von Filmvorführungen konzentrieren und ihre Erfahrungen anschließend diskutieren." %}
+
+*Beim Spielfilm kommen Schüler\*innen auch selbst vor die Kamera und lernen darstellendes Spiel und neue kreative Ausdrucksmöglichkeiten kennen. Dabei überwinden sie die Scheu vor der Kamera und setzen sich mit Körpersprache und Stimme auseinander.*
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/SMzxjscBNeg?ecver=1" frameborder="0" allowfullscreen></iframe></center>
 
