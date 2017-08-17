@@ -17,7 +17,7 @@ info_text: |
   
 ---
 
-*Wie können Schüler\*innen [Medienkompetenzen](http://www.ard.de/home/ard/Medienkompetenz__Spielregeln_der_modernen_Medienwelt/76910/index.html) erlangen und damit den kritischen Umgang mit Medien lernen? Zum Beispiel, wenn sie in die Lage von Medienschaffenden versetzt werden und selbst hinter der Kamera stehen. Beim letzten edulabsBE Treffen haben wir zu diesem Thema medienpädagogische Erfahrungen zusammengetragen und im Folgenden für euch aufgeschrieben.*
+*Wie können Schüler\*innen [Medienkompetenzen](http://www.ard.de/home/ard/Medienkompetenz__Spielregeln_der_modernen_Medienwelt/76910/index.html) erlangen und damit den kritischen Umgang mit Medien lernen? Zum Beispiel, wenn sie in die Lage von Medienschaffenden versetzt werden und selbst hinter der Kamera stehen. Beim letzten [edulabsBE](/labs/edulabsbe) Treffen haben wir zu diesem Thema medienpädagogische Erfahrungen zusammengetragen und im Folgenden für euch aufgeschrieben.*
 <!-- include ionfobox -->
 {% include partials/content/content-infobox.liquid float="right" headline="„Mein Grundsatz ist: ergänzen statt ersetzen“" copy=page.info_text %}
 
@@ -26,7 +26,7 @@ info_text: |
 * Schüler\*innen sind in der Regel hoch motiviert.
 * Es werden oft die Schüler\*innen abgeholt, die Probleme mit theorielastigen Unterrichtsinhalten haben.
 * Projektorientiertes und kollaboratives Arbeiten stärken den Klassenzusammenhalt.
-* Videos produzieren bedeutet keine "verlorene Zeit": Das Schreiben von Drehbüchern und das Erstellen von Storyboards kann beispielsweise leicht in den Deutschunterricht integriert werden.
+* Videos produzieren bedeutet keine „verlorene Zeit“: Das Schreiben von Drehbüchern und das Erstellen von Storyboards kann beispielsweise leicht in den Deutschunterricht integriert werden.
 * Technikangst überwinden: Weil Lehrende bei projektorientierten Unterrichtseinheiten als Lernbegleiter auftreten, können sie mit den Schüler\*innen gemeinsam die Technologie erforschen und nehmen sich damit den Druck, die Geräte und Programme bis ins letzte Detail verstanden haben zu müssen.
 <br><br> 
 
@@ -45,11 +45,11 @@ Abhängig vom Format, erlernen die Schülerinnen und Schüler weitere Kompetenze
 
 ### Stop-Motion/Trickfilm
 
-Beispiel "[3D-Druck trifft Trickfilm](http://www.medien-in-die-schule.de/werkzeugkaesten/werkzeugkasten-diy-und-making/werkzeugportraets-beispiele-aus-der-praxis/stop-motion-3d-druck-trifft-trickfilm-projekt/)": Die Schüler\*innen entwerfen 3D-Figuren und drucken diese mit Hilfe eines 3D-Druckers aus. Anschließend nutzen sie die Figuren bei der Erstellung eines Stop-Motion-Filmes.
+Beispiel „[3D-Druck trifft Trickfilm](http://www.medien-in-die-schule.de/werkzeugkaesten/werkzeugkasten-diy-und-making/werkzeugportraets-beispiele-aus-der-praxis/stop-motion-3d-druck-trifft-trickfilm-projekt/)“: Die Schüler\*innen entwerfen 3D-Figuren und drucken diese mit Hilfe eines 3D-Druckers aus. Anschließend nutzen sie die Figuren bei der Erstellung eines Stop-Motion-Filmes.
 <center><iframe src="https://giphy.com/embed/R3H7UiNMdykYE" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/3d-printing-R3H7UiNMdykYE"></a></p></center>
 
 * Das Erstellen von 3D-Modellen kann das räumliche Denken verbessern.<br>
-* Der Umgang mit einem 3D-Drucker nimmt dem Gerät die Magie und fördert die Auseinandersetzung mit seiner Technik.<br>
+* Der Umgang mit einem [3D-Drucker](https://www.medienpaedagogik-praxis.de/tag/3d-druck/) nimmt dem Gerät die Magie und fördert die Auseinandersetzung mit seiner Technik.<br>
 * Geduld lernen: Stop-Motion-Filme sind Geduldsspiele, weil Bewegungen in mühevoller Feinarbeit, Bild für Bild erarbeitet werden.<br><br>
 
 ### Dokumentation
