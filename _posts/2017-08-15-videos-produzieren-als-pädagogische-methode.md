@@ -2,7 +2,7 @@
 
 layout: post
 title: "Videos produzieren als pädagogische Methode"
-teaser: "Wie können Schüler*innen Medienkompetenzen erlangen und damit den kritischen Umgang mit Medien lernen? Zum Beispiel, wenn sie in die Lage von Medienschaffenden versetzt werden und selbst hinter der Kamera stehen."
+teaser: "Wie können Schüler*innen Medienkompetenzen erlangen und damit den kritischen Umgang mit Medien lernen? Zum Beispiel, indem sie in die Lage von Medienschaffenden versetzt werden und selbst hinter der Kamera stehen."
 teaser_img_src: /assets/img/blog/2017/August/toolcard_videoproduktion/stopmotion_film_set.jpg
 featured: true
 categories: Toolcard edulabsBE
@@ -17,20 +17,20 @@ info_text: |
   
 ---
 
-*Wie können Schüler\*innen [Medienkompetenzen](http://www.ard.de/home/ard/Medienkompetenz__Spielregeln_der_modernen_Medienwelt/76910/index.html) erlangen und damit den kritischen Umgang mit Medien lernen? Zum Beispiel, wenn sie in die Lage von Medienschaffenden versetzt werden und selbst hinter der Kamera stehen. Beim letzten [edulabsBE](/labs/edulabsbe) Treffen haben wir zu diesem Thema medienpädagogische Erfahrungen zusammengetragen und im Folgenden für euch aufgeschrieben.*
+*Wie können Schüler\*innen [Medienkompetenzen](http://www.ard.de/home/ard/Medienkompetenz__Spielregeln_der_modernen_Medienwelt/76910/index.html) erlangen und damit den kritischen Umgang mit Medien lernen? Zum Beispiel, indem sie in die Lage von Medienschaffenden versetzt werden und selbst hinter der Kamera stehen. Beim letzten [edulabsBE](/labs/edulabsbe) Treffen haben wir zu diesem Thema medienpädagogische Erfahrungen zusammengetragen und im Folgenden für euch aufgeschrieben.*
 <!-- include ionfobox -->
 {% include partials/content/content-infobox.liquid float="right" headline="„Mein Grundsatz ist: ergänzen statt ersetzen“" copy=page.info_text %}
 
-## Mehrwert für Lehrerinnen und Lehrer
+## Mehrwert für Lehrende
 
-* Schüler\*innen sind in der Regel hoch motiviert.
+* Schüler\*innen sind in der Regel hoch motiviert, wenn sie selbstständig Videos produzieren dürfen.
 * Es werden oft die Schüler\*innen abgeholt, die Probleme mit theorielastigen Unterrichtsinhalten haben.
 * Projektorientiertes und kollaboratives Arbeiten stärken den Klassenzusammenhalt.
 * Videos produzieren bedeutet keine „verlorene Zeit“: Das Schreiben von Drehbüchern und das Erstellen von Storyboards kann beispielsweise leicht in den Deutschunterricht integriert werden.
 * Technikangst überwinden: Weil Lehrende bei projektorientierten Unterrichtseinheiten als Lernbegleiter auftreten, können sie mit den Schüler\*innen gemeinsam die Technologie erforschen und nehmen sich damit den Druck, die Geräte und Programme bis ins letzte Detail verstanden haben zu müssen.
 <br><br> 
 
-## Mehrwert für Schülerinnen und Schüler
+## Mehrwert für Schüler\*innen
 
 * Auch hier gilt: Es werden oft die Schüler\*innen abgeholt, die Probleme mit theorielastigen Unterrichtsinhalten haben. Sie entwickeln eine neue Sichtweise auf das Lernen und gegebenenfalls Motivation sich selbst Wissen anzueignen.
 * Der Klassenzusammenhalt wird gestärkt. Schüler\*innen lernen sich anders kennen und schätzen.
@@ -40,12 +40,12 @@ info_text: |
 
 ## Formate und Kompetenzen, die sie vermitteln
 
-Neben dem möglichen Erwerb sozialer sowie technischer Kompetenzen, wie der Umgang mit der Kamera, dem Ton oder den Schnittprogrammen, erlernen die Schüler\*innen auch durch das konzeptionelle Arbeiten unterschiedliche Fertigkeiten: Beispielsweise fördert das Erstellen eines Storyboards das Denken in Bildern, die Auseinandersetzung mit filmischem Erzählen vermittelt ein Gefühl für Länge und das Schreiben von Drehbüchern schult die Kunst des kreativen Schreibens. 
-Abhängig vom Format, erlernen die Schülerinnen und Schüler weitere Kompetenzen:
+*Neben dem möglichen Erwerb sozialer sowie technischer Kompetenzen, wie der Umgang mit der Kamera, dem Ton oder den Schnittprogrammen, erlernen die Schüler\*innen auch durch das konzeptionelle Arbeiten unterschiedliche Fertigkeiten: Beispielsweise fördert das Erstellen eines Storyboards das Denken in Bildern, die Auseinandersetzung mit filmischem Erzählen vermittelt ein Gefühl für Länge und das Schreiben von Drehbüchern schult die Kunst des kreativen Schreibens. 
+Abhängig vom Format, erlernen die Schüler\*innen weitere Kompetenzen:*
 
 ### Stop-Motion/Trickfilm
 
-Beispiel „[3D-Druck trifft Trickfilm](http://www.medien-in-die-schule.de/werkzeugkaesten/werkzeugkasten-diy-und-making/werkzeugportraets-beispiele-aus-der-praxis/stop-motion-3d-druck-trifft-trickfilm-projekt/)“: Die Schüler\*innen entwerfen 3D-Figuren und drucken diese mit Hilfe eines 3D-Druckers aus. Anschließend nutzen sie die Figuren bei der Erstellung eines Stop-Motion-Filmes.
+*Beispiel „[3D-Druck trifft Trickfilm](http://www.medien-in-die-schule.de/werkzeugkaesten/werkzeugkasten-diy-und-making/werkzeugportraets-beispiele-aus-der-praxis/stop-motion-3d-druck-trifft-trickfilm-projekt/)“: Die Schüler\*innen entwerfen 3D-Figuren und drucken diese mit Hilfe eines 3D-Druckers aus. Anschließend nutzen sie die Figuren bei der Erstellung eines Stop-Motion-Filmes.*
 <center><iframe src="https://giphy.com/embed/R3H7UiNMdykYE" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/3d-printing-R3H7UiNMdykYE"></a></p></center>
 
 * Das Erstellen von 3D-Modellen kann das räumliche Denken verbessern.<br>
@@ -54,7 +54,7 @@ Beispiel „[3D-Druck trifft Trickfilm](http://www.medien-in-die-schule.de/werkz
 
 ### Dokumentation
 
-Eine Dokumentation kann die filmische Darstellung von Versuchen im Biologieunterricht sein oder einer Problematik aus dem Alltag. Alternativ kann auch eine Screencasting Software eingesetzt werden, wenn digitale Aspekte dokumentiert werden sollen (Beispiel: Erstellung von Tutorials)
+*Eine Dokumentation kann die filmische Darstellung von Versuchen im Biologieunterricht sein oder einer Problematik aus dem Alltag. Alternativ kann auch eine Screencasting-Software eingesetzt werden, wenn digitale Aspekte dokumentiert werden sollen (Beispiel: Erstellung von Tutorials).*
 
 * In jedem Fall müssen die Themen erst durchdrungen worden sein, wenn sie anschließend filmisch zusammengefasst werden sollen.
 * Das fördert Recherchekompetenz und Quellenkompetenz.
@@ -62,10 +62,10 @@ Eine Dokumentation kann die filmische Darstellung von Versuchen im Biologieunter
 
 ### Spielfilm
 
-Beim Spielfilm kommen Schüler\*innen auch selbst vor die Kamera und lernen darstellendes Spiel und neue kreative Ausdrucksmöglichkeiten kennen.
+*Beim Spielfilm kommen Schüler\*innen auch selbst vor die Kamera und lernen darstellendes Spiel und neue kreative Ausdrucksmöglichkeiten kennen. Dabei überwinden sie die Scheu vor der Kamera und setzen sich mit Körpersprache und Stimme auseinander.*
+<!-- include ionfobox -->
+{% include partials/content/content-infobox.liquid float="right" headline="Tipp:" copy="Die Wahrnehmung von Film kann durch folgendes Experiment reflektiert werden: Die Schüler*innen teilen sich auf zwei Gruppen auf. Eine Gruppe hat verbundene Augen, die andere ist mit Ohrstöpseln ausgestattet. Die jeweiligen Gruppen sollen sich auf das Hören beziehungsweise Sehen von Filmvorführungen konzentrieren und ihre Erfahrungen anschließend diskutieren." %}
 
-* Sie überwinden die Scheu vor der Kamera und setzen sich mit Körpersprache und Stimme auseinander.
-* **Tipp**: Die Wahrnehmung von Film kann durch folgendes Experiment reflektiert werden: Die Schüler*innen teilen sich auf zwei Gruppen auf. Eine Gruppe hat verbundene Augen, die andere ist mit Ohrstöpseln ausgestattet. Die jeweiligen Gruppen sollen sich auf das Hören beziehungsweise Sehen von Filmvorführungen konzentrieren und ihre Erfahrungen anschließend diskutieren.<br><br>
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/SMzxjscBNeg?ecver=1" frameborder="0" allowfullscreen></iframe></center>
 
 
@@ -75,8 +75,7 @@ Beim Spielfilm kommen Schüler\*innen auch selbst vor die Kamera und lernen dars
 * Datenschutz: Sollen die Schüler\*innen vor der Kamera auftreten, werden die Genehmigungen der Eltern benötigt. Erfahrungsgemäß verbieten das viele Eltern und es muss auf andere Formate zurückgegriffen werden.
 * Eine gute Lösung für fehlende Technik ist es, mit dem Smartphone der Schüler\*innen zu arbeiten. Problem: Der Ton ist oft schlecht.
 * Storyboard anlegen: Das hilft bei der Organisation der Kameraaufnahmen und dabei, dass keine Bilder vergessen werden, um eine gewünschte Handlung darzustellen.
-* Zur Erläuterung der Einstellungsgrößen können Videos verwendet werden, Beispielsweise folgendes (CC-BY [JFF](http://www.jff.de/)): 
-
+* Zur Erläuterung der Einstellungsgrößen können Videos verwendet werden, beispielsweise folgendes (CC-BY [JFF](http://www.jff.de/)):<br><br>
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/rOFIwI2zEoo?ecver=1" frameborder="0" allowfullscreen></iframe></center>
 
 * Altersklassen: Ab 10 Jahren können erfahrungsgemäß abstraktere Themen behandelt werden.
@@ -111,11 +110,11 @@ Nachteile: man muss sich anmelden<br><br>
 
 <p class="link-list">
 <span class="link-list-headline">Links</span>
-<a class="external-link" href="https://lehrerfortbildung-bw.de/st_digital/medienwerkstatt/multimedia/video-im-unterricht/" target="_blank">Lehrerfortbildung-bw.de für Materialien zum Thema</a>
+<a class="external-link" href="https://lehrerfortbildung-bw.de/st_digital/medienwerkstatt/multimedia/video-im-unterricht/" target="_blank">Viele Tipps, Unterrichtsmaterialien und Übungen zum Thema gibt es auf Lehrerfortbildung-bw.de</a>
 <a class="external-link" href="https://www.youtube.com/watch?v=rOFIwI2zEoo" target="_blank">Ein Video zu Einstellungsgrößen (CC-BY)</a>
-<a class="external-link" href="https://www.planet-schule.de/wissenspool/filmbildung-in-der-grundschule/inhalt.html" target="_blank">Planetschule.de - mit vielen Tipps und Erfahrungen zum Thema</a>
+<a class="external-link" href="https://www.planet-schule.de/wissenspool/filmbildung-in-der-grundschule/inhalt/sendung.html#" target="_blank">Auf Planetschule.de: Videos zu diversen Grundlagen der Filmproduktion</a>
 <a class="external-link" href="https://de.wikipedia.org/wiki/Brutkastenl%C3%BCge" target="_blank">Die Brutkastenlüge als ein Beispiel für Falschnachrichten</a>
-<a class="external-link" href="http://www.medien-in-die-schule.de/werkzeugkaesten/werkzeugkasten-diy-und-making/werkzeugportraets-beispiele-aus-der-praxis/stop-motion-3d-druck-trifft-trickfilm-projekt/" target="_blank">Das "Stop-Motion – 3D-Druck trifft Trickfilm" Projekt</a>
+<a class="external-link" href="http://www.medien-in-die-schule.de/werkzeugkaesten/werkzeugkasten-diy-und-making/werkzeugportraets-beispiele-aus-der-praxis/stop-motion-3d-druck-trifft-trickfilm-projekt/" target="_blank">Das Unterrichtskonzept "Stop-Motion – 3D-Druck trifft Trickfilm"</a>
 </p>
 
 **Dieser Artikel ist im Aufbau: Du hast Verbesserungsvorschläge oder Aspekte, die beigefügt werden sollten? Dann hinterlasse einfach einen Kommentar und editiere den Text direkt über [Hackmd](https://hackmd.io/IwDgJgxgpsYKwFoBmYoE4EBY3EwkA7GEggEwCGAzJqikpbEA).**
