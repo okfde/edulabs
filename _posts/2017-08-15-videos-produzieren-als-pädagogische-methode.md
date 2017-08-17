@@ -75,7 +75,7 @@ Abhängig vom Format, erlernen die Schüler\*innen weitere Kompetenzen:*
 * Datenschutz: Sollen die Schüler\*innen vor der Kamera auftreten, werden die Genehmigungen der Eltern benötigt. Erfahrungsgemäß verbieten das viele Eltern und es muss auf andere Formate zurückgegriffen werden.
 * Eine gute Lösung für fehlende Technik ist es, mit dem Smartphone der Schüler\*innen zu arbeiten. Problem: Der Ton ist oft schlecht.
 * Storyboard anlegen: Das hilft bei der Organisation der Kameraaufnahmen und dabei, dass keine Bilder vergessen werden, um eine gewünschte Handlung darzustellen.
-* Zur Erläuterung der Einstellungsgrößen können Videos verwendet werden, beispielsweise folgendes (CC-BY [JFF](http://www.jff.de/)):<br><br>
+* Zur Erläuterung der Einstellungsgrößen können Videos verwendet werden, beispielsweise folgendes:<br><br>
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/rOFIwI2zEoo?ecver=1" frameborder="0" allowfullscreen></iframe></center>
 
 * Altersklassen: Ab 10 Jahren können erfahrungsgemäß abstraktere Themen behandelt werden.
