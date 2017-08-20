@@ -62,13 +62,9 @@ Abhängig vom Format, erlernen die Schüler\*innen weitere Kompetenzen:*
 
 ### Spielfilm
 
+*Beim Spielfilm kommen Schüler\*innen auch selbst vor die Kamera und lernen darstellendes Spiel und neue kreative Ausdrucksmöglichkeiten kennen. Dabei überwinden sie die Scheu vor der Kamera und setzen sich mit Körpersprache und Stimme auseinander.*
 <!-- include ionfobox -->
 {% include partials/content/content-infobox.liquid float="right" headline="Tipp:" copy="Die Wahrnehmung von Film kann durch folgendes Experiment reflektiert werden: Die Schüler*innen teilen sich auf zwei Gruppen auf. Eine Gruppe hat verbundene Augen, die andere ist mit Ohrstöpseln ausgestattet. Die jeweiligen Gruppen sollen sich auf das Hören beziehungsweise Sehen von Filmvorführungen konzentrieren und ihre Erfahrungen anschließend diskutieren." %}
-
-*Beim Spielfilm kommen Schüler\*innen auch selbst vor die Kamera und lernen darstellendes Spiel und neue kreative Ausdrucksmöglichkeiten kennen. Dabei überwinden sie die Scheu vor der Kamera und setzen sich mit Körpersprache und Stimme auseinander.*
-
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/SMzxjscBNeg?ecver=1" frameborder="0" allowfullscreen></iframe></center>
-
 
 ## Empfehlungen
 
@@ -110,12 +106,14 @@ Vorteile: läuft auf jedem System, kostenlos<br>
 Nachteile: man muss sich anmelden<br><br>
 
 <p class="link-list">
-<span class="link-list-headline">Links</span>
-<a class="external-link" href="https://lehrerfortbildung-bw.de/st_digital/medienwerkstatt/multimedia/video-im-unterricht/" target="_blank">Viele Tipps, Unterrichtsmaterialien und Übungen zum Thema gibt es auf Lehrerfortbildung-bw.de</a>
-<a class="external-link" href="https://www.youtube.com/watch?v=rOFIwI2zEoo" target="_blank">Ein Video zu Einstellungsgrößen (CC-BY)</a>
-<a class="external-link" href="https://www.planet-schule.de/wissenspool/filmbildung-in-der-grundschule/inhalt/sendung.html#" target="_blank">Auf Planetschule.de: Videos zu diversen Grundlagen der Filmproduktion</a>
-<a class="external-link" href="https://de.wikipedia.org/wiki/Brutkastenl%C3%BCge" target="_blank">Die Brutkastenlüge als ein Beispiel für Falschnachrichten</a>
-<a class="external-link" href="http://www.medien-in-die-schule.de/werkzeugkaesten/werkzeugkasten-diy-und-making/werkzeugportraets-beispiele-aus-der-praxis/stop-motion-3d-druck-trifft-trickfilm-projekt/" target="_blank">Das Unterrichtskonzept "Stop-Motion – 3D-Druck trifft Trickfilm"</a>
+    <span class="link-list-headline">Links</span>
+    <a class="external-link" href="https://lehrerfortbildung-bw.de/st_digital/medienwerkstatt/multimedia/video-im-unterricht/" target="_blank">Viele Tipps, Unterrichtsmaterialien und Übungen zum Thema gibt es auf Lehrerfortbildung-bw.de</a>
+    <a class="external-link" href="https://www.youtube.com/watch?v=rOFIwI2zEoo" target="_blank">Ein Video zu Einstellungsgrößen (CC-BY)</a>
+    <a class="external-link" href="https://www.planet-schule.de/wissenspool/filmbildung-in-der-grundschule/inhalt/sendung.html#" target="_blank">Auf Planetschule.de: Videos zu diversen Grundlagen der Filmproduktion</a>
+    <a class="external-link" href="https://de.wikipedia.org/wiki/Brutkastenl%C3%BCge" target="_blank">Die Brutkastenlüge als ein Beispiel für Falschnachrichten</a>
+    <a class="external-link" href="http://www.medien-in-die-schule.de/werkzeugkaesten/werkzeugkasten-diy-und-making/werkzeugportraets-beispiele-aus-der-praxis/stop-motion-3d-druck-trifft-trickfilm-projekt/" target="_blank">Das Unterrichtskonzept "Stop-Motion – 3D-Druck trifft Trickfilm"</a>
+    <a class="external-link" href="http://www.bits21.de/39_Wenn_die_Bilder_laufen_lernen_Trickfilme_erstellen_23_25_10_2017.htm?nId=21" target="_blank">Seminartipp: „Wenn die Bilder laufen lernen - Trickfilme erstellen“</a>
+    <a class="external-link" href="http://www.bits21.de/39_Video_und_Videoschnitt_18_20_10_2017.htm?nId=6" target="_blank">Seminartipp: „Video und Videoschnitt“</a>
 </p>
 
 **Dieser Artikel ist im Aufbau: Du hast Verbesserungsvorschläge oder Aspekte, die beigefügt werden sollten? Dann hinterlasse einfach einen Kommentar und editiere den Text direkt über [Hackmd](https://hackmd.io/IwDgJgxgpsYKwFoBmYoE4EBY3EwkA7GEggEwCGAzJqikpbEA).**
