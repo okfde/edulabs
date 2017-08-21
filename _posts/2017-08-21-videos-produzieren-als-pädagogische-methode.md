@@ -9,16 +9,16 @@ categories: Toolcard edulabsBE
 twitter_large_img: /assets/img/blog/2017/August/toolcard_videoproduktion/stopmotion_film_set.jpg
 image: /assets/img/blog/2017/August/toolcard_videoproduktion/stopmotion_film_set.jpg
 header_background: /assets/img/blog/2017/August/toolcard_videoproduktion/stopmotion_film_set.jpg
-header_background_caption: "Bild: Stop-Motion Filmset, by Maximilian Voigt"
+header_background_caption: "Bild: Maximilian Voigt, Stop-Motion Filmset. Lizenz: CC-BY 4.0"
 author: Paula Seemann, Ralf Schlotter, Maximilian Voigt
 info_text: |
-  <a href='/blog/digitale-Tools-ergänzen-statt-ersetzen/'><img src='/assets/img/blog/2017/Juli/interview_kai_woerner/Kai_Woerner.jpg' style='width: 100%; display: inline-block'></a>
+  <a href='/blog/digitale-Tools-ergänzen-statt-ersetzen/'><img src='/assets/img/blog/2017/Juli/interview_kai_woerner/app_idee.jpg' style='width: 100%; display: inline-block'></a>
   Kai Wörner über seine Erfahrungen mit digitalen Tools im Unterricht.
-  
+
 ---
 
 *Wie können Schüler\*innen [Medienkompetenzen](http://www.ard.de/home/ard/Medienkompetenz__Spielregeln_der_modernen_Medienwelt/76910/index.html) erlangen und damit den kritischen Umgang mit Medien lernen? Zum Beispiel, indem sie in die Lage von Medienschaffenden versetzt werden und selbst hinter der Kamera stehen. Beim letzten [edulabsBE](/labs/edulabsbe) Treffen haben wir zu diesem Thema medienpädagogische Erfahrungen zusammengetragen und im Folgenden für euch aufgeschrieben.*
-<!-- include ionfobox -->
+<!-- include infobox -->
 {% include partials/content/content-infobox.liquid float="right" headline="„Mein Grundsatz ist: ergänzen statt ersetzen“" copy=page.info_text %}
 
 ## Mehrwert für Lehrende
@@ -28,7 +28,7 @@ info_text: |
 * Projektorientiertes und kollaboratives Arbeiten stärken den Klassenzusammenhalt.
 * Videos produzieren bedeutet keine „verlorene Zeit“: Das Schreiben von Drehbüchern und das Erstellen von Storyboards kann beispielsweise leicht in den Deutschunterricht integriert werden.
 * Technikangst überwinden: Weil Lehrende bei projektorientierten Unterrichtseinheiten als Lernbegleiter auftreten, können sie mit den Schüler\*innen gemeinsam die Technologie erforschen und nehmen sich damit den Druck, die Geräte und Programme bis ins letzte Detail verstanden haben zu müssen.
-<br><br> 
+<br><br>
 
 ## Mehrwert für Schüler\*innen
 
@@ -40,7 +40,7 @@ info_text: |
 
 ## Formate und Kompetenzen, die sie vermitteln
 
-*Neben dem möglichen Erwerb sozialer sowie technischer Kompetenzen, wie der Umgang mit der Kamera, dem Ton oder den Schnittprogrammen, erlernen die Schüler\*innen auch durch das konzeptionelle Arbeiten unterschiedliche Fertigkeiten: Beispielsweise fördert das Erstellen eines Storyboards das Denken in Bildern, die Auseinandersetzung mit filmischem Erzählen vermittelt ein Gefühl für Länge und das Schreiben von Drehbüchern schult die Kunst des kreativen Schreibens. 
+*Neben dem möglichen Erwerb sozialer sowie technischer Kompetenzen, wie der Umgang mit der Kamera, dem Ton oder den Schnittprogrammen, erlernen die Schüler\*innen auch durch das konzeptionelle Arbeiten unterschiedliche Fertigkeiten: Beispielsweise fördert das Erstellen eines Storyboards das Denken in Bildern, die Auseinandersetzung mit filmischem Erzählen vermittelt ein Gefühl für Länge und das Schreiben von Drehbüchern schult die Kunst des kreativen Schreibens.
 Abhängig vom Format, erlernen die Schüler\*innen weitere Kompetenzen:*
 
 ### Stop-Motion/Trickfilm
@@ -80,12 +80,12 @@ Abhängig vom Format, erlernen die Schüler\*innen weitere Kompetenzen:*
 * Das Produzieren von Videos und Filmen ist für alle Fächer interessant.
     * Im Fach Mathematik können zum Beispiel zur Ergebnissicherung Probleme zusammengefasst werden.
 * Freiheiten lassen: Wenn zum Beispiel Schüler\*innen darauf bestehen, kein Storyboard anlegen zu wollen, sollten sie die Erfahrung machen. Am Ende kann dann diskutiert werden, inwiefern das Vorgehen zielführend war.<br><br>
-        
+
 ## Software
 
 ### Screencasting:
 
-* [cam-studio](http://camstudio.org/) 
+* [cam-studio](http://camstudio.org/)
 <br><br>
 
 ### Schnittprogramme:
@@ -97,11 +97,11 @@ Nachteile: Windows Software<br>
 Vorteile: ist Open Source<br>
 Nachteile: läuft nur auf Linux<br>
 * Die App [Stopmotion Studio](https://www.cateater.com/):<br>
-Vorteile: sehr einfache Anwendung<br> 
+Vorteile: sehr einfache Anwendung<br>
 Nachteile: hat Grenzen (es können nicht unbegrenzt Tonspuren hinzugefügt werden), nicht auf allen Plattformen anwendbar<br>
 * [Magix](http://www.magix.com/de/?AffiliateID=80&phash=1tfJcP0uekxzmk3q&gclid=EAIaIQobChMIu_CCgZTI1QIV1hXTCh3DHwlgEAAYASAAEgIXjvD_BwE):<br>
-Nachteil: nur unter Windows nutzbar, nicht kostenlos, hat Bugs (störanfällig)<br> 
-* [Lightworks](https://www.lwks.com/):<br> 
+Nachteil: nur unter Windows nutzbar, nicht kostenlos, hat Bugs (störanfällig)<br>
+* [Lightworks](https://www.lwks.com/):<br>
 Vorteile: läuft auf jedem System, kostenlos<br>
 Nachteile: man muss sich anmelden<br><br>
 
