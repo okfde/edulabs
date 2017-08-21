@@ -17,7 +17,7 @@ info_text: |
 
 ---
 
-*Wie können Schüler\*innen [Medienkompetenzen](http://www.ard.de/home/ard/Medienkompetenz__Spielregeln_der_modernen_Medienwelt/76910/index.html) erlangen und damit den kritischen Umgang mit Medien lernen? Zum Beispiel, indem sie in die Lage von Medienschaffenden versetzt werden und selbst hinter der Kamera stehen. Beim letzten [edulabsBE](/labs/edulabsbe) Treffen haben wir zu diesem Thema medienpädagogische Erfahrungen zusammengetragen und im Folgenden für euch aufgeschrieben.*
+*Wie können Schüler\*innen [Medienkompetenzen](http://www.ard.de/home/ard/Medienkompetenz__Spielregeln_der_modernen_Medienwelt/76910/index.html) erlangen und damit den kritischen Umgang mit Medien lernen? Zum Beispiel, indem sie in die Lage von Medienschaffenden versetzt werden und selbst hinter der Kamera stehen. Beim letzten [edulabsBE](/labs/edulabsbe)-Treffen haben wir zu diesem Thema medienpädagogische Erfahrungen zusammengetragen und im Folgenden für euch aufgeschrieben.*
 <!-- include infobox -->
 {% include partials/content/content-infobox.liquid float="right" headline="„Mein Grundsatz ist: ergänzen statt ersetzen“" copy=page.info_text %}
 
