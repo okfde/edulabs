@@ -4,9 +4,8 @@ layout: post
 title: "edusprint für #zeitgemäßeBildung, am 6.-7.10. in Berlin"
 teaser: "Wir organisieren einem zweitägigen edusprint, um Empfehlungen für Materialien und Unterrichtsformate zu digitalen Kompetenzen zu entwickeln."
 teaser_img_src: /assets/img/blog/2017/August/edusprint.jpg
-featured: true
+featured: false
 categories: News
-image: /assets/img/blog/2017/August/edusprint-tw.png
 twitter_large_img: /assets/img/blog/2017/August/edusprint-tw.png
 header_background: /assets/img/blog/2017/August/edusprint.jpg
 header_background_caption: "Bild: <a href='http://katringreiner.com/'>Katrin Greiner</a>, <a href='https://creativecommons.org/licenses/by/4.0/legalcode'>CC-BY 4.0</a>"
