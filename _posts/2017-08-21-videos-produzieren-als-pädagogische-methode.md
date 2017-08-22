@@ -54,7 +54,7 @@ Abhängig vom Format, erlernen die Schüler\*innen weitere Kompetenzen:*
 
 ### Dokumentation
 
-*Eine Dokumentation kann die filmische Darstellung von Versuchen im Biologieunterricht sein oder einer Problematik aus dem Alltag. Alternativ kann auch eine Screencasting-Software eingesetzt werden, wenn digitale Aspekte dokumentiert werden sollen (Beispiel: Erstellung von Tutorials).*
+*Eine Dokumentation kann die filmische Darstellung von Versuchen im Biologieunterricht sein oder einer Problematik aus dem Alltag. Alternativ kann auch eine [Screencasting-Software](https://de.wikipedia.org/wiki/Screencast) eingesetzt werden, wenn digitale Aspekte dokumentiert werden sollen (Beispiel: Erstellung von Tutorials).*
 
 * In jedem Fall müssen die Themen erst durchdrungen worden sein, wenn sie anschließend filmisch zusammengefasst werden sollen.
 * Das fördert Recherchekompetenz und Quellenkompetenz.
@@ -64,7 +64,7 @@ Abhängig vom Format, erlernen die Schüler\*innen weitere Kompetenzen:*
 
 *Beim Spielfilm kommen Schüler\*innen auch selbst vor die Kamera und lernen darstellendes Spiel und neue kreative Ausdrucksmöglichkeiten kennen. Dabei überwinden sie die Scheu vor der Kamera und setzen sich mit Körpersprache und Stimme auseinander.*
 <!-- include ionfobox -->
-{% include partials/content/content-infobox.liquid float="right" headline="Tipp:" copy="Die Wahrnehmung von Film kann durch folgendes Experiment reflektiert werden: Die Schüler*innen teilen sich auf zwei Gruppen auf. Eine Gruppe hat verbundene Augen, die andere ist mit Ohrstöpseln ausgestattet. Die jeweiligen Gruppen sollen sich auf das Hören beziehungsweise Sehen von Filmvorführungen konzentrieren und ihre Erfahrungen anschließend diskutieren." %}
+{% include partials/content/content-infobox.liquid float="right" headline="Tipp:" copy="Die Wahrnehmung von Film kann durch folgendes Experiment reflektiert werden: Die Schüler*innen teilen sich in zwei Gruppen auf. Eine Gruppe hat verbundene Augen, die andere ist mit Ohrstöpseln ausgestattet. Die jeweiligen Gruppen sollen sich auf das Hören beziehungsweise Sehen von Filmvorführungen konzentrieren und ihre Erfahrungen anschließend diskutieren." %}
 
 ## Empfehlungen
 
@@ -72,7 +72,7 @@ Abhängig vom Format, erlernen die Schüler\*innen weitere Kompetenzen:*
 * Datenschutz: Sollen die Schüler\*innen vor der Kamera auftreten, werden die Genehmigungen der Eltern benötigt. Erfahrungsgemäß verbieten das viele Eltern und es muss auf andere Formate zurückgegriffen werden.
 * Eine gute Lösung für fehlende Technik ist es, mit dem Smartphone der Schüler\*innen zu arbeiten. Problem: Der Ton ist oft schlecht.
 * Storyboard anlegen: Das hilft bei der Organisation der Kameraaufnahmen und dabei, dass keine Bilder vergessen werden, um eine gewünschte Handlung darzustellen.
-* Zur Erläuterung der Einstellungsgrößen können Videos verwendet werden, beispielsweise folgendes:<br><br>
+* Zur Erläuterung der [Einstellungsgrößen](https://de.wikipedia.org/wiki/Einstellungsgr%C3%B6%C3%9Fe) können Videos verwendet werden, beispielsweise folgendes:<br><br>
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/rOFIwI2zEoo?ecver=1" frameborder="0" allowfullscreen></iframe></center>
 
 * Altersklassen: Ab 10 Jahren können erfahrungsgemäß abstraktere Themen behandelt werden.
