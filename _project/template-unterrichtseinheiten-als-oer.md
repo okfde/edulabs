@@ -6,7 +6,7 @@ status: prototyping
 short-desc: "Insbesondere aus dem Universum der freien Medienpädagoginnen gibt es bereits ein Vielzahl richtig guter Unterrichtsideen, Workshops und Projektkonzepte, im Feld Digitales Lernen. Auch der Wille ist da, dieses Wissen als OER zu publizieren. Oftmals fehlen Zeit + Mittel, um diesen Schritt zugehen oder auch das Knowhow für eine gute Aufbereitung, die wirkliche Nachnutzung initiiertist zentral - die Publikation selbst muss didaktisch hochwertig sein: Neben den Materialien für die Lernenden muss auch die Anleitung für die Lernbegleiter gut strukturiert, ästhetisch ansprechend sein und praktischen Anforderungen in der Workshopsituation genügen.<br>
 <br>Ich möchte eine Vorlage entwickeln, die:
 <ul>
-<li>es Pädagoginnen ermöglicht, eigene Konzepte ohne großen Zeitaufwand als OER zupublizieren</li>
+<li>es Pädagoginnen ermöglicht, eigene Konzepte ohne großen Zeitaufwand als OER zu publizieren</li>
 <li>es Pädagoginnen ermöglicht, Konzepte von anderen schnell zu adaptieren und in der eigenen Lerngruppe umzusetzen</li>
 <li>* durch ein ansprechendes Grafikdesign / Infodesign sowohl den Autor als auch den Nachnutzenden mobilisiert und Lust macht aufs Teilen</li>
 <li>hohen Open Source Standards genügt, kommentierbar und remixbar ist.</li>
