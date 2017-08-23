@@ -20,5 +20,5 @@ link: 'https://padlet.com/christine_kolbe1/klzd1jh2klst'
 contact-name: Christine Kolbe
 contact-email: christine.kolbe@gmail.com
 date: '2017-08-22T18:37:25.347Z'
-slug: emplate-um-unterrichtseinheiten-workshops-als-oer-anzubieten
+slug: template-unterrichtseinheiten-workshops-als-oer
 ---
