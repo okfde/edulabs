@@ -46,7 +46,7 @@ Abhängig vom Format, erlernen die Schüler\*innen weitere Kompetenzen:*
 ### Stop-Motion/Trickfilm
 
 *Beispiel „[3D-Druck trifft Trickfilm](http://www.medien-in-die-schule.de/werkzeugkaesten/werkzeugkasten-diy-und-making/werkzeugportraets-beispiele-aus-der-praxis/stop-motion-3d-druck-trifft-trickfilm-projekt/)“: Die Schüler\*innen entwerfen 3D-Figuren und drucken diese mit Hilfe eines 3D-Druckers aus. Anschließend nutzen sie die Figuren bei der Erstellung eines Stop-Motion-Filmes.*
-<center><iframe src="https://giphy.com/embed/R3H7UiNMdykYE" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/3d-printing-R3H7UiNMdykYE"></a></p></center>
+<div class="video"><iframe src="https://giphy.com/embed/R3H7UiNMdykYE" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/3d-printing-R3H7UiNMdykYE"></a></p></div>
 
 * Das Erstellen von 3D-Modellen kann das räumliche Denken verbessern.<br>
 * Der Umgang mit einem [3D-Drucker](https://www.medienpaedagogik-praxis.de/tag/3d-druck/) nimmt dem Gerät die Magie und fördert die Auseinandersetzung mit seiner Technik.<br>
@@ -73,7 +73,7 @@ Abhängig vom Format, erlernen die Schüler\*innen weitere Kompetenzen:*
 * Eine gute Lösung für fehlende Technik ist es, mit dem Smartphone der Schüler\*innen zu arbeiten. Problem: Der Ton ist oft schlecht.
 * Storyboard anlegen: Das hilft bei der Organisation der Kameraaufnahmen und dabei, dass keine Bilder vergessen werden, um eine gewünschte Handlung darzustellen.
 * Zur Erläuterung der [Einstellungsgrößen](https://de.wikipedia.org/wiki/Einstellungsgr%C3%B6%C3%9Fe) können Videos verwendet werden, beispielsweise folgendes:<br><br>
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/rOFIwI2zEoo?ecver=1" frameborder="0" allowfullscreen></iframe></center>
+<div class="video"><iframe  src="https://www.youtube.com/embed/rOFIwI2zEoo?ecver=1" frameborder="0" allowfullscreen></iframe></div>
 
 * Altersklassen: Ab 10 Jahren können erfahrungsgemäß abstraktere Themen behandelt werden.
 * In der Regeln kommen die Schüler\*innen mit eigenen Ideen.
