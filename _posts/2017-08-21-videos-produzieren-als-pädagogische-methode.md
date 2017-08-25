@@ -4,7 +4,7 @@ layout: post
 title: "Videos produzieren als pädagogische Methode"
 teaser: "Wie können Schüler*innen Medienkompetenzen erlangen und damit den kritischen Umgang mit Medien lernen? Zum Beispiel, indem sie in die Lage von Medienschaffenden versetzt werden und selbst hinter der Kamera stehen."
 teaser_img_src: /assets/img/blog/2017/August/toolcard_videoproduktion/stopmotion_film_set.jpg
-featured: true
+featured: false
 categories: Toolcard edulabsBE
 twitter_large_img: /assets/img/blog/2017/August/toolcard_videoproduktion/stopmotion_film_set.jpg
 image: /assets/img/blog/2017/August/toolcard_videoproduktion/stopmotion_film_set.jpg

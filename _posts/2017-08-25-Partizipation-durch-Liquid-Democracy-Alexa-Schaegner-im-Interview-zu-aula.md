@@ -9,7 +9,7 @@ categories: Interviews
 twitter_large_img: /assets/img/blog/2017/August/Interview_Alexa/alexa.jpg
 image: /assets/img/blog/2017/August/Interview_Alexa/alexa.jpg
 header_background: /assets/img/blog/2017/August/Interview_Alexa/alexa.jpg
-header_background_caption: "Bild: Alexa Schaegner, by Maximilian Voigt"
+header_background_caption: "Bild: Maximilian Voigt: Alexa Schaegner. Lizenz: <a href='https://creativecommons.org/licenses/by/4.0/'>CC-BY 4.0</a>"
 author: Maximilian Voigt
 info_text: |
  Mit Hilfe einer Liquid Democracy basierten Plattform möchte aula jungen Menschen die Möglichkeit geben, ihr schulisches Umfeld aktiv mitzugestalten und dadurch demokratisches Handeln zu erproben.<br><br><a href='http://aula-blog.website/was-ist-aula/'>Zur Projektseite >></a>
@@ -34,7 +34,7 @@ Unser Ziel war es, in vier Schulen das System aula zu testen. Wir hätten gerne 
 
 <div class="img-wrap-center">
 <img src="/assets/img/blog/2017/August/Interview_Alexa/ZOÉ LOSCH.jpg" style="width: 100%; display: inline-block">
-<div class="caption" style="text-align: right">Bild: Zoé Losch auf der re:publica, by Maximilian Voigt</div>
+<div class="caption" style="text-align: right">Bild: Maximilian Voigt: Zoé Losch auf der re:publica. Lizenz: <a href='https://creativecommons.org/licenses/by/4.0/'>CC-BY 4.0</a></div>
 </div>
 
 **Neben den Zielen, die ihr für das Projekt festgelegt habt, die ihr erreicht habt, ist es für mich auch deswegen erfolgreich, weil es sich bei aula um eine kritische Position gegenüber dem System Schule handelt und die Einwilligung der Schulen in die Umsetzung ein Eingriff bedeutet.**<br>
@@ -53,7 +53,7 @@ Puh, gute Frage. Ich habe mich wissenschaftlich viel mit Liquid Democracy auf gr
 
 <div class="img-wrap-center">
 <img src="/assets/img/blog/2017/August/Interview_Alexa/Jakob Schmidt.jpg" style="width: 100%; display: inline-block">
-<div class="caption" style="text-align: right">Bild: Der Schülersprecher Jakob Schmidt auf der re:publica, by Maximilian Voigt</div>
+<div class="caption" style="text-align: right">Bild: Maximilian Voigt: Der Schülersprecher Jakob Schmidt auf der re:publica. Lizenz: <a href='https://creativecommons.org/licenses/by/4.0/'>CC-BY 4.0</a></div>
 </div>
 
 **Stichwort: kein Selbstläufer. Was ist nicht so gut gelaufen?**<br>
