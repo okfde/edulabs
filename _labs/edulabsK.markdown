@@ -5,7 +5,11 @@ headline: "edulabs Köln/Bonn (geplant)"
 src: "/assets/img/labs/edulabsBN.jpg"
 ---
 
-Am 31.8. findet in Köln ein erstes [edulabsK](/labs/edulabsbn) Planungstreffen statt, um Menschen mit Interesse an offener Bildung in der Region zu vernetzen. Wenn ihr das edulabsK mit gestalten möchtet, seid ihr herzlich eingeladen:
+<div class="img-wrap-center">
+<img src="/assets/img/labs/edulabsK.jpg" style="width: 100%; display: inline-block">
+<div style="text-align: right"></div>
+</div>
+Am 31.8. findet in Köln ein erstes [edulabsK](/labs/edulabsk) Planungstreffen statt, um Menschen mit Interesse an offener Bildung in der Region zu vernetzen. Wenn ihr das edulabsK mit gestalten möchtet, seid ihr herzlich eingeladen:
 
 ## Wann?
 Donnerstag // 31. August // 18.00 Uhr
