@@ -72,7 +72,7 @@ Ich habe immer wieder das Feedback bekommen: Eigentlich ist aula kein Projekt so
 <p class="link-list">
 <span class="link-list-headline">Links</span>
 <a class="external-link" href="http://aula-blog.website/" target="_blank">Das Projekt aula</a>
-<a class="external-link" href="https://liqd.net/de/" target="_blank">Zum Liquid Democracy e.V., der das Aula-System gebaut hat.</a>
+<a class="external-link" href="https://liqd.net/de/" target="_blank">Zum Liquid Democracy e.V., der die aula-Plattform entwickelt hat.</a>
 <a class="external-link" href="https://enquetebeteiligung.de/" target="_blank">Adhocracy-Plattform der Enquete Beteiligung</a>
 <a class="external-link" href="https://www.ccc.de/de/updates/2017/cms-forderungen" target="_blank">„Chaos macht Schule“: Forderungen für digitale Bildung an Schulen</a>
 <a class="external-link" href="http://politik-digital.de/news/aula-schuelerbeteiligung-und-die-kompetenzen-der-zukunft-153015/" target="_blank">Marina Weisband zu aula, Schülerbeteiligung und die Kompetenzen der Zukunft</a>
