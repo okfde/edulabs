@@ -26,6 +26,6 @@ Weinsbergstraße 190 // 50825 Köln // 2. OG
 19:30 Get-Together
 
 <div class="content-wrap btn-wrap">
-    <a class="edu-btn black"https://hackmd.io/EYDg7AjAzALAJgUwLRWAJgKxJlAnANiWAGM04kQQIEwAGXNAQ2KgSA==?both" target="_blank">Zum Planungsdokument</a>
+    <a class="edu-btn black" href="edu-btn black"https://hackmd.io/EYDg7AjAzALAJgUwLRWAJgKxJlAnANiWAGM04kQQIEwAGXNAQ2KgSA==?both" target="_blank">Zum Planungsdokument</a>
 </div>
 
