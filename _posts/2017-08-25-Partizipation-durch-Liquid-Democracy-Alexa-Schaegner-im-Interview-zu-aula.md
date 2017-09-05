@@ -4,7 +4,7 @@ layout: post
 title: "Partizipation durch Liquid-Democracy - Alexa Schaegner im Interview zum Projekt aula"
 teaser: "Alexa arbeitet als Redakteurin für Politik Digital e.V. und betreut das Projekt aula - eine Liquid Democracy Plattform, die jungen Menschen die Möglichkeit gibt, Beteiligung zu lernen. Außerdem organisiert sie seit dem 13. Juni 2017 als eine von drei Lab-Leads edulabsBE."
 teaser_img_src: /assets/img/blog/2017/August/Interview_Alexa/alexa.jpg
-featured: true
+featured: false
 categories: Interviews
 twitter_large_img: /assets/img/blog/2017/August/Interview_Alexa/alexa.jpg
 image: /assets/img/blog/2017/August/Interview_Alexa/alexa.jpg
