@@ -9,7 +9,7 @@ categories: Interviews
 twitter_large_img: /assets/img/blog/2017/August/Interview_Maxim/calliope_mini.JPG
 image: /assets/img/blog/2017/August/Interview_Maxim/calliope_mini.JPG
 header_background: /assets/img/blog/2017/August/Interview_Maxim/calliope_mini.JPG
-header_background_caption: "Bild: Maximilian Voigt: Alexa Schaegner. Lizenz: <a href='https://creativecommons.org/licenses/by/4.0/'>CC-BY 4.0</a>"
+header_background_caption: "Bild: Maximilian Voigt: Der Calliope mini. Lizenz: <a href='https://creativecommons.org/licenses/by/4.0/'>CC-BY 4.0</a>"
 author: Maximilian Voigt
 info_text: |
  
