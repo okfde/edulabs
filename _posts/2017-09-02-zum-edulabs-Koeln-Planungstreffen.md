@@ -3,12 +3,12 @@
 layout: post
 title: "edulabsK/BN: Energiereich war's, am 13.9. geht's weiter"
 teaser: "Zum Planungstreffen des edulabs Köln und wie es weiter geht"
-teaser_img_src: /assets/img/labs/edulabsK.jpg
+teaser_img_src: /assets/img/labs/edulabsK-BN.jpg
 featured: false
-categories: edulabsK edulabsCall News
-twitter_large_img: /assets/img/labs/edulabsK.jpg
-image: /assets/img/labs/edulabsK.jpg
-header_background: /assets/img/labs/edulabsK.jpg
+categories: edulabsK/BN edulabsCall News
+twitter_large_img: /assets/img/labs/edulabsK-BN.jpg
+image: /assets/img/labs/edulabsK-BN.jpg
+header_background: /assets/img/labs/edulabsK-BN.jpg
 header_background_caption: "Bild: Maximilian Voigt. Lizenz: <a href='https://creativecommons.org/licenses/by/4.0/'>CC-BY 4.0</a>"
 author: Maximilian Voigt
 info_text: |
