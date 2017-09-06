@@ -15,7 +15,7 @@ info_text: |
 
 ---
 
-Gut besucht war das erste edulabs Planungstreffen in Köln, das in den Räumen der [Fachstelle für Jugendmedienkultur NRW](http://jugendmedienkultur-nrw.de/) stattfinden durfte. Aus der energiereichen Mischung unterschiedlicher Berufs- und Interessensgruppen ergaben sich erste spannende Projektideen und der Wunsch nach einem nächsten Termin. Alle Details zum letzten Treffen können im [Planungsdokument](https://hackmd.io/EYDg7AjAzALAJgUwLRWAJgKxJlAnANiWAGM04kQQIEwAGXNAQ2KgSA) nachgelesen werden.
+Gut besucht war das erste edulabs Planungstreffen in Köln, das in den Räumen der [Fachstelle für Jugendmedienkultur NRW](http://jugendmedienkultur-nrw.de/) stattfinden durfte. Aus der energiereichen Mischung unterschiedlicher Berufs- und Interessengruppen ergaben sich erste spannende Projektideen und der Wunsch nach einem nächsten Termin. Alle Details zum letzten Treffen können im [Planungsdokument](https://hackmd.io/EYDg7AjAzALAJgUwLRWAJgKxJlAnANiWAGM04kQQIEwAGXNAQ2KgSA) nachgelesen werden.
 
 Das nächste Treffen des [edulabsK/BN](/labs/edulabsk-bn) wird online stattfinden, um die Vernetzung voranzutreiben und das weitere Vorgehen sowie Raumfragen zu klären. Am 13.09., 17 Uhr, kann jeder und jede mit Interesse an freier und zeitgemäßer Bildung per Laptop, Smartphone oder Telefon teilnehmen.
 
