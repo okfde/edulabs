@@ -22,7 +22,7 @@ Das nächste Treffen des [edulabsK/BN](/labs/edulabsk-bn) wird online stattfinde
 Dazu benötigt ihr diesen [zoom Client](https://zoom.us/download#client_4meeting) oder ein Telefon. Am Mittwoch wird der Call dann über folgenden Link oder unter der Telefonnummer +49 (0) 30 3080 6188 (Meeting-ID: 404-711-202) erreichbar sein:
 <center><a class="btn btn-lg btn-default"
   href="https://zoom.us/j/404711202"
-  role="button">Zum public call (Mi 13.9., 17 Uhr) »</a></center><br>
+  role="button">Zum Public Call (Mi 13.9., 17 Uhr) »</a></center><br>
 
 
 
