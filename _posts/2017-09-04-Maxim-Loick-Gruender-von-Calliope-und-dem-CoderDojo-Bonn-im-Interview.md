@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: "#DigitaleBildung: „um nicht angsterfüllt vor den bösen Algorithmen stehen zu müssen“"
+title: "Über Coding ab der Grundschule und wie das gelingen kann"
 teaser: "Maxim Loick - Mitgründer der Calliope gGmbH und des CoderDojos Bonn im Interview"
 teaser_img_src: /assets/img/blog/2017/August/Interview_Maxim/calliope_mini.JPG
 featured: true
