@@ -57,7 +57,7 @@ Das Prinzip von OER finde ich super, weil die Bildung eine öffentliche Aufgabe 
 <span class="link-list-headline">Links</span>
 <a class="external-link" href="https://www.hackster.io/search?i=projects&q=calliope" target="_blank">Projektanleitungen für den Calliope mini auf Hackster.io</a>
 <a class="external-link" href="https://appcamps.de/unterrichtsmaterial/calliope-mini/" target="_blank">Unterrichtsmaterialien für den Calliope mini auf App Camps</a>
-<a class="external-link" href="https://www.cornelsen.de/fm/1272/coden-in-der-grundschule-mit-dem-calliope-mini-vorab-beispiel-lehrermaterial.PDF" target="_blank">Das CC-BY-SA lizenzierte Unterrichtsmaterial von Cornelsen</a>
+<a class="external-link" href="https://calliope.cc/schulmaterial" target="_blank">Verschiedene Schulmaterialien auf der Calliope Website</a>
 <a class="external-link" href="http://kata.coderdojo.com/wiki/Learning_Resource" target="_blank">Lern- und Lehrmaterialien der CoderDojos</a>
 <a class="external-link" href="http://www.coderdojobn.org/" target="_blank">Zum CoderDojo Bonn</a>
 <a class="external-link" href="https://www.open-roberta.org/willkommen/" target="_blank">Zu Open Roberta, einem Projekt, das das Programmieren erleichtern möchte</a>
