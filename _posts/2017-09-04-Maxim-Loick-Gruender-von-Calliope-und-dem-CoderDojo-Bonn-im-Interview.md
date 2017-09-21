@@ -4,7 +4,7 @@ layout: post
 title: "Über Coding ab der Grundschule und wie das gelingen kann"
 teaser: "Maxim Loick - Mitgründer der Calliope gGmbH und des CoderDojos Bonn im Interview"
 teaser_img_src: /assets/img/blog/2017/August/Interview_Maxim/calliope_mini.JPG
-featured: true
+featured: false
 categories: Interviews
 twitter_large_img: /assets/img/blog/2017/August/Interview_Maxim/calliope_mini.JPG
 image: /assets/img/blog/2017/August/Interview_Maxim/calliope_mini.JPG
