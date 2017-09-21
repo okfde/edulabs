@@ -14,7 +14,7 @@ author: Maximilian Voigt
 info_text: |
  
 ---
-*[Dejan Mihajlovic](https://twitter.com/dejanfreiburg?lang=de) ist Lehrer und unterrichtet Chemie, Geschichte, Mathematik und Ethik an der Pestalozzi Realschule in Freiburg. Außerdem engagiert er sich in zahlreichen Initiativen, besonders im Kontext der Bildung und in der Lehrerfortbildung.* 
+*[Dejan Mihajlovic](https://twitter.com/dejanfreiburg?lang=de) ist Lehrer und unterrichtet Chemie, Geschichte, Mathematik und Ethik an der Pestalozzi Realschule in Freiburg. Außerdem engagiert er sich in zahlreichen Initiativen und in der Lehrerfortbildung.* 
 
 **Dejan, du hast gerade [einen Artikel zum Begriff #zeitgemäßeBildung](https://mihajlovicfreiburg.com/2017/09/08/was-ist-zeitgemaesse-bildung/) veröffentlicht. Ich denke, dass vielen Menschen sehr unterschiedliche Aspekte dazu einfallen. Was ist aus deiner Sicht der Kern des Begriffes?**
 Zeitgemäße Bildung umfasst nicht nur ein anderes Lehr- und Lernverständnis, sondern auch ein anderes Verständnis von Gesellschaft. Sie orientiert sich an dem, was gerade zeitgemäß ist. Zum Beispiel die Art unserer Kommunikation, die eine andere ist, wie sie vor 30 Jahren war. Dieser digitale Wandel, der dahinter steckt, hat natürlich auch unsere Kultur verändert. Wir müssen diesen Wandel in allem berücksichtigen, was unter Bildung abläuft. Kommunikation ist nur ein Aspekt. Andere sind Partizipation oder kritisches Denken. Es ist schwierig, zeitgemäße Bildung in zwei Sätze zu packen, weil sie alle Lebensbereichen durchdringt. Sie erfordert eine Haltung, die verlangt, alles was da ist, zu reflektieren und zeitgemäß anzupassen.
