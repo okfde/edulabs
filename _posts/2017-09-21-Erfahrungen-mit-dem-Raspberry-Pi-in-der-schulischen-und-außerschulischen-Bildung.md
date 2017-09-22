@@ -69,7 +69,7 @@ Der Raspberry Pi lässt sich in verschiedenen Unterrichtskontexten einsetzen und
 <a class="external-link" href="http://ddi.uni-wuppertal.de/material/materialsammlung/mittelstufe/raspberry.html" target="_blank">Diverse Unterrichtsmaterialien zum Pi</a>
 <a class="external-link" href="http://medienistik.de/lab-Heft_Stationenlernen.pdf" target="_blank">Stationenlernen mit dem Raspberry Pi</a>
 <a class="external-link" href="http://www.medienistik.de/Themenheft_RaspberryPi.pdf" target="_blank">Themenheft: Unterricht mit dem Raspberry Pi</a>
- <a class="external-link" href="https://www.rahner-edu.de/raspberry-pi/blinklichter/" target="_blank">Verschiedene Bauprojekte, Unterrichts und Lehrmaterialien zum Raspberry Pi</a>
+ <a class="external-link" href="https://www.rahner-edu.de/raspberry-pi/blinklichter/" target="_blank">Verschiedene Bauprojekte, Unterrichts- und Lehrmaterialien zum Raspberry Pi</a>
 <a class="external-link" href="http://kodi.wiki/view/HOW-TO:Install_Kodi_on_Raspberry_Pi" target="_blank">Der Raspberry Pi als Medienserver</a>
 </p>
 
