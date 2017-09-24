@@ -16,7 +16,7 @@ info_text: |
 ---
 Der Raspberry Pi ist ein leistungsstarker, aber gleichzeitig sehr kompakter und günstiger Einplatinencomputer. All seine Bauteile sind auf einer Fläche untergebracht, die etwa der Größe einer Kreditkarte entspricht. Ursprünglich wurde der Raspberry Pi im Jahr 2012 von der britischen [Raspberry Pi Stiftung](http://raspberry.org) veröffentlicht. Das Ziel war, junge Menschen und Schüler\*innen für Technik zu begeistern sowie den Erwerb von Programmier- und Hardwarekenntnissen zu fördern.
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/Z1dyLPc18Lw?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe><div class="caption">Der Lehrer Tobias Hübner spricht über seine Erfahrungen mit dem Raspberry Pi.</div></center>
+<div class="video"><center><iframe width="560" height="315" src="https://www.youtube.com/embed/Z1dyLPc18Lw?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe><div class="caption">Der Lehrer Tobias Hübner spricht über seine Erfahrungen mit dem Raspberry Pi.</div></center></div>
 
 Für den Betrieb ist mindestens eine Mikro-SD Karte, die als „Festplatte“ dient, sowie ein USB-Netzteil erforderlich. Außerdem werden Bildschirm, Tastatur und Maus benötigt, wenn direkt am Raspberry Pi gearbeitet werden soll (und nicht über eine Netzwerkverbindung). Als Betriebssystem stehen verschiedene Linux-Distributionen zur Verfügung. Microsoft bietet sogar Windows 10 in einer abgespeckten und kostenlosen [Version](https://blogs.windows.com/buildingapps/2015/02/02/windows-10-coming-to-raspberry-pi-2/) für den Pi an, die jedoch ohne graphische Benutzeroberfläche auskommen muss.
 
