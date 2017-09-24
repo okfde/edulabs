@@ -65,13 +65,13 @@ Der Raspberry Pi lässt sich in verschiedenen Unterrichtskontexten einsetzen und
 <span class="link-list-headline">Links</span>
 <a class="external-link" href="https://www.raspberrypi.org/magpi/" target="_blank">Das MagPi Magazin</a>
 <a class="external-link" href="https://raspberryblog.de/?p=1681" target="_blank">Ein Bauprojekt, in dem auch Themen aus dem Biologieunterricht Platz haben</a>
-<a class="external-link" href="http://www.forum-raspberrypi.de/" target="_blank">Das Raspberry Pi-Forum mit vielen aktiven Usern</a>
+<a class="external-link" href="http://www.forum-raspberrypi.de/" target="_blank">Das Raspberry Pi-Forum mit vielen Aktiven</a>
 <a class="external-link" href="https://www.medienpaedagogik-praxis.de/2016/08/31/programmieren-lernen-mit-dem-raspberry-pi-und-minecraft-handbuch-making-aktivitaeten/" target="_blank">Programmieren lernen mit dem Raspberry Pi und Minecraft</a>
 <a class="external-link" href="http://ddi.uni-wuppertal.de/material/materialsammlung/mittelstufe/raspberry.html" target="_blank">Diverse Unterrichtsmaterialien zum Pi</a>
 <a class="external-link" href="http://medienistik.de/lab-Heft_Stationenlernen.pdf" target="_blank">Stationenlernen mit dem Raspberry Pi</a>
-<a class="external-link" href="http://www.medienistik.de/Themenheft_RaspberryPi.pdf" target="_blank">Themenheft: Unterricht mit dem Raspberry Pi</a>
- <a class="external-link" href="https://www.rahner-edu.de/raspberry-pi/blinklichter/" target="_blank">Verschiedene Bauprojekte, Unterrichts- und Lehrmaterialien zum Raspberry Pi</a>
+<a class="external-link" href="https://www.rahner-edu.de/raspberry-pi/blinklichter/" target="_blank">Verschiedene Bauprojekte, Unterrichts- und Lehrmaterialien zum Raspberry Pi</a>
 <a class="external-link" href="http://kodi.wiki/view/HOW-TO:Install_Kodi_on_Raspberry_Pi" target="_blank">Der Raspberry Pi als Medienserver</a>
+<a class="external-link" href="http://www.medienistik.de/Themenheft_RaspberryPi.pdf" target="_blank">Themenheft: Unterricht mit dem Raspberry Pi</a>
 </p>
 
 **Dieser Artikel ist im Aufbau: Du hast Verbesserungsvorschläge oder Aspekte, die beigefügt werden sollten? Dann hinterlasse einfach einen Kommentar und editiere den Text direkt über [Hackmd](https://hackmd.io/MYZghsBMAcBGCmBaEBOalEBY0DNGxAEYAGfMANgJU0NhQHZig===?both).**
