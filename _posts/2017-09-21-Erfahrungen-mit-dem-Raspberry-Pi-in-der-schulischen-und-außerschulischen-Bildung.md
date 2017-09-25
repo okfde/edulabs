@@ -4,8 +4,8 @@ layout: post
 title: "Lernen mit dem Raspberry Pi - Erfahrungen und Ideen"
 teaser: "Der Raspberry Pi ist ein leistungsstarker, aber gleichzeitig sehr kompakter und günstiger Einplatinencomputer. Wir haben pädagogische Erfahrungen mit dem Pi gesammelt und für euch aufgeschrieben."
 teaser_img_src: /assets/img/blog/2017/Oktober/Toolcard_Raspberry Pi/Raspberry Pi.jpg
-featured: true
-categories: Toolcard
+featured: false
+categories: Toolcard edulabsBE
 twitter_large_img: /assets/img/blog/2017/Oktober/Toolcard_Raspberry Pi/Raspberry Pi.jpg
 image: /assets/img/blog/2017/Oktober/Toolcard_Raspberry Pi/Raspberry Pi.jpg
 header_background: /assets/img/blog/2017/Oktober/Toolcard_Raspberry Pi/Raspberry Pi.jpg
