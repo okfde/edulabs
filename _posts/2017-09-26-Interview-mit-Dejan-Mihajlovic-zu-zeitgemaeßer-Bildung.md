@@ -6,8 +6,8 @@ teaser: "„Momentan wird Bestehendes nur digitalisiert. Es wird wenig in Frage 
 teaser_img_src: /assets/img/blog/2017/Oktober/Interview_Dejan/Dejan Mihajlovic.jpg
 featured: true
 categories: Interviews
-twitter_large_img: /assets/img/blog/2017/Oktober/Interview_Dejan/Dejan Mihajlovic.jpg
-image: /assets/img/blog/2017/Oktober/Interview_Dejan/Dejan Mihajlovic.jpg
+twitter_large_img: /assets/img/blog/2017/Oktober/Interview_Dejan/Dejan_twitter.jpg
+image: /assets/img/blog/2017/Oktober/Interview_Dejan/Dejan_twitter.jpg
 header_background: /assets/img/blog/2017/Oktober/Interview_Dejan/Dejan Mihajlovic.jpg
 header_background_caption: "Bild: Dejan Mihajlovic. Lizenz: <a href='https://creativecommons.org/licenses/by/4.0/'>CC-BY 4.0</a>"
 author: Maximilian Voigt
