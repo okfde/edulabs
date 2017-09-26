@@ -53,10 +53,10 @@ Letztendlich weiß niemand, was in Zukunft alles wichtig ist. Es gibt diese Unsi
 Ich tappe selber im Dunkeln und handele nach dem Trial and Error Prinzip. Natürlich macht es Sinn, bestimmte Ziele abzustecken und ein Basiswissen zu definieren. Langfristig werden aber viele althergebrachte Unterrichtsinhalte verschwinden. Ich bin der festen Überzeugung, dass, wenn wir den Schulen freie Hand lassen würden, sie einen super Job machen würden.
 
 <!-- include quote -->
-{% include partials/content/content-quote.liquid float="right" content="„...es braucht Räume, in dessen Rahmen zeitgemäße Bildung erfahren werden kann, damit ein Umdenken entsteht.“" %}
+{% include partials/content/content-quote.liquid float="right" content="„...es braucht Räume, in denen zeitgemäße Bildung erfahren werden kann, damit ein Umdenken entsteht.“" %}
 
 **Bei edulabs geht es um konkrete und freie Bildungsmaterialien, mit denen zeitgemäße Bildung gelingen kann. Kannst du für deine Unterrichtsfächer besondere Materialien oder Konzepte empfehlen?**<br> 
-Ich glaube nicht, dass es mit Inhaltlichem funktioniert. Sondern es braucht Räume, in dessen Rahmen zeitgemäße Bildung erfahren werden kann, damit ein Umdenken entsteht. Das sind beispielsweise unsere Barcamps, in denen ich die Erfahrung gemacht habe, dass sie sehr viel auslösen. Mein aktueller Ansatz ist also, Lehrende, die mit dem zeitgemäßen Bildungsansatz noch nicht so viel anfangen können, in zeitgemäße Unterrichtssituationen zu bringen. 
+Ich glaube nicht, dass es mit Inhaltlichem funktioniert. Sondern es braucht Räume, in denen zeitgemäße Bildung erfahren werden kann, damit ein Umdenken entsteht. Das sind beispielsweise unsere Barcamps, in denen ich die Erfahrung gemacht habe, dass sie sehr viel auslösen. Mein aktueller Ansatz ist also, Lehrende, die mit dem zeitgemäßen Bildungsansatz noch nicht so viel anfangen können, in zeitgemäße Unterrichtssituationen zu bringen. 
 
 **Wann kommen dann [OER](https://de.wikipedia.org/wiki/Open_Educational_Resources) zum Einsatz?**<br>
 Als erstes muss ein Umdenken stattfinden, ein sich Lösen von den bisherigen Strukturen. Der zweite Schritt ist dann, dass die Notwendigkeit erkannt wird und daraus der Wille entsteht, etwas zu ändern. Erst wenn die beiden vorherigen Prozesse durchlaufen wurden, können zeitgemäße Bildungsmaterialien zum Einsatz kommen.<br>
