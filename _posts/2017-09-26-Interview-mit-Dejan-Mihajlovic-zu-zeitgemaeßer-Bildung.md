@@ -69,5 +69,3 @@ Ein Beispiel, was ich gerne bringe, ist Snapchat Storytelling. Dazu habe ich auc
 <a class="external-link" href="https://mihajlovicfreiburg.com/2017/04/18/kommunikation-kollaboration-kreativitaet-und-kritisches-denken-mehr-als-buzzwords/" target="_blank">Zu den vier Kompetenzen: Kommunikation, Kollaboration, Kreativität und kritisches Denken</a>
 <a class="external-link" href="https://mihajlovicfreiburg.com/2017/09/08/was-ist-zeitgemaesse-bildung/" target="_blank">Was ist zeitgemäße Bildung?</a>
 </p>
-
-
