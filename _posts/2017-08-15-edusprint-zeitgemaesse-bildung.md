@@ -32,5 +32,4 @@ Die [OKF](https://www.okfn.de) und [mediale pfade](http://www.medialepfade.org/)
 # Anmeldung: Wer macht mit?
 Möchtet ihr bei der OER-Sammlung mitmachen und zeitgemäße Bildung voranbringen? Für den ersten edusprint suchen wir 10-15 engagierte Teilnehmer*innen, mit Praxiserfahrung im Bereich digital gestützter Bildung in Schule, Medienpädagogik oder Lehrerfortbildung.
 
-Bitte tragt euch bis zum 31.8. in das folgende Formular ein. Wir stellen daraufhin die Gruppe zusammen und versenden die Einladungen innerhalb einer Woche.
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScPlm7DkEqX-TR39qIW9ee-QBhb3qu_IAHm5QkyWDYp_wDFgQ/viewform?embedded=true" width="100%" height="1600px" frameborder="no" scrolling="auto" marginheight="0" marginwidth="0">Loading...</iframe>
+*Die Anmeldung für dieses Event ist leider bereits abgelaufen. Wir planen bereits weitere edusprints, um die Sammlung zu erweitern, unter anderem in Rahmen des [educamps Hattingen](https://echat17.educamps.org/) und des [OER Camps](http://www.oercamp.de/17/ost/).*
