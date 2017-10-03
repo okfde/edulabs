@@ -36,7 +36,7 @@ exclude:
   - commands.txt
   - start_serve.bat
   - start_watch.bat
-#  - dw.html
+    #  - dw.html
 
 # Assets
 #
@@ -53,6 +53,9 @@ collections:
   labs:
     output: true
     permalink: /:collection/:name
+  dw:
+    output: true
+    permalink: /dw/:title
   project:
     output: true
     permalink: /projects/:title/index.html
@@ -71,7 +74,6 @@ defaults:
      path: "_project-edit"
    values:
      layout: add-project
-
 
 repository: 'okfde/edulabs'
 

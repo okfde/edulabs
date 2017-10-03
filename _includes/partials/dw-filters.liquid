@@ -1,0 +1,26 @@
+{% assign posts = site.dw | where: include.type, include.theme_num %}
+
+{% assign rawcategories = "" %}
+{% for post in posts %}
+    {% assign post_categories = post.tags | join:'|' | append:'|' %}
+    {% assign rawcategories = rawcategories | append:post_categories %}
+{% endfor %}
+{% assign rawcategories = rawcategories | split:'|' | sort %}
+
+{% assign categories = "" %}
+{% for category in rawcategories %}
+    {% if category != "" %}
+        {% if categories == "" %}
+            {% assign categories = category %}
+        {% endif %}
+        {% unless categories contains category %}
+            {% assign categories = categories | join:'|' | append:'|' | append:category | split:'|' %}
+        {% endunless %}
+    {% endif %}
+{% endfor %}
+<h4 class="filter-items-headline">NACH KATEGORIE FILTERN:</h4>
+<div class="filter-items-inner col-xs-24">
+    {% for cat in categories %}
+    <a href="/" data-filter=".{{ cat | replace:"#","" }}" class="filter-item">{{ cat }}</a>
+    {% endfor %}
+</div>

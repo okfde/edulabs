@@ -1,0 +1,198 @@
+{% if include.new %}
+  {% assign redirect = '{{site.url}}' %}
+  {% assign project_title = '' %}
+{% else %}
+  {% capture redirect %}{{site.url}}/projects/{{page.slug}}{% endcapture %}
+  {% assign editable = 'readonly' %}
+  {% assign project_title = page.title %}
+'', 'author-name', 'author-email', 'author-website', 'tags', 'link']
+
+  {% assign project_art = page.art %}
+  {% assign project_kmk = page.kmk %}
+  {% assign project_fach = page.fach %}
+  {% assign project_medien = page.medien %}
+  {% assign project_desc = page.desc %}
+  {% assign project_tipp = page.tipp %}
+  {% assign project_long-fach = page.long-fach %}
+  {% assign project_zielgruppe = page.zielgruppe %}
+  {% assign project_lizenz = page.lizenz %}
+  {% assign project_dauer = page.dauer %}
+  {% assign project_vorbereitungszeit = page.vorbereitungszeit %}
+  {% assign project_author-name = page.author-name %}
+  {% assign project_author-email = page.author-email %}
+  {% assign project_author-website = page.author-website %}
+  {% assign project_tags = page.tags %}
+  {% assign project_link = page.link %}
+
+{% endif %}
+<div class="row">
+    <section class="section first white col-xs-24">
+        <div class="content-wrap">
+            <!-- <h2 class="section-headline">Projekte</h2> -->
+            <!--    <p>Von der Idee zum Projekt: In den edulabs entwickeln Teams zusammen Projekte für zeitgemäße Bildung. Projektideen sammeln wir zuerst im <a href="https://hackdash.org/dashboards/edulabs">edulabs Hackdash</a>. Hat sich eine Arbeitsgruppe gefunden, wird diese sowie das Vorhaben im Folgenden aufgeführt.</p> -->
+        </div>
+        <div class="row content-wrap">
+          <form id="edit-project-form" class="form" method="post" action="{{ site.staticman_server }}/v2/entry/{{ site.repository }}/{{ site.staticman.branch }}/projects">
+
+            <!-- Materialempfehlung -->
+            <fieldset>
+              <label for="project-form-lab"><strong>Lab</strong> <span class="required">*</span></label>
+              <select name="fields[art]" required>
+                <option value="oer" {% if project_art == "oer" %}selected{% endif %}>Materialempfehlung (OER)</option>
+                <option value="noer" {% if project_art == "noer" %}selected{% endif %}>Verweis auf Blogartikel (nicht nur OER)</option>
+              </select>
+            </fieldset>
+
+            <!-- Aussagekräftiger Titel -->
+            <fieldset>
+              <label for="project-form-name"><strong>Aussagekräftiger Titel</strong> <span class="required">*</span></label>
+              <input type="text" id="project-form-name" name="fields[titel]" value="{{ project_titel }}" spellcheck="false" {{editable}}/>
+            </fieldset>
+
+            <!-- Wirkung / Lernziele  -->
+            <fieldset>
+              <label for="project-form-lernziele"><strong>Wirkung / Lernziele</strong> <span class="required">*</span></label>
+              <textarea type="text" rows="6" id="project-form-lernziele" name="fields[lernziele]" spellcheck="true">{{ project_lernziele }}</textarea>
+            </fieldset>
+
+            <!-- Persönliche Empfehlung / Tipp  -->
+            <fieldset>
+              <label for="project-form-tipp"><strong>Persönliche Empfehlung / Tipp</strong> <span class="required">*</span></label>
+              <textarea type="text" rows="6" id="project-form-tipp" name="fields[tipp]" spellcheck="true">{{ project_tipp }}</textarea>
+            </fieldset>
+
+            <!-- Medieneinsatz -->
+            <fieldset>
+              <label for="project-form-medien"><strong> Medieneinsatz</strong> <span class="required">*</span></label>
+                <br>
+                {% for medien in site.data.digitalen_welt.medieneinsatz %}
+                  <input name="fields[medien]" type="checkbox" value="{{ medien.name }}" {% if project_medien == medien %}selected{% endif %}>{{ medien.name }}
+                  <br>
+                {% endfor %}
+            </fieldset>
+
+            <!-- Fachbereich -->
+            <fieldset>
+              <label for="project-form-fach"><strong>  Fachbereich</strong> <span class="required">*</span></label>
+                <br>
+                {% for fach in site.data.digitalen_welt.fachergruppen %}
+                  <input name="fields[fach]" type="checkbox" value="{{ fach.name }}" {% if project_fach == medien %}selected{% endif %}>{{ fach.name }}
+                  <br>
+                {% endfor %}
+            </fieldset>
+
+            <!-- Zielgruppe -->
+            <fieldset>
+              <label for="project-form-ach"><strong>  Fachbereich</strong> <span class="required">*</span></label>
+                <br>
+                  <input name="fields[zielgruppe]" type="checkbox" value="Kita/Vorschule">Kita/Vorschule
+                <br>
+                  <input name="fields[zielgruppe]" type="checkbox" value="Grundstufe (1-3)">Grundstufe (1-3)
+                <br>
+                   <input name="fields[zielgruppe]" type="checkbox" value="Grundstufe (4-6)">Grundstufe (4-6)
+                <br>
+                   <input name="fields[zielgruppe]" type="checkbox" value="Sekundarstufe 1">Sekundarstufe 1
+                <br>
+                   <input name="fields[zielgruppe]" type="checkbox" value="Sekundarstufe 2">Sekundarstufe 2
+                <br>
+            </fieldset>
+
+            <!-- Lizenz des Materials -->
+            <fieldset>
+              <label for="project-form-lizenz"><strong>Lizenz des Materials</strong> <span class="required">*</span></label>
+              <select name="fields[lizenz]" required>
+                <option value="CC0" {% if project_lizenz == "CC0" %}selected{% endif %}>CC0</option>
+                <option value="CC-BY" {% if project_lizenz == "CC-BY" %}selected{% endif %}>CC-BY</option>
+                <option value="CC-BY-SA" {% if project_lizenz == "CC-BY-SA" %}selected{% endif %}>CC-BY-SA</option>
+                <option value="Andere Lizenz" {% if project_lizenz == "Andere Lizenz" %}selected{% endif %}>Andere Lizenz</option>
+              </select>
+            </fieldset>
+
+            <!-- Dauer -->
+            <fieldset>
+              <label for="project-form-dauer"><strong>dauer des Materials</strong> <span class="required">*</span></label>
+              <select name="fields[dauer]" required>
+                <option value="mehrtägiges Projekt" {% if project_dauer == "mehrtägiges Projekt" %}selected{% endif %}>mehrtägiges Projekt</option>
+                <option value="Unterrichtsreihe" {% if project_dauer == "Unterrichtsreihe" %}selected{% endif %}>Unterrichtsreihe</option>
+                <option value="Doppelstunde" {% if project_dauer == "Doppelstunde" %}selected{% endif %}>Doppelstunde</option>
+                <option value="45 Minuten" {% if project_dauer == "45 Minuten" %}selected{% endif %}>45 Minuten</option>
+                <option value="Übun (bis zu 20 min)" {% if project_dauer == "Übun (bis zu 20 min)" %}selected{% endif %}>Übun (bis zu 20 min)</option>
+              </select>
+            </fieldset>
+
+            <!-- Short Text -->
+            <fieldset>
+              <label for="project-form-short-description"><strong>Kurzbeschreibung</strong><span class="required"> *</span><br><span id="project-form-short-description-left">(noch 500 Zeichen)</span></label>
+              <textarea type="text" rows="6" id="project-form-short-description" name="fields[short-desc]" spellcheck="true">{{ project_text }}</textarea>
+            </fieldset>
+
+            <!-- Link  -->
+            <fieldset>
+              <label for="project-form-link"><strong>Link</strong><br></label>
+              <input type="text" id="project-form-link" name="fields[link]" value="{{ project_link }}" spellcheck="false"/>
+            </fieldset>
+
+            <!-- Tool Author -->
+            <fieldset>
+              <strong>Author</strong>
+                    <br>{% for author in page.author-name %}
+                         {% if forloop.length == 1 %}
+                           {% assign author_name = author %}
+                           {% assign author_email = page.author-email %}
+                         {% else %}
+                           {% assign author_name = author %}
+                           {% assign author_email = page.author-email[forloop.index0] %}
+                         {% endif %}
+                        <label for="project-form-author-name"><strong>Name</strong> <span class="required">*</span></label>
+                        <input type="text" id="project-form-author-name" name="fields[author-name]" value="{{ author_name }}" spellcheck="false"/>
+                        <label for="project-form-author-email"><strong>Email</strong> <span class="required">*</span></label>
+                        <input type="text" id="project-form-author-email" name="fields[author-email]" value="{{ author_email }}" spellcheck="false"/>
+                    {% endfor %}
+                    {% if include.new %}
+                    <div class="contacts">
+                          <label for="project-form-author-name"><strong>Name</strong> <span class="required">*</span></label>
+                          <input type="text" id="project-form-author-name" name="fields[author-name]" value="{{ project_author_name  }}" spellcheck="false"/>
+                          <label for="project-form-author-email"><strong>Email</strong> <span class="required">*</span></label>
+                          <input type="text" id="project-form-author-email" name="fields[author-email]" value="{{ project_author_email  }}" spellcheck="false"/>
+                      </div>
+                    {% endif %}
+                    <p>
+                    <button type="button" class="edu-btn small black" onclick="$('#contact-template').children().clone().appendTo('.contacts')">+ Kontakt hinzufügen</button>
+                    </p>
+                    <br/>
+            </fieldset>
+
+            <fieldset class="hidden" style="display:none;">
+              <input type="hidden" name="options[origin]" value="{{ page.url | absolute_url }}">
+              <label for="comment-form-location">Leave blank if you are a human</label>
+              <input id="spam_info" type="hidden" name="fields[human]" value="false">
+              <input id="redirect_url" type="hidden" name="options[redirect]" value="{{ redirect }}">
+            </fieldset>
+
+            <p class="hidden js-notice">
+              <span class="js-notice-text"></span>
+            </p>
+            <!-- End comment form alert messaging -->
+            <fieldset>
+              <button type="submit" id="comment-form-submit" class="edu-btn black">Projekte senden</button>
+            </fieldset>
+      </form>
+      <div id="edit-project-form-submit"></div>
+      <div id="project-submit-message" style="display: none">
+        <h2>Vielen Dank, dass du dein Projekt veröffentlicht hast.<h2>
+            <p>
+            Nach einer kurzen Sichtung, wird es für edulabs.de freigeschaltet und abrufbar sein. Um mit der Community in Kontakt zu treten und für dein Projekt zu werben steht die edulabs Mailingliste zur Verfügung:</p>
+            <div class="content-wrap btn-wrap">
+                <a class="edu-btn black" href="https://listen.jpberlin.de/mailman/listinfo/edulabs" target="_blank">zur Mailingliste</a>
+            </div>
+      </div>
+      <div id="contact-template" style="display: none">
+        <label for="project-form-author-name"><strong>Name</strong> <span class="required">*</span></label>
+        <input type="text" id="project-form-author-name" name="fields[author-name]" value="" spellcheck="false"/>
+        <label for="project-form-author-email"><strong>Email</strong> <span class="required">*</span></label>
+        <input type="text" id="project-form-author-email" name="fields[author-email]" value="" spellcheck="false"/>
+      </div>
+      </div>
+    </section>
+</div>
+
