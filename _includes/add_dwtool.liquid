@@ -46,7 +46,7 @@
             <!-- Aussagekräftiger Titel -->
             <fieldset>
               <label for="project-form-name"><strong>Aussagekräftiger Titel</strong> <span class="required">*</span></label>
-              <input type="text" id="project-form-name" name="fields[titel]" value="{{ project_titel }}" spellcheck="false" {{editable}}/>
+              <input type="text" id="project-form-name" name="fields[title]" value="{{ project_titel }}" spellcheck="false" {{editable}}/>
             </fieldset>
 
             <!-- Wirkung / Lernziele  -->
@@ -80,6 +80,20 @@
                   <br>
                 {% endfor %}
             </fieldset>
+
+            {% assign long_fach = ["Deutsch", "Chemie", "Englisch", "Ethik", "Französisch", "Geschichte", "Informatik", "Kunst", "Mathe", "Musik", "Philosophie", "Physik", "Politik", "Religion", "Sachkunde", "SoWi", "Spanisch"] %}
+            <!-- Fach -->
+            <fieldset>
+              <label for="project-form-long-fach"><strong>  Fach</strong> <span class="required">*</span></label>
+                <br>
+                  <input name="fields[long-fach]" type="checkbox" value="{{ fach }}" {% if project_long-fach == fach %}selected{% endif %}>{{ fach }}
+
+                {% for fach in long_fach %}
+                  <input name="fields[long-fach]" type="checkbox" value="{{ fach }}" {% if project_long-fach == fach %}selected{% endif %}>{{ fach }}
+                  <br>
+                {% endfor %}
+            </fieldset>
+
 
             <!-- Zielgruppe -->
             <fieldset>
@@ -123,7 +137,7 @@
             <!-- Short Text -->
             <fieldset>
               <label for="project-form-short-description"><strong>Kurzbeschreibung</strong><span class="required"> *</span><br><span id="project-form-short-description-left">(noch 500 Zeichen)</span></label>
-              <textarea type="text" rows="6" id="project-form-short-description" name="fields[short-desc]" spellcheck="true">{{ project_text }}</textarea>
+              <textarea type="text" rows="6" id="project-form-short-description" name="fields[desc]" spellcheck="true">{{ project_text }}</textarea>
             </fieldset>
 
             <!-- Link  -->
@@ -139,21 +153,27 @@
                          {% if forloop.length == 1 %}
                            {% assign author_name = author %}
                            {% assign author_email = page.author-email %}
+                           {% assign author_website = page.author-website %}
                          {% else %}
                            {% assign author_name = author %}
                            {% assign author_email = page.author-email[forloop.index0] %}
+                           {% assign author_website = page.author-website[forloop.index0] %}
                          {% endif %}
                         <label for="project-form-author-name"><strong>Name</strong> <span class="required">*</span></label>
                         <input type="text" id="project-form-author-name" name="fields[author-name]" value="{{ author_name }}" spellcheck="false"/>
                         <label for="project-form-author-email"><strong>Email</strong> <span class="required">*</span></label>
                         <input type="text" id="project-form-author-email" name="fields[author-email]" value="{{ author_email }}" spellcheck="false"/>
-                    {% endfor %}
+                        <label for="project-form-author-website"><strong>Site</strong> <span class="required">*</span></label>
+                        <input type="text" id="project-form-author-website" name="fields[author-website]" value="{{ author_website }}" spellcheck="false"/>
+                         {% endfor %}
                     {% if include.new %}
                     <div class="contacts">
                           <label for="project-form-author-name"><strong>Name</strong> <span class="required">*</span></label>
                           <input type="text" id="project-form-author-name" name="fields[author-name]" value="{{ project_author_name  }}" spellcheck="false"/>
                           <label for="project-form-author-email"><strong>Email</strong> <span class="required">*</span></label>
                           <input type="text" id="project-form-author-email" name="fields[author-email]" value="{{ project_author_email  }}" spellcheck="false"/>
+                          <label for="project-form-author-website"><strong>Site</strong> <span class="required">*</span></label>
+                          <input type="text" id="project-form-author-website" name="fields[author-website]" value="" spellcheck="false"/>
                       </div>
                     {% endif %}
                     <p>
@@ -174,7 +194,7 @@
             </p>
             <!-- End comment form alert messaging -->
             <fieldset>
-              <button type="submit" id="comment-form-submit" class="edu-btn black">Projekte senden</button>
+              <button type="submit" id="comment-form-submit" class="edu-btn black">Senden</button>
             </fieldset>
       </form>
       <div id="edit-project-form-submit"></div>
@@ -191,6 +211,8 @@
         <input type="text" id="project-form-author-name" name="fields[author-name]" value="" spellcheck="false"/>
         <label for="project-form-author-email"><strong>Email</strong> <span class="required">*</span></label>
         <input type="text" id="project-form-author-email" name="fields[author-email]" value="" spellcheck="false"/>
+        <label for="project-form-author-website"><strong>Site</strong> <span class="required">*</span></label>
+        <input type="text" id="project-form-author-website" name="fields[author-website]" value="" spellcheck="false"/>
       </div>
       </div>
     </section>

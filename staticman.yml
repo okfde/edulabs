@@ -44,7 +44,7 @@ dw:
   format            : "frontmatter"
   moderation        : true
   path              : "_dw"
-  requiredFields    :  ['title', 'art', 'kmk', 'fach', 'medien', 'desc', 'lernziele', 'tipp', 'long-fach', 'zielgruppe', 'lizenz', 'dauer', 'vorbereitungszeit', 'author-name', 'author-email', 'author-website']
+  requiredFields    :  ['title', 'art', 'fach', 'medien', 'desc', 'lernziele', 'tipp', 'zielgruppe', 'lizenz', 'dauer', 'author-name', 'author-email', 'author-website']
   transforms:
     content         : frontmatterContent
   generatedFields:
