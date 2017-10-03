@@ -12,9 +12,21 @@ permalink: /dw/
         <!-- filters -->
         <div class="content-wrap filter-items green">
         </div>
-        <!-- blog teasers -->
         <div class="themes-menu col-xs-4">
+          <div class="filter-facher">
+            <h3>Fächergruppen</h3>
+          {% for gruppe in site.data.digitalen_welt.fachergruppen %}
+          <div class="facher-item">{{ gruppe.name }}</div>
+          {% endfor %}
+          </div>
+          <div class="filter-medien">
+            <h3>Medieneinsatz</h3>
+          {% for media in site.data.digitalen_welt.medieneinsatz %}
+          <div class="facher-item">{{ media.name }}</div>
+          {% endfor %}
+          </div>
           <div class="menu">
+            <h3>Digitale Kompetenzen</h3>
           {% for theme in site.data.digitalen_welt.themes %}
           <div class="theme menu-button edu-btn black" onclick="$('.subtheme-{{forloop.index}}').slideToggle();">{{ theme.name }}
             <div class="subtheme-{{forloop.index}} grey-light subtheme" style="display: none">
