@@ -7,9 +7,34 @@
         <div class="teaser-content blog-teaser-content">
             <h3 class="teaser-headline">{{ include.headline }}</h3>
             {{ include.desc }}
+
+            {% assign lfachbereich = include.fachbereich  %}
+            <p><strong>Fachbereicht:</strong>
+            {% for f in lfachbereich %}
+              {% if site.data.digitalen_welt.long-fach[f] %}
+              {{ site.data.digitalen_welt.long-fach[f] }}{% if forloop.last == false %}, {% endif %}
+              {% endif %}
+            {% endfor %}
+
+            {% assign lfach = include.fach | split: " " %}
+            <p><strong>Fach:</strong>
+            {% for f in lfach %}
+              {% if site.data.digitalen_welt.fachergruppen-dict[f] %}
+              {{ site.data.digitalen_welt.fachergruppen-dict[f] }}{% if forloop.last == false %}, {% endif %}
+              {% endif %}
+            {% endfor %}
+
+            <p><strong>Zielgruppe:</strong>
+            {% for z in include.zielgruppe %}
+              {% if site.data.digitalen_welt.zielgruppe[z] %}
+              {{ site.data.digitalen_welt.zielgruppe[z] }}{% if forloop.last == false %}, {% endif %}
+              {% endif %}
+            {% endfor %}
+
             {% if include.categories %}
             <span class="teaser-cats">{{ include.categories }}</span>
             {% endif %}
+
             <div class="teaser-arrow has-arrow"></div>
         </div>
     </a>
