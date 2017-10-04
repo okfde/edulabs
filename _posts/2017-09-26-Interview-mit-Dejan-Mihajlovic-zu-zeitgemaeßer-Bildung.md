@@ -4,7 +4,7 @@ layout: post
 title: "Was ist zeitgemäße Bildung?"
 teaser: "„Momentan wird Bestehendes nur digitalisiert. Es wird wenig in Frage gestellt.“ - Dejan Mihajlovic im Interview"
 teaser_img_src: /assets/img/blog/2017/Oktober/Interview_Dejan/Dejan Mihajlovic.jpg
-featured: true
+featured: false
 categories: Interviews
 twitter_large_img: /assets/img/blog/2017/Oktober/Interview_Dejan/Dejan_twitter.jpg
 image: /assets/img/blog/2017/Oktober/Interview_Dejan/Dejan_twitter.jpg
