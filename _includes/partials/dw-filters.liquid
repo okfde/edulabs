@@ -10,11 +10,12 @@
 {% assign categories = "" %}
 {% for category in rawcategories %}
     {% if category != "" %}
+        {% assign cat = category | remove: "," %}
         {% if categories == "" %}
-            {% assign categories = category %}
+            {% assign categories = cat %}
         {% endif %}
-        {% unless categories contains category %}
-            {% assign categories = categories | join:'|' | append:'|' | append:category | split:'|' %}
+        {% unless categories contains cat %}
+            {% assign categories = categories | join:'|' | append:'|' | append:cat | split:'|' %}
         {% endunless %}
     {% endif %}
 {% endfor %}

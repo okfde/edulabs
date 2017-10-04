@@ -14,14 +14,19 @@
     {% assign posts = site.dw %}
     {% endif %}
     {% for post in posts %}
-      {% assign categories = post.tags | join:', ' %}
-      {% if categories %}
-          {% assign categories = "#" | append:categories %}
+      {% if post.tags %}
+          {% assign categories = "#" %}
+          {% assign filter = '' %}
+          {% for tag in post.tags %}
+             {% assign t = tag | remove:',' %}
+             {% assign categories = categories | append: tag | append: ' ' %}
+             {% assign filter = filter | append: t | append: ' ' %}
+          {% endfor %}
       {% endif %}
       {% assign fach = post.fach | join:' ' %}
       {% assign medien = post.medien | join:' ' %}
       {% assign kmk = post.kmk | join:' ' %}
-      {% include partials/dw/dw-teaser.liquid date=post.date zielgruppe=post.zielgruppe fachbereich=post.long-fach kmk=kmk fach=fach medien=medien featured=post.featured url=post.url filter=post.tags desc=post.desc categories=categories src=post.teaser_img_src headline=post.title copy=post.teaser %}
-
+      {% assign tags = post.tags | split:',' | join:' ' %}
+      {% include partials/dw/dw-teaser.liquid date=post.date zielgruppe=post.zielgruppe fachbereich=post.long-fach kmk=kmk fach=fach medien=medien featured=post.featured url=post.url filter=filter desc=post.desc categories=categories src=post.teaser_img_src headline=post.title copy=post.teaser %}
     {% endfor %}
 </div>

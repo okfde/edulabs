@@ -1,7 +1,7 @@
 ---
 title:  "Teste 2"
 kmk: 2
-tags: Ex UHU
+tags: Ex, UHU
 
 ---
 Teste
