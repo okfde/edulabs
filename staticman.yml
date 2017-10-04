@@ -46,7 +46,7 @@ dw:
   path              : "_dw"
   requiredFields    :  ['title', 'art', 'fach', 'medien', 'desc', 'lernziele', 'tipp', 'zielgruppe', 'lizenz', 'dauer', 'author-name', 'author-email', 'author-website']
   transforms:
-    content         : frontmatterContent
+    desc         : frontmatterContent
   generatedFields:
     date:
       type          : "date"

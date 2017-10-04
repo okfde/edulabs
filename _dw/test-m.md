@@ -5,7 +5,7 @@ title: test
 lernziele: another
 tipp: teer
 medien:
-  - medien-1
+  - medien-2
 fach:
   - fach-1
   - fach-3

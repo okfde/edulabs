@@ -2,11 +2,9 @@
   {% assign redirect = '{{site.url}}' %}
   {% assign project_title = '' %}
 {% else %}
-  {% capture redirect %}{{site.url}}/projects/{{page.slug}}{% endcapture %}
+  {% capture redirect %}{{site.url}}/dw/{{page.slug}}{% endcapture %}
   {% assign editable = 'readonly' %}
   {% assign project_title = page.title %}
-'', 'author-name', 'author-email', 'author-website', 'tags', 'link']
-
   {% assign project_art = page.art %}
   {% assign project_kmk = page.kmk %}
   {% assign project_fach = page.fach %}
@@ -32,11 +30,11 @@
             <!--    <p>Von der Idee zum Projekt: In den edulabs entwickeln Teams zusammen Projekte für zeitgemäße Bildung. Projektideen sammeln wir zuerst im <a href="https://hackdash.org/dashboards/edulabs">edulabs Hackdash</a>. Hat sich eine Arbeitsgruppe gefunden, wird diese sowie das Vorhaben im Folgenden aufgeführt.</p> -->
         </div>
         <div class="row content-wrap">
-          <form id="edit-project-form" class="form" method="post" action="{{ site.staticman_server }}/v2/entry/{{ site.repository }}/{{ site.staticman.branch }}/projects">
+          <form id="edit-project-form" class="form" method="post" action="{{ site.staticman_server }}/v2/entry/{{ site.repository }}/dw2/dw">
 
             <!-- Materialempfehlung -->
             <fieldset>
-              <label for="project-form-lab"><strong>Lab</strong> <span class="required">*</span></label>
+              <label for="project-form-art"><strong>Materialempfehlung</strong> <span class="required">*</span></label>
               <select name="fields[art]" required>
                 <option value="oer" {% if project_art == "oer" %}selected{% endif %}>Materialempfehlung (OER)</option>
                 <option value="noer" {% if project_art == "noer" %}selected{% endif %}>Verweis auf Blogartikel (nicht nur OER)</option>
@@ -47,6 +45,12 @@
             <fieldset>
               <label for="project-form-name"><strong>Aussagekräftiger Titel</strong> <span class="required">*</span></label>
               <input type="text" id="project-form-name" name="fields[title]" value="{{ project_titel }}" spellcheck="false" {{editable}}/>
+            </fieldset>
+
+            <!-- Short Text -->
+            <fieldset>
+              <label for="project-form-short-description"><strong>Kurzbeschreibung</strong><span class="required"> *</span><br><span id="project-form-short-description-left">(noch 500 Zeichen)</span></label>
+              <textarea type="text" rows="6" id="project-form-short-description" name="fields[desc]" spellcheck="true">{{ project_text }}</textarea>
             </fieldset>
 
             <!-- Wirkung / Lernziele  -->
@@ -66,7 +70,7 @@
               <label for="project-form-medien"><strong> Medieneinsatz</strong> <span class="required">*</span></label>
                 <br>
                 {% for medien in site.data.digitalen_welt.medieneinsatz %}
-                  <input name="fields[medien]" type="checkbox" value="{{ medien.name }}" {% if project_medien == medien %}selected{% endif %}>{{ medien.name }}
+                  <input name="fields[medien]" type="checkbox" value="medien-{{ foorloop.index }}" {% if project_medien == medien %}selected{% endif %}>{{ medien.name }}
                   <br>
                 {% endfor %}
             </fieldset>
@@ -76,38 +80,49 @@
               <label for="project-form-fach"><strong>  Fachbereich</strong> <span class="required">*</span></label>
                 <br>
                 {% for fach in site.data.digitalen_welt.fachergruppen %}
-                  <input name="fields[fach]" type="checkbox" value="{{ fach.name }}" {% if project_fach == medien %}selected{% endif %}>{{ fach.name }}
+                  <input name="fields[fach]" type="checkbox" value="fach-{{ foorloop.index }}" {% if project_fach == medien %}selected{% endif %}>{{ fach.name }}
                   <br>
                 {% endfor %}
             </fieldset>
 
-            {% assign long_fach = ["Deutsch", "Chemie", "Englisch", "Ethik", "Französisch", "Geschichte", "Informatik", "Kunst", "Mathe", "Musik", "Philosophie", "Physik", "Politik", "Religion", "Sachkunde", "SoWi", "Spanisch"] %}
+            {% assign long_fach = "Deutsch, Chemie, Englisch, Ethik, Französisch, Geschichte, Informatik, Kunst, Mathe, Musik, Philosophie, Physik, Politik, Religion, Sachkunde, SoWi, Spanisch" | split: "," %}
             <!-- Fach -->
             <fieldset>
               <label for="project-form-long-fach"><strong>  Fach</strong> <span class="required">*</span></label>
                 <br>
-                  <input name="fields[long-fach]" type="checkbox" value="{{ fach }}" {% if project_long-fach == fach %}selected{% endif %}>{{ fach }}
-
                 {% for fach in long_fach %}
-                  <input name="fields[long-fach]" type="checkbox" value="{{ fach }}" {% if project_long-fach == fach %}selected{% endif %}>{{ fach }}
+                  <input name="fields[long-fach]" type="checkbox" value="long-fach-{{ foorloop.index }}" {% if project_long-fach == fach %}selected{% endif %}>{{ fach }}
                   <br>
                 {% endfor %}
             </fieldset>
 
+            <!-- KMK -->
+            <fieldset>
+              <label for="project-form-kmk"><strong>Digitale Kompetenzen (KMK)</strong> <span class="required">*</span></label>
+                <br>
+                {% for theme in site.data.digitalen_welt.themes %}
+                  {%  capture theme_level %}{{ forloop.index }}{% endcapture %}
+                  <h4>{{ theme.name }}</h4>
+                  {% for subtheme in theme.subthemes %}
+                    <input name="fields[kmk]" type="checkbox" value="kmk-{{ theme_level }}-{{ forloop.index }}" {% if project_kmk == kmk %}selected{% endif %}>{{ subtheme.name }}
+                    <br>
+                  {% endfor %}
+                {% endfor %}
+            </fieldset>
 
             <!-- Zielgruppe -->
             <fieldset>
-              <label for="project-form-ach"><strong>  Fachbereich</strong> <span class="required">*</span></label>
+              <label for="project-form-zielgruppe"><strong>  Fachbereich</strong> <span class="required">*</span></label>
                 <br>
-                  <input name="fields[zielgruppe]" type="checkbox" value="Kita/Vorschule">Kita/Vorschule
+                  <input name="fields[zielgruppe]" type="checkbox" value="zielgruppe-1">Kita/Vorschule
                 <br>
-                  <input name="fields[zielgruppe]" type="checkbox" value="Grundstufe (1-3)">Grundstufe (1-3)
+                  <input name="fields[zielgruppe]" type="checkbox" value="zielgruppe-2">Grundstufe (1-3)
                 <br>
-                   <input name="fields[zielgruppe]" type="checkbox" value="Grundstufe (4-6)">Grundstufe (4-6)
+                   <input name="fields[zielgruppe]" type="checkbox" value="zielgruppe-3">Grundstufe (4-6)
                 <br>
-                   <input name="fields[zielgruppe]" type="checkbox" value="Sekundarstufe 1">Sekundarstufe 1
+                   <input name="fields[zielgruppe]" type="checkbox" value="zielgruppe-4">Sekundarstufe 1
                 <br>
-                   <input name="fields[zielgruppe]" type="checkbox" value="Sekundarstufe 2">Sekundarstufe 2
+                   <input name="fields[zielgruppe]" type="checkbox" value="zielgruppe-5">Sekundarstufe 2
                 <br>
             </fieldset>
 
@@ -115,10 +130,10 @@
             <fieldset>
               <label for="project-form-lizenz"><strong>Lizenz des Materials</strong> <span class="required">*</span></label>
               <select name="fields[lizenz]" required>
-                <option value="CC0" {% if project_lizenz == "CC0" %}selected{% endif %}>CC0</option>
-                <option value="CC-BY" {% if project_lizenz == "CC-BY" %}selected{% endif %}>CC-BY</option>
-                <option value="CC-BY-SA" {% if project_lizenz == "CC-BY-SA" %}selected{% endif %}>CC-BY-SA</option>
-                <option value="Andere Lizenz" {% if project_lizenz == "Andere Lizenz" %}selected{% endif %}>Andere Lizenz</option>
+                <option value="lizenz-1" {% if project_lizenz == "lizenz-1" %}selected{% endif %}>CC0</option>
+                <option value="lizenz-2" {% if project_lizenz == "lizenz-2" %}selected{% endif %}>CC-BY</option>
+                <option value="lizenz-3" {% if project_lizenz == "lizenz-3" %}selected{% endif %}>CC-BY-SA</option>
+                <option value="lizenz-4" {% if project_lizenz == "lizenz-4" %}selected{% endif %}>Andere Lizenz</option>
               </select>
             </fieldset>
 
@@ -126,18 +141,25 @@
             <fieldset>
               <label for="project-form-dauer"><strong>dauer des Materials</strong> <span class="required">*</span></label>
               <select name="fields[dauer]" required>
-                <option value="mehrtägiges Projekt" {% if project_dauer == "mehrtägiges Projekt" %}selected{% endif %}>mehrtägiges Projekt</option>
-                <option value="Unterrichtsreihe" {% if project_dauer == "Unterrichtsreihe" %}selected{% endif %}>Unterrichtsreihe</option>
-                <option value="Doppelstunde" {% if project_dauer == "Doppelstunde" %}selected{% endif %}>Doppelstunde</option>
-                <option value="45 Minuten" {% if project_dauer == "45 Minuten" %}selected{% endif %}>45 Minuten</option>
-                <option value="Übun (bis zu 20 min)" {% if project_dauer == "Übun (bis zu 20 min)" %}selected{% endif %}>Übun (bis zu 20 min)</option>
+                <option value="dauer-1" {% if project_dauer == "dauer-1" %}selected{% endif %}>mehrtägiges Projekt</option>
+                <option value="dauer-2" {% if project_dauer == "dauer-2" %}selected{% endif %}>Unterrichtsreihe</option>
+                <option value="dauer-3" {% if project_dauer == "dauer-3" %}selected{% endif %}>Doppelstunde</option>
+                <option value="dauer-4" {% if project_dauer == "dauer-4" %}selected{% endif %}>45 Minuten</option>
+                <option value="dauer-5" {% if project_dauer == "dauer-5" %}selected{% endif %}>Übun (bis zu 20 min)</option>
               </select>
             </fieldset>
 
-            <!-- Short Text -->
+            <!-- Vorbereitungszeit -->
             <fieldset>
-              <label for="project-form-short-description"><strong>Kurzbeschreibung</strong><span class="required"> *</span><br><span id="project-form-short-description-left">(noch 500 Zeichen)</span></label>
-              <textarea type="text" rows="6" id="project-form-short-description" name="fields[desc]" spellcheck="true">{{ project_text }}</textarea>
+              <label for="project-form-vorbereitungszeit"><strong>Vorbereitungszeit</strong> <span class="required">*</span></label>
+              <select name="fields[vorbereitungszeit]" required>
+                <option value="vorbereitungszeit-1" {% if project_vorbereitungszeit == "vorbereitungszeit-1" %}selected{% endif %}>keine</option>
+                <option value="vorbereitungszeitca-2" {% if project_vorbereitungszeit == "vorbereitungszeit-2" %}selected{% endif %}>ca 30 Minuten</option>
+                <option value="vorbereitungszeitca-3" {% if project_vorbereitungszeit == "vorbereitungszeit-3" %}selected{% endif %}>ca 60 Minuten</option>
+                <option value="vorbereitungszeitca-4" {% if project_vorbereitungszeit == "vorbereitungszeit-4" %}selected{% endif %}>ca 90 Minuten</option>
+                <option value="vorbereitungszeitca-5" {% if project_vorbereitungszeit == "vorbereitungszeit-5" %}selected{% endif %}>ca 4 Stunden</option>
+                <option value="vorbereitungszeitca-6" {% if project_vorbereitungszeit == "vorbereitungszeit-6" %}selected{% endif %}>ca 1 Tag</option>
+              </select>
             </fieldset>
 
             <!-- Link  -->
@@ -199,12 +221,9 @@
       </form>
       <div id="edit-project-form-submit"></div>
       <div id="project-submit-message" style="display: none">
-        <h2>Vielen Dank, dass du dein Projekt veröffentlicht hast.<h2>
+        <h2>
+            “Vielen Dank! Die Karte ist gespeichert und lässt sich nach Freigabe unter https://edulabs.de/dw/ bearbeiten” <h2>
             <p>
-            Nach einer kurzen Sichtung, wird es für edulabs.de freigeschaltet und abrufbar sein. Um mit der Community in Kontakt zu treten und für dein Projekt zu werben steht die edulabs Mailingliste zur Verfügung:</p>
-            <div class="content-wrap btn-wrap">
-                <a class="edu-btn black" href="https://listen.jpberlin.de/mailman/listinfo/edulabs" target="_blank">zur Mailingliste</a>
-            </div>
       </div>
       <div id="contact-template" style="display: none">
         <label for="project-form-author-name"><strong>Name</strong> <span class="required">*</span></label>

@@ -75,6 +75,12 @@ defaults:
    values:
      layout: add-project
 
+ -
+   scope:
+     path: "_dw"
+   values:
+     layout: post
+
 repository: 'okfde/edulabs'
 
 staticman:

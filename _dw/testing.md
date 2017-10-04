@@ -18,13 +18,13 @@ long-fach:
   - ' Geschichte'
   - ' Informatik'
 kmk:
-  - '1.1'
-  - '1.3'
-  - '2.3'
-  - '2.5'
-  - '3.2'
-  - '4.4'
-  - '6.1'
+  - kmk-1-1
+  - kmk-1-3
+  - kmk-2-3
+  - kmk-2-5
+  - kmk-3-2
+  - kmk-4-4
+  - kmk-6-1
 zielgruppe:
   - Kita/Vorschule
   - Sekundarstufe 1

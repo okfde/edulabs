@@ -8,14 +8,20 @@
 {% endif %}
     <div class="grid-sizer col-xs-24 col-sm-12 col-md-8 col-lg-6 col-xlg-4"></div>
     {{ include.type }}
+    {% if include.type %}
     {% assign posts = site.dw | where: include.type, include.theme_num %}
-
+    {% else %}
+    {% assign posts = site.dw %}
+    {% endif %}
     {% for post in posts %}
       {% assign categories = post.tags | join:', ' %}
       {% if categories %}
           {% assign categories = "#" | append:categories %}
       {% endif %}
-      {% include partials/blog/blog-teaser.liquid date=post.date featured=post.featured url=post.url filter=post.tags categories=categories src=post.teaser_img_src headline=post.title copy=post.teaser %}
+      {% assign fach = post.fach | join:' ' %}
+      {% assign medien = post.medien | join:' ' %}
+      {% assign kmk = post.kmk | join:' ' %}
+      {% include partials/dw/dw-teaser.liquid date=post.date kmk=kmk fach=fach medien=medien featured=post.featured url=post.url filter=post.tags desc=post.desc categories=categories src=post.teaser_img_src headline=post.title copy=post.teaser %}
 
     {% endfor %}
 </div>
