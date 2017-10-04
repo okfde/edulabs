@@ -70,7 +70,7 @@
               <label for="project-form-medien"><strong> Medieneinsatz</strong> <span class="required">*</span></label>
                 <br>
                 {% for medien in site.data.digitalen_welt.medieneinsatz %}
-                  <input name="fields[medien]" type="checkbox" value="medien-{{ foorloop.index }}" {% if project_medien == medien %}selected{% endif %}>{{ medien.name }}
+                  <input name="fields[medien]" type="checkbox" value="medien-{{ forloop.index }}" {% if project_medien == medien %}selected{% endif %}>{{ medien.name }}
                   <br>
                 {% endfor %}
             </fieldset>
@@ -80,7 +80,7 @@
               <label for="project-form-fach"><strong>  Fachbereich</strong> <span class="required">*</span></label>
                 <br>
                 {% for fach in site.data.digitalen_welt.fachergruppen %}
-                  <input name="fields[fach]" type="checkbox" value="fach-{{ foorloop.index }}" {% if project_fach == medien %}selected{% endif %}>{{ fach.name }}
+                  <input name="fields[fach]" type="checkbox" value="fach-{{ forloop.index }}" {% if project_fach == medien %}selected{% endif %}>{{ fach.name }}
                   <br>
                 {% endfor %}
             </fieldset>
@@ -91,7 +91,7 @@
               <label for="project-form-long-fach"><strong>  Fach</strong> <span class="required">*</span></label>
                 <br>
                 {% for fach in long_fach %}
-                  <input name="fields[long-fach]" type="checkbox" value="long-fach-{{ foorloop.index }}" {% if project_long-fach == fach %}selected{% endif %}>{{ fach }}
+                  <input name="fields[long-fach]" type="checkbox" value="long-fach-{{ forloop.index }}" {% if project_long-fach == fach %}selected{% endif %}>{{ fach }}
                   <br>
                 {% endfor %}
             </fieldset>
