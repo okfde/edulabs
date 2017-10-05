@@ -1,22 +1,22 @@
 ---
 
 layout: post
-title: "Hast du wirklich nichts zu verbergen?"
-teaser: "Jochim Selzer über Kryptographie und seine Pläne mit edulabs Köln/Bonn"
-teaser_img_src: /assets/img/blog/2017/Oktober/Interview_Jochim/cryptography.jpg
+title: "Über Kryptographie und wie man sie vermittelt"
+teaser: "Im Gespräch mit Jochim Selzer zum Thema Cryptoparty und zu seinen Pläne mit edulabs Köln/Bonn"
+teaser_img_src: /assets/img/blog/2017/Oktober/Interview_Jochim/Enigma-rotor.jpg
 featured: true
-categories: Interviews edulabsK/BN
-twitter_large_img: /assets/img/blog/2017/Oktober/Interview_Jochim/cryptography.jpg
-image: /assets/img/blog/2017/Oktober/Interview_Jochim/cryptography.jpg
-header_background: /assets/img/blog/2017/Oktober/Interview_Jochim/cryptography.jpg
-header_background_caption: "Bild: Lizenz: <a href='https://creativecommons.org/share-your-work/public-domain/cc0/'>CC0</a>"
+categories: Interviews edulabsKBN
+twitter_large_img: /assets/img/blog/2017/Oktober/Interview_Jochim/Enigma-rotor.jpg
+image: /assets/img/blog/2017/Oktober/Interview_Jochim/Enigma-rotor.jpg
+header_background: /assets/img/blog/2017/Oktober/Interview_Jochim/Enigma-rotor.jpg
+header_background_caption: "Bild: Walzenfenster der Enigma-M4. Von: <a href='https://en.wikipedia.org/wiki/User:Matt_Crypto'>Matt Crypto</a>. Lizenz: <a href='https://creativecommons.org/licenses/by/4.0/'>CC-BY 4.0</a>"
 author: Maximilian Voigt
 info_text: |
 
 ---
 <!-- include floated image -->
 {% include partials/content/content-float-image.liquid float="right"
-src="/assets/img/blog/2017/Oktober/Interview_Jochim/Selzer_Jochim-l-300x300.jpg" caption="Bild: Jochim Selzer. Lizenz: <a href='https://creativecommons.org/licenses/by/4.0/'>CC-BY 4.0" %}
+src="/assets/img/blog/2017/Oktober/Interview_Jochim/Selzer_Jochim-l-300x300.jpg" caption="Bild: Jochim Selzer. Lizenz: <a href='https://creativecommons.org/licenses/by/4.0/'>CC-BY 4.0</a>" %}
 
 *Jochim Selzer ist Datenschützer, Mitglied des [Chaos Computer Clubs](https://koeln.ccc.de/) und beruflich als Administrator tätig. Einmal im Monat veranstaltet er mit Engagierten [Cryptopartys in Bonn und Köln](https://www.cryptoparty.in/cryptopartykbn), um für das Thema Datenschutz zu werben und seine praktischen Erfahrungen weiterzugeben. Auch an Schulen hat er bereits Workshops angeboten und möchte jetzt Materialien entwickeln, mit denen auch Andere das Thema Datenschutz vermitteln können.*
 
