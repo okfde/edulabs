@@ -79,7 +79,7 @@ defaults:
    scope:
      path: "_dw"
    values:
-     layout: post
+     layout: dw-tool
 
 repository: 'okfde/edulabs'
 

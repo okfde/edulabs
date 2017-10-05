@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="description" content="">
+    <meta name="author" content="Rainbow Unicorn">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" type="image/x-icon" href="/assets/img/static/edulabs.ico">
+    {% if page.twitter_large_img %}
+    <meta name="twitter:card" content="summary_large_image" />
+    {% else %}
+    <meta name="twitter:card" content="summary" />
+    {% endif %}
+    <meta name="twitter:title" content="{{ page.title }}" />
+    <meta name="twitter:description" content="{{ page.teaser }}" />
+    {% if page.twitter_large_img %}
+    <meta name="twitter:image" content="{{ page.twitter_large_img }}" />
+    {% endif %}
+    {% if page.twitter_img %}
+    <meta name="twitter:image" content="{{ page.twitter_img }}" />
+    {% endif %}
+    <link rel="stylesheet" href="/assets/main.css">
+    {% seo %}
+    <!-- Piwik -->
+   <script type="text/javascript">
+       var _paq = _paq || [];
+       /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+       _paq.push(['trackPageView']);
+       _paq.push(['enableLinkTracking']);
+       (function() {
+           var u = "//piwik.okfn.de/";
+           _paq.push(['setTrackerUrl', u + 'piwik.php']);
+           _paq.push(['setSiteId', '35']);
+           var d = document,
+               g = d.createElement('script'),
+               s = d.getElementsByTagName('script')[0];
+           g.type = 'text/javascript';
+           g.async = true;
+           g.defer = true;
+           g.src = u + 'piwik.js';
+           s.parentNode.insertBefore(g, s);
+       })();
+   </script>
+   <!-- End Piwik Code -->
+</head>
+<body>
+{% include header.liquid %}
+{% raw %}
+<script id="search-results-template" type="text/mustache">
+  {{#entries}}
+    <article>
+      <h3>
+        {{#date}}<small><time datetime="{{pubdate}}" pubdate>{{displaydate}}</time></small>{{/date}}
+        <a href="{{url}}">{{title}}</a>
+      </h3>
+      {{#is_post}}
+      <ul>
+        {{#tags}}<li>{{.}} </li>{{/tags}}
+      </ul>
+      {{/is_post}}
+    </article>
+  {{/entries}}
+</script>
+{% endraw %}
+<div class="page-wrap">
+    <section id="search-results" style="display: none;"> </section>
+    <div class="row">
+        <section class="section first col-xs-24">
+            <div class="content-wrap subpage">
+                <h1 class="section-headline">{{ page.title }}</h1>
+                {% if page.author %}
+                <div class="blue post-author">{{ page.author }}</div>
+                {% endif %}
+            </div>
+           <div class="content-wrap subpage">
+                <h1 class="section-headline"></h1>
+            </div>
+            <div class="content-wrap subpage">
+                <div class="subpage-content">
+                    {{ page.desc }}
+                </div>
+
+            <br><strong>Fachbereicht:</strong>
+            {% for f in page.long-fach %}
+              {% if site.data.digitalen_welt.long-fach[f] %}
+              {{ site.data.digitalen_welt.long-fach[f] }}{% if forloop.last == false %}, {% endif %}
+              {% endif %}
+            {% endfor %}
+
+            <br><strong>Fach:</strong>
+            {% for f in page.fach %}
+              {% if site.data.digitalen_welt.fachergruppen-dict[f] %}
+              {{ site.data.digitalen_welt.fachergruppen-dict[f] }}{% if forloop.last == false %}, {% endif %}
+              {% endif %}
+            {% endfor %}
+
+            <br><strong>Zielgruppe:</strong>
+            {% for z in page.zielgruppe %}
+              {% if site.data.digitalen_welt.zielgruppe[z] %}
+              {{ site.data.digitalen_welt.zielgruppe[z] }}{% if forloop.last == false %}, {% endif %}
+              {% endif %}
+            {% endfor %}
+
+            <br><strong>Lizenz:</strong>
+                {{ site.data.digitalen_welt.lizenz[page.lizenz] }} 
+
+            {% if page.categories %}
+            <span class="teaser-cats">{{ page.categories }}</span>
+            {% endif %}
+
+            </div>
+            <!-- Newsletter -->
+            <div class="content-wrap btn-wrap">
+                <a class="edu-btn black" href="http://okfn.us5.list-manage.com/subscribe?u=929f1e07936386d34833e20d1&id=9ceae2ed43" target="_blank">Zum edulabs Newsletter</a>
+            </div>
+        </section>
+    </div>
+    <!-- include mitmachen section -->
+</div>
+{% include footer.liquid %}
