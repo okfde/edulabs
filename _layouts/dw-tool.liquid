@@ -133,7 +133,7 @@
             <br><strong>Empfehlungen und Tipps:<br></strong>
                 {{ page.tipp }}<br>
 
-            <br><strong>Erstellt von:</strong><br>
+            <br><strong>Empfohlen von:</strong><br>
             {% for author in page.author-name %}
                  {% if forloop.length == 1 %}
                  {{ author }}: <a href="mailto:{{ page.author-email }}">EMAIL</a> - <a href="{{ page.author-website }}">Website</a>
