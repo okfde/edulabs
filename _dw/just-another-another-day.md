@@ -1,16 +1,8 @@
 ---
-_id: b57926e0-a9ff-11e7-94e8-ff9d321444bf
+_id: 5b2a7430-aa1a-11e7-b4ec-6f5cc857b800
+title: Just Another Another Day
 art: noer
 titel: Just another another day
-desc: >-
-  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-  eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-  voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita
-  kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem
-  ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod
-  tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At
-  vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd
-  gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 link: 'http://edulabs.de'
 lernziele: >-
   Damit das Projekt gleich starten kann benutze einfach etwas Lorem ipsum -
@@ -41,12 +33,12 @@ kmk:
 zielgruppe: zielgruppe-2
 lizenz: lizenz-2
 dauer: dauer-1
-vorbereitungszeit: vorbereitungszeitca-3
+vorbereitungszeit: vorbereitungszeit-1
 author-name: Newton
 author-email: newton@physics.org
 author-website: newton.org
-tags: "education , computers , rain , jazz"
-date: '2017-10-05T19:02:19.632Z'
+tags: 'education,computers,rain,jazz'
+date: '2017-10-05T22:13:03.508Z'
 slug: just-another-another-day
 ---
-undefined
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
