@@ -1,7 +1,7 @@
 ---
 _id: bb16bc10-a9ba-11e7-94e8-ff9d321444bf
 art: oer
-title: Vom physikalischen Ereignis zum Datensatz - Workshop weiterentwickeln
+titel: Vom physikalischen Ereignis zum Datensatz - Workshop weiterentwickeln
 desc: hier steht eine kurzbeschreibung
 lernziele: das sind die lernziele
 tipp: das empfehle ich

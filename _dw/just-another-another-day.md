@@ -1,7 +1,7 @@
 ---
 _id: b57926e0-a9ff-11e7-94e8-ff9d321444bf
 art: noer
-title: Just another another day
+titel: Just another another day
 desc: >-
   Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
   eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam

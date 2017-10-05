@@ -1,5 +1,5 @@
 ---
-title:  "Titulo"
+titel:  "Titulo"
 art: oer
 kmk: 2
 fach: 1

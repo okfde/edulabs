@@ -1,7 +1,7 @@
 ---
 _id: aa593800-aa0d-11e7-94e8-ff9d321444bf
 art: oer
-title: Testing
+titel: Testing
 desc: blah blah
 link: ''
 lernziele: blah
