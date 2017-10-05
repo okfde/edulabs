@@ -133,8 +133,18 @@
             <br><strong>Empfehlungen und Tipps:<br></strong>
                 {{ page.tipp }}<br>
 
-            <br><strong>Lizenz:</strong>
-                {{ site.data.digitalen_welt.lizenz[page.lizenz] }} 
+            <br><strong>Erstellt von:</strong><br>
+            {% for author in page.author-name %}
+                 {% if forloop.length == 1 %}
+                 {{ author }}: <a href="mailto:{{ page.author-email }}">EMAIL</a> - <a href="{{ page.author-website }}">Website</a>
+                 {% else %}
+                 {{ author }}: <a href="mailto:{{ page.author-email[forloop.index0] }}">EMAIL</a> - <a href="{{ page.author-website[forloop.index0] }}">Website</a>
+                 {% endif %}
+            <br/>
+            {% endfor %}
+
+            <br><strong>Lizenz:</strong><br>
+                {{ site.data.digitalen_welt.lizenz[page.lizenz] }}<br>
 
             {% if page.categories %}
             <span class="teaser-cats">{{ page.categories }}</span>
