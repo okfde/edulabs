@@ -57,6 +57,31 @@
         ref.addEventHandlers();
         ref.resize();
 
+        /***********************************
+         *   Digitalen Welt
+         * ********************************/
+
+        var createRandomSlug = function (n) {
+            var slug = "";
+            var chars = "abcdefghijklmnopqrstuvwxyz0123456789";
+
+            for (var i = 0; i < 5; i++) {
+              slug += chars.charAt(Math.floor(Math.random() * chars.length));
+            }
+
+            return slug;
+        };
+
+        var slugField = $('#random-slug');
+        if (slugField.val() === '') {
+            var rs = createRandomSlug(5);
+            slugField.val(rs);
+            $('#random-slug-link').text(rs);
+        } else {
+            $('#random-slug-link').text(slugField.val());
+        }
+
+
         /*******************************************
          Project Edit/Add Form
          *******************************************/

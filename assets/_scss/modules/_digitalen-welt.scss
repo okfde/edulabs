@@ -1,8 +1,39 @@
+.add-card {
+  position: absolute;
+  top: 30px;
+  left: 50px;
+  margin-right: 50px;
+  float: left;
+}
+
 .themes-menu {
   padding-left: 50px;
+
+  > .filter {
+    border: 1px solid black;
+    padding: 10px;
+    margin-bottom: 20px;
+    .item {
+      .filter-item {
+        width: 100%;
+        display: inline-block;
+        font-size: 20px;
+        &:hover {
+          background-color: rgba(0,0,0,0.1);
+        }
+        &.active {
+          background-color: black;
+          color: white;
+        }
+      }
+    }
+  }
+
   .menu {
     .theme {
-      &.edu-btn.black {
+      border: 1px solid black;
+      padding: 10px;
+      &.black {
         font-size: 1em;
         border-bottom: none;
         width: 100%;
@@ -12,20 +43,30 @@
           border-bottom: 1px solid black;
         }
 
-        .subtheme {
-          background-color: $grey-light;
-          .edu-btn.black {
+        >.subtheme {
+          border: 1px solid black;
+          .black {
             font-size: 1em;
             border-bottom: none;
             width: 100%;
             min-width: 0;
+            padding: 10px !important;
+
+            &.filter-item.active {
+              background-color: rgba(0,0,0,0.5) !important;
+              color: white !important;
+            }
 
             &:last-of-type {
               margin: 0;
-              border-bottom: 1px solid black;
             }
             &:hover {
-              background-color: rgba(0,0,0,0.3);
+              background-color: rgba(0,0,0,0.3) !important;
+              color: white !important;
+            }
+
+            > a:hover {
+               color: white;
             }
           }
 
@@ -36,4 +77,11 @@
 }
 
 .menu-button {
+}
+
+.oer {
+}
+
+.noer {
+   background-color: rgba(254, 221, 43, 0.2);
 }

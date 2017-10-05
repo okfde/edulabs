@@ -1,0 +1,162 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="description" content="">
+    <meta name="author" content="Rainbow Unicorn">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" type="image/x-icon" href="/assets/img/static/edulabs.ico">
+    {% if page.twitter_large_img %}
+    <meta name="twitter:card" content="summary_large_image" />
+    {% else %}
+    <meta name="twitter:card" content="summary" />
+    {% endif %}
+    <meta name="twitter:title" content="{{ page.titel }}" />
+    <meta name="twitter:description" content="{{ page.teaser }}" />
+    {% if page.twitter_large_img %}
+    <meta name="twitter:image" content="{{ page.twitter_large_img }}" />
+    {% endif %}
+    {% if page.twitter_img %}
+    <meta name="twitter:image" content="{{ page.twitter_img }}" />
+    {% endif %}
+    <link rel="stylesheet" href="/assets/main.css">
+    {% seo %}
+    <!-- Piwik -->
+   <script type="text/javascript">
+       var _paq = _paq || [];
+       /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+       _paq.push(['trackPageView']);
+       _paq.push(['enableLinkTracking']);
+       (function() {
+           var u = "//piwik.okfn.de/";
+           _paq.push(['setTrackerUrl', u + 'piwik.php']);
+           _paq.push(['setSiteId', '35']);
+           var d = document,
+               g = d.createElement('script'),
+               s = d.getElementsByTagName('script')[0];
+           g.type = 'text/javascript';
+           g.async = true;
+           g.defer = true;
+           g.src = u + 'piwik.js';
+           s.parentNode.insertBefore(g, s);
+       })();
+   </script>
+   <!-- End Piwik Code -->
+</head>
+<body>
+{% include header.liquid %}
+{% raw %}
+<script id="search-results-template" type="text/mustache">
+  {{#entries}}
+    <article>
+      <h3>
+        {{#date}}<small><time datetime="{{pubdate}}" pubdate>{{displaydate}}</time></small>{{/date}}
+        <a href="{{url}}">{{titel}}</a>
+      </h3>
+      {{#is_post}}
+      <ul>
+        {{#tags}}<li>{{.}} </li>{{/tags}}
+      </ul>
+      {{/is_post}}
+    </article>
+  {{/entries}}
+</script>
+{% endraw %}
+<div class="page-wrap">
+    <section id="search-results" style="display: none;"> </section>
+    <div class="row">
+        <section class="section first col-xs-24">
+            <div class="content-wrap subpage">
+                <h1 class="section-headline">{{ page.titel }}</h1>
+                {% if page.author %}
+                <div class="blue post-author">{{ page.author }}</div>
+                {% endif %}
+            </div>
+           <div class="content-wrap subpage">
+                <h1 class="section-headline"></h1>
+            </div>
+            <div class="content-wrap subpage">
+
+            <br><strong>Fachbereich:</strong>
+            {% for f in page.fach %}
+              {% if site.data.digitalen_welt.fachergruppen-dict[f] %}
+              {{ site.data.digitalen_welt.fachergruppen-dict[f] }}{% if forloop.last == false %}, {% endif %}
+              {% endif %}
+            {% endfor %}
+
+            <br><strong>Fach:</strong>
+            {% for f in page.long-fach %}
+              {% if site.data.digitalen_welt.long-fach[f] %}
+              {{ site.data.digitalen_welt.long-fach[f] }}{% if forloop.last == false %}, {% endif %}
+              {% endif %}
+            {% endfor %}
+
+            <br><strong>Zielgruppe:</strong>
+            {% for z in page.zielgruppe %}
+              {% if site.data.digitalen_welt.zielgruppe[z] %}
+              {{ site.data.digitalen_welt.zielgruppe[z] }}{% if forloop.last == false %}, {% endif %}
+              {% endif %}
+            {% endfor %}
+
+            <br><strong>Digitale Kompetenzen:</strong>
+            {% for f in page.kmk %}
+              {% if site.data.digitalen_welt.kmk[f] %}
+              {{ site.data.digitalen_welt.kmk[f] }}{% if forloop.last == false %}, {% endif %}
+              {% endif %}
+            {% endfor %}
+
+            <br><strong>Zeitbedarf der Materialeinheit:</strong>
+            {% for f in page.dauer %}
+              {% if site.data.digitalen_welt.dauer[f] %}
+              {{ site.data.digitalen_welt.dauer[f] }}{% if forloop.last == false %}, {% endif %}
+              {% endif %}
+            {% endfor %}
+
+            <br><strong>Vorbereitungszeit:</strong>
+            {% for f in page.vorbereitungszeit %}
+              {% if site.data.digitalen_welt.vorbereitungszeit[f] %}
+              {{ site.data.digitalen_welt.vorbereitungszeit[f] }}{% if forloop.last == false %}, {% endif %}
+              {% endif %}
+            {% endfor %}<br>
+
+            <div class="content-wrap btn-wrap">
+                <a class="edu-btn black" href={{ page.link }} target="_blank">Zum Material</a>
+            </div><br>
+
+            <!-- Kurzbeschreibung -->
+            <br><strong>Kurzbeschreibung:<br></strong>
+            {{ page.desc }}<br>
+
+            <br><strong>Wirkungen und Lernziele:<br></strong>
+                {{ page.lernziele }}<br>
+
+            <br><strong>Empfehlungen und Tipps:<br></strong>
+                {{ page.tipp }}<br>
+
+            <br><strong>Empfohlen von:</strong><br>
+            {% for author in page.author-name %}
+                 {% if forloop.length == 1 %}
+                 {{ author }}: <a href="mailto:{{ page.author-email }}">EMAIL</a> - <a href="{{ page.author-website }}">Website</a>
+                 {% else %}
+                 {{ author }}: <a href="mailto:{{ page.author-email[forloop.index0] }}">EMAIL</a> - <a href="{{ page.author-website[forloop.index0] }}">Website</a>
+                 {% endif %}
+            <br/>
+            {% endfor %}
+
+            <br><strong>Lizenz:</strong><br>
+                {{ site.data.digitalen_welt.lizenz[page.lizenz] }}<br>
+
+            {% if page.categories %}
+            <span class="teaser-cats">{{ page.categories }}</span>
+            {% endif %}
+
+              <div class="content-wrap btn-wrap">
+                <a href="{{ page.url | remove: 'index.html' }}edit" class="edu-btn black">EDIT</a>
+              </div>
+
+            </div>
+        </section>
+    </div>
+    <!-- include mitmachen section -->
+</div>
+{% include footer.liquid %}

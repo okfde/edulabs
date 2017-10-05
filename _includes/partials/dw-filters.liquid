@@ -1,0 +1,7 @@
+<h4 class="filter-items-headline">NACH FÄCHERGRUPPEN:</h4>
+<div class="filter-items-inner col-xs-24">
+    {% assign fachs = site.data.digitalen_welt.fach %}
+    {% for f in site.data.digitalen_welt.fachergruppen %}
+    <a href="/" data-filter=".fach-{{ forloop.index  }}" class="filter-item">{{ f.name }}</a>
+    {% endfor %}
+</div>

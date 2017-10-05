@@ -1,0 +1,18 @@
+{% assign filter_categories = include.filter %}
+<div class="teaser blog-teaser isotope-item {{ filter_categories }} {{ include.kmk }} {{ include.medien }} {{ include.fach }} {% if include.featured %}col-xs-24 col-sm-12 col-md-8 col-lg-12 col-xlg-8 {% else %}col-xs-24 col-sm-12 col-md-8 col-lg-6 col-xlg-4{% endif %}">
+        <a href="{{ include.url }}" class="teaser-inner">
+        {% comment %}
+        <div class="teaser-image">
+            <img class="img-responsive" src="{{ include.src }}"/>
+        </div>
+        {% endcomment %}
+        <div class="teaser-content {{ include.art }} blog-teaser-content">
+            <h3 class="teaser-headline">{{ include.headline }}</h3>
+            {{ include.desc }}
+            {% if include.categories %}
+            <span class="teaser-cats">{{ include.categories }}</span>
+            {% endif %}
+            <div class="teaser-arrow has-arrow"></div>
+        </div>
+    </a>
+</div>

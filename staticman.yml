@@ -35,3 +35,22 @@ projects:
       type          : "slugify"
       options:
         field       :  title
+
+dw:
+  allowedFields     : ['title', 'titel', 'art', 'kmk', 'fach', 'medien', 'desc', 'desc2', 'lernziele', 'tipp', 'long-fach', 'zielgruppe', 'lizenz', 'dauer', 'vorbereitungszeit', 'author-name', 'author-email', 'author-website', 'tags', 'link']
+  branch            : "dw2"
+  commitMessage     : "New tool"
+  filename          : "{fields.title}"
+  format            : "frontmatter"
+  moderation        : false
+  path              : "_dw"
+  requiredFields    :  ['title', 'titel', 'desc', 'desc2']
+  transforms:
+    desc2         : frontmatterContent
+  generatedFields:
+    date:
+      type          : "date"
+      options:
+        format      : "iso8601"
+
+
