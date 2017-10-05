@@ -1,5 +1,5 @@
 ---
-_id: b57926e0-a9ff-11e7-94e8-ff9d321444bf
+_id: 1bdd7670-aa00-11e7-94e8-ff9d321444bf
 art: noer
 title: Just another another day
 desc: >-
@@ -41,12 +41,12 @@ kmk:
 zielgruppe: zielgruppe-2
 lizenz: lizenz-2
 dauer: dauer-1
-vorbereitungszeit: vorbereitungszeitca-3
+vorbereitungszeit: vorbereitungszeit-1
 author-name: Newton
 author-email: newton@physics.org
 author-website: newton.org
 tags: 'education,computers,rain,jazz'
-date: '2017-10-05T19:02:19.632Z'
+date: '2017-10-05T19:05:10.456Z'
 slug: just-another-another-day
 ---
 undefined
