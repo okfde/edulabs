@@ -52,9 +52,5 @@ dw:
       type          : "date"
       options:
         format      : "iso8601"
-    slug:
-      type          : "slugify"
-      options:
-        field       :  title
 
 

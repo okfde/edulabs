@@ -3,7 +3,7 @@ _id: 450da640-aa1f-11e7-963d-7516f91608e1
 title: 2LMG2
 art: oer
 titel: dssd
-desc: ml;dfpodop kdopdfopkdfop kdpkodf iojdfp
+desc: mldfpodop kdopdfopkdfop kdpkodf iojdfp
 link: ''
 lernziele: sdsdsd
 tipp: sdsd
