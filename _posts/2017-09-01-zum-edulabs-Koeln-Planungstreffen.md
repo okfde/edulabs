@@ -5,7 +5,7 @@ title: "edulabsK/BN: Energiereich war's, am 13.9. geht's weiter"
 teaser: "Zum Planungstreffen des edulabs Köln und wie es weiter geht"
 teaser_img_src: /assets/img/labs/edulabsK-BN.jpg
 featured: false
-categories: edulabsK/BN edulabsCall News
+categories: edulabsKBN edulabsCall News
 twitter_large_img: /assets/img/labs/edulabsK-BN.jpg
 image: /assets/img/labs/edulabsK-BN.jpg
 header_background: /assets/img/labs/edulabsK-BN.jpg
