@@ -1,5 +1,6 @@
 ---
-_id: f4790a50-a9fe-11e7-94e8-ff9d321444bf
+_id: 547c9fc0-aa18-11e7-94e8-ff9d321444bf
+random-slug: qGfRK
 art: noer
 title: Just another day
 desc: >-
@@ -45,8 +46,8 @@ vorbereitungszeit: vorbereitungszeit-3
 author-name: Newton
 author-email: newton@physics.org
 author-website: newton.org
-tags: 'education,computers,rain, jazz'
-date: '2017-10-05T18:56:54.789Z'
+tags: 'education,computers,rain,jazz'
+date: '2017-10-05T21:58:33.307Z'
 slug: just-another-day
 ---
 undefined
