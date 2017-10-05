@@ -53,6 +53,12 @@
               <textarea type="text" rows="6" id="project-form-short-description" name="fields[desc]" spellcheck="true">{{ project_text }}</textarea>
             </fieldset>
 
+            <!-- Link  -->
+            <fieldset>
+              <label for="project-form-link"><strong>Link zum Material</strong><br></label>
+              <input type="text" id="project-form-link" name="fields[link]" value="{{ project_link }}" spellcheck="false"/>
+            </fieldset>
+
             <!-- Wirkung / Lernziele  -->
             <fieldset>
               <label for="project-form-lernziele"><strong>Wirkung / Lernziele</strong> <span class="required">*</span></label>
@@ -67,7 +73,7 @@
 
             <!-- Medieneinsatz -->
             <fieldset>
-              <label for="project-form-medien"><strong> Medieneinsatz</strong> <span class="required">*</span></label>
+              <label for="project-form-medien"><strong> Diese Medien oder Technologien werden benötigt</strong> <span class="required">*</span></label>
                 <br>
                 {% for medien in site.data.digitalen_welt.medieneinsatz %}
                   <input name="fields[medien]" type="checkbox" value="medien-{{ forloop.index }}" {% if project_medien == medien %}selected{% endif %}>{{ medien.name }}
@@ -112,7 +118,7 @@
 
             <!-- Zielgruppe -->
             <fieldset>
-              <label for="project-form-zielgruppe"><strong>  Fachbereich</strong> <span class="required">*</span></label>
+              <label for="project-form-zielgruppe"><strong>  Zielgruppe</strong> <span class="required">*</span></label>
                 <br>
                   <input name="fields[zielgruppe]" type="checkbox" value="zielgruppe-1">Kita/Vorschule
                 <br>
@@ -139,14 +145,17 @@
 
             <!-- Dauer -->
             <fieldset>
-              <label for="project-form-dauer"><strong>dauer des Materials</strong> <span class="required">*</span></label>
-              <select name="fields[dauer]" required>
-                <option value="dauer-1" {% if project_dauer == "dauer-1" %}selected{% endif %}>mehrtägiges Projekt</option>
-                <option value="dauer-2" {% if project_dauer == "dauer-2" %}selected{% endif %}>Unterrichtsreihe</option>
-                <option value="dauer-3" {% if project_dauer == "dauer-3" %}selected{% endif %}>Doppelstunde</option>
-                <option value="dauer-4" {% if project_dauer == "dauer-4" %}selected{% endif %}>45 Minuten</option>
-                <option value="dauer-5" {% if project_dauer == "dauer-5" %}selected{% endif %}>Übun (bis zu 20 min)</option>
-              </select>
+              <label for="project-form-dauer"><strong>Zeitbedarf der Materialeinheit</strong> <span class="required">*</span></label>
+              <br>
+                <input name="fields[dauer]" type="checkbox" value="dauer-1">mehrtägiges Projekt
+              <br>
+                <input name="fields[dauer]" type="checkbox" value="dauer-2">Unterrichtsreihe
+              <br>
+                <input name="fields[dauer]" type="checkbox" value="dauer-3">Doppelstunde
+              <br>
+                <input name="fields[dauer]" type="checkbox" value="dauer-4">45 Minuten
+              <br>
+                <input name="fields[dauer]" type="checkbox" value="dauer-5">Übung (bis zu 20 min)
             </fieldset>
 
             <!-- Vorbereitungszeit -->
@@ -160,12 +169,6 @@
                 <option value="vorbereitungszeitca-5" {% if project_vorbereitungszeit == "vorbereitungszeit-5" %}selected{% endif %}>ca 4 Stunden</option>
                 <option value="vorbereitungszeitca-6" {% if project_vorbereitungszeit == "vorbereitungszeit-6" %}selected{% endif %}>ca 1 Tag</option>
               </select>
-            </fieldset>
-
-            <!-- Link  -->
-            <fieldset>
-              <label for="project-form-link"><strong>Link</strong><br></label>
-              <input type="text" id="project-form-link" name="fields[link]" value="{{ project_link }}" spellcheck="false"/>
             </fieldset>
 
             <!-- Tool Author -->
