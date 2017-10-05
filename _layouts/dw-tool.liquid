@@ -76,16 +76,8 @@
                 <h1 class="section-headline"></h1>
             </div>
             <div class="content-wrap subpage">
-                {{ page.desc }}<br><br>
 
-
-            <br><strong>Wirkungen und Lernziele:<br></strong>
-                {{ page.lernziele }}<br><br>
-
-            <br><strong>Empfehlungen und Tipps:<br></strong>
-                {{ page.tipp }}<br><br>
-
-            <br><strong>Fachbereicht:</strong>
+            <br><strong>Fachbereich:</strong>
             {% for f in page.long-fach %}
               {% if site.data.digitalen_welt.long-fach[f] %}
               {{ site.data.digitalen_welt.long-fach[f] }}{% if forloop.last == false %}, {% endif %}
@@ -106,16 +98,47 @@
               {% endif %}
             {% endfor %}
 
+            <br><strong>Digitale Kompetenzen:</strong>
+            {% for f in page.kmk %}
+              {% if site.data.digitalen_welt.kmk[f] %}
+              {{ site.data.digitalen_welt.kmk[f] }}{% if forloop.last == false %}, {% endif %}
+              {% endif %}
+            {% endfor %}
+
+            <br><strong>Zeitbedarf der Materialeinheit:</strong>
+            {% for f in page.dauer %}
+              {% if site.data.digitalen_welt.dauer[f] %}
+              {{ site.data.digitalen_welt.dauer[f] }}{% if forloop.last == false %}, {% endif %}
+              {% endif %}
+            {% endfor %}
+
+            <br><strong>Vorbereitungszeit:</strong>
+            {% for f in page.vorbereitungszeit %}
+              {% if site.data.digitalen_welt.vorbereitungszeit[f] %}
+              {{ site.data.digitalen_welt.vorbereitungszeit[f] }}{% if forloop.last == false %}, {% endif %}
+              {% endif %}
+            {% endfor %}<br>
+
+            <div class="content-wrap btn-wrap">
+                <a class="edu-btn black" href={{ page.link }} target="_blank">Zum Material</a>
+            </div><br>
+
+            <!-- Kurzbeschreibung -->
+            <br><strong>Kurzbeschreibung:<br></strong>
+            {{ page.desc }}<br>
+
+            <br><strong>Wirkungen und Lernziele:<br></strong>
+                {{ page.lernziele }}<br>
+
+            <br><strong>Empfehlungen und Tipps:<br></strong>
+                {{ page.tipp }}<br>
+
             <br><strong>Lizenz:</strong>
                 {{ site.data.digitalen_welt.lizenz[page.lizenz] }} 
 
             {% if page.categories %}
             <span class="teaser-cats">{{ page.categories }}</span>
             {% endif %}
-
-            <div class="content-wrap btn-wrap">
-                <a class="edu-btn black" href={{ page.link }} target="_blank">Zum Material</a>
-            </div>
 
             </div>
         </section>

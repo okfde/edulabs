@@ -1,5 +1,5 @@
 ---
-_id: f5f19470-a999-11e7-94e8-ff9d321444bf
+_id: f4790a50-a9fe-11e7-94e8-ff9d321444bf
 art: noer
 title: Just another day
 desc: >-
@@ -11,6 +11,7 @@ desc: >-
   tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At
   vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd
   gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+link: ''
 lernziele: >-
   Damit das Projekt gleich starten kann benutze einfach etwas Lorem ipsum -
   Blind-, Füll-, Dummy-, Nachahmungs-, Platzhaltertext.
@@ -41,12 +42,11 @@ zielgruppe: zielgruppe-2
 lizenz: lizenz-2
 dauer: dauer-1
 vorbereitungszeit: vorbereitungszeit-3
-link: ''
 author-name: Newton
 author-email: newton@physics.org
 author-website: newton.org
-tags: 'education, computers, rain'
-date: '2017-10-05T06:53:58.168Z'
+tags: 'education,computers,rain, jazz'
+date: '2017-10-05T18:56:54.789Z'
 slug: just-another-day
 ---
 undefined
