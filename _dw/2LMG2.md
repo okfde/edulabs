@@ -1,9 +1,9 @@
 ---
-_id: 0b700bd0-aa1f-11e7-963d-7516f91608e1
+_id: 450da640-aa1f-11e7-963d-7516f91608e1
 title: 2LMG2
 art: oer
 titel: dssd
-desc: sdsds
+desc: ml;dfpodop kdopdfopkdfop kdpkodf iojdfp
 link: ''
 lernziele: sdsdsd
 tipp: sdsd
@@ -18,7 +18,7 @@ author-name: Newton
 author-email: newton@physics.org
 author-website: newton.org
 tags: ''
-date: '2017-10-05T22:46:37.228Z'
+date: '2017-10-05T22:48:13.893Z'
 slug: 2lmg2
 ---
 empty
