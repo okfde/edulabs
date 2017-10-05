@@ -1,7 +1,7 @@
 ---
 _id: b5d94dc0-a88a-11e7-94e8-ff9d321444bf
 art: oer
-title: bananas
+titel: bananas
 lernziele: another
 tipp: teer
 medien:

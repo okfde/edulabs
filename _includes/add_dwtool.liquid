@@ -4,8 +4,8 @@
 {% else %}
   {% capture redirect %}{{site.url}}/dw/{{page.slug}}{% endcapture %}
   {% assign editable = '' %}
-  {% assign project_random_slug = page.random_slug %}
-  {% assign project_title = page.title %}
+  {% assign project_random_slug = page.title %}
+  {% assign project_title = page.titel %}
   {% assign project_lernziele = page.lernziele %}
   {% assign project_art = page.art %}
   {% assign project_kmk = page.kmk %}
@@ -35,7 +35,7 @@
           <form id="edit-project-form" class="form" method="post" action="{{ site.staticman_server }}/v2/entry/{{ site.repository }}/dw2/dw">
 
             <!-- Random Slug -->
-            <input type="hidden" id="random-slug" name="fields[random-slug]" value="{{ project_random_slug }}" spellcheck="false" {{editable}}/>
+            <input type="hidden" id="random-slug" name="fields[title]" value="{{ project_random_slug }}" spellcheck="false" {{editable}}/>
 
             <!-- Materialempfehlung -->
             <fieldset>
@@ -49,7 +49,7 @@
             <!-- Aussagekräftiger Titel -->
             <fieldset>
               <label for="project-form-name"><strong>Aussagekräftiger Titel</strong> <span class="required">*</span></label>
-              <input type="text" id="project-form-name" name="fields[title]" value="{{ project_title }}" spellcheck="false" {{editable}}/>
+              <input type="text" id="project-form-name" name="fields[titel]" value="{{ project_title }}" spellcheck="false" {{editable}}/>
             </fieldset>
 
             <!-- Short Text -->

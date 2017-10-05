@@ -11,7 +11,7 @@
     {% else %}
     <meta name="twitter:card" content="summary" />
     {% endif %}
-    <meta name="twitter:title" content="{{ page.title }}" />
+    <meta name="twitter:title" content="{{ page.titel }}" />
     <meta name="twitter:description" content="{{ page.teaser }}" />
     {% if page.twitter_large_img %}
     <meta name="twitter:image" content="{{ page.twitter_large_img }}" />
@@ -51,7 +51,7 @@
     <article>
       <h3>
         {{#date}}<small><time datetime="{{pubdate}}" pubdate>{{displaydate}}</time></small>{{/date}}
-        <a href="{{url}}">{{title}}</a>
+        <a href="{{url}}">{{titel}}</a>
       </h3>
       {{#is_post}}
       <ul>
@@ -67,7 +67,7 @@
     <div class="row">
         <section class="section first col-xs-24">
             <div class="content-wrap subpage">
-                <h1 class="section-headline">{{ page.title }}</h1>
+                <h1 class="section-headline">{{ page.titel }}</h1>
                 {% if page.author %}
                 <div class="blue post-author">{{ page.author }}</div>
                 {% endif %}

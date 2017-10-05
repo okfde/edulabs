@@ -1,7 +1,7 @@
 ---
 _id: 759c2f50-a94f-11e7-94e8-ff9d321444bf
 art: oer
-title: 'Happy Text, with a longer title and äöüÜÄÖß, for a happy booksprint'
+titel: 'Happy Text, with a longer titel and äöüÜÄÖß, for a happy booksprint'
 desc: >-
   Everyone wants to enjoy the good parts - but you have to build the framework
   first. That's the way I look when I get home late; black and blue. I can't
@@ -47,6 +47,6 @@ author-website:
   - edulabs.de
   - ''
 date: '2017-10-04T22:00:40.064Z'
-slug: happy-text-with-a-longer-title-and-aouuaoss-for-a-happy-booksprint
+slug: happy-text-with-a-longer-titel-and-aouuaoss-for-a-happy-booksprint
 ---
 undefined

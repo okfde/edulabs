@@ -27,6 +27,6 @@
       {% assign medien = post.medien | join:' ' %}
       {% assign kmk = post.kmk | join:' ' %}
       {% assign tags = post.tags | split:',' | join:' ' %}
-      {% include partials/dw/dw-teaser.liquid art=post.art lizenz=post.lizenz date=post.date kmk=post.kmk zielgruppe=post.zielgruppe fachbereich=post.long-fach kmk=kmk fach=fach medien=medien featured=post.featured url=post.url filter=filter desc=post.desc categories=categories src=post.teaser_img_src headline=post.title copy=post.teaser %}
+      {% include partials/dw/dw-teaser.liquid art=post.art lizenz=post.lizenz date=post.date kmk=post.kmk zielgruppe=post.zielgruppe fachbereich=post.long-fach kmk=kmk fach=fach medien=medien featured=post.featured url=post.url filter=filter desc=post.desc categories=categories src=post.teaser_img_src headline=post.titel copy=post.teaser %}
     {% endfor %}
 </div>
