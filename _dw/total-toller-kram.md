@@ -33,7 +33,7 @@ kmk:
 zielgruppe: zielgruppe-3
 lizenz: lizenz-2
 dauer: dauer-3
-vorbereitungszeit: vorbereitungszeitca-4
+vorbereitungszeit: vorbereitungszeit-4
 author-name: test
 author-email: test@test.de
 author-website: test.de
