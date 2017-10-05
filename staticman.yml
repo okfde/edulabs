@@ -44,7 +44,7 @@ dw:
   format            : "frontmatter"
   moderation        : false
   path              : "_dw"
-  requiredFields    :  ['title', 'titel', 'art', 'fach', 'medien', 'desc', 'desc2', 'lernziele', 'tipp', 'zielgruppe', 'lizenz', 'dauer', 'author-name', 'author-email', 'author-website']
+  requiredFields    :  ['title', 'titel', 'desc', 'desc2']
   transforms:
     desc2         : frontmatterContent
   generatedFields:

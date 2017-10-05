@@ -63,7 +63,7 @@
 
         var createRandomSlug = function (n) {
             var slug = "";
-            var chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";
+            var chars = "abcdefghijklmnopqrstuvwxyz0123456789";
 
             for (var i = 0; i < 5; i++) {
               slug += chars.charAt(Math.floor(Math.random() * chars.length));
