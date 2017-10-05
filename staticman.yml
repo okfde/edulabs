@@ -40,7 +40,7 @@ dw:
   allowedFields     : ['title', 'titel', 'art', 'kmk', 'fach', 'medien', 'desc', 'lernziele', 'tipp', 'long-fach', 'zielgruppe', 'lizenz', 'dauer', 'vorbereitungszeit', 'author-name', 'author-email', 'author-website', 'tags', 'link']
   branch            : "dw2"
   commitMessage     : "New tool"
-  filename          : "{fields.slug}"
+  filename          : "{fields.title}"
   format            : "frontmatter"
   moderation        : true
   path              : "_dw"

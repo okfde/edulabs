@@ -74,7 +74,7 @@
 
         var slugField = $('#random-slug');
         if (slugField.val() === '') {
-            slugField.val(createRandomSlug(4));
+            slugField.val(createRandomSlug(5));
         }
 
         /*******************************************
