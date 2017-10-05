@@ -55,7 +55,10 @@ collections:
     permalink: /:collection/:name
   dw:
     output: true
-    permalink: /dw/:title
+    permalink: /dw/:title/index.html
+  dw-edit:
+    output: true
+    permalink: /dw/:title/edit
   project:
     output: true
     permalink: /projects/:title/index.html
@@ -74,12 +77,17 @@ defaults:
      path: "_project-edit"
    values:
      layout: add-project
-
  -
    scope:
      path: "_dw"
    values:
      layout: dw-tool
+ -
+   scope:
+     path: "_dw-edit"
+   values:
+     layout: add-tool
+
 
 repository: 'okfde/edulabs'
 

@@ -1,6 +1,6 @@
 ---
 _id: f5f19470-a999-11e7-94e8-ff9d321444bf
-art: oer
+art: noer
 title: Just another day
 desc: >-
   Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
@@ -38,9 +38,9 @@ kmk:
   - kmk-5-3
   - kmk-6-1
 zielgruppe: zielgruppe-2
-lizenz: lizenz-1
+lizenz: lizenz-2
 dauer: dauer-1
-vorbereitungszeit: vorbereitungszeit-1
+vorbereitungszeit: vorbereitungszeit-3
 link: ''
 author-name: Newton
 author-email: newton@physics.org
