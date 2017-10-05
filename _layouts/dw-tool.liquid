@@ -78,16 +78,16 @@
             <div class="content-wrap subpage">
 
             <br><strong>Fachbereich:</strong>
-            {% for f in page.long-fach %}
-              {% if site.data.digitalen_welt.long-fach[f] %}
-              {{ site.data.digitalen_welt.long-fach[f] }}{% if forloop.last == false %}, {% endif %}
+            {% for f in page.fach %}
+              {% if site.data.digitalen_welt.fachergruppen-dict[f] %}
+              {{ site.data.digitalen_welt.fachergruppen-dict[f] }}{% if forloop.last == false %}, {% endif %}
               {% endif %}
             {% endfor %}
 
             <br><strong>Fach:</strong>
-            {% for f in page.fach %}
-              {% if site.data.digitalen_welt.fachergruppen-dict[f] %}
-              {{ site.data.digitalen_welt.fachergruppen-dict[f] }}{% if forloop.last == false %}, {% endif %}
+            {% for f in page.long-fach %}
+              {% if site.data.digitalen_welt.long-fach[f] %}
+              {{ site.data.digitalen_welt.long-fach[f] }}{% if forloop.last == false %}, {% endif %}
               {% endif %}
             {% endfor %}
 
