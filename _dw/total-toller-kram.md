@@ -1,5 +1,5 @@
 ---
-_id: 02f23780-aa0b-11e7-94e8-ff9d321444bf
+_id: d12f2720-aa0b-11e7-94e8-ff9d321444bf
 art: oer
 title: total toller kram
 desc: >-
@@ -26,7 +26,9 @@ medien: medien-1
 fach: fach-1
 long-fach:
   - long-fach-1
+  - long-fach-6
   - long-fach-10
+  - long-fach-17
 kmk:
   - kmk-1-1
   - kmk-2-3
@@ -38,7 +40,7 @@ author-name: test
 author-email: test@test.de
 author-website: test.de
 tags: ''
-date: '2017-10-05T20:23:13.137Z'
+date: '2017-10-05T20:28:59.152Z'
 slug: total-toller-kram
 ---
 undefined
