@@ -42,7 +42,7 @@ dw:
   commitMessage     : "New tool"
   filename          : "{fields.title}"
   format            : "frontmatter"
-  moderation        : true
+  moderation        : false
   path              : "_dw"
   requiredFields    :  ['title', 'titel', 'art', 'fach', 'medien', 'desc', 'desc2', 'lernziele', 'tipp', 'zielgruppe', 'lizenz', 'dauer', 'author-name', 'author-email', 'author-website']
   transforms:

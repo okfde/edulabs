@@ -74,8 +74,13 @@
 
         var slugField = $('#random-slug');
         if (slugField.val() === '') {
-            slugField.val(createRandomSlug(5));
+            var rs = createRandomSlug(5);
+            slugField.val(rs);
+            $('#random-slug-link').text(rs);
+        } else {
+            $('#random-slug-link').text(slugField.val());
         }
+
 
         /*******************************************
          Project Edit/Add Form
