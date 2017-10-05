@@ -1,5 +1,5 @@
 ---
-_id: ead9d060-a9fe-11e7-94e8-ff9d321444bf
+_id: 02f23780-aa0b-11e7-94e8-ff9d321444bf
 art: oer
 title: total toller kram
 desc: >-
@@ -33,11 +33,12 @@ kmk:
 zielgruppe: zielgruppe-3
 lizenz: lizenz-2
 dauer: dauer-3
-vorbereitungszeit: vorbereitungszeitca-2
+vorbereitungszeit: vorbereitungszeitca-4
 author-name: test
 author-email: test@test.de
 author-website: test.de
-date: '2017-10-05T18:56:38.674Z'
+tags: ''
+date: '2017-10-05T20:23:13.137Z'
 slug: total-toller-kram
 ---
 undefined
