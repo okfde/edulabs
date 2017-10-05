@@ -7,6 +7,9 @@
         <div class="teaser-content blog-teaser-content">
             <h3 class="teaser-headline">{{ include.headline }}</h3>
             {{ include.desc }}
+            {% if include.categories %}
+            <span class="teaser-cats">{{ include.categories }}</span>
+            {% endif %}
             <div class="teaser-arrow has-arrow"></div>
         </div>
     </a>

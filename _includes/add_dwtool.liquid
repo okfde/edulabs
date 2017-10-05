@@ -204,6 +204,12 @@
                     <br/>
             </fieldset>
 
+            <!-- Tags -->
+            <fieldset>
+              <label for="project-form-tags"><strong>Tags</strong> <span class="required">*</span></label>
+              <input type="text" id="project-form-tags" name="fields[tags]" value="{{ project_tags }}" spellcheck="false" {{editable}}/>
+            </fieldset>
+
             <fieldset class="hidden" style="display:none;">
               <input type="hidden" name="options[origin]" value="{{ page.url | absolute_url }}">
               <label for="comment-form-location">Leave blank if you are a human</label>
