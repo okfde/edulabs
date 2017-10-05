@@ -45,8 +45,6 @@ dw:
   moderation        : true
   path              : "_dw"
   requiredFields    :  ['title', 'titel', 'art', 'fach', 'medien', 'desc', 'lernziele', 'tipp', 'zielgruppe', 'lizenz', 'dauer', 'author-name', 'author-email', 'author-website']
-  transforms:
-    desc         : frontmatterContent
   generatedFields:
     date:
       type          : "date"
