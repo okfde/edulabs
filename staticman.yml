@@ -42,7 +42,7 @@ dw:
   commitMessage     : "New tool"
   filename          : "{fields.title}"
   format            : "frontmatter"
-  moderation        : true
+  moderation        : false
   path              : "_dw"
   requiredFields    :  ['title', 'titel', 'desc', 'desc2']
   transforms:
