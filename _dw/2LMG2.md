@@ -1,5 +1,5 @@
 ---
-_id: 450da640-aa1f-11e7-963d-7516f91608e1
+_id: fc88eeb0-aa1f-11e7-963d-7516f91608e1
 title: 2LMG2
 art: oer
 titel: dssd
@@ -18,7 +18,7 @@ author-name: Newton
 author-email: newton@physics.org
 author-website: newton.org
 tags: ''
-date: '2017-10-05T22:48:13.893Z'
+date: '2017-10-05T22:53:21.761Z'
 slug: 2lmg2
 ---
 empty
