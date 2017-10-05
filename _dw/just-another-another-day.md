@@ -45,7 +45,7 @@ vorbereitungszeit: vorbereitungszeitca-3
 author-name: Newton
 author-email: newton@physics.org
 author-website: newton.org
-tags: 'education,computers,rain,jazz'
+tags: "education , computers , rain , jazz"
 date: '2017-10-05T19:02:19.632Z'
 slug: just-another-another-day
 ---

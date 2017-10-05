@@ -1,27 +1,7 @@
-{% assign posts = site.dw  %}
-
-{% assign rawcategories = "" %}
-{% for post in posts %}
-    {% assign post_categories = post.tags | join:'|' | append:'|' %}
-    {% assign rawcategories = rawcategories | append:post_categories %}
-{% endfor %}
-{% assign rawcategories = rawcategories | split:'|' | sort %}
-
-{% assign categories = "" %}
-{% for category in rawcategories %}
-    {% if category != "" %}
-        {% assign cat = category | remove: "," %}
-        {% if categories == "" %}
-            {% assign categories = cat %}
-        {% endif %}
-        {% unless categories contains cat %}
-            {% assign categories = categories | join:'|' | append:'|' | append:cat | split:'|' %}
-        {% endunless %}
-    {% endif %}
-{% endfor %}
-<h4 class="filter-items-headline">NACH KATEGORIE FILTERN:</h4>
+<h4 class="filter-items-headline">NACH FÄCHERGRUPPEN:</h4>
 <div class="filter-items-inner col-xs-24">
-    {% for cat in categories %}
-    <a href="/" data-filter=".{{ cat | replace:"#","" }}" class="filter-item">{{ cat }}</a>
+    {% assign fachs = site.data.digitalen_welt.fach %}
+    {% for f in site.data.digitalen_welt.fachergruppen %}
+    <a href="/" data-filter=".fach-{{ forloop.index  }}" class="filter-item">{{ f.name }}</a>
     {% endfor %}
 </div>
