@@ -76,9 +76,14 @@
                 <h1 class="section-headline"></h1>
             </div>
             <div class="content-wrap subpage">
-                <div class="subpage-content">
-                    {{ page.desc }}
-                </div>
+                {{ page.desc }}<br><br>
+
+
+            <br><strong>Wirkungen und Lernziele:<br></strong>
+                {{ page.lernziele }}<br><br>
+
+            <br><strong>Empfehlungen und Tipps:<br></strong>
+                {{ page.tipp }}<br><br>
 
             <br><strong>Fachbereicht:</strong>
             {% for f in page.long-fach %}
@@ -108,10 +113,10 @@
             <span class="teaser-cats">{{ page.categories }}</span>
             {% endif %}
 
-            </div>
-            <!-- Newsletter -->
             <div class="content-wrap btn-wrap">
-                <a class="edu-btn black" href="http://okfn.us5.list-manage.com/subscribe?u=929f1e07936386d34833e20d1&id=9ceae2ed43" target="_blank">Zum edulabs Newsletter</a>
+                <a class="edu-btn black" href={{ page.link }} target="_blank">Zum Material</a>
+            </div>
+
             </div>
         </section>
     </div>
