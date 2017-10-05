@@ -4,6 +4,7 @@
 {% else %}
   {% capture redirect %}{{site.url}}/dw/{{page.slug}}{% endcapture %}
   {% assign editable = '' %}
+  {% assign project_random_slug = page.random_slug %}
   {% assign project_title = page.title %}
   {% assign project_lernziele = page.lernziele %}
   {% assign project_art = page.art %}
@@ -32,6 +33,9 @@
         </div>
         <div class="row content-wrap">
           <form id="edit-project-form" class="form" method="post" action="{{ site.staticman_server }}/v2/entry/{{ site.repository }}/dw2/dw">
+
+            <!-- Random Slug -->
+            <input type="hidden" id="random-slug" name="fields[random-slug]" value="{{ project_random_slug }}" spellcheck="false" {{editable}}/>
 
             <!-- Materialempfehlung -->
             <fieldset>

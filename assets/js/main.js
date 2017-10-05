@@ -57,6 +57,26 @@
         ref.addEventHandlers();
         ref.resize();
 
+        /***********************************
+         *   Digitalen Welt
+         * ********************************/
+
+        var createRandomSlug = function (n) {
+            var slug = "";
+            var chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";
+
+            for (var i = 0; i < 5; i++) {
+              slug += chars.charAt(Math.floor(Math.random() * chars.length));
+            }
+
+            return slug;
+        };
+
+        var slugField = $('#random-slug');
+        if (slugField.val() === '') {
+            slugField.val(createRandomSlug(4));
+        }
+
         /*******************************************
          Project Edit/Add Form
          *******************************************/
