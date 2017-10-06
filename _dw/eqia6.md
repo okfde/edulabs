@@ -1,5 +1,5 @@
 ---
-_id: 22faa3b0-aaa0-11e7-8f31-83d6976a7d08
+_id: 4141af10-aaac-11e7-9bd0-abc21f92878a
 title: eqia6
 art: oer
 titel: LearningApp - Aufbau des Computers
@@ -26,7 +26,7 @@ vorbereitungszeit: vorbereitungszeit-1
 author-name: Steffen Jauch
 author-email: steffen_jauch@me.com
 author-website: www.schuleunterstrom.de
-tags: PC
-date: '2017-10-06T14:10:41.852Z'
+tags: 'PC,reviewed'
+date: '2017-10-06T15:37:26.643Z'
 ---
 empty
