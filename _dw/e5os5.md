@@ -1,5 +1,5 @@
 ---
-_id: 4e0d4360-aaa4-11e7-9374-db875047f0f7
+_id: 9dd135c0-aaac-11e7-9532-b3ea54aa45b9
 title: e5os5
 art: oer
 titel: Kollaborative Arbeitsprozesse on- und offline
@@ -44,7 +44,7 @@ vorbereitungszeit: vorbereitungszeit-1
 author-name: Steffen Jauch
 author-email: steffen_jauch@me.com
 author-website: www.schuleunterstrom.de
-tags: ''
-date: '2017-10-06T14:40:32.060Z'
+tags: reviewed
+date: '2017-10-06T15:40:02.055Z'
 ---
 empty
