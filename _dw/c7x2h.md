@@ -1,5 +1,5 @@
 ---
-_id: d23ef090-aaa7-11e7-9374-db875047f0f7
+_id: 6fb9da30-aaab-11e7-9bd0-abc21f92878a
 title: c7x2h
 art: oer
 titel: Öffentlichkeitsarbeit mit Twitter - selbst ausprobieren.
@@ -46,7 +46,7 @@ vorbereitungszeit: vorbereitungszeit-3
 author-name: Nele
 author-email: nele@ebildungslabor.de
 author-website: www.ebildungslabor.de
-tags: ''
-date: '2017-10-06T15:05:42.359Z'
+tags: reviewed
+date: '2017-10-06T15:31:35.138Z'
 ---
 empty
