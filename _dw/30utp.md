@@ -1,5 +1,5 @@
 ---
-_id: 25877a00-aaa9-11e7-9374-db875047f0f7
+_id: 0009a400-aaaf-11e7-9532-b3ea54aa45b9
 title: 30utp
 art: oer
 titel: Erklärvideos im Unterricht erstellen
@@ -10,7 +10,7 @@ desc: >-
   vertiefen und gleichzeitig vielfältige Kompetenzen entwickeln.
 link: 'http://www.rete-mirabile.net/lernen/lernvideos-erklaervideos-von-schuelern'
 lernziele: "*Die SuS vertiefen fachliche Inhalte.\r\n*Die SuS lernen Werkzeuge für die Videoproduktion kennen.\r\n*Die SuS reflektieren Kriterien für hilfreiche Erklärvideos.\r\n*Die SuS lernen ein größeres Projekt sinnvoll zu strukturieren.\r\n*Die SuS kooperieren bei der Erstellung eines kreativen Produkts."
-tipp: "Lass die SuS vor der konkreten Umsetzung ausprobieren und recherchieren, mit welchen Apps sie Videos aufnehmen und nachbearbeiten können und wie die Videos nachher auf deinem Computer landen.\r\nVideos bewerten? Testet doch mal, wie effektiv sie den Mitschülern den Inhalt vermitteln konnten!"
+tipp: "Lass die SuS vor der konkreten Umsetzung ausprobieren und recherchieren, mit welchen Apps sie Videos aufnehmen und nachbearbeiten können und wie die Videos nachher auf deinem Computer landen.\r\nVideos bewerten? Testet doch mal, wie effektiv die Mitschüler mit den Videos lernen konnten!"
 medien:
   - medien-3
   - medien-4
@@ -57,8 +57,8 @@ dauer: dauer-2
 vorbereitungszeit: vorbereitungszeit-5
 author-name: Tessa Moje
 author-email: tessamoje@gmail.de
-author-website: ''
-tags: ''
-date: '2017-10-06T15:15:11.604Z'
+author-website: reviewed
+tags: reviewed
+date: '2017-10-06T15:57:05.632Z'
 ---
 empty
