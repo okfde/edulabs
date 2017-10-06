@@ -1,5 +1,5 @@
 ---
-_id: 8489f850-aab0-11e7-a55a-4daac0be43df
+_id: 6f959d70-aab8-11e7-84ef-ad52715d922e
 title: hqijm
 art: oer
 titel: Digitale Schnitzeljagd - Lernraumerkundung mit Actionbound
@@ -10,13 +10,14 @@ desc: >-
   kostenlosen App auf dem Smartphone oder Tablet.
 link: >-
   http://www.medien-in-die-schule.de/werkzeugkaesten/werkzeugkasten-lernen-lehren-mit-apps/werkzeugportraits-apps-fuer-lehren-und-lernen/apps-im-portrait-actionbound/
-lernziele: "Die Aufbereitung von Unterrichtseinheiten im spielerischen Kontext einer Schnitzeljagd erlaubt ein hohes Maß an schülerzentrierter und aktivierender Vermittlung vor allem von ortsgebundenem Wissen und im Feld der Sozialraumerkundung. Die Methode eignet sich besonders für kreativorientierte, geschichtlich-politische als auch naturwissenschaftliche Fächer. Aufgrund beliebig kombinierbarer Spielmodule sind die Einsatzmöglichkeiten jedoch nahezu grenzenlos und generell fächerungebunden.\r\nWird die Ralley im Team gelaufen, sind besonders soziale und kollaborative Kompetezen gefragt. Quizfragen zielen auf Fachkompetenz, der Ansatz des mobilen Lernens födert Erkundung und Orientierung am unbekannten Lernort.\r\nDurch die gute Bedienbarkeit auf der Konstruktionsebene im broserbasierten Backend eignet sich Actionbound auch für die Erstellung durch die SchülerInnen selbst. Durch das bauen einer eigenen Ralley kann das Erlernte als Peer-to-Peer-Vorhaben oder auch eine Form des intergenerativen Lernens (etwa wenn die Bounds von Eltern oder jüngerern SchülerInnen gespielt werden) gefestigt werden. Hierdurch vereint die Methode Ergebnissicherung, Präsentation und Wertschätzung. Durch den gemeinschaftlichen und identifikationsstiftenden Charakter kann die Schulkultur gestärkt werden. \r\nDer Einsatz von Methoden des mobilen Lernens befördert den themengebundenen Umgang mit mobilen Geräten und speziellen Funktionen wie etwa die GPS-Funktion oder QR-Codes."
+lernziele: "Die Aufbereitung von Unterrichtseinheiten im spielerischen Kontext einer Schnitzeljagd erlaubt ein hohes Maß an schülerzentrierter und aktivierender Vermittlung vor allem von ortsgebundenem Wissen und im Feld der Sozialraumerkundung. Die Methode eignet sich besonders für kreativorientierte, geschichtlich-politische als auch naturwissenschaftliche Fächer. Aufgrund beliebig kombinierbarer Spielmodule sind die Einsatzmöglichkeiten jedoch nahezu grenzenlos und generell fächerungebunden.\r\nWird die Ralley im Team gelaufen, sind besonders soziale und kollaborative Kompetenzen gefragt. Quizfragen zielen auf Fachkompetenz, der Ansatz des mobilen Lernens fördert Erkundung und Orientierung am unbekannten Lernort.\r\nDurch die gute Bedienbarkeit auf der Konstruktionsebene im browserbasierten Backend eignet sich Actionbound auch für die Erstellung durch die SchülerInnen selbst. Durch das bauen einer eigenen Ralley kann das Erlernte als Peer-to-Peer-Vorhaben oder auch eine Form des intergenerativen Lernens (etwa wenn die Bounds von Eltern oder jüngerern SchülerInnen gespielt werden) gefestigt werden. Hierdurch vereint die Methode Ergebnissicherung, Präsentation und Wertschätzung. Durch den gemeinschaftlichen und identifikationsstiftenden Charakter kann die Schulkultur gestärkt werden. \r\nDer Einsatz von Methoden des mobilen Lernens befördert den themengebundenen Umgang mit mobilen Geräten und speziellen Funktionen wie etwa die GPS-Funktion oder QR-Codes."
 tipp: >-
   Bereits in der Grundstufe kann mit Actionbound gearbeitet werden. Es empfiehlt
   sich der Einsatz von Tablets mit altersgerechten Schutzhüllen (stoßsicheres
   Material und Griffe). Die Konzeption einer Ralley kann papierbasiert erfolgen
-  und durch die Lehrkraft in das Backend eingetragen werden. Bei Leseanfängern
-  können Aufgaben mit der Audiofunktion oder bildgestützt gestellt werden.
+  und durch die Lehrkraft in das Backend eingetragen werden. Bei
+  LeseanfängerInnen können Aufgaben mit der Audiofunktion oder bildgestützt
+  gestellt werden.
 medien:
   - medien-1
   - medien-3
@@ -67,6 +68,6 @@ author-name: Christine Kolbe
 author-email: christine.kolbe@medialepfade.org
 author-website: 'http://www.medialepfade.org/'
 tags: 'BYOD,MobilesLernen,Peer-Learning,OEP,Peer-to-Peer,reviewed'
-date: '2017-10-06T16:07:57.445Z'
+date: '2017-10-06T17:04:38.328Z'
 ---
 empty
