@@ -1,5 +1,5 @@
 ---
-_id: 80eea4c0-aa92-11e7-8038-fb449a869845
+_id: 1e2936c0-aaa6-11e7-9374-db875047f0f7
 title: yminw
 art: oer
 titel: Interaktive Lerninhalte selbst gestalten
@@ -59,7 +59,7 @@ vorbereitungszeit: vorbereitungszeit-3
 author-name: Nele
 author-email: nele@ebildungslabor.de
 author-website: www.ebildungslabor.de
-tags: Peer-to-Peer
-date: '2017-10-06T12:33:06.562Z'
+tags: 'Peer-to-Peer, reviewed'
+date: '2017-10-06T14:53:30.713Z'
 ---
 empty
