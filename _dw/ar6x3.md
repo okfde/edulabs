@@ -1,5 +1,5 @@
 ---
-_id: 880edc50-aa8f-11e7-8038-fb449a869845
+_id: 00113b90-aaa3-11e7-9374-db875047f0f7
 title: ar6x3
 art: oer
 titel: Französische Revolution - Wissen testen
@@ -9,8 +9,8 @@ desc: >-
 link: 'https://memucho.de/Kategorien/Franzoesische-Revolution-Schule/353'
 lernziele: >-
   SchülerInnen können mit diesen Lernsets sowohl ihr Wissen zur Französischen
-  Revolution testen als auch diese nutzen, um sich beispielsweise für eine
-  Klassenarbeit vorzubereiten. Der Schwerpunkt des Angebots liegt somit auf dem
+  Revolution testen sowie nutzen, um sich beispielsweise für eine Klassenarbeit
+  vorzubereiten. Der Schwerpunkt des Angebots liegt somit auf dem
   selbstorganisierten Lernen.
 tipp: >-
   Gut einsetzbar als Tipp für SchülerInnen, ob wesentliche Themen verstanden
@@ -36,6 +36,6 @@ author-name: Nele
 author-email: nele@ebildungslabor.de
 author-website: www.ebildungslabor.de
 tags: ''
-date: '2017-10-06T12:11:49.982Z'
+date: '2017-10-06T14:31:11.769Z'
 ---
 empty
