@@ -1,5 +1,5 @@
 ---
-_id: 17392930-aaa4-11e7-9374-db875047f0f7
+_id: 6391ef00-aaaa-11e7-9374-db875047f0f7
 title: 5kbuw
 art: oer
 titel: Praxisprojekt Trickfilmproduktion zum Nachmachen
@@ -22,7 +22,7 @@ lernziele: >-
 tipp: >-
   Die genaue Ausgestaltung des Projekts (App-Verwendung, Wahl des Themas etc.)
   ist sehr flexibel möglich - je nach Interessen der beteiligten Kinder und
-  Jugendliche. Vorbereitungszeit ist vor allem dann nötig, wenn man sich noch
+  Jugendlichen. Vorbereitungszeit ist vor allem dann nötig, wenn man sich noch
   neu in die zu nutzenden Apps einarbeiten muss.
 medien:
   - medien-1
@@ -30,6 +30,7 @@ medien:
 fach: fach-2
 kmk:
   - kmk-2-1
+  - kmk-2-3
   - kmk-2-4
   - kmk-3-1
   - kmk-3-3
@@ -43,7 +44,7 @@ vorbereitungszeit: vorbereitungszeit-6
 author-name: Nele
 author-email: nele@ebildungslabor.de
 author-website: www.ebildungslabor.de
-tags: ''
-date: '2017-10-06T14:39:00.125Z'
+tags: reviewed
+date: '2017-10-06T15:24:05.199Z'
 ---
 empty
