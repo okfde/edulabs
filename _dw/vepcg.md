@@ -1,5 +1,5 @@
 ---
-_id: 8a3e7010-aa9b-11e7-8f31-83d6976a7d08
+_id: 746e2230-aaa5-11e7-9374-db875047f0f7
 title: vepcg
 art: oer
 titel: Aufbau der Erdatmosphäre
@@ -8,13 +8,18 @@ desc: >-
   QR-Codes zu Planet Wissen und Wikipedia.
 link: 'https://www.tutory.de/w/975cb410'
 lernziele: Kennen des Aufbaus der Erdatmosphäre.
-tipp: In Partnerarbeit bearbeiten lassen.
+tipp: >-
+  Die Bearbeitung des gesamten Arbeitsblatts ist in Einzelarbeit relativ
+  umfangreich. Arbeitsteilung empfehlenswert (Aufteilung durch 2 verschiedene
+  Quellen oder durch die 2 Untersuchungsgegenstände)
 medien:
   - medien-1
   - medien-2
   - medien-3
 fach: fach-4
-long-fach: long-fach-2
+long-fach:
+  - long-fach-2
+  - long-fach-12
 kmk:
   - kmk-1-1
   - kmk-4-4
@@ -26,6 +31,6 @@ author-name: Steffen Jauch
 author-email: steffen_jauch@me.com
 author-website: www.schuleunterstrom.de
 tags: ''
-date: '2017-10-06T13:37:47.568Z'
+date: '2017-10-06T14:48:45.975Z'
 ---
 empty
