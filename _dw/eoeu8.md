@@ -1,5 +1,5 @@
 ---
-_id: 061ebae0-aab1-11e7-a55a-4daac0be43df
+_id: c27dd3e0-aab8-11e7-84ef-ad52715d922e
 title: eoeu8
 art: oer
 titel: Wikipedia-Artikel im Unterricht erstellen
@@ -11,11 +11,7 @@ desc: >-
   angeregt.
 link: 'https://de.wikipedia.org/wiki/Wikipedia:Wikipedia_im_Unterricht'
 lernziele: "*Kommunikation: Recherche und Textproduktion \r\n*Kollaboration: Gemeinsames Arbeiten, Schwarmintelligenz\r\n*Kritisches Denken: Wissensproduktion nach vorgegebenen Qualitätsstandards, Kritische Auseinandersetzung mit Wissen und Wissensproduktion\r\nKritischer Umgang mit Quellen \r\n*Bewusstsein für den Umgang mit Online-Medien: \r\nLizenzen, Urheberrecht, etc. \r\n*Erfahrung von Selbstwirksamkeit"
-tipp: >-
-  Zur Veranschaulichung bietet sich zusätzlich die Erstellung von Grafiken,
-  Audiodateien oder Videos an. [Hier]
-  (https://schulesocialmedia.com/2013/06/02/in-der-schule-wikipedia-artikel-schreiben/)
-  ist die Anwendung von Wikimedia-Artikeln im Deutschunterricht gut beschrieben.
+tipp: "Zur Veranschaulichung bietet sich zusätzlich die Erstellung von Grafiken, Audiodateien oder Videos an. [Hier] (https://schulesocialmedia.com/2013/06/02/in-der-schule-wikipedia-artikel-schreiben/) ist die Anwendung von Wikimedia-Artikeln im Deutschunterricht gut beschrieben.\r\nFür jüngere SuS der Grundstufe 4-6 oder sogar 1-3 bietet sich statt wikipedia [Klexikon] (https://klexikon.zum.de/wiki/Klexikon:Willkommen_im_Klexikon)an. \r\nSiehe: https://edulabs.de/dw/jmkls"
 medien:
   - medien-1
   - medien-2
@@ -65,6 +61,6 @@ author-name: Alexa Schaegner
 author-email: aschaegner@politik-digital.de
 author-website: www.politik-digital.de
 tags: ''
-date: '2017-10-06T16:11:34.843Z'
+date: '2017-10-06T17:06:57.384Z'
 ---
 empty
