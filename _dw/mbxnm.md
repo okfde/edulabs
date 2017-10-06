@@ -1,8 +1,8 @@
 ---
-_id: 143c04e0-aa9b-11e7-8f31-83d6976a7d08
+_id: dd970570-aaa4-11e7-9374-db875047f0f7
 title: mbxnm
 art: oer
-titel: Mit
+titel: Mit dem heißen Draht Elektrotechnik verstehen
 desc: >-
   Dies ist ein einfaches und spaßiges Elektronik-Projekt. Es kommen Lötkolben
   und elektrische Bauteile zum Einsatz, aber auf einer sehr einfachen und
@@ -33,6 +33,6 @@ author-name: Maximilian Voigt
 author-email: maximilian.voigt@okfn.de
 author-website: 'https://edulabs.de'
 tags: 'Bauen,Löten'
-date: '2017-10-06T13:34:29.596Z'
+date: '2017-10-06T14:44:32.951Z'
 ---
 empty
