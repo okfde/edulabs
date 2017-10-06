@@ -1,5 +1,5 @@
 ---
-_id: 6391ef00-aaaa-11e7-9374-db875047f0f7
+_id: 59599aa0-aab0-11e7-a55a-4daac0be43df
 title: 5kbuw
 art: oer
 titel: Praxisprojekt Trickfilmproduktion zum Nachmachen
@@ -14,11 +14,10 @@ lernziele: >-
   Im Rahmen einer Trickfilmproduktion werden Kinder und Jugendliche zur
   kreativen Mediengestaltung animiert. Im hier dargestellten Beispiel lag der
   besondere Reiz darin, dass im Heimatort der Kinder und Jugendlichen gedreht
-  wurde. Erlernt werden eine Vielzahl von Kompetenzen angefangen von der
-  technischen Kompetenz zu Videoproduktion und -Schnitt, über Konzeption und
-  Planung bis hin zur Fähigkeit zur Kooperation. Auch werden rechtliche Themen
-  in den Blick genommen (Was darf man filmen und was nicht? Welche Musik darf
-  man verwenden? etc.)
+  wurde. Erlernt werden eine Vielzahl von Kompetenzen: technischen Kompetenz,
+  wie Videoproduktion und -schnitt, Konzeption und Planung, Fähigkeit zur
+  Kooperation. Zusätzlich werden rechtliche Themen in den Blick genommen (Was
+  darf man filmen und was nicht? Welche Musik darf man verwenden? etc.)
 tipp: >-
   Die genaue Ausgestaltung des Projekts (App-Verwendung, Wahl des Themas etc.)
   ist sehr flexibel möglich - je nach Interessen der beteiligten Kinder und
@@ -45,6 +44,6 @@ author-name: Nele
 author-email: nele@ebildungslabor.de
 author-website: www.ebildungslabor.de
 tags: reviewed
-date: '2017-10-06T15:24:05.199Z'
+date: '2017-10-06T16:06:44.982Z'
 ---
 empty
