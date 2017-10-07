@@ -1,5 +1,5 @@
 ---
-_id: 267308e0-ab61-11e7-80b1-75ea103d587c
+_id: 23c3d1f0-ab62-11e7-80b1-75ea103d587c
 title: jh8mc
 art: oer
 titel: Mit Google Gedichte machen
@@ -39,7 +39,7 @@ vorbereitungszeit: vorbereitungszeit-1
 author-name: Paula Seemann
 author-email: paula.seemann@posteo.de
 author-website: ''
-tags: reviewed
-date: '2017-10-07T13:12:20.486Z'
+tags: 'BYOD,reviewed'
+date: '2017-10-07T13:19:25.501Z'
 ---
 empty
