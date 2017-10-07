@@ -1,17 +1,17 @@
 ---
-_id: eea61f80-ab4f-11e7-bdd5-75c72ce51879
+_id: ef814a00-ab5f-11e7-8225-b986f284246f
 title: t4p1q
 art: oer
 titel: Twitter im Literatur- und Deutschunterricht
 desc: >-
   Twitter kann die Auseinandersetzung mit Literatur spielerisch und kreativ
-  erweitert. SuS  können zu verschiedene literarischen Figuren Twitterkonten
+  erweitern. SuS  können zu verschiedenen literarischen Figuren Twitterkonten
   anlegen und mit deren Stimme selbst zu ErzählerInnen werden, die Rollen
   kreativ erweitern, das Werk reflektieren oder eigene Geschichten entwickeln.
 link: >-
   https://schulesocialmedia.com/2012/05/01/zeichenbegrenzungen-kreativ-nutzen-twitter-im-deutschunterricht/
-lernziele: "*Identifikation mit einer Figur \r\n*Gemeinsame Diskussion eines literarischen Werks \r\n*Kreatives Schreiben \r\n*Üben von fokussiertem Schreiben: präzise Wortwahl, inhaltliche Verdichtung, bewusste Formulierung. \r\n* Nebenbei: Umgang mit sozialen Medien und Internetöffentlichkeit reflektieren"
-tipp: "Die Vorbereitungszeit richtet sich stark nach den Vorkenntnissen im Umgang mit social Media. Besteht Erfahrung mit Twitter, verkürzt sich die Vorbereitungszeit auf wenige Stunden.\r\nHier gibt es weitere Anregungen speziell zum [Literaturunterricht] (https://schulesocialmedia.com/2012/06/12/twitter-im-literaturunterricht/) und generell zu Twitter in der [Lehre](http://redaktionsblog.hypotheses.org/585)"
+lernziele: "*Identifikation mit einer Figur \r\n*Gemeinsame Diskussion eines literarischen Werks \r\n*Kreatives Schreiben \r\n*Üben von fokussiertem Schreiben: präzise Wortwahl, inhaltliche Verdichtung, bewusste Formulierung\r\n* Nebenbei: Umgang mit sozialen Medien und Internetöffentlichkeit reflektieren"
+tipp: "Die Vorbereitungszeit richtet sich stark nach den Vorkenntnissen im Umgang mit Social Media. Besteht Erfahrung mit Twitter, verkürzt sich die Vorbereitungszeit auf wenige Stunden.\r\nHier gibt es weitere Anregungen speziell zum [Literaturunterricht] (https://schulesocialmedia.com/2012/06/12/twitter-im-literaturunterricht/) und generell zu Twitter in der [Lehre](http://redaktionsblog.hypotheses.org/585)"
 medien:
   - medien-1
   - medien-2
@@ -21,6 +21,7 @@ fach:
   - fach-2
 long-fach:
   - long-fach-1
+  - long-fach-3
   - long-fach-11
 kmk:
   - kmk-2-1
@@ -43,7 +44,7 @@ vorbereitungszeit: vorbereitungszeit-5
 author-name: Alexa Schaegner
 author-email: aschaegner@politik-digital.de
 author-website: www.politik-digital.de
-tags: ''
-date: '2017-10-07T11:09:05.478Z'
+tags: reviewed
+date: '2017-10-07T13:03:38.947Z'
 ---
 empty
