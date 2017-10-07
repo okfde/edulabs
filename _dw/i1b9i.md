@@ -1,5 +1,5 @@
 ---
-_id: f8f0e770-ab6a-11e7-93c7-6d25c3d43206
+_id: a66f36d0-ab71-11e7-8634-47fa090f9921
 title: i1b9i
 art: oer
 titel: 'Werkzeuge zum Remixen von OER Bausteinen: learningapps.org'
@@ -35,7 +35,7 @@ vorbereitungszeit: vorbereitungszeit-4
 author-name: Heiko Idensen
 author-email: heikoidensen@gmail.com
 author-website: 'http://idensen.org'
-tags: 'Remix, OER, Interaktive Bausteine, learningapps.org, HTML5, browserbasiert'
-date: '2017-10-07T14:22:39.218Z'
+tags: 'Remix,OER,InteraktiveBausteine,learningapps.org,HTML5,browserbasiert,?'
+date: '2017-10-07T15:10:27.307Z'
 ---
 empty
