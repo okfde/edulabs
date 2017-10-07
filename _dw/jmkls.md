@@ -1,5 +1,5 @@
 ---
-_id: 974384c0-aab0-11e7-a55a-4daac0be43df
+_id: 3a5383c0-ab4e-11e7-bdd5-75c72ce51879
 title: jmkls
 art: oer
 titel: Lexikon-Artikel recherchieren und selber schreiben
@@ -11,15 +11,15 @@ desc: >-
 link: 'https://klexikon.zum.de/wiki/Klexikon:Willkommen_im_Klexikon'
 lernziele: >-
   Durch die Arbeit mit dem Klexikon lernen Kinder Informationen aus dem Internet
-  zu rechercieren und sich aktiv an der Informationsbereitstellung zu
+  zu recherchieren und sich aktiv an der Informationsbereitstellung zu
   beteiligen. Es sind vielfältige Einsatzmöglichkeiten im Unterricht denkbar:
-  einen Eintrag zum eigenen Heimatort bzw. den dortigen Sehenswürdigkeiten/
-  Angeboten verfassen, zum Abschluss einer Unterrichtseinheit die jeweiligen
-  lexikon-Einträge zu den behandelten Themen überprüfen bzw. selbst gestalten,
-  ein Quiz beantworten mithilfe des Klexikons etc.
+  Einen Eintrag zum eigenen Heimatort bzw. den dortigen
+  Sehenswürdigkeiten/Angeboten verfassen, zum Abschluss einer Unterrichtseinheit
+  die jeweiligen Lexikon-Einträge zu den behandelten Themen überprüfen bzw.
+  selbst gestalten, ein Quiz beantworten mithilfe des Klexikons etc.
 tipp: >-
-  Zu Beginn sollte den kindern kurz der große Vorteil eines Wikis erläutert
-  werden: gemeinsam an einem Projekt arbeiten und auf diese Weise ganz viele
+  Zu Beginn sollte den Kindern kurz der große Vorteil eines Wikis erläutert
+  werden: Gemeinsam an einem Projekt arbeiten und auf diese Weise ganz viele
   Informationen zusammentragen.
 medien:
   - medien-1
@@ -47,7 +47,7 @@ vorbereitungszeit: vorbereitungszeit-2
 author-name: Nele
 author-email: nele@ebildungslabor.de
 author-website: www.ebildungslabor.de
-tags: ''
-date: '2017-10-06T16:08:28.852Z'
+tags: reviewed
+date: '2017-10-07T10:56:53.407Z'
 ---
 empty
