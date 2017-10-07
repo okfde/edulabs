@@ -1,5 +1,5 @@
 ---
-_id: a5142ff0-ab4b-11e7-a77c-717033e1f76a
+_id: 6c8a3420-ab66-11e7-9a57-390a7eb57d6b
 title: kkonz
 art: oer
 titel: 'Medienkampagnen analysieren, bewerten, selbst gestalten. Beispiel Klimaschutz'
@@ -38,7 +38,7 @@ vorbereitungszeit: vorbereitungszeit-5
 author-name: Nele Hirsch
 author-email: nele@ebildungslabor.de
 author-website: www.ebildungslabor.de
-tags: ''
-date: '2017-10-07T10:38:24.061Z'
+tags: reviewed
+date: '2017-10-07T13:50:05.584Z'
 ---
 empty
