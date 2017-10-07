@@ -1,5 +1,5 @@
 ---
-_id: dd970570-aaa4-11e7-9374-db875047f0f7
+_id: f3a2fbb0-ab69-11e7-aad5-b90faa5ac528
 title: mbxnm
 art: oer
 titel: Mit dem heißen Draht Elektrotechnik verstehen
@@ -26,13 +26,14 @@ kmk:
 zielgruppe:
   - zielgruppe-3
   - zielgruppe-4
+  - zielgruppe-5
 lizenz: lizenz-4
-dauer: dauer-3
+dauer: dauer-2
 vorbereitungszeit: vorbereitungszeit-6
 author-name: Maximilian Voigt
 author-email: maximilian.voigt@okfn.de
 author-website: 'https://edulabs.de'
-tags: 'Bauen,Löten'
-date: '2017-10-06T14:44:32.951Z'
+tags: 'Bauen,Löten, ???, reviewed'
+date: '2017-10-07T14:15:20.694Z'
 ---
 empty
