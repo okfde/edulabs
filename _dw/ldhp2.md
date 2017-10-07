@@ -1,5 +1,5 @@
 ---
-_id: 678fc930-aaad-11e7-9532-b3ea54aa45b9
+_id: 00d6eec0-ab62-11e7-80b1-75ea103d587c
 title: ldhp2
 art: oer
 titel: Kommunalpolitik verstehen und bewerten
@@ -18,7 +18,7 @@ lernziele: >-
   werden, wie das Internet zu Recherche- und Meinungsbildung genutzt werden
   kann.
 tipp: >-
-  Ausreichend Zeit zur Vorbereitung und durchführung einplanen. Falls möglich
+  Ausreichend Zeit zur Vorbereitung und Durchführung einplanen. Falls möglich
   die Jugendlichen mit einbeziehen in die Auswahl des Themas.
 medien:
   - medien-1
@@ -38,10 +38,10 @@ zielgruppe:
 lizenz: lizenz-3
 dauer: dauer-2
 vorbereitungszeit: vorbereitungszeit-6
-author-name: Nele
+author-name: Nele Hirsch
 author-email: nele@ebildungslabor.de
 author-website: www.ebildungslabor.de
-tags: ''
-date: '2017-10-06T15:45:40.389Z'
+tags: reviewed
+date: '2017-10-07T13:18:26.888Z'
 ---
 empty
