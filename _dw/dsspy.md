@@ -1,5 +1,5 @@
 ---
-_id: decf9850-ab5b-11e7-bdd5-75c72ce51879
+_id: 7349d850-ab67-11e7-9686-dbf837d6a4ce
 title: dsspy
 art: noer
 titel: >-
@@ -17,7 +17,7 @@ vorbereitungszeit: vorbereitungszeit-1
 author-name: Martin Fischer
 author-email: martin.fischer.eu@gmail.com
 author-website: gameoverhate.org
-tags: wirdBlogartikel
-date: '2017-10-07T12:34:32.850Z'
+tags: ''
+date: '2017-10-07T13:57:26.403Z'
 ---
 empty
