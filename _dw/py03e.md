@@ -1,5 +1,5 @@
 ---
-_id: 53349740-ab48-11e7-a77c-717033e1f76a
+_id: 502431e0-ab67-11e7-9686-dbf837d6a4ce
 title: py03e
 art: oer
 titel: Interaktive Zeitleisten erstellen
@@ -12,8 +12,8 @@ link: 'https://h5p.org/timeline'
 lernziele: "Durch die Erstellung einer interaktiven Zeitleiste beschäftigen sich Schülerinnen und Schüler intensiv mit einem bestimmten Thema / einer bestimmten geschichtlichen Epoche. Zudem lernen sie, im Internet zu recherchieren und rechtlich sicher zu veröffentlichen. Die Aufgabe kann als Einzelarbeit oder Gruppenarbeit gestaltet werden. Mögliche Aufgaben für Zeitleisten wären:\r\nStellt die wesentlichen Ereignisse der Französischen Revolution/ den Weg zur Deutschen Einheit/ den Zweiten Weltkrieg in einer interaktiven Zeitleiste dar.\r\nPolitischer Rückblick: Was waren die aus Deiner Sicht wichtigsten politischen Ereignisse des letzten Jahres?\r\n\r\nDas H5P-Tool 'Timeline' kann direkt nach Registrierung auf der H5P-Website genutzt werden. Alternativ lässt sich H5P als Plugin auf einer Moodle, Wordpress oder Drupal-Installation integrieren. Erstellte Inhalte können in jede beliebige Website eingebunden werden."
 tipp: >-
   Eine gute Zusammenstellung zu Medien zu politisch-historischen Ereignissen
-  findet sich in der Wikimedia Commons:
-  https://commons.wikimedia.org/wiki/Main_Page
+  findet sich in der [Wikimedia
+  Commons](https://commons.wikimedia.org/wiki/Main_Page).
 medien:
   - medien-1
   - medien-2
@@ -38,7 +38,7 @@ vorbereitungszeit: vorbereitungszeit-1
 author-name: Nele Hirsch
 author-email: nele@ebildungslabor.de
 author-website: www.ebildungslabor.de
-tags: ''
-date: '2017-10-07T10:14:38.211Z'
+tags: reviewed
+date: '2017-10-07T13:56:27.519Z'
 ---
 empty
