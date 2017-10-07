@@ -1,10 +1,8 @@
 ---
-_id: c96e0a40-ab43-11e7-a77c-717033e1f76a
+_id: 727f3850-ab46-11e7-a77c-717033e1f76a
 title: na5uz
 art: noer
-titel: >-
-  Ein offener Moodle-Kurs zum Thema "LEARNING TO CODE: Programmieren mit Pocket
-  Code"
+titel: Ein offener Moodle-Kurs zum Thema
 desc: "Der Moodle-Kurs enthält Videos und Begleitmaterialien rund um die App Pocket Code, \r\nwelche einen spielerischen Einstieg in die Programmierung ermöglichen. \r\nAuf Basis eines Arbeitsplans können die SchülerInnen selbständig arbeiten. \r\nDas Ziel des Kurses ist die Erstellung einer eigenen App."
 link: 'https://tc.tugraz.at/main/course/view.php?id=1415'
 lernziele: "Grundlegende Programmierkonzepte- und Strukturen kennen lernen und anwenden\r\nProbleme abstrahieren und Lösungsschritte formulieren\r\nKreative Auseinandersetzung mit vorgegebenen Aufgabenstellungen"
@@ -30,7 +28,7 @@ vorbereitungszeit: vorbereitungszeit-4
 author-name: Maria Grandl
 author-email: maria.grandl@tugraz.at
 author-website: 'https://learninglab.tugraz.at/informatischegrundbildung/'
-tags: Android
-date: '2017-10-07T09:42:09.099Z'
+tags: 'Android,reviewed,wirdBlogartikel'
+date: '2017-10-07T10:01:11.749Z'
 ---
 empty
