@@ -1,5 +1,5 @@
 ---
-_id: 95146f80-ab4f-11e7-bdd5-75c72ce51879
+_id: 267308e0-ab61-11e7-80b1-75ea103d587c
 title: jh8mc
 art: oer
 titel: Mit Google Gedichte machen
@@ -9,7 +9,7 @@ desc: >-
   kleine Gedichte angezeigt.
 link: 'https://schulesocialmedia.com/2013/06/07/mit-google-gedichte-machen/'
 lernziele: "* Reflexion über die Funktionsweise von Suchmaschinen und ihren Algorithmen\r\n* kreative Ausdrucksmöglichkeit, insbesondere für Lernende, die sich als „unkreativ“ in diesem Bereich erleben\r\n* Auseinandersetzung mit den Begriffen Kreativität und Kunst und welche Rollen Mensch und Maschine in diesen Bereichen zukommt\r\n* Reflexion über die Häufigkeit der vorgeschlagenen Themen"
-tipp: "Diese Methode eignet sich gut, wenn man nicht viel Vorbereitungszeit hat, beispielsweise um schnell eine Vertretungsstunde zu gestalten. Da die meisten SchülerInnen ein Smartphone mit Datenvolumen besitzen, müssen nicht mal Computer organisiert werden.\r\n\r\nUm die Bedeutung der Nutzung von Nutzerdaten und Algorithmen zu verdeutlichen, kann diese Aufgabe mit gleichen Suchbegriffen in unterschiedlichen Suchmaschinen durchgeführt werden und verglichen werden, ob und wie sich die Gedichte unterscheiden."
+tipp: "Diese Methode eignet sich gut, wenn man nicht viel Vorbereitungszeit hat, beispielsweise um schnell eine Vertretungsstunde zu gestalten. Da die meisten SchülerInnen ein Smartphone mit Datenvolumen besitzen, müssen nicht mal Computer organisiert werden.\r\n\r\nUm die Bedeutung der Nutzung von Nutzerdaten und Algorithmen zu verdeutlichen, kann diese Aufgabe mit gleichen Suchbegriffen in unterschiedlichen Suchmaschinen durchgeführt werden und verglichen werden, ob und wie sich die Gedichte unterscheiden.\r\n\r\nBeispiele für Google Gedichte findet man unter: http://www.googlepoetics.com/"
 medien: medien-1
 fach:
   - fach-1
@@ -39,7 +39,7 @@ vorbereitungszeit: vorbereitungszeit-1
 author-name: Paula Seemann
 author-email: paula.seemann@posteo.de
 author-website: ''
-tags: ''
-date: '2017-10-07T11:06:35.206Z'
+tags: reviewed
+date: '2017-10-07T13:12:20.486Z'
 ---
 empty
