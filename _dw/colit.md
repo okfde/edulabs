@@ -1,5 +1,5 @@
 ---
-_id: 8129c1e0-aaa6-11e7-9374-db875047f0f7
+_id: e901b4b0-ab61-11e7-80b1-75ea103d587c
 title: colit
 art: oer
 titel: aula- Schule gemeinsam gestalten
@@ -51,7 +51,7 @@ vorbereitungszeit: vorbereitungszeit-6
 author-name: Alexa Schaegner
 author-email: aschaegner@politik-digital.de
 author-website: www.aula.de
-tags: PC
-date: '2017-10-06T14:56:16.838Z'
+tags: 'PC, reviewed'
+date: '2017-10-07T13:17:46.930Z'
 ---
 empty
