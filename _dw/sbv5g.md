@@ -1,5 +1,5 @@
 ---
-_id: bcbc9310-aa9a-11e7-8f31-83d6976a7d08
+_id: 51c41b80-ab41-11e7-a77c-717033e1f76a
 title: sbv5g
 art: oer
 titel: Sprachlerntagebuch/ Portfolio für Kita-Kinder
@@ -13,7 +13,8 @@ lernziele: >-
   Die Vorlagen des Sprachlerntagebuchs umfassen verschiedene Themenbereiche:
   Vorstellung des Kindes, seine Familie, Lieblingsspiele oder Freundinnen und
   Freunde. ErzieherInnen können die Vorlagen als Ergänzung oder alleinig im
-  Rahmen von Portfolio-Arbeit verwenden.
+  Rahmen von Portfolio-Arbeit verwenden. Die Leitfragen können auch verwendet
+  werden, um ein digitales Portfolio für die Kinder anzulegen.
 tipp: >-
   Je nach Druckmöglichkeit gibt es die Vorlagen in schwarz-weiß oder bunt zum
   Herunterladen.
@@ -26,6 +27,6 @@ author-name: Nele
 author-email: nele@ebildungslabor.de
 author-website: www.ebildungslabor.de
 tags: ''
-date: '2017-10-06T13:32:02.828Z'
+date: '2017-10-07T09:24:29.296Z'
 ---
 empty
