@@ -1,5 +1,5 @@
 ---
-_id: 6f959d70-aab8-11e7-84ef-ad52715d922e
+_id: d1d9b820-ab41-11e7-a77c-717033e1f76a
 title: hqijm
 art: oer
 titel: Digitale Schnitzeljagd - Lernraumerkundung mit Actionbound
@@ -68,6 +68,6 @@ author-name: Christine Kolbe
 author-email: christine.kolbe@medialepfade.org
 author-website: 'http://www.medialepfade.org/'
 tags: 'BYOD,MobilesLernen,Peer-Learning,OEP,Peer-to-Peer,reviewed'
-date: '2017-10-06T17:04:38.328Z'
+date: '2017-10-07T09:28:04.190Z'
 ---
 empty
