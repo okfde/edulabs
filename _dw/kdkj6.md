@@ -1,16 +1,15 @@
 ---
-_id: 3e8326e0-ab52-11e7-bdd5-75c72ce51879
+_id: ef1d5b40-ab63-11e7-a1d2-8f25c3f5937f
 title: kdkj6
 art: oer
 titel: Biber der Informatik - Übungen zum informatischen Denken
 desc: >-
-  Die Aufgaben des Informatik-Wettbewerbs Biber der Informatik dienen dazu, das
-  informatische Denken (engl. Computational Thinking) zu erlernen und zu üben.
-  Die Aufgabenhefte können für einen Wettbewerb innerhalb der Klasse
-  herangezogen werden.
+  Die Aufgabenhefte des Informatik-Wettbewerbes BIBER DER INFORMATIK können für
+  einen Mini-Wettbewerb innerhalb der Klasse herangezogen werden. Der Wettbewerb
+  selbst zielt auf das Erlernen und Üben des informatischen Denkens ab.
 link: 'https://www.bwinf.de/biber/downloads/'
 lernziele: "Fundamentale Ideen der Informatik kennen lernen\r\nAlgorithmisches/Logisches Problemlösen kennen lernen, üben und anwenden"
-tipp: "Der sogenannte Biber der Informatik ist ein Informatikwettbewerb zum Erlernen und Üben des informatischen Denkens, der im Jahr 2017 bereits zum elften Mal durchgeführt wird. \r\nDie Teilnahme ist von der 3. bis zur 13. Schulstufe möglich. Der Wettbewerb findet jährlich im November statt und kann in 5 Altersgruppen (3.-4., 5.-6., 7.-8., 9.-10. und 11.-13.Schulstufe) online durchgeführt werden. Beim Wettbewerb werden in der Sekundarstufe 2 jeweils 15 Aufgaben, welche in 3 Schwierigkeitsstufen unterteilt sind, gestellt. \r\nDiese müssen innerhalb von 40 Minuten bearbeitet werden. Die Ideen zu den Aufgabenstammen von Unterstützer(n)/innen der internationalen Initiative Bebras (International Challenge on Informatics and Computational Thinking), welche auch die nötige Infrastruktur zur Durchführung des Wettbewerbs bereitstellt. Die Aufgaben setzen keine informatischen Vorkenntnisse voraus und präsentieren vielfältige Problemstellungen, die durch das Anwenden von informatischen Konzepten gelöst werden müssen. Diese Konzepte müssen jedoch nicht bekannt sein, sondern werden im Rahmen der Aufgaben spielerisch erworben. Im Vordergrund steht der Erwerb und weniger die Überprüfung von Fähigkeiten im Zusammenhang mit Computational Thinking.\r\n\r\nAuf der Website des BWINF (Bundesweite Informatikwettbewerbe) werden die Aufgaben für alle Altersgruppen gesammelt und durch wichtige Erklärungen ergänzt, sodass die informatischen Konzepte auch in das Bewusstsein der SchülerInnen geraten. \r\n\r\nDarüber hinaus ist eine eigene BIBER APP für die Betriebssysteme ANDROID und iOS verfügbar, die zum Üben herangezogen werden kann."
+tipp: "Die Aufgaben setzen keine informatischen Vorkenntnisse voraus und präsentieren vielfältige Problemstellungen, die durch das Anwenden von informatischen Konzepten gelöst werden müssen. Diese Konzepte müssen jedoch nicht bekannt sein, sondern werden im Rahmen der Aufgaben spielerisch erworben. Im Vordergrund steht der Erwerb und weniger die Überprüfung von Fähigkeiten im Zusammenhang mit Computational Thinking.\r\n\r\nAuf der Website des BWINF (Bundesweite Informatikwettbewerbe) werden die Aufgaben für alle Altersgruppen gesammelt und durch wichtige Erklärungen ergänzt, sodass die informatischen Konzepte auch in das Bewusstsein der SchülerInnen geraten. \r\n\r\nDarüber hinaus ist eine eigene BIBER APP für die Betriebssysteme ANDROID und iOS verfügbar, die zum Üben herangezogen werden kann.\r\n\r\nEmpfehlung für den Einsatz im Unterricht:\r\n\r\n* Wählen Sie, je nach Altersgruppe der SchülerInnen und vorhandener Unterrichtszeit, \r\neine geeignete Anzahl an Biber-Aufgaben aus.\r\n\r\n* Drucken Sie ggf. die Aufgaben in Klassenstärke aus.\r\n\r\n* Teilen Sie die SchülerInnen in 2er- oder 3er-Gruppen ein und stellen Sie den Gruppen die Aufgaben zur Verfügung.\r\n\r\n* Die SchülerInnen müssen nun versuchen, so viele Aufgaben wie möglich, innerhalb einer \r\nvorgegebenen Zeit zu lösen. \r\n\r\n* Besprechen Sie im Anschluss die Lösungen und die informatischen Hintergründe der Aufgabenstellungen.\r\nAchten Sie darauf, dass auch die Lösungswege der SchülerInnen miteinbezogen werden."
 medien:
   - medien-1
   - medien-2
@@ -39,7 +38,7 @@ vorbereitungszeit: vorbereitungszeit-2
 author-name: Maria Grandl
 author-email: maria.grandl@tugraz.at
 author-website: 'https://learninglab.tugraz.at/informatischegrundbildung/'
-tags: 'PC,BYOD'
-date: '2017-10-07T11:25:38.463Z'
+tags: 'PC,BYOD,reviewed'
+date: '2017-10-07T13:32:16.261Z'
 ---
 empty
