@@ -1,8 +1,8 @@
 ---
-_id: f2573410-ab64-11e7-9929-9702fb35fd14
+_id: f2583e20-ab67-11e7-9686-dbf837d6a4ce
 title: zjk98
 art: oer
-titel: Freies Minecraft (
+titel: Freies Minecraft -MINETEST- in der Schule einsetzen
 desc: >-
   Mit dem freien Open-World-Spiel können gerade Jugendliche mit Lern- und
   Artikulationsschwierigkeiten spielerisch in aktive Bau- und
@@ -10,8 +10,19 @@ desc: >-
   Unterrichtsfächer vorgestellt - mit Lernstandsabfrage, Ergebnissicherung und
   Präsentationstool.
 link: 'https://junge-akademie-wittenberg.de/bericht/minetest-fuer-die-schule'
-lernziele: "1. Biologie/Ökologie: Baut einen Fluss, der gute Lebensbedingungen bietet und einen Fluss, in dem es deutlich weniger Leben gibt.\r\n2. Kunst: Baut drei historische Gebäude in ihrem architektonischen Stil nach: Renaissance, Klassizismus und Neogotik.\r\n3. Religion/Ethik: Baut eine Kirche, eine Synagoge und eine Moschee\r\n4. Sozialkunde/Wirtschaft/Ökologie/Ethik: Baut die Stadt der Zukunft.\r\nQuelle: Tobias Thiel: https://junge-akademie-wittenberg.de/bericht/minetest-fuer-die-schule"
-tipp: "\"Minecraft ist seit einigen Jahren eins der beliebtesten digitalen Spiele insbesondere bei Kindern und jüngeren Jugendlichen. Aktuell gibt ein Viertel der 11-13-Jährigen an, das Minecraft ihr Lieblingsspiel sei (vgl. JIM-Studie 2016, S. 45). Um an der Lebenswelt junger Menschen anzuknüpfen, ist es deshalb ein interessantes Tool für die Bildung, zumal es durch seine offene Struktur und Modifizierbarkeit fast beliebige Anwendungsmöglichkeiten hat. Es ist eine Art virtuelles Lego mit unbegrenztem Baukasten, in dem noch dazu alle gemeinsam bauen können. Über das Bauen hinaus können Programmierungen und elektrische Schaltungen eingesetzt werden. Für die Arbeit in der Schule lohnt es sich in der Regel, anstelle des Original-Minecraft den kostenlosen Open-Source-Klon Minetest einzusetzen.\r\nUnter Download findet man die verwendte Beispielwelt, die man nutzen kann, in dem man sie in den Ordner \"worlds\" im Minetest-Ordner entpackt, anschließend Minetest neustartet und die Welt \"LiGa\" auswählt.\" (Tobias Thiel)\r\n\r\nWeitere Links und Resourcen:\r\nMinetest in der Schule (Wiki) mit ausführlichen Schritt-für-Schritt Anleitungen (Birgit Lacher)\r\nhttps://wiki.minetest.net/Minetest_in_der_Schule\r\nLebendige Facebook-Gruppe zum Einsatz von Minntest/Minecraft in der Schule\r\nhttps://www.facebook.com/groups/1458900627735518/?ref=br_rs\r\nMinetestEdu: visuelles Admin-Tool für die Steuerung von Welteinstellungen und Teilnehmer-/Schüler-Aktivitäten - angelehnt an Minecraft-Edu\r\nhttps://github.com/minetest4edu"
+lernziele: >-
+  "Minecraft ist seit einigen Jahren eins der beliebtesten digitalen Spiele
+  insbesondere bei Kindern und jüngeren Jugendlichen. Aktuell gibt ein Viertel
+  der 11-13-Jährigen an, das Minecraft ihr Lieblingsspiel sei (vgl. JIM-Studie
+  2016, S. 45). Um an der Lebenswelt junger Menschen anzuknüpfen, ist es deshalb
+  ein interessantes Tool für die Bildung, zumal es durch seine offene Struktur
+  und Modifizierbarkeit fast beliebige Anwendungsmöglichkeiten hat. Es ist eine
+  Art virtuelles Lego mit unbegrenztem Baukasten, in dem noch dazu alle
+  gemeinsam bauen können. Über das Bauen hinaus können Programmierungen und
+  elektrische Schaltungen eingesetzt werden. Für die Arbeit in der Schule lohnt
+  es sich in der Regel, anstelle des Original-Minecraft den kostenlosen
+  Open-Source-Klon Minetest einzusetzen." (Tobias Thiel)
+tipp: "* Es werden konkret Unterrichtsbeispiele für 4 Fächer aufgeführt:\r\n1. Biologie/Ökologie: Baut einen Fluss, der gute Lebensbedingungen bietet und einen Fluss, in dem es deutlich weniger Leben gibt.\r\n* 2. Kunst: Baut drei historische Gebäude in ihrem architektonischen Stil nach: Renaissance, Klassizismus und Neogotik.\r\n3. Religion/Ethik: Baut eine Kirche, eine Synagoge und eine Moschee\r\n4. Sozialkunde/Wirtschaft/Ökologie/Ethik: Baut die Stadt der Zukunft.\r\nDie für diese Szenarien erstellte Beispielwelt steht zum Download bereit:\r\nMan muss sie in den Ordner \"worlds\" im Minetest-Ordner entpacken.\r\nNach dem Neustart von Minetest muss man die Welt \"LiGa\" auswähen\r\nhttp://junge-akademie-wittenberg.de/sites/default/files/downloads/liga.zip\r\n\r\nWeitere Links und Resourcen:\r\n*Minetest in der Schule (Wiki) mit ausführlichen Schritt-für-Schritt Anleitungen (Birgit Lacher)\r\nhttps://wiki.minetest.net/Minetest_in_der_Schule\r\n*Lebendige Facebook-Gruppe zum Einsatz von Minntest/Minecraft in der Schule\r\nhttps://www.facebook.com/groups/1458900627735518/?ref=br_rs\r\n*MinetestEdu: visuelles Admin-Tool für die Steuerung von Welteinstellungen und Teilnehmer-/Schüler-Aktivitäten - angelehnt an Minecraft-Edu\r\nhttps://github.com/minetest4edu"
 medien:
   - medien-2
   - medien-3
@@ -48,6 +59,6 @@ author-name: Heiko Idensen
 author-email: heikoidensen@gmail.com
 author-website: 'http://idensen.org/'
 tags: Reviewed
-date: '2017-10-07T13:39:31.074Z'
+date: '2017-10-07T14:00:59.551Z'
 ---
 empty
