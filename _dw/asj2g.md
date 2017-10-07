@@ -1,5 +1,5 @@
 ---
-_id: 3f3a3420-ab4d-11e7-bdd5-75c72ce51879
+_id: 75c7a860-ab4d-11e7-bdd5-75c72ce51879
 title: asj2g
 art: oer
 titel: Produzieren eines Lernspieles zur Recherche im Internet
@@ -29,7 +29,7 @@ vorbereitungszeit: vorbereitungszeit-3
 author-name: Steffen Jauch
 author-email: steffen_jauch@me.com
 author-website: www.schuleunterstrom.de
-tags: PC
-date: '2017-10-07T10:49:52.135Z'
+tags: 'PC, reviewed'
+date: '2017-10-07T10:51:23.669Z'
 ---
 empty
