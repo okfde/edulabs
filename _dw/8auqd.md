@@ -1,13 +1,13 @@
 ---
-_id: 2a0a2770-ab63-11e7-80b1-75ea103d587c
+_id: b75c0570-ab64-11e7-9929-9702fb35fd14
 title: 8auqd
 art: oer
 titel: Computerspiele zum Thema Flucht und Asyl spielen und bewerten
 desc: >-
-  Das Material beinhaltet eine Zusammenstellung und Kommentierung von
-  Computerspielen zu Flucht und Asyl. Zum Einsatz gebracht werden im Unterricht
-  kann es, indem die SchülerInnen in Kleingruppen je ein Spiel spielen und im
-  Anschluss darüber in der gesamten Klasse berichten.
+  Das Material beinhaltet eine Zusammenstellung von Computerspielen zu Flucht
+  und Asyl inklusive Kommentar. Schülerinnen und Schüler können in Kleingruppen
+  je ein Spiel spielen und im Anschluss darüber in der gesamten Klasse
+  berichten.
 link: >-
   https://www.medienpaedagogik-praxis.de/2016/09/13/computerspiele-zum-thema-flucht-und-asyl/
 lernziele: >-
@@ -36,7 +36,7 @@ vorbereitungszeit: vorbereitungszeit-2
 author-name: Nele Hirsch
 author-email: nele@ebildungslabor.de
 author-website: www.ebildungslabor.de
-tags: ''
-date: '2017-10-07T13:26:45.525Z'
+tags: reviewed
+date: '2017-10-07T13:37:52.195Z'
 ---
 empty
