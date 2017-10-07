@@ -1,5 +1,5 @@
 ---
-_id: f507a580-ab4d-11e7-bdd5-75c72ce51879
+_id: 9084c350-ab51-11e7-bdd5-75c72ce51879
 title: tuw2r
 art: oer
 titel: 'Wikipedia Bild-, Audio- oder Videodateien im eigenen Produkt einsetzen'
@@ -17,7 +17,7 @@ lernziele: >-
   SocialMedia Profilen Urheberrechtlich geschütztes Material zu verwenden.
   Reflexion über das Thema kann mit unterschiedlichen Methoden angeleitet
   werden.
-tipp: "Aufgabenstellung an die SuS:\r\nSuche in der Wikipedia nach einem Thema, das dich persönlich interessiert. (Ideen: Schloß Karlsruhe, Minecraft, Lieblingsband, Youtuber...) - schaue welche Mediendateien im Artikel angeboten werden. Checke mit Hilfe des Lizenzhinweisgenerators ob und wie du diese Medien in deine schulischen oder privaten Nutzung verwenden kannst.\r\nMögliche Reflektionsfragen:\r\nWelche Gedanken kommen dir beim recherchieren?\r\nIst die Plattform leicht zu bedienen?\r\nWo hast du bisher gesucht?\r\nWelche Plattformen gibt es noch und wie dürfen diese Medien benutzt werden (Bsp. Pixabay, Google Suche, KENNT DER REVIER*IN noch Portale)"
+tipp: "Aufgabenstellung an die SuS:\r\nSuche in der Wikipedia nach einem Thema, das dich persönlich interessiert. (Ideen: Schloß Karlsruhe, Minecraft, Lieblingsband, Youtuber...) – schaue welche Mediendateien im Artikel angeboten werden. Checke mit Hilfe des Lizenzhinweisgenerators ob und wie du diese Medien in deine schulischen oder privaten Nutzung verwenden kannst.\r\n* Mögliche Reflektionsfragen:\r\n* Welche Gedanken kommen dir beim recherchieren?\r\n* Ist die Plattform leicht zu bedienen?\r\n* Wo hast du bisher gesucht?\r\n* Welche Plattformen gibt es noch und wie dürfen diese Medien benutzt werden? (Bsp. [Pixabay](https://pixabay.com/), [Google Suche](https://www.google.de/imghp?hl=de&tab=wi), [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page), [Photos for Class](http://www.photosforclass.com/), [flickr](https://www.flickr.com/))"
 medien:
   - medien-1
   - medien-2
@@ -60,7 +60,7 @@ vorbereitungszeit: vorbereitungszeit-1
 author-name: Thorsten Belzer
 author-email: mail@thorstenbelzer.de
 author-website: 'http://www.thorstenbelzer.de'
-tags: 'internet,pc,'
-date: '2017-10-07T10:54:57.152Z'
+tags: 'internet,pc,reviewed'
+date: '2017-10-07T11:20:46.542Z'
 ---
 empty
