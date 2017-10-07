@@ -1,7 +1,7 @@
 ---
 _id: decf9850-ab5b-11e7-bdd5-75c72ce51879
 title: dsspy
-art: oer
+art: noer
 titel: >-
   Digitales spielbasiertes Lernen - Anregungen zur methodischen Ausgestaltung
   von Lerninhalten
