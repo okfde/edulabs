@@ -1,5 +1,5 @@
 ---
-_id: 95496dc0-ab45-11e7-a77c-717033e1f76a
+_id: f507a580-ab4d-11e7-bdd5-75c72ce51879
 title: tuw2r
 art: oer
 titel: 'Wikipedia Bild-, Audio- oder Videodateien im eigenen Produkt einsetzen'
@@ -61,6 +61,6 @@ author-name: Thorsten Belzer
 author-email: mail@thorstenbelzer.de
 author-website: 'http://www.thorstenbelzer.de'
 tags: 'internet,pc,'
-date: '2017-10-07T09:55:00.606Z'
+date: '2017-10-07T10:54:57.152Z'
 ---
 empty
