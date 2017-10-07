@@ -56,7 +56,7 @@ dauer:
   - dauer-3
   - dauer-4
 vorbereitungszeit: vorbereitungszeit-3
-author-name: Nele
+author-name: Nele Hirsch
 author-email: nele@ebildungslabor.de
 author-website: www.ebildungslabor.de
 tags: 'Peer-to-Peer, reviewed'

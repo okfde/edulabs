@@ -40,7 +40,7 @@ zielgruppe:
 lizenz: lizenz-3
 dauer: dauer-1
 vorbereitungszeit: vorbereitungszeit-6
-author-name: Nele
+author-name: Nele Hirsch
 author-email: nele@ebildungslabor.de
 author-website: www.ebildungslabor.de
 tags: reviewed
