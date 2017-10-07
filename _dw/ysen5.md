@@ -1,5 +1,5 @@
 ---
-_id: 55787320-ab50-11e7-bdd5-75c72ce51879
+_id: 84f82890-ab62-11e7-80b1-75ea103d587c
 title: ysen5
 art: oer
 titel: Programmieren & Elektronik lernen - für Anfänger & Fortgeschrittene
@@ -10,7 +10,7 @@ desc: >-
   Materialien für Fortgeschrittene.
 link: 'http://starthardware.org/'
 lernziele: "* Die SchülerInnen kennen den Mikrocontroller und seine Funktionsweise.\r\n* Sie haben erste elektronische Bauteile kennengelernt.\r\n* Sie haben einfache Programme selbst geschrieben und wissen dadurch, wie ein Mikrocontroller programmiert wird."
-tipp: "Die verlinkten Materialien eignen sich besonders gut für Gruppenarbeiten und projektorientierten Unterricht. Auch lassen sich mit ihnen Themen aus dem Physik-\r\n und Mathematikunterricht praxisnah erfahren. Wer Geld sparen möchte, kauft die Mikrocontroller bei SunFounder (~15€) oder baut mit den SchülerInnen die Boards gleich selber (kosten ~10€)."
+tipp: "Die verlinkten Materialien eignen sich besonders gut für Gruppenarbeiten und projektorientierten Unterricht. Auch lassen sich mit ihnen Themen aus dem Physik-\r\n und Mathematikunterricht praxisnah erfahren. Wer Geld sparen möchte, kauft die Mikrocontroller bei SunFounder (~15€) oder baut mit den SchülerInnen die Boards gleich selber (kosten ~10€). [Hier](https://github.com/cdpoffline/starthardware) gibt es die Materialien auf für die offline Anwendung."
 medien:
   - medien-2
   - medien-4
@@ -42,7 +42,7 @@ vorbereitungszeit: vorbereitungszeit-6
 author-name: Maximilian Voigt
 author-email: maximilian.voigt@okfn.de
 author-website: 'https://edulabs.de'
-tags: 'arduino,Mikrocontroller'
-date: '2017-10-07T11:11:57.979Z'
+tags: 'arduino,Mikrocontroller,Sammlung'
+date: '2017-10-07T13:22:08.570Z'
 ---
 empty
