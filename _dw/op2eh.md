@@ -1,5 +1,5 @@
 ---
-_id: ac562190-aa9e-11e7-8f31-83d6976a7d08
+_id: 9a766b90-ab68-11e7-aad5-b90faa5ac528
 title: op2eh
 art: oer
 titel: Padlet im Unterricht
@@ -12,7 +12,7 @@ link: >-
   https://damianduchamps.wordpress.com/2016/09/04/padlet-das-digitale-einsteigertool-fuer-lehrer/
 lernziele: "*Motivation\r\n*Strukturierung von Wissen\r\n*Reflektion"
 tipp: >-
-  Padlet ist meines Erachtens in 2 Setting sehr sinnvoll. Einmal um mit den SuS
+  Padlet ist meines Erachtens in 2 Settings sehr sinnvoll. Einmal um mit den SuS
   zu brainstormen, dabei Wissen zu sammeln und dann gemeinsam durch die
   Wisch-Funktion zu sortieren. Andererseits können die SuS hier anonym Inhalte
   erstellen und kommentieren, wodurch die Interaktion im Unterricht unterstützt
@@ -60,7 +60,7 @@ vorbereitungszeit: vorbereitungszeit-2
 author-name: Charlott Rubach
 author-email: charlottrubach@gmx.net
 author-website: ''
-tags: BYOD
-date: '2017-10-06T14:00:13.686Z'
+tags: 'BYOD, reviewed'
+date: '2017-10-07T14:05:41.667Z'
 ---
 empty
