@@ -1,5 +1,5 @@
 ---
-_id: 9bf47220-ab3e-11e7-a77c-717033e1f76a
+_id: fdf5c3a0-ab68-11e7-aad5-b90faa5ac528
 title: l6gzu
 art: oer
 titel: Einfache Texte zum Lesenlernen
@@ -34,7 +34,7 @@ vorbereitungszeit: vorbereitungszeit-1
 author-name: Nele Hirsch
 author-email: nele@ebildungslabor.de
 author-website: www.ebildungslabor.de
-tags: ''
-date: '2017-10-07T09:05:05.249Z'
+tags: reviewed
+date: '2017-10-07T14:08:28.547Z'
 ---
 empty
