@@ -1,8 +1,8 @@
 ---
-_id: 120d3990-ab41-11e7-a77c-717033e1f76a
+_id: 9dda17b0-ab62-11e7-80b1-75ea103d587c
 title: zxiz9
 art: oer
-titel: Denkmäler vor der eigenen Haustür
+titel: Denkmäler vor der eigenen Haustür verstehen
 desc: >-
   Ein Lernmodul von Segu Geschichte, das SchülerInnen zur Auseinandersetzung mit
   Denkmälern an ihrem Wohnort ermuntert und dazu Analyse- und Reflexionsaufgaben
@@ -13,6 +13,10 @@ tipp: >-
   Als Ergänzung/ Alternative können auch bekannte Denkmäler vorgestellt und
   analysiert werden (hier beschrieben:
   https://segu-geschichte.de/denkmal-denkmaeler-untersuchen/)
+medien:
+  - medien-1
+  - medien-2
+  - medien-3
 fach: fach-3
 long-fach:
   - long-fach-6
@@ -26,10 +30,10 @@ dauer:
   - dauer-2
   - dauer-3
 vorbereitungszeit: vorbereitungszeit-2
-author-name: Nele
+author-name: Nele Hirsch
 author-email: nele@ebildungslabor.de
 author-website: www.ebildungslabor.de
-tags: ''
-date: '2017-10-07T09:22:42.414Z'
+tags: reviewed
+date: '2017-10-07T13:22:50.327Z'
 ---
 empty
