@@ -1,5 +1,5 @@
 ---
-_id: 3fd35e90-aa97-11e7-8f31-83d6976a7d08
+_id: 9bf47220-ab3e-11e7-a77c-717033e1f76a
 title: l6gzu
 art: oer
 titel: Einfache Texte zum Lesenlernen
@@ -14,7 +14,9 @@ lernziele: >-
   Lesenlernen in Vorschule und Grundschule. Die Texte können als Ergänzung im
   Unterricht eingesetzt werden oder auch im Rahmen von Hausaufgaben. Kinder
   können sich ihre Texte je nach Interessensgebiet auswählen. Mit etwas älteren
-  Kindern können eigene Texte geschrieben und veröffentlicht werden.
+  Kindern können eigene Texte geschrieben und veröffentlicht werden. Damit
+  werden erste Schritte zu aktiver Gestaltung im Internet unternommen und Kinder
+  unterstützen andere Kinder in ihrem Lernprozess.
 tipp: >-
   Technische Infrastruktur ist nur nötig, wenn eigene Texte veröffentlicht
   werden sollen. Zum Lesenlernen können die Texte vorab heruntergeladen und als
@@ -33,6 +35,6 @@ author-name: Nele
 author-email: nele@ebildungslabor.de
 author-website: www.ebildungslabor.de
 tags: ''
-date: '2017-10-06T13:07:04.789Z'
+date: '2017-10-07T09:05:05.249Z'
 ---
 empty
