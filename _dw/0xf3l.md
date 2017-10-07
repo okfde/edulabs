@@ -1,16 +1,16 @@
 ---
-_id: fb9f0d00-aaa5-11e7-9374-db875047f0f7
+_id: 1c9206d0-ab68-11e7-9686-dbf837d6a4ce
 title: 0xf3l
 art: oer
 titel: Comics im Deutschunterricht
 desc: >-
   Visualisierung von Unterrichtsinhalten können genutzt werden, um Wissen zu
-  reflektieren - Nutzt einfach Comic´s. Hier gibt unterschiedliche Tools. SuS
+  reflektieren – Nutzt einfach Comic´s. Hier gibt unterschiedliche Tools. SuS
   können eigene Geschichten bauen und beispielsweise in Deutsch gelernte Inhalte
   (Grammatikregeln) anwenden.
 link: >-
   http://www.schule-bw.de/faecher-und-schularten/sprachen-und-literatur/deutsch/unterrichtseinheiten/projekte/comics
-lernziele: "-Stilistik Sprache\r\n-Motivation\r\n-Anwendung"
+lernziele: "* Stilistik Sprache\r\n* Motivation\r\n* Anwendung"
 tipp: "Eine kostenlose App ist Comic Creator. Hier können schnell Comics erstellt werden und unterschiedliche Features genutzt werden.\r\n[comic creator](https://play.google.com/store/apps/details?id=com.tiltedchair.cacomic&hl=de)"
 medien:
   - medien-1
@@ -44,7 +44,7 @@ author-email:
 author-website:
   - ''
   - ''
-tags: ''
-date: '2017-10-06T14:52:32.747Z'
+tags: reviewed
+date: '2017-10-07T14:02:10.420Z'
 ---
 empty
