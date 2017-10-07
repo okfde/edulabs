@@ -1,5 +1,5 @@
 ---
-_id: c27dd3e0-aab8-11e7-84ef-ad52715d922e
+_id: f418f330-ab62-11e7-80b1-75ea103d587c
 title: eoeu8
 art: oer
 titel: Wikipedia-Artikel im Unterricht erstellen
@@ -60,7 +60,7 @@ vorbereitungszeit: vorbereitungszeit-1
 author-name: Alexa Schaegner
 author-email: aschaegner@politik-digital.de
 author-website: www.politik-digital.de
-tags: ''
-date: '2017-10-06T17:06:57.384Z'
+tags: reviewed
+date: '2017-10-07T13:25:15.051Z'
 ---
 empty
