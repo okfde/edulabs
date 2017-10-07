@@ -1,5 +1,5 @@
 ---
-_id: c8408190-ab55-11e7-bdd5-75c72ce51879
+_id: 31d4e820-ab66-11e7-9a57-390a7eb57d6b
 title: 3mfcc
 art: oer
 titel: Computerkurse ohne Strom
@@ -51,7 +51,7 @@ vorbereitungszeit: vorbereitungszeit-4
 author-name: Sebastian Becker
 author-email: sebastian.becker@uni-goettingen.de
 author-website: about.me/lect
-tags: 'Informatik, Algorithmen, Algorithmus, Computer,Verschlüsselung CS, unplugged'
-date: '2017-10-07T11:50:58.024Z'
+tags: '???'
+date: '2017-10-07T13:48:27.107Z'
 ---
 empty
