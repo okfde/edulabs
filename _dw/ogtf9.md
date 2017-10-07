@@ -1,5 +1,5 @@
 ---
-_id: e9a8b940-aa94-11e7-8038-fb449a869845
+_id: c1fec980-ab60-11e7-80b1-75ea103d587c
 title: ogtf9
 art: oer
 titel: Social-Media-Offline-Spiel
@@ -30,7 +30,7 @@ vorbereitungszeit: vorbereitungszeit-4
 author-name: Steffen Jauch
 author-email: steffen_jauch@me.com
 author-website: www.schuleunterstrom.de
-tags: ''
-date: '2017-10-06T12:50:21.222Z'
+tags: reviewed
+date: '2017-10-07T13:09:32.084Z'
 ---
 empty
