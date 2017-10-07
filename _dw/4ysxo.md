@@ -1,13 +1,17 @@
 ---
-_id: 56384d80-aa9c-11e7-8f31-83d6976a7d08
+_id: 50308360-ab66-11e7-9a57-390a7eb57d6b
 title: 4ysxo
 art: oer
 titel: Snapchat Story im Unterricht
-desc: "Storytelling mit Snapchat ist eine Alternative zu klassischen Referaten und Präsentationen.\r\nGeeignete Themen werden durch durch eine Story, bestehend aus mehreren 10 Sekunden Snaps (kurze Videos) aufbereitet und illustriert. Die Methode eignet sich für Einzel- oder Gruppenarbeit."
+desc: >-
+  Beim Storytelling mit Snapchat werden Themen durch mehrere 10 Sekunden Snaps
+  (kurze Videos) aufbereitet und illustriert. Die Methode eignet sich für
+  Einzel- oder Gruppenarbeit und stellt eine Alternative zu klassischen
+  Referaten und Präsentationen dar.
 link: >-
   https://mihajlovicfreiburg.com/2016/09/02/snapchat-story-eine-alternative-zum-klassischen-referat/
 lernziele: "*Didaktische Reduktion lernen\r\n*Analyse der eigenen Sprache, Gestik, Mimik\r\n*Rhetorische Fähigkeiten verbessern \r\n*Kollaborative Auseinandersetzung mit Themen\r\n*Kreative Aufbereitung von Inhalten und Themen \r\n*Austausch, Reflexion über Themen"
-tipp: "Die Methode entspringt der Lebenswirklichkeit der SuS, daher sind sie mit der Nutzung vertraut und der Einsatz der App im Unterricht hat einen motivierenden Charakter.\r\nAuch stille und introvertierteren SuS können sich so an Präsentationen (mit oder ohne Publikum) herantasten. Besonders empfehlenswert ist die Methode für die Fachbereiche Geschichte & Gesellschaft, kulturelle Bildung und Sprachen. \r\nDie Frage des Urheberrechts der verwendeten Inhalte sollte vorherthematisiert werden. \r\nZur Vorbereitung empfiehlt sich der \r\n[Blogartikel] (http://blog.patrickbreitenbach.de/content-creation-snapchat-bildung-formatentwicklung/) von Patrick Breitenbach."
+tipp: "SuS sind mit der Nutzung von Snapchat vertraut und der Einsatz der App im Unterricht hat einen motivierenden Charakter.\r\nAuch stillere SuS können sich so an Präsentationen (mit oder ohne Publikum) herantasten. Besonders empfehlenswert ist die Methode für die Fachbereiche Geschichte & Gesellschaft, kulturelle Bildung und Sprachen. \r\nDie Frage des Urheberrechts der verwendeten Inhalte sollte vorher thematisiert werden. \r\nZur Vorbereitung empfiehlt sich der \r\n[Blogartikel] (http://blog.patrickbreitenbach.de/content-creation-snapchat-bildung-formatentwicklung/) von Patrick Breitenbach."
 medien:
   - medien-1
   - medien-3
@@ -69,7 +73,7 @@ author-website:
   - ''
   - ''
   - ''
-tags: social media
-date: '2017-10-06T13:43:29.785Z'
+tags: socialmedia reviewed
+date: '2017-10-07T13:49:18.048Z'
 ---
 empty
