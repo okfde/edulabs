@@ -1,5 +1,5 @@
 ---
-_id: 3bd5d140-ab3e-11e7-a77c-717033e1f76a
+_id: c1213360-ab63-11e7-80b1-75ea103d587c
 title: ngalz
 art: oer
 titel: Datensicherheit mit den 'Digital Defenders'
@@ -38,7 +38,7 @@ vorbereitungszeit: vorbereitungszeit-1
 author-name: Nele
 author-email: nele@ebildungslabor.de
 author-website: www.ebildungslabor.de
-tags: ''
-date: '2017-10-07T09:02:24.082Z'
+tags: reviewed
+date: '2017-10-07T13:30:59.035Z'
 ---
 empty
