@@ -1,23 +1,27 @@
 ---
-_id: 6fb9da30-aaab-11e7-9bd0-abc21f92878a
+_id: 4d796460-ab3f-11e7-a77c-717033e1f76a
 title: c7x2h
 art: oer
 titel: Öffentlichkeitsarbeit mit Twitter - selbst ausprobieren.
 desc: >-
   Mit dem Projekt 'Twittern wie Luther' setzen sich Schülerinnen und Schüler mit
   den Thesen Martin Luthers auseinander und testen, wie sich mit Twitter
-  heutzutage Botschaften in die Öffentlichkeit bringen lassen.
+  heutzutage Botschaften in die Öffentlichkeit bringen lassen. Das Projekt lässt
+  sich beliebig thematisch variieren.
 link: 'https://material.rpi-virtuell.de/material/twittern-wie-luther/'
 lernziele: >-
   Bei direkter Übertragung stellt das Projekt eine Einführung in Luthers Thesen
   in Verbindung mit einer Einführung in Möglichkeiten von Öffentlichkeitsarbeit
   über soziale Netzwerke - speziell Twitter - dar. Es sind aber beliebige
   thematische Variationen denkbar, z.B. auch eine Übertragung auf andere
-  historische Persönlichkeiten.
+  historische Persönlichkeiten. Im Rahmen eines solchen Projektes kann Twitter
+  als ein soziales Netzwerk vorgestellt und die damit verbundenen Möglichkeiten
+  von Öffentlichkeitsarbeit analysiert und reflektiert werden. Durch die
+  Twitter-Zeichenbegrenzung wird zudem gelernt, bestimmte Thesen/ Inhalte 'auf
+  den Punkt' zu bringen.
 tipp: >-
   Idee für Schulfeste/ Projekttage bei Schulen, die den Namen berühmter
-  Persönlichkeiten tragen: was würde der Namensgeber unserer Schule heute
-  twittern?
+  Persönlichkeiten tragen: was würde der Namensgeber unserer Schule twittern?
 medien:
   - medien-1
   - medien-3
@@ -47,6 +51,6 @@ author-name: Nele
 author-email: nele@ebildungslabor.de
 author-website: www.ebildungslabor.de
 tags: reviewed
-date: '2017-10-06T15:31:35.138Z'
+date: '2017-10-07T09:10:03.079Z'
 ---
 empty
