@@ -1,22 +1,18 @@
 ---
-_id: 6f1716d0-ab35-11e7-84ef-ad52715d922e
+_id: 3bd5d140-ab3e-11e7-a77c-717033e1f76a
 title: ngalz
 art: oer
 titel: Datensicherheit mit den 'Digital Defenders'
 desc: >-
   Kurze Übersichtsbroschüre für Jugendliche, die aufklärt über Datenschutz mit
   Smartphone und Laptop. Aufgebaut als kurze, praxisorientierte Artikel mit
-  'Testfrage' zum Abschluss.
+  'Testfrage' zum Abschluss. Im Unterricht vielfältig einsetzbar als
+  Diskussionseinstieg oder für eigene Positionsfindung und -artikulation.
 link: 'https://edri.org/files/defenders_v_intruders_de_web.pdf'
-lernziele: >-
-  Die Broschüre eignet sich überwiegend als Selbstlern-Material für Jugenliche
-  und kann im Unterricht z.B. als Flipped Classroom Material vor einer
-  Diskussion über Datenschutz verwendet werden. Jugendliche erhalten mit der
-  Broschüre einen guten Einstieg in das wie und warum von Datenschutz in einer
-  zunehmend digitalisierten Gesellschaft.
+lernziele: "Die Broschüre eignet sich überwiegend als Selbstlern-Material für Jugendliche und kann im Unterricht z.B. als Flipped Classroom Material vor einer Diskussion über Datenschutz verwendet werden. Jugendliche erhalten mit der Broschüre einen guten Einstieg in das wie und warum von Datenschutz in einer zunehmend digitalisierten Gesellschaft. Im Unterricht können damit verschiedene Aufgaben/ Leitfragen verbunden werden. Beispiele sind:\r\nAnalyse des Umgangs mit den eigenen Daten: Wie nutze ich mein eigenes Smartphone?\r\nBester Freund/ beste Freundin-Empfehlung: Was würdest Du Deinem besten Freund/ Deiner besten Freundin als erste Schritt Maßnahmen für mehr Datenschutz empfehlen?"
 tipp: >-
-  Gut geeignet für Vertretungsstunden: einfach ausdrucken, austeilen und darüber
-  diskutieren lassen.
+  Gut geeignet für Vertretungsstunden: einfach ausdrucken, austeilen und
+  Leitfrage zur Diskussion dazu empfehlen.
 fach:
   - fach-3
   - fach-5
@@ -43,6 +39,6 @@ author-name: Nele
 author-email: nele@ebildungslabor.de
 author-website: www.ebildungslabor.de
 tags: ''
-date: '2017-10-07T07:59:24.590Z'
+date: '2017-10-07T09:02:24.082Z'
 ---
 empty
