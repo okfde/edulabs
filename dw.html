@@ -27,7 +27,7 @@ type: false
             {% for theme in site.data.digitalen_welt.themes %}
             <div class="theme menu-button black"><span onclick="$('.subtheme-{{forloop.index}}').slideToggle();">{{ theme.name }}</span>
                 {% capture theme_top %}{{forloop.index}}{% endcapture %}
-                <div class="filter subtheme-{{forloop.index}} grey-light subtheme" style="display: none">
+                <div data-filter-group="kmk" class="filter subtheme-{{forloop.index}} grey-light subtheme" style="display: none">
                     {% for subtheme in theme.subthemes %}
                     <div class="item submenu-button black filter-item" data-filter=".kmk-{{theme_top}}-{{forloop.index}}">{{ subtheme.name }}</div>
                     {% endfor %}
@@ -36,7 +36,7 @@ type: false
             {% endfor %}
         </div><br>
             <h3>Medieneinsatz</h3>
-          <div class="filter">
+          <div class="filter" data-filter-group="medien" >
           {% for media in site.data.digitalen_welt.medieneinsatz %}
           <div class="item"><a href="#" class="filter-item" data-filter=".medien-{{ forloop.index }}">{{ media.name }}</a></div>
           {% endfor %}
