@@ -1,7 +1,7 @@
 ---
-_id: e901b4b0-ab61-11e7-80b1-75ea103d587c
+_id: f16c8b60-ad24-11e7-a1cf-8971f8c2d4c4
 title: colit
-art: oer
+art: noer
 titel: aula- Schule gemeinsam gestalten
 desc: >-
   aula ist ein Projekt für zeitgemäße, politische Bildung. Mithilfe einer
@@ -51,7 +51,7 @@ vorbereitungszeit: vorbereitungszeit-6
 author-name: Alexa Schaegner
 author-email: aschaegner@politik-digital.de
 author-website: www.aula.de
-tags: 'PC, reviewed'
-date: '2017-10-07T13:17:46.930Z'
+tags: 'PC,reviewed'
+date: '2017-10-09T19:06:24.210Z'
 ---
 empty
