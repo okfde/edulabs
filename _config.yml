@@ -55,10 +55,10 @@ collections:
     permalink: /:collection/:name
   dw:
     output: true
-    permalink: /dw/:title/index.html
+    permalink: /oer/:title/index.html
   dw-edit:
     output: true
-    permalink: /dw/:title/edit
+    permalink: /oer/:title/edit
   project:
     output: true
     permalink: /projects/:title/index.html
