@@ -38,12 +38,9 @@ dauer:
 vorbereitungszeit: vorbereitungszeit-3
 author-name:
   - Charlott Rubach
-  - ''
 author-email:
   - charlottrubach@gmx.net
-  - ''
 author-website:
-  - ''
   - ''
 tags: reviewed
 date: '2017-10-07T14:02:10.420Z'
