@@ -13,7 +13,7 @@
         }
     };
 
-    var ref, controller, filterList, 
+    var ref, controller, filterList,
         $itemsWrap, $items, $grid, isotopeInitialized;
     function IsotopeController(pController){
         ref = this;
@@ -26,6 +26,7 @@
 
         ref.options = pOptions;
 
+        filterGroups = {};
         filterList = [];
 
         $itemsWrap = $('.isotope-wrap');
@@ -35,6 +36,14 @@
         $('.filter-item').click(function(e){
 
             e.preventDefault();
+
+            var $buttonGroup = $(this).parents('.filter');
+            var filterGroup = ''
+            if ($buttonGroup) {
+                filterGroup = $buttonGroup.attr('data-filter-group');
+            } else {
+                filterGroup = 'default';
+            }
 
             var filter = $(this).attr('data-filter');
 
@@ -46,11 +55,12 @@
                     $('.filter-item').removeClass('active');
                 }
 
-                ref.addFilterToList(filter);
+                ref.addFilterToList(filterGroup, filter);
+
                 $(this).addClass('active');
             } else {
                 //remove filter
-                ref.removeFilterFromList(filter);
+                ref.removeFilterFromList(filterGroup, filter);
                 $(this).removeClass('active hover');
             }
 
@@ -65,6 +75,15 @@
 
     };
 
+    IsotopeController.prototype.concatValues = function ( obj  ) {
+           var value = '';
+           for ( var prop in obj  ) {
+                   value += obj[ prop  ];
+
+           }
+             return value;
+    }
+
     IsotopeController.prototype.setTileZindex = function($e){
         for(var a=0; a<$items.length;++a){
             var $t = $items.eq(a);
@@ -74,31 +93,39 @@
         }
     };
 
-    IsotopeController.prototype.addFilterToList = function(filter){
+    IsotopeController.prototype.addFilterToList = function(group, filter){
         Logger.log("add filter -> " + filter);
         //check if filter is already in list
         var found = false;
-        for (var a = 0; a < filterList.length; ++a) {
-            var f = filterList[a];
-            if(filter == f) found = true;
+        if (filterGroups.hasOwnProperty(group)) {
+            for (var a = 0; a < filterGroups[group].length; ++a) {
+                var f = filterGroups[group][a];
+                if(filter == f) found = true;
+            }
+        } else {
+             filterGroups[group] = [];
+             found = false;
         }
-        if(!found) filterList.push(filter);
-        ref.filterList(filterList.join());
+        if(!found) filterGroups[group].push(filter);
+        //ref.filterList(filterGroups.join());
+        ref.filterList();
     };
 
-    IsotopeController.prototype.removeFilterFromList = function(filter){
+    IsotopeController.prototype.removeFilterFromList = function(group, filter){
         Logger.log("remove filter -> " + filter);
         //check if filter is already in list
-        for (var a = 0; a < filterList.length; ++a) {
-            var f = filterList[a];
-            if(filter == f)filterList.splice(a, 1);
+        for (var a = 0; a < filterGroups[group].length; ++a) {
+            var f = filterGroups[group][a];
+            if(filter == f)filterGroups[group].splice(a, 1);
         }
-        ref.filterList(filterList.join());
+        //ref.filterList(filterList.join());
+        ref.filterList();
     };
 
     IsotopeController.prototype.filterList = function(filters){
         Logger.log("filterList -> " + filters);
-        $itemsWrap.isotope({ filter: filters });
+        var filterValue = ref.concatValues(filterGroups);
+        $itemsWrap.isotope({ filter: filterValue });
     };
 
     IsotopeController.prototype.resize = function(viewportChanged){

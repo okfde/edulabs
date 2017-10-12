@@ -52,6 +52,7 @@
         var options = {
             multiple: true //if set to TRUE you can filter by multiple items
         };
+
         isotopeController.init(options);
 
         ref.addEventHandlers();
