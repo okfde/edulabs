@@ -14,7 +14,8 @@
     {% assign posts = site.dw %}
     {% endif %}
     {% for post in posts %}
-      {% if post.visible == 1  %}
+      {% if post.visible == 0  %}
+      {% else %}
           {% if post.tags %}
               {% assign categories = "#" %}
               {% assign filter = '' %}
