@@ -3,6 +3,7 @@ _id: 8a450b20-af4e-11e7-a1cf-8971f8c2d4c4
 title: mbxnm
 art: oer
 titel: Mit dem heißen Draht Elektrotechnik verstehen
+visible: 0
 desc: >-
   Dies ist ein einfaches und spaßiges Elektronik-Projekt. Es kommen Lötkolben
   und elektrische Bauteile zum Einsatz, aber auf einer sehr einfachen und
