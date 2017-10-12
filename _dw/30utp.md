@@ -3,6 +3,7 @@ _id: c4a91c80-aab1-11e7-a55a-4daac0be43df
 title: 30utp
 art: oer
 titel: Erklärvideos im Unterricht erstellen
+visible: 1
 desc: >-
   Ob ihr Lehrer gut erklärt oder nicht, ist vielen SuS mittlerweile egal. Sie
   lassen sich die Inhalte später einfach von ihrem Lieblings-Youtuber erklären.

@@ -14,19 +14,21 @@
     {% assign posts = site.dw %}
     {% endif %}
     {% for post in posts %}
-      {% if post.tags %}
-          {% assign categories = "#" %}
-          {% assign filter = '' %}
-          {% for tag in post.tags %}
-             {% assign t = tag | remove:',' %}
-             {% assign categories = categories | append: tag | append: ' ' %}
-             {% assign filter = filter | append: t | append: ' ' %}
-          {% endfor %}
+      {% if post.visible == 1  %}
+          {% if post.tags %}
+              {% assign categories = "#" %}
+              {% assign filter = '' %}
+              {% for tag in post.tags %}
+                 {% assign t = tag | remove:',' %}
+                 {% assign categories = categories | append: tag | append: ' ' %}
+                 {% assign filter = filter | append: t | append: ' ' %}
+              {% endfor %}
+          {% endif %}
+          {% assign fach = post.fach | join:' ' %}
+          {% assign medien = post.medien | join:' ' %}
+          {% assign kmk = post.kmk | join:' ' %}
+          {% assign tags = post.tags | split:',' | join:' ' %}
+          {% include partials/dw/dw-teaser.liquid art=post.art lizenz=post.lizenz date=post.date kmk=post.kmk zielgruppe=post.zielgruppe fachbereich=post.long-fach kmk=kmk fach=fach medien=medien featured=post.featured url=post.url filter=filter desc=post.desc categories=categories src=post.teaser_img_src headline=post.titel copy=post.teaser %}
       {% endif %}
-      {% assign fach = post.fach | join:' ' %}
-      {% assign medien = post.medien | join:' ' %}
-      {% assign kmk = post.kmk | join:' ' %}
-      {% assign tags = post.tags | split:',' | join:' ' %}
-      {% include partials/dw/dw-teaser.liquid art=post.art lizenz=post.lizenz date=post.date kmk=post.kmk zielgruppe=post.zielgruppe fachbereich=post.long-fach kmk=kmk fach=fach medien=medien featured=post.featured url=post.url filter=filter desc=post.desc categories=categories src=post.teaser_img_src headline=post.titel copy=post.teaser %}
     {% endfor %}
 </div>

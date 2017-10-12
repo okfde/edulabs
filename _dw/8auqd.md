@@ -3,6 +3,7 @@ _id: b75c0570-ab64-11e7-9929-9702fb35fd14
 title: 8auqd
 art: oer
 titel: Computerspiele zum Thema Flucht und Asyl spielen und bewerten
+visible: 1
 desc: >-
   Das Material beinhaltet eine Zusammenstellung von Computerspielen zu Flucht
   und Asyl inklusive Kommentar. Schülerinnen und Schüler können in Kleingruppen

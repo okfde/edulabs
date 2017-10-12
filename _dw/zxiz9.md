@@ -3,6 +3,7 @@ _id: 686c00b0-ab63-11e7-80b1-75ea103d587c
 title: zxiz9
 art: oer
 titel: Denkmäler vor der eigenen Haustür verstehen
+visible: 1
 desc: >-
   Ein Lernmodul von Segu Geschichte, das SchülerInnen zur Auseinandersetzung mit
   Denkmälern an ihrem Wohnort ermuntert und dazu Analyse- und Reflexionsaufgaben

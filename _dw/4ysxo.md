@@ -3,6 +3,7 @@ _id: 50308360-ab66-11e7-9a57-390a7eb57d6b
 title: 4ysxo
 art: oer
 titel: Snapchat Story im Unterricht
+visible: 1
 desc: >-
   Beim Storytelling mit Snapchat werden Themen durch mehrere 10 Sekunden Snaps
   (kurze Videos) aufbereitet und illustriert. Die Methode eignet sich für

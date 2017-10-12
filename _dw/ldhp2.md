@@ -3,6 +3,7 @@ _id: 00d6eec0-ab62-11e7-80b1-75ea103d587c
 title: ldhp2
 art: oer
 titel: Kommunalpolitik verstehen und bewerten
+visible: 1
 desc: >-
   In diesem Unterrichtsbeispiel analysieren Jugendliche die Auswirkungen einer
   kommunalpolitischen Entscheidung auf den Umweltschutz. Es sind vielfältige

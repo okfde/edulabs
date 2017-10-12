@@ -3,6 +3,7 @@ _id: f2583e20-ab67-11e7-9686-dbf837d6a4ce
 title: zjk98
 art: oer
 titel: Freies Minecraft -MINETEST- in der Schule einsetzen
+visible: 1
 desc: >-
   Mit dem freien Open-World-Spiel können gerade Jugendliche mit Lern- und
   Artikulationsschwierigkeiten spielerisch in aktive Bau- und

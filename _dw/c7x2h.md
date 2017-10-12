@@ -3,6 +3,7 @@ _id: 4d796460-ab3f-11e7-a77c-717033e1f76a
 title: c7x2h
 art: oer
 titel: Öffentlichkeitsarbeit mit Twitter - selbst ausprobieren.
+visible: 1
 desc: >-
   Mit dem Projekt 'Twittern wie Luther' setzen sich Schülerinnen und Schüler mit
   den Thesen Martin Luthers auseinander und testen, wie sich mit Twitter

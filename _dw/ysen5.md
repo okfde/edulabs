@@ -3,6 +3,7 @@ _id: a17670f0-ab65-11e7-9a57-390a7eb57d6b
 title: ysen5
 art: oer
 titel: Programmieren & Elektronik lernen - für Anfänger & Fortgeschrittene
+visible: 1
 desc: >-
   Hier erfährst du, wie du Mikrocontroller selbst programmieren kannst. Von
   blinkenden LEDs bis zum elektronischen Haustier tauchst du ein in die

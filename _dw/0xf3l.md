@@ -3,6 +3,7 @@ _id: 1c9206d0-ab68-11e7-9686-dbf837d6a4ce
 title: 0xf3l
 art: oer
 titel: Comics im Deutschunterricht
+visible: 1
 desc: >-
   Visualisierung von Unterrichtsinhalten können genutzt werden, um Wissen zu
   reflektieren – Nutzt einfach Comic´s. Hier gibt unterschiedliche Tools. SuS

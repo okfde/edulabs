@@ -3,6 +3,7 @@ _id: c1fec980-ab60-11e7-80b1-75ea103d587c
 title: ogtf9
 art: oer
 titel: Social-Media-Offline-Spiel
+visible: 1
 desc: >-
   Innerhalb des geschützten Raumes der Klasse ermöglicht das
   Social-Network-Offline-Spiel den SuS praktische Erfahrung mit Social-Networks

@@ -3,6 +3,7 @@ _id: fa430a00-aaa6-11e7-9374-db875047f0f7
 title: vepcg
 art: oer
 titel: Aufbau der Erdatmosphäre
+visible: 0
 desc: >-
   Einfaches bebildertes Arbeitsblatt  zum Aufbau der Erdatmosphäre incl.
   QR-Codes zu Planet Wissen und Wikipedia.

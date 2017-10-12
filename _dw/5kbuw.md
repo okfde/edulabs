@@ -3,6 +3,7 @@ _id: 59599aa0-aab0-11e7-a55a-4daac0be43df
 title: 5kbuw
 art: oer
 titel: Praxisprojekt Trickfilmproduktion zum Nachmachen
+visible: 1
 desc: >-
   In Bad Reichenhall haben Kinder im Rahmen eines außerschulischen
   Medienprojekts einen Trickfilm konzipiert und mit Tablets aufgezeichnet und

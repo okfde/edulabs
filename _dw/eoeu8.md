@@ -3,6 +3,7 @@ _id: f418f330-ab62-11e7-80b1-75ea103d587c
 title: eoeu8
 art: oer
 titel: Wikipedia-Artikel im Unterricht erstellen
+visible: 1
 desc: >-
   Wikipedia Artikel verfassen bietet sich als Projektarbeit oder als Alternative
   zu Hausarbeiten und Referaten an. Durch die praktische Erstellung von

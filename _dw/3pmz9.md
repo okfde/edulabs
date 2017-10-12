@@ -3,6 +3,7 @@ _id: 885a1d70-ab50-11e7-bdd5-75c72ce51879
 title: 3pmz9
 art: oer
 titel: Techniktauschen - Nachhaltigkeit in der Schule
+visible: 1
 desc: >-
   Ziel von Techniktauschen ist es, Geräte und Zubehör möglichst lange im
   Nutzerkreislauf zu halten. Wie bei Bücher, Essen oder Kleidertauschprojekten

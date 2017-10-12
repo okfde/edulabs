@@ -3,6 +3,7 @@ _id: fd1e5160-ab52-11e7-bdd5-75c72ce51879
 title: rat5i
 art: oer
 titel: Hörspiele mit dem Geschichtenkoffer
+visible: 1
 desc: >-
   Ein schöner alter Koffer mit alten Keks- oder Kaffeedosen, in denen je drei
   kleine Gegenstände stecken schafft den Rahmen, motiviert die SuS zur

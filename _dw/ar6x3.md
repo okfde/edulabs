@@ -3,6 +3,7 @@ _id: f059fd20-ab67-11e7-9686-dbf837d6a4ce
 title: ar6x3
 art: oer
 titel: Französische Revolution - Wissen testen
+visible: 1
 desc: >-
   Mehrere Sets mit Fragen und Antworten unterstützen SchülerInnen beim Lernen
   von Grundlagen zur Französischen Revolution.

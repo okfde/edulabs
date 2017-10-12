@@ -3,6 +3,7 @@ _id: 9dd135c0-aaac-11e7-9532-b3ea54aa45b9
 title: e5os5
 art: oer
 titel: Kollaborative Arbeitsprozesse on- und offline
+visible: 0
 desc: >-
   Kommentierte Übersicht zu modernen Formen des kollaborativen Arbeitens incl.
   weiterführenden Links und Beispielen.

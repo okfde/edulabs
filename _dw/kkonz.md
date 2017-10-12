@@ -3,6 +3,7 @@ _id: 6c8a3420-ab66-11e7-9a57-390a7eb57d6b
 title: kkonz
 art: oer
 titel: 'Medienkampagnen analysieren, bewerten, selbst gestalten. Beispiel Klimaschutz'
+visible: 1
 desc: >-
   Schülerinnen und Schüler schauen sich mediale Kampagnen zu einem bestimmten
   Thema an, diskutieren über Aussagen, Zielgruppen und Wirksamkeit und können

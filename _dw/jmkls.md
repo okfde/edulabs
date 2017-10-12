@@ -3,6 +3,7 @@ _id: 3a5383c0-ab4e-11e7-bdd5-75c72ce51879
 title: jmkls
 art: oer
 titel: Lexikon-Artikel recherchieren und selber schreiben
+visible: 1
 desc: >-
   Klexikon ist ein wikibasiertes Lexikon von und für Kinder. Unter anderen im
   Rahmen des Deutsch- oder Sachunterrichts können Schülerinnen und Schüler dazu

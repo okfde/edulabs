@@ -3,6 +3,7 @@ _id: 5de64c70-ab65-11e7-9929-9702fb35fd14
 title: ngalz
 art: oer
 titel: Datensicherheit mit den 'Digital Defenders'
+visible: 1
 desc: >-
   Kurze Übersichtsbroschüre für Jugendliche, die aufklärt über Datenschutz mit
   Smartphone und Laptop. Aufgebaut als kurze, praxisorientierte Artikel mit

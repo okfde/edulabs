@@ -3,6 +3,7 @@ _id: 01f04370-ab61-11e7-80b1-75ea103d587c
 title: a29ob
 art: oer
 titel: 'Recherchieren im Internet: Beispiel Geheimschrift'
+visible: 1
 desc: >-
   Eine kleine Unterrichtsidee für die Grundschule, bei der Kinder das Internet
   als Recherche-Tool kennen und nutzen lernen: Geheime Botschaften mithilfe des

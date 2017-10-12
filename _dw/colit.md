@@ -3,6 +3,7 @@ _id: f16c8b60-ad24-11e7-a1cf-8971f8c2d4c4
 title: colit
 art: noer
 titel: aula- Schule gemeinsam gestalten
+visible: 1
 desc: >-
   aula ist ein Projekt für zeitgemäße, politische Bildung. Mithilfe einer
   Online-Plattform und didaktischem Begleitmaterial können SchülerInnen Ideen
