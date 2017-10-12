@@ -3,6 +3,7 @@ _id: 69e3cc40-ab66-11e7-9a57-390a7eb57d6b
 title: jlkk3
 art: oer
 titel: Programmieren in der Grundschule mit dem Calliope mini
+visible: 1
 desc: >-
   Die Handreichung für Lehrkräfte beschreibt 11 Projekte mit dem Calliope mini
   für die Unterrichtsfächer Deutsch, Mathematik und Sachkunde in Grundschulen ab

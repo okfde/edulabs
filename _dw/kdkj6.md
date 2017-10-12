@@ -3,6 +3,7 @@ _id: ef1d5b40-ab63-11e7-a1d2-8f25c3f5937f
 title: kdkj6
 art: oer
 titel: Biber der Informatik - Übungen zum informatischen Denken
+visible: 1
 desc: >-
   Die Aufgabenhefte des Informatik-Wettbewerbes BIBER DER INFORMATIK können für
   einen Mini-Wettbewerb innerhalb der Klasse herangezogen werden. Der Wettbewerb

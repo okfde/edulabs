@@ -3,6 +3,7 @@ _id: 1e2936c0-aaa6-11e7-9374-db875047f0f7
 title: yminw
 art: oer
 titel: Interaktive Lerninhalte selbst gestalten
+visible: 0
 desc: >-
   Mithilfe von H5P lassen sich interaktive Lerninhalte mit geringem Aufwand
   selbst gestalten. Beispiele sind interaktive Videos oder Präsentationen,

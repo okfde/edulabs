@@ -3,6 +3,7 @@ _id: 4141af10-aaac-11e7-9bd0-abc21f92878a
 title: eqia6
 art: oer
 titel: LearningApp - Aufbau des Computers
+visible: 0
 desc: >-
   Zuordnungsaufgabe der wichtigsten Bestandteile eines Computers auf
   Learningapps.org.

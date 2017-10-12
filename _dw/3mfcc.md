@@ -3,6 +3,7 @@ _id: 31d4e820-ab66-11e7-9a57-390a7eb57d6b
 title: 3mfcc
 art: oer
 titel: Computerkurse ohne Strom
+visible: 1
 desc: >-
   Anschaulich und mit einfachen Mitteln sind diverse Themengebiete ohne den
   Einsatz des PCs aufbereitet, darunter Algorithmen, Automaten, Verschlüsselung

@@ -3,6 +3,7 @@ _id: 3cd51e60-ab76-11e7-8634-47fa090f9921
 title: 6lrzd
 art: oer
 titel: Barcamp in der Schule - SchülerInnen gestalten ihre Konferenz
+visible: 1
 desc: >-
   Ein Barcamp ist ein Diskussions- und Veranstaltungsformat, deren Inhalte und
   Ablauf von den Teilnehmenden zu Beginn der Veranstaltung selbst entwickelt

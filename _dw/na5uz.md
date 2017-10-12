@@ -3,6 +3,7 @@ _id: 727f3850-ab46-11e7-a77c-717033e1f76a
 title: na5uz
 art: noer
 titel: Ein offener Moodle-Kurs zum Thema
+visible: 1
 desc: "Der Moodle-Kurs enthält Videos und Begleitmaterialien rund um die App Pocket Code, \r\nwelche einen spielerischen Einstieg in die Programmierung ermöglichen. \r\nAuf Basis eines Arbeitsplans können die SchülerInnen selbständig arbeiten. \r\nDas Ziel des Kurses ist die Erstellung einer eigenen App."
 link: 'https://tc.tugraz.at/main/course/view.php?id=1415'
 lernziele: "Grundlegende Programmierkonzepte- und Strukturen kennen lernen und anwenden\r\nProbleme abstrahieren und Lösungsschritte formulieren\r\nKreative Auseinandersetzung mit vorgegebenen Aufgabenstellungen"

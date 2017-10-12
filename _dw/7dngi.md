@@ -3,6 +3,7 @@ _id: c362e4d0-ab49-11e7-a77c-717033e1f76a
 title: 7dngi
 art: oer
 titel: Der Ozobot im Unterricht - vielfältige Einsatzbeispiele
+visible: 1
 desc: >-
   Die Sammlung enthält Lehr- und Lernmaterialien zum Miniroboter OZOBOT, welche
   in 10 thematische Abschnitte unterteilt sind - von der Einführung bis hin zu

@@ -3,6 +3,7 @@ _id: fdf5c3a0-ab68-11e7-aad5-b90faa5ac528
 title: l6gzu
 art: oer
 titel: Einfache Texte zum Lesenlernen
+visible: 1
 desc: >-
   Um gut und flüssig lesen zu lernen, ist es sinnvoll, möglichst viel lesen zu
   üben. Auf dieser Plattform finden sich hierzu einfache Texte für

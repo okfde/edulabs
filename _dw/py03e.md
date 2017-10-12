@@ -3,6 +3,7 @@ _id: 502431e0-ab67-11e7-9686-dbf837d6a4ce
 title: py03e
 art: oer
 titel: Interaktive Zeitleisten erstellen
+visible: 1
 desc: >-
   Mit dem H5P-Tool 'Timeline' können Schülerinnen und Schüler interaktive
   Zeitleisten zu jedem gewünschten Thema erstellen. Die Einträge können

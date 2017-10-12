@@ -3,6 +3,7 @@ _id: 5fa421b0-ab68-11e7-aad5-b90faa5ac528
 title: tuw2r
 art: oer
 titel: 'Wikipedia Bild-, Audio- oder Videodateien im eigenen Produkt einsetzen'
+visible: 1
 desc: >-
   SchülerInnen erstellen im Unterricht eigene Präsentationen, Videos oder andere
   Medienprodukte. Dafür benötigen Sie Bild-, Audio-oder Videodateien von anderen

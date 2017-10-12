@@ -3,6 +3,7 @@ _id: 48815340-ab5e-11e7-bdd5-75c72ce51879
 title: z6z8r
 art: noer
 titel: Smartphone Grundlagenworkshop
+visible: 1
 desc: >-
   Workshop-Konzept, um das Thema „Smartphones“ zu erarbeiten. Unterthemen wie
   „Mobile Daten“ - "WLAN" - "Apps und Berechtigungen" - „In-App-Käufe" sind

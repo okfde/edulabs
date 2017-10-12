@@ -5,6 +5,7 @@ art: noer
 titel: >-
   Digitales spielbasiertes Lernen - Anregungen zur methodischen Ausgestaltung
   von Lerninhalten
+visible: 1
 desc: >-
   Eine kurze Einführung in das digitale spielbasierte Lernen für den
   didaktischen Einsatz.

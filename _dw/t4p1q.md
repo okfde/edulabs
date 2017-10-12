@@ -3,6 +3,7 @@ _id: ef814a00-ab5f-11e7-8225-b986f284246f
 title: t4p1q
 art: oer
 titel: Twitter im Literatur- und Deutschunterricht
+visible: 1
 desc: >-
   Twitter kann die Auseinandersetzung mit Literatur spielerisch und kreativ
   erweitern. SuS  können zu verschiedenen literarischen Figuren Twitterkonten

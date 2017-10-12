@@ -3,6 +3,7 @@ _id: 9a766b90-ab68-11e7-aad5-b90faa5ac528
 title: op2eh
 art: oer
 titel: Padlet im Unterricht
+visible: 1
 desc: >-
   Padlet ist ein digitales Tool, sozusagen eine interaktive Tafel. SuS können
   diese zugangsfrei (per Link) bearbeitet. Hier gibt es 5 unterschiedliche

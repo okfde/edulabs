@@ -3,6 +3,7 @@ _id: 23c3d1f0-ab62-11e7-80b1-75ea103d587c
 title: jh8mc
 art: oer
 titel: Mit Google Gedichte machen
+visible: 1
 desc: >-
   Mit Suchmaschinen wie Google können auf leichte und unterhaltsame Weise
   Gedichte erstellt werden. Über die Autovervollständigung werden automatisch

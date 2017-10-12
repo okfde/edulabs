@@ -3,6 +3,7 @@ _id: 75c7a860-ab4d-11e7-bdd5-75c72ce51879
 title: asj2g
 art: oer
 titel: Produzieren eines Lernspieles zur Recherche im Internet
+visible: 1
 desc: >-
   Die SuS bearbeiten das Recherche Modul von www.internet-abc.de. Ausgehend
   davon erstellen sie eigene LearningApps, welche zur Übung und Wiederholung
