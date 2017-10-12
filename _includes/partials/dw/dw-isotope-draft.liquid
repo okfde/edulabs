@@ -1,0 +1,34 @@
+<div class="content-wrap filter-items green">
+  {% include partials/dw-filters.liquid %}
+</div>
+{%if include.posts_num %}
+<div class="isotope-wrap col-xs-22 col-xs-push-1 col-lg-push-3 no-padding">
+{% else %}
+<div class="isotope-wrap col-xs-22 col-xs-push-1 no-padding">
+{% endif %}
+    <div class="grid-sizer col-xs-24 col-sm-12 col-md-8 col-lg-6 col-xlg-4"></div>
+    {{ include.type }}
+    {% if include.type %}
+    {% assign posts = site.dw | where: include.type, include.theme_num %}
+    {% else %}
+    {% assign posts = site.dw %}
+    {% endif %}
+    {% for post in posts %}
+      {% if post.visible == 0  %}
+          {% if post.tags %}
+              {% assign categories = "#" %}
+              {% assign filter = '' %}
+              {% for tag in post.tags %}
+                 {% assign t = tag | remove:',' %}
+                 {% assign categories = categories | append: tag | append: ' ' %}
+                 {% assign filter = filter | append: t | append: ' ' %}
+              {% endfor %}
+          {% endif %}
+          {% assign fach = post.fach | join:' ' %}
+          {% assign medien = post.medien | join:' ' %}
+          {% assign kmk = post.kmk | join:' ' %}
+          {% assign tags = post.tags | split:',' | join:' ' %}
+          {% include partials/dw/dw-teaser.liquid art=post.art lizenz=post.lizenz date=post.date kmk=post.kmk zielgruppe=post.zielgruppe fachbereich=post.long-fach kmk=kmk fach=fach medien=medien featured=post.featured url=post.url filter=filter desc=post.desc categories=categories src=post.teaser_img_src headline=post.titel copy=post.teaser %}
+      {% endif %}
+    {% endfor %}
+</div>
