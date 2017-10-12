@@ -1,9 +1,8 @@
 ---
-_id: 8a450b20-af4e-11e7-a1cf-8971f8c2d4c4
+_id: 797158e0-af52-11e7-a1cf-8971f8c2d4c4
 title: mbxnm
 art: oer
 titel: Mit dem heißen Draht Elektrotechnik verstehen
-visible: 0
 desc: >-
   Dies ist ein einfaches und spaßiges Elektronik-Projekt. Es kommen Lötkolben
   und elektrische Bauteile zum Einsatz, aber auf einer sehr einfachen und
@@ -12,7 +11,8 @@ link: 'https://www.instructables.com/id/A-Wire-Maze-With-an-Electronics-Twist/'
 lernziele: "* Die SchülerInnen lernen grundlegende elektronische Komponenten kennen, einschließlich des Widerstands, Transistors, Transformators und der LED.\r\n* Die SchülerInnen lernen elektromagnetische Induktion und eine Flip-Flop Schaltung kennen. Durch das Verständnis dieser Konzepte sind die SchülerInnen in der Lage, einfache Schaltungen zu analysieren und Fehler zu beheben.\r\n* Die SchülerInnen lernen, mit Hilfe eines Lötkolbens eigene Schaltungen zu bauen.\r\n* Die SchülerInnen entwickeln ein Spielelement und setzen es eigenständig um."
 tipp: >-
   Für das Löten sollten genügend Personen dabei sein, die die Jugendlichen
-  beaufsichtigen können - Unfälle sind schnell passiert.
+  beaufsichtigen können - Unfälle sind schnell passiert. Auch ist es gut, ca.
+  ein Lötkolben pro drei TeilnehmerInnen mitzunehmen.
 medien: medien-4
 fach: fach-4
 long-fach:
@@ -37,6 +37,6 @@ author-name: Maximilian Voigt
 author-email: maximilian.voigt@okfn.de
 author-website: 'https://edulabs.de'
 tags: 'Bauen,Löten,???,reviewed'
-date: '2017-10-12T13:09:12.257Z'
+date: '2017-10-12T13:37:21.993Z'
 ---
 empty
