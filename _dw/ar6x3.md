@@ -30,7 +30,7 @@ dauer:
   - dauer-4
   - dauer-5
 vorbereitungszeit: vorbereitungszeit-1
-author-name: Nele
+author-name: Nele Hirsch
 author-email: nele@ebildungslabor.de
 author-website: www.ebildungslabor.de
 tags: reviewed
