@@ -38,7 +38,7 @@ projects:
 
 dw:
   allowedFields     : ['title', 'titel', 'art', 'kmk', 'fach', 'medien', 'desc', 'desc2', 'lernziele', 'tipp', 'long-fach', 'zielgruppe', 'lizenz', 'dauer', 'vorbereitungszeit', 'author-name', 'author-email', 'author-website', 'tags', 'link']
-  branch            : "dev-new-website"
+  branch            : "master"
   commitMessage     : "New card"
   filename          : "{fields.title}"
   format            : "frontmatter"
