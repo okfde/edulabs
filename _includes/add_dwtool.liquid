@@ -1,8 +1,8 @@
 {% if include.new %}
-  {% assign redirect = '{{site.url}}' %}
+  {% assign redirect = 'https://edulabs.de/oer/' %}
   {% assign project_title = '' %}
 {% else %}
-  {% capture redirect %}{{site.url}}/dw/{{page.title}}{% endcapture %}
+  {% capture redirect %}https://edulabs.de/oer/{% endcapture %}
   {% assign editable = '' %}
   {% assign project_random_slug = page.title %}
   {% assign project_title = page.titel %}
@@ -227,6 +227,10 @@
               <span class="js-notice-text"></span>
             </p>
             <!-- End comment form alert messaging -->
+            <div id="too-many-requests" style="display: none">
+              Der Text konnte noch nicht gespeichert werden.
+              Bitte halte dieses Fenster offen und versuche es in einer Minute noch einmal.
+            </div>
             <fieldset>
               <button type="submit" id="comment-form-submit" class="edu-btn black">Senden</button>
             </fieldset>

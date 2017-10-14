@@ -125,12 +125,17 @@
                 window.scrollTo(0, 0);
             },
             error: function (err) {
-                console.log(err);
-                $('#edit-project-form-submit').toggle();
-                $('#project-submit-message').toggle();
-                $(form).toggle();
-                window.scrollTo(0, 0);
-
+                console.log('RESPONSE', err);
+                console.log(err.status);
+                if (err.status === 429) {
+                     $('#too-many-requests').show();
+                     console.log("Too many requests");
+                } else {
+                  $('#edit-project-form-submit').toggle();
+                  $('#project-submit-message').toggle();
+                  $(form).toggle();
+                  window.scrollTo(0, 0);
+                }
             }
           });
 
