@@ -3,7 +3,7 @@ _id: 1f9645f0-7ce0-11e7-807c-1bb98bc71e68
 title: >-
   Chaos macht Schule-Workshops als OER-Materialien zu Datenschutz, Schutz der
   Privatsphäre, Urheberrecht aufbereiten
-lab: '#BE'
+lab: 'BE'
 status: releasing
 short-desc: >-
   Wir möchten unsere erprobten und oft durchgeführten Workshops zu technischen
