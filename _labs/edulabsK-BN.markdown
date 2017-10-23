@@ -1,7 +1,7 @@
 ---
 layout: lab
 title:  "K/BN"
-headline: "edulabs Köln/Bonn (geplant)"
+headline: "edulabs Köln/Bonn"
 src: "/assets/img/labs/edulabsBN.jpg"
 ---
 
