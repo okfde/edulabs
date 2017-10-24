@@ -12,6 +12,8 @@ header_background: /assets/img/blog/2017/Oktober/Toolcard_H5P/Tablet_auf_Buch.jp
 header_background_caption: "Bild Lizenz: <a href='https://creativecommons.org/share-your-work/public-domain/cc0/'>CC0</a>"
 author: Nele Hirsch, Christian Mayr, Kai Wörner, Maximilian Voigt
 info_text: |
+  <a href='/blog/digitale-Tools-ergänzen-statt-ersetzen/'><img src='/assets/img/blog/2017/Juli/interview_kai_woerner/app_idee.jpg' style='width: 100%; display: inline-block'></a>
+  Kai Wörner über seine Erfahrungen mit digitalen Tools im Unterricht.
 
 ---
 
@@ -34,6 +36,9 @@ Durch vielfältige Aufgabenformen, wie Zuordnungsaufgaben, Lückentexte, Sprache
 
 ### Themen durch eigene H5P-Inhalte vertiefen
 Da jeder H5P-Inhalte ohne technisches Wissen erstellen kann, ist es auch Lernenden möglich, Wissen zu vertiefen, indem sie eigene interaktive Lernmaterialien entwickeln. Durch gruppenorientierte Projektarbeiten lösst sich der Unterricht kompetenzorientiert gestalten. Dadurch können beispielsweise Kreatitivät und Kollaboration im Hinblick auf die [4K](https://mihajlovicfreiburg.com/2017/04/18/kommunikation-kollaboration-kreativitaet-und-kritisches-denken-mehr-als-buzzwords/) gefördert werden.
+
+<!-- include infobox -->
+{% include partials/content/content-infobox.liquid float="right" headline="„Mein Grundsatz ist: ergänzen statt ersetzen“" copy=page.info_text %}
 
 ### Inklusives Lernen
 Die Kombination verschiedener Inhaltstypen ermöglicht es, in einer inklusiven Lerngruppe individueller, differenzierter und eigentständiger zu arbeiten. Die Erklärung eines Sachverhalts erfolgt beispielsweise über ein Video, in dem die Lehrkraft mündlich Lerninhalte erklärt. Der Inhaltstyp "Speak the Words" erlaubt es anschließend, dass der Lernende die Antworten auf Fragen bzw. Übungsaufgaben, die im Anschluss an das Video gezeigt werden, mündlich gibt und so überprüft, ob er den Lerninhalt verstanden hat.
