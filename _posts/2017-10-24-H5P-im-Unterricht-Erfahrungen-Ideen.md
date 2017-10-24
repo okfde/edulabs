@@ -61,6 +61,10 @@ Die Kombination verschiedener Inhaltstypen ermöglicht es, in einer inklusiven L
 H5P ist gebührenfrei nutzbar und befindet sich in stetiger Weiterentwicklung durch eine immer größere Community. Durch die Open Source Gestaltung kann sich jeder und jede an der Weiterentwicklung beteiligen.
 Im Bildungskontext ist es besonders hilfreich, dass Inhalte heruntergeladen, neu hochgeladen und beliebig weiterbearbeitet werden können. Auf diese Weise muss nicht jeder das Rad neu erfinden, sondern kann einmal erstellte Lerninhalte leicht für andere Lernsettings anpassen.
 
+<!-- include floated image -->
+{% include partials/content/content-float-image.liquid float="left"
+src="/assets/img/blog/2017/Oktober/Toolcard_H5P/H5P_im_Unterricht.jpg" caption="Bild: H5P im Einsatz. Lizenz: <a href='https://creativecommons.org/licenses/by/4.0/'>CC-BY 4.0</a> Kai Wörner" %}
+
 Dabei ist H5P als Tool sehr benutzerfreundlich angelegt und fast ohne Einarbeitungszeit intuitiv nutzbar, wenn man über eine gewisse „digitale Affinität“ verfügt. Jeder Inhaltstyp wird im Editor aber kurz und anschaulich erklärt. Durch die Gestaltung der Inhalte wird man Schritt für Schritt geleitet. Alle Formulierungen und Texte sind spezifisch gestaltbar.
 Die Bandbreite der Inhaltstypen bietet schon jetzt eine große Vielfalt. Zudem kommen ständg neue Inhaltstypen dazu. Viele sind auch miteinander kombinierbar.
 
