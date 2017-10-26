@@ -9,6 +9,7 @@ categories: Toolcard
 twitter_large_img: /assets/img/blog/2017/Oktober/Toolcard_H5P/Tablet_auf_Buch.jpg
 image: /assets/img/blog/2017/Oktober/Toolcard_H5P/Tablet_auf_Buch.jpg
 header_background: /assets/img/blog/2017/Oktober/Toolcard_H5P/Tablet_auf_Buch.jpg
+image: /assets/img/blog/2017/Oktober/Toolcard_H5P/Tablet_auf_Buch.jpg
 header_background_caption: "Bild Lizenz: <a href='https://creativecommons.org/share-your-work/public-domain/cc0/'>CC0</a>"
 author: Nele Hirsch, Christian Mayr, Kai Wörner, Maximilian Voigt
 info_text: |
