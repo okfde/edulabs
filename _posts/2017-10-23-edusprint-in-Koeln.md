@@ -30,9 +30,8 @@ Am Samstag, den 18. November, tragen wir in kleinen Gruppen nach der [Booksprint
 * 10:30 Uhr - Einführung und Erstellung von Karten
 * 13:00 Uhr - Mittagspause
 * 14:00 Uhr - Start der zweiten Runde
-* 17:00 Uhr - Abschluss und gemeinsamer Ausklang
+* 17:00 Uhr - Abschluss und gemeinsamer Ausklang<br><br><br>
 
-<br>
 # Anmeldung: Wer macht mit?
 Möchtet ihr bei der OER-Sammlung mitmachen und zeitgemäße Bildung voranbringen? Für den edusprint suchen wir 10-15 engagierte Teilnehmer*innen, mit Praxiserfahrung im Bereich digital gestützter Bildung in Schule, Medienpädagogik oder Lehrerfortbildung.<br><br>
 
