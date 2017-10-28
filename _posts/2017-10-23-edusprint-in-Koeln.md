@@ -26,12 +26,13 @@ Bei einem ersten edusprint in Berlin wurden bereits einige Materialien gesammelt
 # Ablauf
 Am Samstag, den 18. November, tragen wir in kleinen Gruppen nach der [Booksprint-Methode](https://en.wikipedia.org/wiki/Book_sprint) kollaborativ die besten Ideen zusammen. Für Verpflegung und das Bier im Anschluss wird gesorgt:
 
-10:00 Uhr - Ankommen
-10:30 Uhr - Einführung und Erstellung von Karten
-13:00 Uhr - Mittagspause
-14:00 Uhr - Start der zweiten Runde
-17:00 Uhr - Abschluss und gemeinsamer Ausklang
+* 10:00 Uhr - Ankommen
+* 10:30 Uhr - Einführung und Erstellung von Karten
+* 13:00 Uhr - Mittagspause
+* 14:00 Uhr - Start der zweiten Runde
+* 17:00 Uhr - Abschluss und gemeinsamer Ausklang
 
+<br>
 # Anmeldung: Wer macht mit?
 Möchtet ihr bei der OER-Sammlung mitmachen und zeitgemäße Bildung voranbringen? Für den edusprint suchen wir 10-15 engagierte Teilnehmer*innen, mit Praxiserfahrung im Bereich digital gestützter Bildung in Schule, Medienpädagogik oder Lehrerfortbildung.<br><br>
 
