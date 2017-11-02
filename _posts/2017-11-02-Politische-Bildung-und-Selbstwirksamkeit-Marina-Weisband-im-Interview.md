@@ -42,7 +42,7 @@ Was wir versuchen, ist durch Brainstorming-Übungen, durch das gezielte Öffnen 
 
 <div class="img-wrap-center">
 <img src="/assets/img/blog/2017/Oktober/Interview_Dejan/Dejan_twitter.jpg" style="width: 100%; display: inline-block">
-<div style="text-align: right">Unterricht an einer aula Projektschule in Freiburg</div>
+<div style="text-align: right">Bild: Unterricht an einer aula Projektschule in Freiburg: Daniel Schoenen. Lizenz: <a href='https://creativecommons.org/licenses/by/4.0/'>CC-BY 4.0</a></div>
 </div>
 
 <!-- include infobox -->
