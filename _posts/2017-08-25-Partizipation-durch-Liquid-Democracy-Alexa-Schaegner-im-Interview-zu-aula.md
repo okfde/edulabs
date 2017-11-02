@@ -15,7 +15,7 @@ info_text: |
  Mit Hilfe einer Liquid Democracy basierten Plattform möchte aula jungen Menschen die Möglichkeit geben, ihr schulisches Umfeld aktiv mitzugestalten und dadurch demokratisches Handeln zu erproben.<br><br><a href='http://aula-blog.website/was-ist-aula/'>Zur Projektseite >></a>
 
 ---
-*Alexa arbeitet als Redakteurin für [Politik Digital e.V.](http://politik-digital.de/) und betreut zusammen mit Marina Weisband das Projekt aula. Außerdem organisiert sie seit dem 13. Juni 2017 als eine von drei Lab-Leads [edulabsBE](/labs/edulabsbe).*
+*Alexa arbeitet als Redakteurin für [Politik Digital e.V.](http://politik-digital.de/) und betreut zusammen mit Marina Weisband sowie Daniel Schumacher das Projekt aula. Außerdem organisiert sie seit dem 13. Juni 2017 als eine von drei Lab-Leads [edulabsBE](/labs/edulabsbe).*
 <!-- include an infobox -->
 {% include partials/content/content-infobox.liquid float="right" headline="Was ist aula?" copy=page.info_text %}
 
