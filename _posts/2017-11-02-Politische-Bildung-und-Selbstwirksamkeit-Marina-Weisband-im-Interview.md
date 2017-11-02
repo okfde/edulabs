@@ -6,8 +6,8 @@ teaser: "Marina Weisband ist Diplom-Psychologin und Projektleiterin von aula. Im
 teaser_img_src: /assets/img/blog/2017/November/Interview_Marina/Marina_Weisband.jpg
 featured: true
 categories: Interviews
-twitter_large_img: /assets/img/blog/2017/November/Interview_Marina/
-image: /assets/img/blog/2017/November/Interview_Marina/
+twitter_large_img: /assets/img/blog/2017/November/Interview_Marina/Marina_Weisband_twitter.jpg
+image: /assets/img/blog/2017/November/Interview_Marina/Marina_Weisband_twitter.jpg
 header_background: /assets/img/blog/2017/November/Interview_Marina/Marina_Weisband.jpg
 header_background_caption: "Bild: <a href='http://www.stephan-roehl.de/'>Stephan Roehl</a>. Lizenz: <a href='https://creativecommons.org/licenses/by-sa/2.0/'>CC BY-SA 2.0</a>"
 author: Maximilian Voigt
