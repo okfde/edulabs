@@ -4,7 +4,7 @@ layout: post
 title: "H5P im Unterricht - Erfahrungen und Ideen"
 teaser: "H5P ist eine freie und quelloffene Software zum Erstellen von interaktiven Lern- und Lehrinhalten. Wir haben Erfahrungen und Ideen für den Unterricht zusammengefasst."
 teaser_img_src: /assets/img/blog/2017/Oktober/Toolcard_H5P/Tablet_auf_Buch.jpg
-featured: true
+featured: false
 categories: Toolcard
 twitter_large_img: /assets/img/blog/2017/Oktober/Toolcard_H5P/Tablet_auf_Buch.jpg
 image: /assets/img/blog/2017/Oktober/Toolcard_H5P/Tablet_auf_Buch.jpg
