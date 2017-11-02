@@ -5,7 +5,7 @@ title: "„Beteiligung ist eine Selbstwirksamkeits&shy;erfahrung“ - Marina Wei
 teaser: "Marina Weisband ist Diplom-Psychologin und Projektleiterin von aula. Im Interview spricht sie über die Rolle und die Gestaltung politischer Bildung."
 teaser_img_src: /assets/img/blog/2017/November/Interview_Marina/Marina_Weisband.jpg
 featured: true
-categories: Interview
+categories: Interviews
 twitter_large_img: /assets/img/blog/2017/November/Interview_Marina/
 image: /assets/img/blog/2017/November/Interview_Marina/
 header_background: /assets/img/blog/2017/November/Interview_Marina/Marina_Weisband.jpg
