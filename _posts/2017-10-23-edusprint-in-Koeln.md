@@ -35,6 +35,6 @@ Am Samstag, den 18. November, tragen wir in kleinen Gruppen nach der [Booksprint
 # Anmeldung: Wer macht mit?
 Möchtet ihr bei der OER-Sammlung mitmachen und zeitgemäße Bildung voranbringen? Für den edusprint suchen wir 10-15 engagierte Teilnehmer*innen, mit Praxiserfahrung im Bereich digital gestützter Bildung in Schule, Medienpädagogik oder Lehrerfortbildung.<br><br>
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeiOcVXU1_JFlHQyAwkyRN12bxxtBZtJXpYDm-fRLoMr09x4w/viewform?embedded=true" width="760" height="1100" frameborder="0" marginheight="0" marginwidth="0">Wird geladen...</iframe>
+<div class="video"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeiOcVXU1_JFlHQyAwkyRN12bxxtBZtJXpYDm-fRLoMr09x4w/viewform?embedded=true" width="760" height="1100" frameborder="0" marginheight="0" marginwidth="0">Wird geladen...</iframe></div>
 
 
