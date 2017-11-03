@@ -68,7 +68,7 @@ Ich denke, es ist ein strukturelles Problem, das seine Zeit benötigt. Wir stell
 {% include partials/content/content-quote.liquid float="left" content="„Open Source bedeutet auch Verantwortung zu übernehmen und Inhalte kritisch zu überprüfen.“" %}
 Was ich auch aus der Zeit bei der Piratenpartei mitgenommen habe ist, dass Open Source nicht bedeutet, dass etwas zwangsläufig sicherer oder wahrer ist, weil es sich mehr Menschen angeschaut haben. Nur weil es jeder tun kann, heißt das nicht, dass es auch gemacht wird. Open Source bedeutet auch Verantwortung zu übernehmen und Inhalte kritisch zu überprüfen.
 
-**Inzwischen gibt es viele schöne Open Source Lösungen, aber demgegenüber nicht unbedingt mehr Institutionen oder Personen, die sie einsetzen. Stattdessen drängen Große Softwarehersteller in das Schulsystem. Wie lässt sich dieser Trend erklären?**<br>
+**Inzwischen gibt es viele schöne Open Source Lösungen, aber demgegenüber nicht unbedingt mehr Institutionen oder Personen, die sie einsetzen. Stattdessen drängen große Softwarehersteller in das Schulsystem. Wie lässt sich dieser Trend erklären?**<br>
 Dahinter stecken zwei Probleme: Das eine ist, dass die großen Unternehmen Know How liefern, Service drumherum - das, was Open Source Projekte oft nicht mitbringen. Das Zweite ist, dass Lehrerinnen und Lehrer kaum im Umgang mit digitalen Medien geschult werden und wir haben auch kaum eine Konnektivität zwischen der Open Source Community und der Lehrerausbildung. Da gibt es bisher nur einzelne Personen, die an dieser Schnittstelle aktiv sind.
 
 
