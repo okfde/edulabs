@@ -26,7 +26,7 @@ Bei dem edusprint sammeln wir einen Tag lang gemeinsam die besten Unterrichtside
 
 
 # Ablauf
-Am Samstag, den 18. November treffen wir uns einen Tag, um ganz praktisch ins Machen zu kommen und Best-Practice-Projekte der zeitgemäßen (digitalen) Bildung zu sammeln; eigene Projektideen/Materialien gemeinsam weiterzuentwickeln, in eine nachnutzbare Form zu bringen und in die Breite zu tragen. In kleinen Gruppen sammeln wir kollaborativ die besten Ideen zusammen. Für Verpflegung und das Bier im Anschluss wird gesorgt:
+Am Samstag, den 18. November treffen wir uns einen Tag, um ganz praktisch ins Machen zu kommen und Best-Practice-Projekte der zeitgemäßen (digitalen) Bildung zu sammeln; eigene Projektideen/Materialien gemeinsam weiterzuentwickeln, in eine nachnutzbare Form zu bringen und in die Breite zu tragen. Für Verpflegung und das Bier im Anschluss wird gesorgt:
 
 * 10:00 Uhr - Ankommen
 * 10:30 Uhr - Einführung und Erstellung von Karten
