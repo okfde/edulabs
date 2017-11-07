@@ -18,12 +18,12 @@ info_text: |
 
 Wie lässt sich Bildung mit digital gestützten Methoden gestalten? Wir entwickeln eine Sammlung von Unterrichtsideen mit freien Materialien, in denen zeitgemäße Bildung innovativ umgesetzt wird.
 
+<!-- include floated image -->
+{% include partials/content/content-float-image.liquid float="right"
+src="/assets/img/blog/2017/November/OER-Preview/OER-Filter_preview.png" caption="Bild: Vorschau auf die neue Sammlung für OER-Unterrichtsideen" %}
+
 Bei dem edusprint sammeln wir einen Tag lang zusammen die besten Unterrichtsideen für die wachsende [edulabs.de/oer](http://www.edulabs.de/oer)-Sammlung (Achtung:noch Beta-Version!) ein eigens aufgesetztes Redaktions- und Filtertool und vorbereitete Templates stehen schlüsselfertig zur Verfügung. Die OER-Empfehlungen richten sich vorrangig an Lehrer*innen /Medienpädagog*innen, ab Ende November lässt sie sich dann komfortabel nach Fächern, Kompetenzen und Lernzielen filtern. Ziel ist es, praxiserprobte OER-Empfehlungen zu digitalen Kompetenzen (wir orientieren uns an der [KMK-Strategie "Bildung in der digitalen Welt"](https://www.kmk.org/fileadmin/Dateien/pdf/PresseUndAktuelles/2016/Bildung_digitale_Welt_Webversion.pdf) und den [4K](http://politik-digital.de/news/aula-schuelerbeteiligung-und-die-kompetenzen-der-zukunft-153015/)) in allen Fächergruppen zusammenstellen. Das fertige Design ab Ende November sieht dann so aus:
 
-<div class="img-wrap-center">
-<img src="/assets/img/blog/2017/November/OER-Preview/OER-Filter_preview.png" style="width: 100%; display: inline-block">
-<div class="caption" style="text-align: right">Vorschau auf die neue Sammlung für OER-Unterrichtsideen</div>
-</div><br>
 
 # Ablauf
 Am Samstag, den 18. November treffen wir uns einen Tag, um ganz praktisch ins Machen zu kommen, Best-Practice-Projekte der zeitgemäßen (digitalen) Bildung sammeln; eigene Projektideen/Materialien gemeinsam weiterentwickeln, in eine nachnutzbare Form bringen und in die Breite tragen. In kleinen Gruppen tragen wir kollaborativ die besten Ideen zusammen. Für Verpflegung und das Bier im Anschluss wird gesorgt:
