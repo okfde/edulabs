@@ -104,6 +104,13 @@ EDUSPRINT
 
 .edusprint{
 
+  .filter-items{
+    width: 100%;
+    .filter-icon{
+      font-size: 1.25em;
+    }
+  }
+
   .edusprint-filters {
     display: block;
   }
@@ -204,7 +211,6 @@ FOOTER STYLES
   width: 90%;
 
   .filter-item {
-    min-width: 180px;
     font-size: 1.5em;
     padding: 5px 15px;
   }
