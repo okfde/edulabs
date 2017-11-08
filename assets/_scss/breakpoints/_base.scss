@@ -104,6 +104,7 @@ a, a:visited {
     font-family: $font-worksans;
     line-height: 1;
   }
+
 }
 
 .link-list{
@@ -122,6 +123,14 @@ a, a:visited {
 
   color: $secondary-color !important;
   display: block;
+
+  &.fixed{
+    &:hover{
+      &::before{
+        margin-left: 0px;
+      }
+    }
+  }
 
   &::before{
     margin-right: 5px;
@@ -183,6 +192,7 @@ h5, .h5 {
   font-size: 2rem;
   line-height: 1.1em;
   margin-bottom: 0.375em;
+  text-align: center;
 }
 
 /*********************
@@ -227,19 +237,9 @@ WRAPPER STYLES
   }
 
   ul{
-
-    margin: 0;
+    padding-left: 25px;
 
     li{
-
-      position: relative;
-      padding-left: 25px;
-      margin-bottom: 25px;
-
-      &:last-of-type{
-        margin-bottom: 0;
-      }
-
       &::before{
         margin-right: 5px;
         content:"\2022";
@@ -250,9 +250,95 @@ WRAPPER STYLES
         position: absolute;
         left: 0;
       }
+    }
+
+
+  }
+
+  ol{
+    padding-left: 25px;
+    list-style-type: decimal;
+
+    li{
+
+      padding-left: 5px;
+      &::before{
+        content:"";
+      }
+    }
+
+
+
+  }
+
+  ul,ol{
+
+    margin: 0;
+
+    li{
+
+      position: relative;
+
+      margin-bottom: 25px;
+
+      &:last-of-type{
+        margin-bottom: 0;
+      }
 
       font-size: 1.25rem;
     }
+  }
+
+  .page-description{
+
+    padding: 20px 0;
+
+    p{
+      font-size: 1.5rem;
+
+      &.more-btn{
+
+        cursor: pointer;
+
+        &:after{
+          content: ' mehr...';
+          color: $secondary-color;
+          cursor: pointer;
+        }
+        &.gone{
+          &:after{
+            display: none;
+          }
+        }
+      }
+
+      &.less-btn{
+
+        cursor: pointer;
+
+        &:after{
+          content: ' weniger...';
+          color: $secondary-color;
+          cursor: pointer;
+        }
+      }
+
+    }
+
+    .more-block{
+
+      @include transition(max-height .25s ease-out);
+
+      max-height: none;
+
+      &.closed{
+        max-height: 0;
+        overflow: hidden;
+      }
+    }
+
+
+
   }
 
 }
@@ -533,8 +619,23 @@ PAGE & SECTIONS
 
 }
 
+.grid-sizer{
+  position: absolute;
+}
 .isotope-wrap, .featured-projects-wrap{
-  margin: 20px 0;
+  margin: 80px 0 20px 0;
+  display: table;
+}
+.no-results{
+
+  @include transition(transform .25s ease);
+  &.hidden{
+    transform: scale(0);
+  }
+
+  transform: scale(1);
+
+  padding: 50px;
 }
 
 .section{
@@ -621,7 +722,317 @@ HOME
   font-weight: 700;
 }
 
+/*********************
+EDUSPRINT
+*********************/
 
+.edusprint{
+
+  .edusprint-post-content{
+    background-color: $edupsprint-grey-light;
+  }
+  .edupsprint-btn-wrap{
+    padding: 40px 0;
+    .public-domain{
+      width: 150px;
+      display: block;
+      margin: 0 auto;
+    }
+  }
+
+  .edusprint-filters{
+    display: none;
+  }
+
+  .edusprint-authors-wrap{
+
+    display: block;
+    padding: 50px 0;
+
+    .edusprint-author{
+
+      @include teaser-shadow();
+      background-color: white;
+      margin-bottom: 20px;
+
+      .edusprint-author-row{
+        height: 100%;
+        display: flex;
+      }
+      .author-image-wrap{
+        background-color: $primary-color;
+        padding-bottom: 33.33333333%;
+        display: none;
+        .author-smiley{
+          position: absolute;
+          top:50%;
+          left:50%;
+          transform: translate(-50%,-50%);
+        }
+      }
+      .author-content-wrap{
+
+        padding: 25px 0;
+
+        .author-content-inner{
+          text-align: left;
+          display: inline-block;
+          position: relative;
+          top:50%;
+          transform: translateY(-50%);
+        }
+      }
+    }
+  }
+
+  .subpage-content{
+    padding-top: 80px;
+    .excerpt{
+      color: $secondary-color;
+      text-align: center;
+      font-weight: 700;
+      margin-bottom: 50px;
+    }
+  }
+
+  .more-filters{
+    overflow: hidden;
+
+    max-height: 0;
+    @include transition(max-height .25s ease-in-out);
+
+    &.open{
+      max-height: 1000px;
+    }
+
+  }
+  .more-filters-btn{
+    display: block;
+    background-color: $secondary-color;
+    padding: 12.5px 0;
+
+    span{
+      color: white;
+    }
+
+    &:hover{
+      span{
+        color: white;
+      }
+    }
+
+    &::before{
+      margin-right: 15px;
+    }
+    &::after{
+      margin-left: 15px;
+    }
+
+    &::before, &::after{
+      display: inline-block;
+      font-family: $font-worksans;
+      line-height: 1;
+      position: relative;
+      top:2px;
+      content:"\2193";
+      color: white;
+    }
+
+    .opened{
+      display: none;
+    }
+
+    &.open{
+
+      .opened{
+        display: inline-block;
+      }
+      .closed{
+        display: none;
+      }
+
+      &::before, &::after{
+        content:"\2191";
+      }
+    }
+
+  }
+
+  .filter-items-wrap{
+    display: flex;
+    flex-flow: column;
+    .flexed{
+      flex: 1 1 auto;
+    }
+  }
+  .filter-items{
+    padding: 25px;
+    margin: 0 !important;
+
+    .filter-items-headline{
+      margin-bottom: 20px;
+    }
+
+    .icons-wrap{
+
+      .filter-icon{
+        display: inline-block;
+        margin-right: 30px;
+
+        &.disabled{
+          pointer-events: none;
+        }
+
+        &.active{
+          .icon{
+            filter: brightness(100);
+          }
+          span{
+            color: white;
+          }
+        }
+
+        &:last-of-type{
+          margin-right: 0;
+        }
+
+        .icon{
+          display: inline-block;
+        }
+        span{
+          display: block;
+          color: $secondary-color;
+          font-size: 0.8rem;
+          font-weight: 700;
+        }
+
+      }
+    }
+
+  }
+
+  .edusprint-medieneinsatz, .edusprint-zielgruppe, .edusprint-dauer, .edusprint-vorbereitungszeit{
+    .filter-items-headline{
+      color: $secondary-color;
+    }
+  }
+  .edusprint-fach {
+    .filter-items-headline{
+      color: white;
+    }
+  }
+
+  .edusprint-faecher, .edusprint-tags{
+    padding: 0;
+  }
+
+  .edusprint-grey{
+    background-color: $edupsprint-grey;
+  }
+  .edusprint-grey-light{
+    background-color: $edupsprint-grey-light;
+  }
+  .edusprint-blue-1{
+    background-color: $edupsprint-blue-1;
+  }
+  .edusprint-blue-2{
+    background-color: $edupsprint-blue-2;
+  }
+  .edusprint-blue-3{
+    background-color: $edupsprint-blue-3;
+  }
+  .edusprint-blue-4{
+    background-color: $edupsprint-blue-4;
+  }
+
+  .filter-toggle{
+    width: 100%;
+    display: block;
+    padding: 12.5px;
+
+    span{
+      color: white;
+      font-size: 0.85em;
+    }
+  }
+
+  .filter-accordions-wrap{
+
+    .filter-accordion-wrap{
+
+      background-color: $edupsprint-blue-4;
+      @include transition(background-color .25s ease-in-out);
+
+      .filter-items-headline{
+
+        &::before{
+          margin-right: 15px;
+          display: inline-block;
+          font-family: $font-worksans;
+          line-height: 1;
+          position: relative;
+          top:2px;
+          content:"\2193";
+        }
+
+      }
+
+      &.open{
+
+        flex: 1 1 auto;
+
+        background-color: $edupsprint-blue-3;
+
+        .filter-accordion{
+          max-height: 500px;
+          padding-bottom: 25px;
+
+        }
+
+        .filter-items-headline{
+          &::before{
+            content:"\2191";
+          }
+        }
+
+      }
+
+      .filter-accordion{
+        margin: 0 25px;
+        overflow: hidden;
+        /* overflow: auto; /* might be needed later on, when we have more filters*/
+
+        padding-bottom: 0px;
+
+        max-height: 0;
+        @include transition(all .25s ease-in-out);
+
+        &::-webkit-scrollbar {
+          width: 6px;
+          background-color: $edupsprint-blue-3;
+        }
+        &::-webkit-scrollbar-thumb {
+          border-radius: 0px;
+          background-color: $edupsprint-blue-4;
+          cursor: pointer;
+
+          &:hover{
+            background-color: darken($edupsprint-blue-4,5%);
+          }
+
+        }
+        &::-webkit-scrollbar-track {
+          border-radius: 0px;
+          background-color: transparent;
+        }
+
+      }
+    }
+  }
+
+
+
+}
 
 /*********************
 FOOTER STYLES

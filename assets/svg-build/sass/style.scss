@@ -1,0 +1,220 @@
+@import 'sprite';
+@import 'mixins';
+
+$sprite: map-get($icons, sprite) !default;
+
+$baseFontSize: 16px !default;
+
+.unterrichtsreihe{
+  &:before {
+    @include sprite(dauer_01_unterrichtsreihe);
+    content: '';
+    float: left;
+  }
+  &.small{
+    &:before {
+      @include sprite(dauer_01_unterrichtsreihe_small);
+    }
+  }
+}
+
+.doppelstunde{
+  &:before {
+    @include sprite(dauer_02_doppelstunde);
+    content: '';
+    float: left;
+  }
+  &.small{
+    &:before {
+      @include sprite(dauer_02_doppelstunde_small);
+    }
+  }
+}
+
+.min45{
+  &:before {
+    @include sprite(dauer_03_45_minuten);
+    content: '';
+    float: left;
+  }
+  &.small{
+    &:before {
+      @include sprite(dauer_03_45_minuten_small);
+    }
+  }
+}
+
+.min20{
+  &:before {
+    @include sprite(dauer_04_ubung_bis_zu_20_min);
+    content: '';
+    float: left;
+  }
+  &.small{
+    &:before {
+      @include sprite(dauer_04_ubung_bis_zu_20_min_small);
+    }
+  }
+}
+
+.flexibel{
+  &:before {
+    @include sprite(dauer_05_flexibel);
+    content: '';
+    float: left;
+  }
+  &.small{
+    &:before {
+      @include sprite(dauer_05_flexibel_small);
+    }
+  }
+}
+
+.ohne-internetzugang{
+  &:before {
+    @include sprite(medieneinsatz_01_ohne_internetzugang);
+    content: '';
+    float: left;
+  }
+  &.small{
+    &:before {
+      @include sprite(medieneinsatz_01_ohne_internetzugang_small);
+    }
+  }
+}
+
+
+.pc-laptop{
+  &:before {
+    @include sprite(medieneinsatz_02_pc_laptop);
+    content: '';
+    float: left;
+  }
+  &.small{
+    &:before {
+      @include sprite(medieneinsatz_02_pc_laptop_small);
+    }
+  }
+}
+
+.tablet-smartphone{
+  &:before {
+    @include sprite(medieneinsatz_03_tablet_smartphone);
+    content: '';
+    float: left;
+  }
+  &.small{
+    &:before {
+      @include sprite(medieneinsatz_03_tablet_smartphone_small);
+    }
+  }
+}
+
+
+.hardware-basteln{
+  &:before {
+    @include sprite(medieneinsatz_04_hardware_basteln);
+    content: '';
+    float: left;
+  }
+  &.small{
+    &:before {
+      @include sprite(medieneinsatz_04_hardware_basteln_small);
+    }
+
+  }
+}
+
+.vorbereitungszeit-keine{
+  &:before {
+    @include sprite(vorbereitungszeit_01_keine);
+    content: '';
+    float: left;
+  }
+  &.small{
+    &:before {
+      @include sprite(vorbereitungszeit_01_keine_small);
+    }
+
+  }
+}
+
+.kita{
+  &:before {
+    @include sprite(zielgruppe_01_kita_vorschule);
+    content: '';
+    float: left;
+  }
+  &.small{
+    &:before {
+      @include sprite(zielgruppe_01_kita_vorschule_small);
+    }
+
+  }
+}
+
+.grundstufe-1-3{
+  &:before {
+    @include sprite(zielgruppe_02_grundstufe_1-3);
+    content: '';
+    float: left;
+  }
+  &.small{
+    &:before {
+      @include sprite(zielgruppe_02_grundstufe_1-3_small);
+    }
+
+  }
+}
+
+.grundstufe-4-6{
+  &:before {
+    @include sprite(zielgruppe_03_grundstufe_4-6);
+    content: '';
+    float: left;
+  }
+    &.small{
+      &:before {
+        @include sprite(zielgruppe_03_grundstufe_4-6_small);
+      }
+
+  }
+}
+
+.sekundarstufe-1{
+  &:before {
+    @include sprite(zielgruppe_04_sekundarstufe_1);
+    content: '';
+    float: left;
+  }
+  &.small{
+    &:before {
+      @include sprite(zielgruppe_04_sekundarstufe_1_small);
+    }
+
+  }
+}
+
+.sekundarstufe-2{
+  &:before {
+    @include sprite(zielgruppe_05_sekundarstufe_2);
+    content: '';
+    float: left;
+  }
+  &.small{
+    &:before {
+      @include sprite(zielgruppe_05_sekundarstufe_2_small);
+    }
+
+  }
+}
+
+.author-smiley{
+  &:before {
+    @include sprite(author-smiley);
+    content: '';
+    float: left;
+  }
+}
+
+

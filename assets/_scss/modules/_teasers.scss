@@ -115,9 +115,38 @@ teasers
     *********************/
     &.featured, &.featured-home{
        margin: auto;
-       max-width: 500px;
+       /*max-width: 500px;*/
       .teaser-copy{
         display: block;
+      }
+    }
+
+    .edusprint-cats{
+      display: block;
+      list-style: none;
+      margin-top: 10px;
+      .icon{
+        display: inline-block;
+        font-size: 1.5rem;
+      }
+    }
+
+    .teaser-blog-tag{
+      display: none;
+      font-weight: 700;
+      margin-bottom: 10px;
+    }
+
+    &.edusprint-blog{
+      .edusprint-cats{
+        display: none;
+      }
+      .teaser-blog-tag{
+        color: black;
+        display: block;
+      }
+      .teaser-inner{
+        background-color: $edupsprint-grey-dark;
       }
     }
 
@@ -143,8 +172,8 @@ teasers
       padding: 20px;
     }
 
-    .teaser-date, .teaser-cats,{
-      font-size: 0.85rem;
+    .teaser-date, .teaser-cats, .teaser-blog-tag{
+      font-size: 0.95rem;
     }
 
     .teaser-date{

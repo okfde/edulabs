@@ -1,0 +1,27 @@
+---
+layout: default
+title: Edusprint
+permalink: /sprint/
+---
+<!-- edusprint -->
+<div class="row">
+    <section class="section first grey-light col-xs-24 edusprint">
+        <div class="content-wrap">
+            <h2 class="section-headline">Bildung in der Digitalen Welt</h2>
+            <div class="page-description">
+                <div><p class="more-btn">In dieser Sammlung finden Sie Unterrichtsideen für offene Bildung mit digital gestützten Methoden. Die Auwahl konzentriert sich auf partizipative Formaten und orientiert sich an der KMK-Strategie "Bildung in der digitalen Welt".</p></div>
+                <div class="more-block closed"><p class="less-btn">In dieser Sammlung finden Sie Unterrichtsideen für offene Bildung mit digital gestützten Methoden. Die Auwahl konzentriert sich auf partizipative Formaten und orientiert sich an der KMK-Strategie "Bildung in der digitalen Welt".</p></div>
+            </div>
+        </div>
+        <!-- filters -->
+        <div class="filter-items green">
+            {% include partials/filters.liquid %}
+        </div>
+        <!-- edusprint filters -->
+        {% include partials/edusprint/edusprint-filters.liquid %}
+        <!-- blog teasers -->
+        {% include partials/edusprint/edusprint-isotope.liquid %}
+    </section>
+</div>
+<!-- include mitmachen section -->
+{% include partials/sections/apply.liquid %}

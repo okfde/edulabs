@@ -14,7 +14,7 @@
     };
 
     var ref, controller, filterList,
-        $itemsWrap, $items, $grid, isotopeInitialized;
+        $itemsWrap, $items, $grid, isotopeInitialized, $noFilterResult;
     function IsotopeController(pController){
         ref = this;
         controller = pController;
@@ -31,9 +31,10 @@
 
         $itemsWrap = $('.isotope-wrap');
         $items = $itemsWrap.find('.isotope-item ');
+        $noFilterResult = $itemsWrap.find('.no-results');
 
         // filter items when filter link is clicked
-        $('.filter-item').click(function(e){
+        $('.filter-item, .filter-icon').click(function(e){
 
             e.preventDefault();
 
@@ -123,8 +124,11 @@
     };
 
     IsotopeController.prototype.filterList = function(filters){
-        Logger.log("filterList -> " + filters);
         var filterValue = ref.concatValues(filterGroups);
+        Logger.log("filterValue!!! -> ", filterValue);
+
+        $noFilterResult.addClass('hidden');
+
         $itemsWrap.isotope({ filter: filterValue });
     };
 
@@ -163,8 +167,9 @@
             }, 50);
 
 
-            $grid.on( 'arrangeComplete', function( event, filteredItems ) {
-                //Logger.log( '++++++++++++++++++++arrangeComplete with ' + filteredItems.length + ' items' );
+            $grid.on( 'layoutComplete', function( event, filteredItems ) {
+                Logger.log( '++++++++++++++++++++layoutComplete with ' + filteredItems.length + ' items' );
+                if(filteredItems.length == 0) $noFilterResult.removeClass('hidden');
             });
 
         }

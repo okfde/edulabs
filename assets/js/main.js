@@ -13,14 +13,15 @@
 
     var ref , isotopeController,
         lastScrollTop,
-        $body, $header, $labTeasers, $memberTeasers, $navToggle, $mainNav, $search, $searchIcon;
+        $body, $header, $labTeasers, $memberTeasers, $navToggle, $mainNav, $search, $searchIcon,
+        $moreBlock, $moreButton, $filterAccordionWraps, $filterAccordionToggle, $moreFiltersWrap;
     function Controller(jQuery){
 
         $ = jQuery;
         ref = this;
 
         Logger.useDefaults();
-        Logger.setLevel(Logger.OFF);
+        //Logger.setLevel(Logger.OFF);
 
         var browser = ref.getBrowser();
         $('body').addClass(browser.name.toLowerCase()).addClass('version-' + browser.version.toLowerCase());
@@ -47,13 +48,18 @@
             ref.toggleMenu();
         });
 
+        //isotope
         isotopeController = new IsotopeController(this);
-
         var options = {
             multiple: true //if set to TRUE you can filter by multiple items
         };
-
         isotopeController.init(options);
+
+        //edusprint commands
+        if($('.edusprint')){
+            ref.initEduSprintPage();
+        }
+
 
         ref.addEventHandlers();
         ref.resize();
@@ -89,10 +95,12 @@
 
         $projectShortDescLeft = $('#project-form-short-description-left');
         var updateShortDescCounter = function () {
-            var maxLen = 300;
-            var Length =  $projectShortDesc.val().length;
-            var AmountLeft = maxLen - Length;
-            $projectShortDescLeft.html(`(noch ${AmountLeft} Zeichen)`);
+            if($projectShortDesc.val()){
+                var maxLen = 300;
+                var Length =  $projectShortDesc.val().length;
+                var AmountLeft = maxLen - Length;
+                $projectShortDescLeft.html(`(noch ${AmountLeft} Zeichen)`);
+            }
         };
         $projectShortDesc = $('#project-form-short-description');
         $projectShortDesc.keypress(function(event){
@@ -284,6 +292,38 @@
         if(value.length > 0){
             //start search
         }
+    };
+
+    /*********************
+     edusprint filter stuff belongs here
+     *********************/
+    Controller.prototype.initEduSprintPage = function(){
+
+        $moreBlock = $('.more-block');
+        $moreButton = $('.more-btn');
+        $filterAccordionWraps  = $('.filter-accordion-wrap');
+        $filterAccordionToggle  = $('.filter-toggle',$filterAccordionWraps);
+        $moreFiltersWrap  = $('.more-filters');
+
+        $filterAccordionToggle.click(function(e){
+            Logger.log("click");
+            $filterAccordionWraps.removeClass('open');
+            $(this).parent().addClass('open');
+            e.preventDefault();
+        });
+
+        $('.more-btn, .less-btn').click(function(e){
+            $moreBlock.toggleClass('closed');
+            $moreButton.toggleClass('gone');
+            e.preventDefault();
+        });
+
+        $('.more-filters-btn').click(function(e){
+            $(this).toggleClass('open');
+            $moreFiltersWrap.toggleClass('open');
+            e.preventDefault();
+        });
+
     };
 
     /*********************

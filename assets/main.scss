@@ -39,6 +39,9 @@ $baseurl: "{{ site.baseurl }}";
 @import "modules/project-edit";
 @import "modules/digitalen-welt";
 
+//spritesheet
+@import "../svg-build/sass/style";
+
 
 /*********************
 BASE (MOBILE) SIZE

@@ -41,9 +41,17 @@ WRAPPER STYLES
   p,.subheading{
     margin-bottom: 50px;
   }
-  a, p,.subheading, .content-element .infobox-headline, .content-element .infobox-copy, ul li {
+  a, p,.subheading, .content-element .infobox-headline, .content-element .infobox-copy, ul li, ol li {
     font-size: 1.25rem;
   }
+
+  ol{
+    padding-left: 50px;
+    li {
+      padding-left: 15px;
+    }
+  }
+
 }
 
 .content-wrap{
@@ -182,6 +190,57 @@ HEADER STYLES
     }
   }
 }
+
+/*********************
+EDUSPRINT
+*********************/
+
+.edusprint{
+
+  .edupsprint-btn-wrap {
+    padding: 80px 0;
+  }
+
+  .edusprint-filters {
+    display: block;
+  }
+
+  .edusprint-authors-wrap {
+    display: inline-flex;
+    padding: 100px 0;
+
+    .edusprint-author {
+      margin-bottom: 0px;
+
+      &:nth-child(even) {
+        margin-left: 30px;
+      }
+      .author-image-wrap {
+        display: block;
+      }
+      .author-content-wrap {
+        padding: 0;
+      }
+    }
+  }
+
+  .filter-items {
+    .icons-wrap{
+      .filter-icon{
+        margin-right: 5px;
+        font-size: 1rem;
+      }
+    }
+  }
+
+  .subpage-content{
+    .excerpt{
+      margin-bottom: 100px;
+    }
+  }
+
+}
+
 
 
 /*********************

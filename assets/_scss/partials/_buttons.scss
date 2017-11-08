@@ -75,6 +75,24 @@
 
   }
 
+  &.blue{
+    color: $secondary-color !important;
+    border: 2px solid $secondary-color;
+
+    &:visited{
+      color: $secondary-color !important;
+      border: 2px solid $secondary-color;
+    }
+
+
+    &:hover{
+      color: white !important;
+      background-color: $secondary-color !important;
+      border: 2px solid $secondary-color;
+    }
+
+  }
+
 }
 
 .teaser-buttons-wrap{

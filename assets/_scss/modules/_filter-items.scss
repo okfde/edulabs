@@ -1,7 +1,11 @@
 /*********************
 filter items
 *********************/
-
+.filter-items-wrap{
+  .filter-items{
+    display: block;
+  }
+}
 .filter-items{
 
   display: none;
@@ -21,6 +25,15 @@ filter items
     padding: 5px 15px;
     margin: 6px 4px;
     min-width: 180px;
+
+    &.shrinked{
+      font-size: 1.25em;
+    }
+
+    &.disabled{
+      pointer-events: none;
+    }
+
   }
 
   &.green{
@@ -28,6 +41,20 @@ filter items
     .filter-item{
       background-color: $primary-color;
       color: $black;
+
+      &.hover, &.active{
+        background-color: $black;
+        color: $white;
+      }
+    }
+
+  }
+
+  &.blue{
+
+    .filter-item{
+      background-color: $secondary-color;
+      color: $white;
 
       &.hover, &.active{
         background-color: $black;
