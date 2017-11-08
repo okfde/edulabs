@@ -1,17 +1,16 @@
 ---
-_id: fd1e5160-ab52-11e7-bdd5-75c72ce51879
+_id: e828ac00-c48a-11e7-a1cf-8971f8c2d4c4
 title: rat5i
 art: oer
 titel: Hörspiele mit dem Geschichtenkoffer
-visible: 1
 desc: >-
   Ein schöner alter Koffer mit alten Keks- oder Kaffeedosen, in denen je drei
-  kleine Gegenstände stecken schafft den Rahmen, motiviert die SuS zur
+  kleine Gegenstände stecken, schafft den Rahmen, motiviert die SuS zur
   Entwicklung eigener Geschichten, die in einem mobilen Audio-Studio als
   Hörspiel aufgenommen und im Netz publiziert werden.
 link: >-
   https://www.medienpaedagogik-praxis.de/2012/12/09/horspiele-mit-dem-geschichtenkoffer/
-lernziele: "Das kreative Gestalten eigener Geschichten steht im Mittelpunkt der angeleiteten Hörspielproduktion. Der Einstieg mit haptischen Gegenständen, regt die Phantasie an und sorgt für die notwendige Initialzündung um ins Erzählen zu kommen. Die Aufbereitung der Geschichte als Hörspiel bedeutet einen interessanten Gegenpol zur eher durch Videos dominierten Lebenswelt von SchülerInnen. Die Lernenden werden angeleitet genau hinzuhören und bekommen als Produzenten einen Blick hinter die Kulissen gelungener Audioentwicklung. \r\nDas Audio als digitales Format bietet ebenso zahlreiche Anknüpfungspunkte zum digitalen Kompetenzerwerb wie andere Formate auch: Der kompetente Umgang mit Technologien, die Auseindersetzung mit urheberrechtlichen Fragen, wie etwa die Einbindung von geschützter Musik, reflektierte Rechercheleistung und die Möglichkeit der Publikation im Internet."
+lernziele: "Das kreative Gestalten eigener Geschichten steht im Mittelpunkt der angeleiteten Hörspielproduktion. Der Einstieg regt mit haptischen Gegenständen die Phantasie an und sorgt für die notwendige Initialzündung, um ins Erzählen zu kommen. Die Aufbereitung der Geschichte als Hörspiel bedeutet einen interessanten Gegenpol zur eher durch Videos dominierten Lebenswelt von SchülerInnen. Die Lernenden werden angeleitet, genau hinzuhören und bekommen als Produzenten einen Blick hinter die Kulissen gelungener Audioentwicklung. \r\nDas Audio als digitales Format bietet ebenso zahlreiche Anknüpfungspunkte zum digitalen Kompetenzerwerb wie andere Formate auch: der kompetente Umgang mit Technologien, die Auseindersetzung mit urheberrechtlichen Fragen, wie etwa die Einbindung von geschützter Musik, reflektierte Rechercheleistung und die Möglichkeit der Publikation im Internet."
 tipp: >-
   Auch ohne Tonstudio und Equipment ist eine qualitativ hochwertige
   Hörspielproduktion möglich: Es gibt zahlreiche Schnittprogramme für Audio, die
@@ -52,6 +51,7 @@ author-name: Christine Kolbe
 author-email: christine.kolbe@medialepfade.org
 author-website: 'http://www.medialepfade.org/'
 tags: 'BYOD,Podcast,Radio,reviewed'
-date: '2017-10-07T11:30:58.234Z'
+date: '2017-11-08T13:44:13.969Z'
+slug: rat5i
 ---
 empty
