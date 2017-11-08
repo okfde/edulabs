@@ -1,15 +1,10 @@
 /*********************
 filter items
 *********************/
-.filter-items-wrap{
-  .filter-items{
-    display: block;
-  }
-}
 .filter-items{
 
-  display: none;
-  margin: 30px 0 !important;
+  margin: 30px auto !important;
+  display: table;
 
   .filter-items-headline{
     color: $black;
@@ -20,11 +15,10 @@ filter items
     @include box();
     @include teaser-shadow();
     display: inline-block;
-    font-size: 1.5em;
+    font-size: 1em;
     cursor: pointer;
     padding: 5px 15px;
     margin: 6px 4px;
-    min-width: 180px;
 
     &.shrinked{
       font-size: 1.25em;

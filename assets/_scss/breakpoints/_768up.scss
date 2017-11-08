@@ -50,7 +50,9 @@ WRAPPER STYLES
   font-size: 1.2rem;
 }
 
-
+.isotope-wrap, .featured-projects-wrap{
+  margin: 80px 0 20px 0;
+}
 
 /*********************
 HERO
@@ -199,4 +201,11 @@ FOOTER STYLES
 
 .filter-items {
   display: inline-block;
+  width: 90%;
+
+  .filter-item {
+    min-width: 180px;
+    font-size: 1.5em;
+    padding: 5px 15px;
+  }
 }

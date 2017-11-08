@@ -623,7 +623,7 @@ PAGE & SECTIONS
   position: absolute;
 }
 .isotope-wrap, .featured-projects-wrap{
-  margin: 80px 0 20px 0;
+  margin: 40px 0 20px 0;
   display: table;
 }
 .no-results{
@@ -729,8 +729,8 @@ EDUSPRINT
 .edusprint{
 
   .flex{
-    flex-flow: column;
-  }
+     flex-flow: column;
+   }
 
   .edusprint-post-content{
     background-color: $edupsprint-grey-light;
