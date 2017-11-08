@@ -197,12 +197,12 @@ EDUSPRINT
 
 .edusprint{
 
-  .edupsprint-btn-wrap {
-    padding: 80px 0;
+  .flex{
+    flex-flow: row;
   }
 
-  .edusprint-filters {
-    display: block;
+  .edupsprint-btn-wrap {
+    padding: 80px 0;
   }
 
   .edusprint-authors-wrap {

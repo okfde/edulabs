@@ -728,6 +728,10 @@ EDUSPRINT
 
 .edusprint{
 
+  .flex{
+    flex-flow: column;
+  }
+
   .edusprint-post-content{
     background-color: $edupsprint-grey-light;
   }
@@ -866,11 +870,11 @@ EDUSPRINT
     }
   }
   .filter-items{
-    padding: 25px;
+    padding: 15px;
     margin: 0 !important;
 
     .filter-items-headline{
-      margin-bottom: 20px;
+      margin-bottom: 15px;
     }
 
     .icons-wrap{
@@ -878,7 +882,7 @@ EDUSPRINT
       .filter-icon{
         display: inline-block;
         margin-right: 30px;
-        margin-bottom: 15px;
+        margin-bottom: 15px ;
 
         &.disabled{
           pointer-events: none;
