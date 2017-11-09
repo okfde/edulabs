@@ -25,7 +25,18 @@ teasers
         word-break: break-word;
         color: $primary-color;
       }
-
+      .teaser-headline-oer{
+        word-break: break-word;
+        color: $primary-color;
+        // cleaning up the ragged lines and breaks
+        -webkit-hyphens: auto;
+         -moz-hyphens: auto;
+              hyphens: auto;
+        // sets a minimum number of characters before and after the break
+        -webkit-hyphenate-before: 2;
+        -webkit-hyphenate-after: 3;
+               hyphenate-lines: 3;
+      }
     }
 
     .teaser-buttons-wrap{
@@ -132,6 +143,10 @@ teasers
         color: $black;
       }
 
+      .teaser-headline-oer{
+        color: $black;
+      }
+
       &:hover{
         .teaser-arrow:after{
           left: 100%;
@@ -160,6 +175,10 @@ teasers
     }
 
     .teaser-headline{
+      font-size: 1.7rem;
+    }
+
+    .teaser-headline-oer{
       font-size: 1.7rem;
     }
 
