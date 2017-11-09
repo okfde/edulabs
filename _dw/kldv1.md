@@ -27,7 +27,7 @@ vorbereitungszeit: vorbereitungszeit-2
 author-name: Heiko Idensen
 author-email: heikoidensen@gmail.com
 author-website: 'http://idensen.org'
-tags: 'Apps,Tablets,Smartphone,Deutsch,DAF,DAZ,Förderklasse'
+tags: 'Apps,DAF'
 date: '2017-10-08T12:48:29.539Z'
 ---
 empty
