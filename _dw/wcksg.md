@@ -5,7 +5,7 @@ art: noer
 titel: >-
   Kreativ programmieren mit interaktiven Sozialformen:  Handlungsorientes
   Scratch Handbuch
-visible: 1
+visible: 0
 desc: >-
   Das praxisorientierte 141-seitige Lehrerhandbuch gibt didaktisch-konzeptuelle
   Hinweise für Lehrer, Eltern und Workshopleiter. Das 44-seitige Schülerhandbuch
