@@ -1,12 +1,11 @@
 ---
-_id: 9a766b90-ab68-11e7-aad5-b90faa5ac528
+_id: 1f33ea40-c524-11e7-a1cf-8971f8c2d4c4
 title: op2eh
 art: oer
 titel: Padlet im Unterricht
-visible: 1
 desc: >-
   Padlet ist ein digitales Tool, sozusagen eine interaktive Tafel. SuS können
-  diese zugangsfrei (per Link) bearbeitet. Hier gibt es 5 unterschiedliche
+  diese zugangsfrei (per Link) bearbeiten. Hier gibt es 5 unterschiedliche
   Formate, unter anderem Sammlung und Kommentierung von Wissen (Wall) oder
   eigenen Sortierung über das Wischen von Inhalten.
 link: >-
@@ -61,7 +60,8 @@ vorbereitungszeit: vorbereitungszeit-2
 author-name: Charlott Rubach
 author-email: charlottrubach@gmx.net
 author-website: ''
-tags: 'BYOD, reviewed'
-date: '2017-10-07T14:05:41.667Z'
+tags: 'BYOD,reviewed'
+date: '2017-11-09T08:00:59.330Z'
+slug: op2eh
 ---
 empty
