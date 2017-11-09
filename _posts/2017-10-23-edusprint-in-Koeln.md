@@ -22,11 +22,11 @@ Wie lässt sich Bildung mit digital gestützten Methoden gestalten? Wir entwicke
 {% include partials/content/content-float-image.liquid float="right"
 src="/assets/img/blog/2017/November/OER-Preview/OER-Filter_preview.png" caption="Bild: Vorschau auf die neue Sammlung für OER-Unterrichtsideen" %}
 
-Bei dem edusprint sammeln wir einen Tag lang gemeinsam die besten Unterrichtsideen für die wachsende [edulabs.de/oer](http://www.edulabs.de/oer)-Sammlung (Achtung: noch Beta-Version!) - ein eigens aufgesetztes Redaktions- und Filtertool sowie vorbereitete Templates stehen schlüsselfertig zur Verfügung. Die OER-Empfehlungen richten sich vorrangig an Lehrer\*innen / Medienpädagog\*innen, ab Ende November lässt sie sich dann komfortabel nach Fächern, Kompetenzen und Lernzielen filtern. Ziel ist es, praxiserprobte OER-Empfehlungen zu digitalen Kompetenzen (wir orientieren uns an der [KMK-Strategie "Bildung in der digitalen Welt"](https://www.kmk.org/fileadmin/Dateien/pdf/PresseUndAktuelles/2016/Bildung_digitale_Welt_Webversion.pdf) und den [4K](http://politik-digital.de/news/aula-schuelerbeteiligung-und-die-kompetenzen-der-zukunft-153015/)) in allen Fächergruppen zusammenstellen. Das fertige Design ab Ende November sieht dann so aus (siehe rechts).
+Bei dem edusprint sammeln wir einen Tag lang gemeinsam die besten Unterrichtsideen für die wachsende [edulabs.de/oer](http://www.edulabs.de/oer)-Sammlung (Achtung: noch Beta-Version!) - ein eigens aufgesetztes Redaktions- und Filtertool sowie vorbereitete Templates stehen schlüsselfertig zur Verfügung. An vorhandenen Ideen und Materialien lässt sich in den Teams natürlich auch arbeiten. Die OER-Empfehlungen richten sich vorrangig an Lehrer\*innen / Medienpädagog\*innen, ab Ende November lässt sie sich dann komfortabel nach Fächern, Kompetenzen und Lernzielen filtern. Ziel ist es, praxiserprobte OER-Empfehlungen zu digitalen Kompetenzen (wir orientieren uns an der [KMK-Strategie "Bildung in der digitalen Welt"](https://www.kmk.org/fileadmin/Dateien/pdf/PresseUndAktuelles/2016/Bildung_digitale_Welt_Webversion.pdf) und den [4K](http://politik-digital.de/news/aula-schuelerbeteiligung-und-die-kompetenzen-der-zukunft-153015/)) in allen Fächergruppen zusammenstellen. Das fertige Design ab Ende November sieht dann so aus (siehe rechts).
 
 
 # Ablauf
-Am Samstag, den 18. November treffen wir uns einen Tag, um ganz praktisch ins Machen zu kommen und Best-Practice-Projekte der zeitgemäßen (digitalen) Bildung zu sammeln; eigene Projektideen/Materialien gemeinsam weiterzuentwickeln, in eine nachnutzbare Form zu bringen und in die Breite zu tragen. Für Verpflegung und das Bier im Anschluss wird gesorgt:
+Am Samstag, den 18. November treffen wir uns einen Tag, um ganz praktisch ins Machen zu kommen und Best-Practice-Projekte der zeitgemäßen (digitalen) Bildung zu sammeln; eigene Projektideen/Materialien gemeinsam weiterzuentwickeln, in eine nachnutzbare Form zu bringen und in die Breite zu tragen. Für Verpflegung, Mate und das Bier im Anschluss wird gesorgt:
 
 * 10:00 Uhr - Ankommen
 * 10:30 Uhr - Einführung und Erstellung von Karten
@@ -43,6 +43,6 @@ Neue Weyerstraße 2<br>
 # Anmeldung: Wer macht mit?
 Möchtet ihr bei der OER-Sammlung mitmachen und zeitgemäße Bildung voranbringen? Für den edusprint suchen wir 10-15 engagierte Teilnehmer\*innen, mit Praxiserfahrung im Bereich digital gestützter Bildung in Schule, Medienpädagogik oder Lehrerfortbildung.
 
-Wir freuen uns über eure Anmeldung und einen spannenden Tag im Edulab Köln/Bonn! Gern könnt ihr diese Einladung auch an Interessierte in eurem Umfeld weiterleiten. Bitte meldet euch über das folgende Formular an, damit wir planen können:<br><br>
+Wir freuen uns über eure Anmeldung und einen spannenden Tag im Edulab Köln/Bonn! Gern könnt ihr diese Einladung auch an Interessierte in eurem Umfeld weiterleiten. Bitte meldet euch über das folgende Formular an:<br><br>
 
 <div class="video"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeiOcVXU1_JFlHQyAwkyRN12bxxtBZtJXpYDm-fRLoMr09x4w/viewform?embedded=true" width="760" height="1100" frameborder="0" marginheight="0" marginwidth="0">Wird geladen...</iframe></div>
