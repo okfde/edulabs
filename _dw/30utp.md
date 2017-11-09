@@ -24,7 +24,6 @@ lernziele: >-
 tipp: "Lass die SuS vor der konkreten Umsetzung ausprobieren und recherchieren, mit welchen Geräten und Apps sie Videos aufnehmen und nachbearbeiten können und wie die Videos nachher auf deinem Computer landen.\r\nDu willst die Videos bewerten? Testet doch mal, wie effektiv die Mitschüler mit den Videos lernen konnten!"
 medien:
   - medien-3
-  - medien-4
 fach:
   - fach-1
   - fach-2
