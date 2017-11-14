@@ -890,10 +890,10 @@ EDUSPRINT
 
         &.active{
           .icon{
-            filter: brightness(100);
+            filter: brightness(0);
           }
           span{
-            color: white;
+            color: black;
           }
         }
 
