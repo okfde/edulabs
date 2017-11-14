@@ -34,6 +34,6 @@ Zur Beantwortung dieser Fragen wird es beim [nächsten edulabs Treffen](https://
 
 <p class="link-list">
 <span class="link-list-headline">Links</span>
-<a class="external-link" href="http://wikifinum.zum.de/wiki/Open-Data" target="_blank">Das Wiki des Gymnasium Adolfinum</a>
+<a class="external-link" href="http://wikifinum.zum.de/wiki/Open-Data" target="_blank">Das Wiki des Gymnasiums Adolfinum</a>
 <a class="external-link" href="https://www.moers.de/de/rathaus/projekt-open-data-und-schule/" target="_blank">Weitere Infos zum Projekt von der Stadt Moers</a>
 </p>
