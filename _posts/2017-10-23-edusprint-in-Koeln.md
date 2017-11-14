@@ -6,9 +6,9 @@ teaser_img_src: /assets/img/blog/2017/Oktober/edusprint_Koeln/edusprint_Koeln.pn
 featured: false
 categories: News
 twitter_large_img: /assets/img/blog/2017/Oktober/edusprint_Koeln/edusprint_Koeln.png
-header_background: /assets/img/blog/2017/Oktober/edusprint_Koeln/edusprint.jpg
+header_background: /assets/img/blog/2017/Oktober/edusprint_Koeln/edusprint_atmo.jpg
 image: /assets/img/blog/2017/Oktober/edusprint_Koeln/edusprint_Koeln.png
-header_background_caption: "Bild: <a href='http://katringreiner.com/'>Katrin Greiner</a>, <a href='https://creativecommons.org/licenses/by/4.0/legalcode'>CC-BY 4.0</a>"
+header_background_caption: "Bild: edusprint Berlin, von Maximilian Voigt. Lizenz: <a href='https://creativecommons.org/licenses/by/4.0/legalcode'>CC-BY 4.0</a>"
 author: Markus Neuschäfer, Maximilian Voigt
 info_text: |
  ...
