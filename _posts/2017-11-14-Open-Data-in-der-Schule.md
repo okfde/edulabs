@@ -10,7 +10,7 @@ categories: News
 twitter_large_img: /assets/img/blog/2017/November/open_data_schule/Offenerhaushalt_Bonn_twitter.png
 header_background: /assets/img/blog/2017/November/open_data_schule/Offenerhaushalt_Bonn.png
 header_background_caption: "Der Haushalt der Stadt Bonn 2013/2014, <a href='https://ogdcockpit.bonn.de/index.php/Offenerhaushalt_Bonn'>visualisiert</a> mit OffenerHaushalt. Lizenz: <a href='https://creativecommons.org/licenses/by-nc-sa/3.0/'>CC BY-NC-SA 3.0</a>"
-author: Belsa Seeger
+author: Bela Seeger
 info_text: |
   ...
 
@@ -28,8 +28,8 @@ Zur Beantwortung dieser Fragen wird es beim nächsten edulabs Treffen einen klei
 
 ### Ziel des Projektes ist:
 
-* Das Interesse des Bildungsbereiches an offenen Daten zu stimulieren.
-* Die Aufmerksamkeit auf den riesigen Fundus an hochaktuellen Daten mit lokalem, regionalem oder landesweitem Bezug zu lenken. 
+* das Interesse des Bildungsbereiches an offenen Daten zu stimulieren,
+* die Aufmerksamkeit auf den riesigen Fundus an hochaktuellen Daten mit lokalem, regionalem oder landesweitem Bezug zu lenken, 
 * Anleitungen für den sinnvollen Einsatz im Unterricht zu geben.
 
 <p class="link-list">
