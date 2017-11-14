@@ -27,10 +27,10 @@ Bei dem edusprint entwickeln wir einen Tag lang Projekte und sammeln gemeinsam d
 # Ablauf
 Am Samstag, den 18. November treffen wir uns einen Tag, um ganz praktisch ins Machen zu kommen und Best-Practice-Projekte der zeitgemäßen (digitalen) Bildung zu sammeln; eigene Projektideen/Materialien gemeinsam weiterzuentwickeln, in eine nachnutzbare Form zu bringen und in die Breite zu tragen. Für Verpflegung, Mate und das Bier im Anschluss wird gesorgt:
 
-* 10:00 Uhr - Ankommen
-* 10:30 Uhr - Einführung und Erstellung von Karten
-* 13:00 Uhr - Mittagspause
-* 14:00 Uhr - Start der zweiten Runde
+* 12:30 Uhr - Ankommen
+* 13:00 Uhr - Einführung, Erstellung von Karten, Projektentwicklung
+* 14:00 Uhr - Mittagspause
+* 15:00 Uhr - Start der zweiten Runde
 * 17:00 Uhr - Abschluss und gemeinsamer Ausklang<br><br><br>
 
 # Wo?
