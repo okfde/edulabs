@@ -31,3 +31,9 @@ Zur Beantwortung dieser Fragen wird es beim nächsten edulabs Treffen einen klei
 * Das Interesse des Bildungsbereiches an offenen Daten zu stimulieren.
 * Die Aufmerksamkeit auf den riesigen Fundus an hochaktuellen Daten mit lokalem, regionalem oder landesweitem Bezug zu lenken. 
 * Anleitungen für den sinnvollen Einsatz im Unterricht zu geben.
+
+<p class="link-list">
+<span class="link-list-headline">Links</span>
+<a class="external-link" href="http://wikifinum.zum.de/wiki/Open-Data" target="_blank">Das Wiki des Gymnasium Adolfinum</a>
+<a class="external-link" href="https://www.moers.de/de/rathaus/projekt-open-data-und-schule/" target="_blank">Weitere Infos zum Projekt von der Stadt Moers</a>
+</p>
