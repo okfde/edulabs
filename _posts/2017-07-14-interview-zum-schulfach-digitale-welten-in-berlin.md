@@ -8,7 +8,7 @@ featured: false
 categories: Interviews
 twitter_large_img: /assets/img/blog/2017/Juli/interview_melanie/melanie_stilz_twitter.jpg
 header_background: /assets/img/blog/2017/Juli/interview_melanie/melanie_stilz_boell.jpg
-header_background_caption: "Bild: Melanie Stilz, by Stephan Röhl CC-BY-SA-2.0"
+header_background_caption: "Bild: Melanie Stilz, von Stephan Röhl. Lizenz: CC-BY-SA-2.0"
 author: Maximilian Voigt
 info_text: |
    <a href="/blog/making-und-oer"><img src="/assets/img/blog/2017/Juli/interview_kristin_narr/making_1.jpg"></a>
@@ -26,18 +26,21 @@ Das Wahlfach wird in der ersten Runde in 11. und 12. Klassen an Berliner Schulen
 
 <!-- include floated image -->
 {% include partials/content/content-float-image.liquid float="right"
-src="/assets/img/blog/2017/Juli/interview_melanie/fortbildung_digitale_welten_1.jpg" caption="Bild: Fortbildung „Digitale Welten“, by Melanie Stilz" %}
+src="/assets/img/blog/2017/Juli/interview_melanie/fortbildung_digitale_welten_1.jpg" caption="Fortbildung „Digitale Welten“, von Melanie Stilz.<br>Lizenz: <a href='https://creativecommons.org/licenses/by/4.0/'>CC-BY 4.0</a>" %}
 
 **Gibt es so viele technisch versierte Lehrer\*innen? Wer nimmt an den Fortbildungen genau teil?**<br>
 Es nehmen vorwiegend Informatik-, Mathematik- und Physiklehrer\*innen teil, die sowieso schon in dem Bereich unterrichten, aber auch solche, die aus ganz anderen Fächern kommen. Das war auch unserer Anspruch an das Fach, dass wir gesagt haben: Wir wissen, dass es an Informatiklehrer\*innen mangelt und wir brauchen jetzt nicht auf Informatik-Niveau Fortbildung betreiben. Denn dann haben die Schulen weiterhin das gleiche Problem. Unser Anspruch war, dass wir ein Eintauchen in verschiedene Themen bieten, das sehr praxisnah ist. Ein Eintauchen, das in den Schulen dann in Projekten vertieft werden kann. Es ging also darum, in bestimmten Bereichen die Expertenrollen zu verschieben oder abzuschwächen. Um eben stärker die Verantwortung an die Schüler\*innen abzugeben, sich selbst Kompetenzen anzueignen, eigenständig zu lernen, natürlich methodisch und didaktisch angeleitet durch die Lehrenden.
 
 **„Digitale Welten“ soll also Themen der Digitalisierung in einem Fach bündeln. Diese Ein-Fach-Lösung ist nicht unumstritten. Was antwortest Du Kritikern?**<br>
-Natürlich wäre es wünschenswert, dass die Themen der Digitalisierung in verschiedenen Fächern auftauchen. Aber momentan beobachten wir das Problem, dass selbst Informatiklehrende Schwierigkeiten haben. Das hängt an ganz vielen Gründen. Zum einen gibt es nicht genügend Lehrer\*innen, die über entsprechende Kompetenzen verfügen. Zum anderen fehlt es aber auch an Unterrichtsmaterialien, die sich durch digitale Inhalte auszeichnen. Darunter haben dann nicht nur die Informatiklehrer\*innen zu leiden. Selbst wenn man versucht digitale Themen in anderen Fächern unterzubringen, kann man nicht erwarten, dass alle diese Leistung erbringen können, wenn die Lehrenden nicht zumindest Unterrichtsmaterialien gestellt bekommen.<br>
-Was meiner Erfahrung nach zu oft einseitig beantwortet wird, ist die Frage "Was bedeutet eigentlich Digitalisierung in der Bildung?" Zum einen gibt es natürlich die Ebene der Anwendung. Da wird auch breit gefordert, dass die in allen Fächern stattfindet. Ob das jetzt Smartboards, Tablets oder Smartphones sind. Das hat aber noch gar nichts mit den Inhalten zu tun. Man kann klassischen Deutschunterricht mit dem Smartphone machen, ohne sich nur im geringsten mit den Technologien dahinter auseinanderzusetzen. Zum anderen sind also inhaltliche Aspekte notwendig. Die zweite Ebene, neben der der Anwendung, ist die technische, die Auseinandersetzung mit der Funktion. Die spielt ein Stück weit in den Informatikunterricht mit rein. Die dritte Ebene ist die soziokulturelle: Was bedeutet das für meinen Umgang mit Daten, mit Überwachung und so weiter. Alle drei Aspekte gehören zusammen. Dieser Zusammenhang kann nicht von allen Fächern geleistet werden. Das überfordert Lehrende oder Schulen. Deswegen bin ich auch überzeugt, dass es ein solches Fach braucht. Die Digitalisierung entwickelt sich so rasant, dass ein Impulsfach notwendig ist, welches sich ganz explizit mit aktuellen Themen auseinandersetzt.
+Natürlich wäre es wünschenswert, dass die Themen der Digitalisierung in verschiedenen Fächern auftauchen. Aber momentan beobachten wir das Problem, dass selbst Informatiklehrende Schwierigkeiten haben. 
+<!-- include quote -->
+{% include partials/content/content-quote.liquid float="left" content="Man kann klassischen Deutschunterricht mit dem Smartphone machen, ohne sich nur im geringsten mit den Technologien dahinter auseinander&shy;zusetzen." %}
+Das hängt an ganz vielen Gründen. Zum einen gibt es nicht genügend Lehrer\*innen, die über entsprechende Kompetenzen verfügen. Zum anderen fehlt es aber auch an Unterrichtsmaterialien, die sich durch digitale Inhalte auszeichnen. Darunter haben dann nicht nur die Informatiklehrer\*innen zu leiden. Selbst wenn man versucht digitale Themen in anderen Fächern unterzubringen, kann man nicht erwarten, dass alle diese Leistung erbringen können, wenn die Lehrenden nicht zumindest Unterrichtsmaterialien gestellt bekommen.<br>
+Was meiner Erfahrung nach zu oft einseitig beantwortet wird, ist die Frage „Was bedeutet eigentlich Digitalisierung in der Bildung?“ Zum einen gibt es natürlich die Ebene der Anwendung. Da wird auch breit gefordert, dass die in allen Fächern stattfindet. Ob das jetzt Smartboards, Tablets oder Smartphones sind. Das hat aber noch gar nichts mit den Inhalten zu tun. Man kann klassischen Deutschunterricht mit dem Smartphone machen, ohne sich nur im geringsten mit den Technologien dahinter auseinanderzusetzen. Zum anderen sind also inhaltliche Aspekte notwendig. Die zweite Ebene, neben der der Anwendung, ist die technische, die Auseinandersetzung mit der Funktion. Die spielt ein Stück weit in den Informatikunterricht mit rein. Die dritte Ebene ist die soziokulturelle: Was bedeutet das für meinen Umgang mit Daten, mit Überwachung und so weiter. Alle drei Aspekte gehören zusammen. Dieser Zusammenhang kann nicht von allen Fächern geleistet werden. Das überfordert Lehrende oder Schulen. Deswegen bin ich auch überzeugt, dass es ein solches Fach braucht. Die Digitalisierung entwickelt sich so rasant, dass ein Impulsfach notwendig ist, welches sich ganz explizit mit aktuellen Themen auseinandersetzt.
 
 <div class="img-wrap-center">
 <img src="/assets/img/blog/2017/Juli/interview_melanie/education_tools.jpg" style="width: 100%; display: inline-block">
-<div class="caption" style="text-align: right">Bild: Digitale Tools für den Klassenraum, by Maximilian Voigt</div>
+<div class="caption" style="text-align: right">Digitale Tools für den Klassenraum, von Maximilian Voigt. Lizenz: <a href='https://creativecommons.org/licenses/by/4.0/'>CC-BY 4.0</a></div>
 </div>
 
 **„Digitale Welten“ ist also auch auf Schüler\*innen ausgelegt, die weniger technisch versiert sind?**<br>
@@ -56,7 +59,7 @@ Damit beschäftigt sich ebenfalls die AG. Ich denke aber, dass die Schlagworte �
 
 <!-- include floated image -->
 {% include partials/content/content-float-image.liquid float="left"
-src="/assets/img/blog/2017/Juli/interview_melanie/fortbildung_digitale_welten_3.jpg" caption="Bild: Fortbildung „Digitale Welten“, by Melanie Stilz" %}
+src="/assets/img/blog/2017/Juli/interview_melanie/fortbildung_digitale_welten_3.jpg" caption="Fortbildung „Digitale Welten“, von Melanie Stilz.<br>Lizenz: <a href='https://creativecommons.org/licenses/by/4.0/'>CC-BY 4.0</a>" %}
 
 **Wie wird das Fach in diesem Prozess Jugendlichen gerecht? Welche Rolle spielen zum Beispiel soziale Netzwerke, Gaming oder der Gebrauch von Smartphones? Werden die Lehrenden speziell darauf vorbereitet?**<br>
 Diese Aspekte spielen eine Rolle. Zum Beispiel zu “Fake News” haben wir Unterlagen. Die Themen sollen allerdings von den Schüler\*innen selbst erarbeitet werden. Gerade die Bereiche, die weniger anwendungsbezogen sind, haben wir so konzipiert, dass sie in verschiedenen Abstufungen und Teams erarbeitet werden können. Nach dem Schema: Teamarbeit, Präsentation, Diskussion und anschließende Dokumentation.

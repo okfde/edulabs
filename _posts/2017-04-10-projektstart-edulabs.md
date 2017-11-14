@@ -5,9 +5,11 @@ title: "Offene Bildungsformate als OER: Projektstart edulabs"
 teaser: "Worum geht es bei edulabs? Erste Informationen zum Projektstart"
 teaser_img_src:
 categories: News
-twitter_large_img:
-header_background:
-header_background_caption: ""
+teaser_img_src: /assets/img/static/edulabs-signet.svg
+twitter_large_img: /assets/img/static/edulabs-signet.svg
+header_background: /assets/img/static/edulabs-signet.svg
+image: /assets/img/static/edulabs-signet.svg
+header_background_caption: "edulabs Logo. Lizenz: <a href='https://creativecommons.org/licenses/by/4.0/'>CC-BY 4.0</a>"
 author: Markus Neuschäfer
 ---
 

@@ -14,15 +14,14 @@ info_text: |
  ...
 
 ---
-*Am 18. November lädt [edulabs Köln/Bonn](https://edulabs.de/labs/edulabsk-bn) gemeinsam mit der [OKF](https://www.okfn.de) und [mediale pfade](http://www.medialepfade.org/) zu einem eintägigen edusprint ein, um Empfehlungen für freie Materialien und Unterrichtsformate zu digitalen Kompetenzen zu entwickeln.*
-
-Wie lässt sich Bildung mit digital gestützten Methoden gestalten? Wir entwickeln eine Sammlung von Unterrichtsideen mit freien Materialien, in denen zeitgemäße Bildung innovativ umgesetzt wird.
+*Wie lässt sich Bildung mit digital gestützten Methoden gestalten? Wir entwickeln eine Sammlung von Unterrichtsideen mit freien Materialien, in denen [zeitgemäße Bildung](https://edulabs.de/blog/Interview-mit-Dejan-Mihajlovic-zu-zeitgemae%C3%9Fer-Bildung) innovativ umgesetzt wird.
+Am 18. November lädt [edulabs Köln/Bonn](https://edulabs.de/labs/edulabsk-bn) gemeinsam mit der [OKF](https://www.okfn.de) und [mediale pfade](http://www.medialepfade.org/) zu einem eintägigen edusprint ein, um Empfehlungen für freie Materialien und Unterrichtsformate zu digitalen Kompetenzen zu gestalten.*
 
 <!-- include floated image -->
 {% include partials/content/content-float-image.liquid float="right"
 src="/assets/img/blog/2017/November/OER-Preview/OER-Filter_preview.png" caption="Bild: Vorschau auf die neue Sammlung für OER-Unterrichtsideen" %}
 
-Bei dem edusprint sammeln wir einen Tag lang gemeinsam die besten Unterrichtsideen für die wachsende [edulabs.de/oer](http://www.edulabs.de/oer)-Sammlung (Achtung: noch Beta-Version!) - ein eigens aufgesetztes Redaktions- und Filtertool sowie vorbereitete Templates stehen schlüsselfertig zur Verfügung. An vorhandenen Ideen und Materialien lässt sich in den Teams natürlich auch arbeiten. Die OER-Empfehlungen richten sich vorrangig an Lehrer\*innen / Medienpädagog\*innen, ab Ende November lässt sie sich dann komfortabel nach Fächern, Kompetenzen und Lernzielen filtern. Ziel ist es, praxiserprobte OER-Empfehlungen zu digitalen Kompetenzen (wir orientieren uns an der [KMK-Strategie "Bildung in der digitalen Welt"](https://www.kmk.org/fileadmin/Dateien/pdf/PresseUndAktuelles/2016/Bildung_digitale_Welt_Webversion.pdf) und den [4K](http://politik-digital.de/news/aula-schuelerbeteiligung-und-die-kompetenzen-der-zukunft-153015/)) in allen Fächergruppen zusammenstellen. Das fertige Design ab Ende November sieht dann so aus (siehe rechts).
+Bei dem edusprint entwickeln wir einen Tag lang Projekte und sammeln gemeinsam die besten Unterrichtsideen für die wachsende [edulabs.de/oer](http://www.edulabs.de/oer)-Sammlung (Achtung: noch Beta-Version!). Ein eigens aufgesetztes Redaktions- und Filtertool sowie vorbereitete Templates stehen schlüsselfertig zur Verfügung. Die OER-Empfehlungen richten sich vorrangig an Lehrer\*innen / Medienpädagog\*innen, ab Ende November lässt sie sich dann komfortabel nach Fächern, Kompetenzen und Lernzielen filtern. Ziel ist es, praxiserprobte OER-Empfehlungen zu digitalen Kompetenzen (wir orientieren uns an der [KMK-Strategie "Bildung in der digitalen Welt"](https://www.kmk.org/fileadmin/Dateien/pdf/PresseUndAktuelles/2016/Bildung_digitale_Welt_Webversion.pdf) und den [4K](http://politik-digital.de/news/aula-schuelerbeteiligung-und-die-kompetenzen-der-zukunft-153015/)) in allen Fächergruppen zusammenstellen. Das fertige Design ab Ende November sieht dann so aus (siehe rechts).
 
 
 # Ablauf
@@ -43,6 +42,6 @@ Neue Weyerstraße 2<br>
 # Anmeldung: Wer macht mit?
 Möchtet ihr bei der OER-Sammlung mitmachen und zeitgemäße Bildung voranbringen? Für den edusprint suchen wir 10-15 engagierte Teilnehmer\*innen, mit Praxiserfahrung im Bereich digital gestützter Bildung in Schule, Medienpädagogik oder Lehrerfortbildung.
 
-Wir freuen uns über eure Anmeldung und einen spannenden Tag im Edulab Köln/Bonn! Gern könnt ihr diese Einladung auch an Interessierte in eurem Umfeld weiterleiten. Bitte meldet euch über das folgende Formular an:<br><br>
+Wir freuen uns über eure Anmeldung und einen spannenden Tag bei edulabs Köln/Bonn! Gern könnt ihr diese Einladung auch an Interessierte in eurem Umfeld weiterleiten. Bitte meldet euch über das folgende Formular an:<br><br>
 
 <div class="video"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeiOcVXU1_JFlHQyAwkyRN12bxxtBZtJXpYDm-fRLoMr09x4w/viewform?embedded=true" width="760" height="1100" frameborder="0" marginheight="0" marginwidth="0">Wird geladen...</iframe></div>
