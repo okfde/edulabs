@@ -16,7 +16,7 @@ info_text: |
 
 ---
 
-*Beim nächsten [edulabsBE](https://www.meetup.com/edulabsBE/events/245103427/) treffen geht’s um offene Daten im Unterricht und wie mit ihnen Fragen wie diesen nachgegangen werden kann: Wofür wird unser Steuergeld ausgegeben? Wie hoch ist der Kulturetat? Warum wird in welchem Stadtviertel so viel AfD gewählt, und wie steht das in Zusammenhang mit demographischen Entwicklungen?* 
+*[Beim nächsten edulabsBE](https://www.meetup.com/edulabsBE/events/245103427/) treffen geht’s um offene Daten im Unterricht und wie mit ihnen Fragen wie diesen nachgegangen werden kann: Wofür wird unser Steuergeld ausgegeben? Wie hoch ist der Kulturetat? Warum wird in welchem Stadtviertel so viel AfD gewählt, und wie steht das in Zusammenhang mit demographischen Entwicklungen?* 
 
 Die Stadt Moers arbeitet mit dem “Open Data Schulprojekt” gemeinsam mit Studierenden der [Hochschule Rhein-Waal](http://www.hochschule-rhein-waal.de/) und dem [Gymnasium Adolfinum](http://www.adolfinum.de/) daran, offene Daten im Schulunterricht  sinnvoll einzusetzen.  Seit 2013 haben sie Ansätze und Lösungen entwickelt, um mit lokalen, offenen Daten im Unterricht zu arbeiten. Hierbei wurden unter anderem gemeinsam mit Lernenden und Studierenden erste Daten zu Wahlergebnissen, städtischer Haushalts- und Finanzplanung, demographischen Entwicklungen, und Energie- und Ressourcenverbrauch diskutiert und teilweise visualisiert. Unter anderem wurde dazu die von der Open Knowledge Foundation entwickelte Webseite [OffenerHaushalt](https://offenerhaushalt.de/) genutzt. Zusätzliche Tools und Webseiten wurden selbst entwickelt.
 
