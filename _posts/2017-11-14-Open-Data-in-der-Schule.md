@@ -28,7 +28,7 @@ Zur Beantwortung dieser Fragen wird es beim [nächsten edulabs Treffen](https://
 
 ### Ziel des Projektes ist:
 
-* das Interesse des Bildungsbereiches an offenen Daten zu stimulieren,
+* das Interesse an offenen Daten im Bildungsbereich zu stärken,
 * die Aufmerksamkeit auf den riesigen Fundus an hochaktuellen Daten mit lokalem, regionalem oder landesweitem Bezug zu lenken, 
 * Anleitungen für den sinnvollen Einsatz im Unterricht zu geben.
 
