@@ -17,8 +17,8 @@ info_text: |
 
 ---
 
-*[H5P](https://h5p.org/) ist eine freie und [quelloffene Software](https://de.wikipedia.org/wiki/Open_Source) zum Erstellen von interaktiven Lern- und Lehrinhalten. Mit diesen treten Nutzende in Interaktion, statt sie einseitig zu konsumieren. Beispiele sind: Lückentexte, Drag and Drop, interaktive Videos oder Online-Memory. Die verschiedenen Inhaltstypen sind miteinander kombinierbar, so dass vielfältige Lehr- und Lerninhalte entstehen.
-Inhalte werden direkt auf der H5P-Website erstellt und anschließend über einen Code in den Quelltext des eigenen Blogartikels eingefügt. Alternativ lässt sich H5P auch als Plugin in eine Drupal, Wordpress oder Moodle-Installation integrieren. Die Erstellung von H5P-Inhalten funktioniert dann analog zur Erstellung eines Blogbeitrages.
+*[H5P](https://h5p.org/) ist eine freie und [quelloffene Software](https://de.wikipedia.org/wiki/Open_Source) zum Erstellen von interaktiven Lern- und Lehrinhalten. Mit diesen treten Nutzende in Interaktion, statt sie einseitig zu konsumieren. Beispiele sind: Lückentexte, Drag and Drop, interaktive Videos oder Online-Memory. Die verschiedenen Inhaltstypen sind miteinander kombinierbar, sodass vielfältige Lehr- und Lerninhalte entstehen.
+Inhalte werden direkt auf der H5P-Website erstellt und anschließend über einen Code in den Quelltext des eigenen Blogartikels eingefügt. Alternativ lässt sich H5P auch als Plugin in eine Drupal, WordPress oder Moodle-Installation integrieren. Die Erstellung von H5P-Inhalten funktioniert dann analog zur Erstellung eines Blogbeitrages.
 Einmal erstellte H5P-Inhalte können heruntergeladen und auf Wunsch weiter bearbeitet werden. Es sind keine Programmier- oder Technik-Kenntnisse erforderlich.
 Initiiert wurde H5P in Norwegen und wird getragen vom Gedanken der [Open Educational Resources](https://de.wikipedia.org/wiki/Open_Educational_Resources). Das Projekt setzt auf offene Standards wie [HTML5](https://de.wikipedia.org/wiki/HTML5), wodurch Nutzenden das Erstellen, Teilen und Verändern von Inhalten erleichtert wird.*
 
@@ -47,7 +47,7 @@ Die Kombination verschiedener Inhaltstypen ermöglicht es, in einer inklusiven L
 
 * H5P kann nur genutzt werden, sofern ein Zugang zum Internet zur Verfügung steht. Dies ist leider nach wie vor nicht an allen Schulen gegeben. Allerdings wird in der Community bereits an einer Offline-Version gearbeitet.
 * Bei der Erstellung von H5P-Materialien durch Lernende selbst kann die Vielzahl von Inhaltstypen zum Teil erschlagend sein: Bei der Erstellung von H5P-Inhalten werden zunächst alle installierten Inhaltstypen angezeigt - erst dann erfolgt durch die erstellende Person eine Auswahl.
-* Sofern H5P nicht in die eigene Moodle, Drupal oder Wordpress Website integriert wird, ist zur Erstellung von Inhalten ein eigener Account auf h5p.org erforderlich. Auch dies kann an Schulen auf Schwierigkeiten stoßen, da sich hier datenschutzrechtliche Fragen stellen.
+* Sofern H5P nicht in die eigene Moodle, Drupal oder WordPress Website integriert wird, ist zur Erstellung von Inhalten ein eigener Account auf h5p.org erforderlich. Auch dies kann an Schulen auf Schwierigkeiten stoßen, da sich hier datenschutzrechtliche Fragen stellen.
 * Schließlich wird gegenüber H5P zum Teil der Vorwurf erhoben, dass die Inhaltstypen zu sehr an einer formativen Didaktik orientiert sind und deshalb im Widerspruch zu kreativem und offenem Lernen stehen. 
 * Nicht zuletzt spielt auch die digitale Kompetenz der Lehrkraft eine große Rolle. Es ist sicher nicht möglich, eine gewinnbringende Unterrichtseinheit mit H5P zu gestalten, ohne sich selbst mit den Funktonsweisen vertraut gemacht zu haben. 
 * Schüler\*innen brauchen sicher erst eine Einführung, um danach kreativ werden zu können.
