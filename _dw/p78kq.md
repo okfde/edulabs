@@ -3,6 +3,7 @@ _id: a41a0a70-c9f5-11e7-a1cf-8971f8c2d4c4
 title: p78kq
 art: oer
 titel: OffenesParlament.de als Recherchetool für den Unterricht
+visible: 0
 desc: >-
   Auf der Seite OffenesParlament.de lassen sich alle Bundestagsdebatten der
   vergangenen vier Jahre durchsuchen. Mit dem Tool können Schüler\*innen z.B.
