@@ -17,7 +17,7 @@ info_text: |
 *Philippe Wampfler ist Lehrer für Deutsch an der [Kantonsschule Enge](http://ken.ch/), Dozent für Fachdidaktik Deutsch am [IFE der Universität Zürich](http://www.ife.uzh.ch/llbm/personen/fachdidaktikerinnen/wampflerphilippe.html), Kulturwissenschaftler und Experte für Lernen mit Neuen Medien.*
 
 **Gerade wird viel über Adjektive wie „digital“ und „zeitgemäß“ in Verbindung mit „Bildung“ diskutiert. Welche Rolle spielt diese Begriffsbildung für die konkrete und individuelle Weiterentwicklung von Lehr- und Lernszenarien?**<br>
-Wenn man sich die Twitter Community anschaut, muss man vielleicht eine soziologische Perspektive einnehmen und sich fragen: „Was ist das Ziel der Leute, die dort aktiv sind?“. Diese Begriffsabgrenzungen kann man vielleicht als ein Kampf um die Deutungshoheit bezeichnen. 
+Wenn man sich die Twitter-Community anschaut, muss man vielleicht eine soziologische Perspektive einnehmen und sich fragen: „Was ist das Ziel der Leute, die dort aktiv sind?“. Diese Begriffsabgrenzungen kann man vielleicht als ein Kampf um die Deutungshoheit bezeichnen. 
 <!-- include quote -->
 {% include partials/content/content-quote.liquid float="left" content="„Diese Begriffsabgrenzungen kann man vielleicht als ein Kampf um die Deutungshoheit bezeichnen.“" %}
 Nach dem Motto: Ich bin jetzt die Person, die sagen kann, was der Begriff bedeutet. Ich bin sehr wichtig, ich habe Einfluss auf diese Thematik. Man kann gerade ein gewisses Gerangel darum beobachten, bei Projekten, bei Publikationen die Person zu sein, die für digitale Bildung sprechen kann. Denn da ist recht viel Geld und Aufmerksamkeit vorhanden. Man möchte gerne sich und seine Projekte so platzieren, dass sie auch gesehen werden.
@@ -79,7 +79,7 @@ Eine Idee, die ich besonders zeitgemäß finde, ist die, dass Lernende eigenstä
 <!-- include quote -->
 {% include partials/content/content-quote.liquid float="right" content="„Ich lasse mich lieber inspirieren.“" %}
 
-**Aktuell arbeiten wir gemeinsam mit der edulabs Community an einer Plattform, die das Finden zeitgemäßer und freier Unterrichtsideen erleichtern soll - durch redaktionelle Empfehlungen und eine Reihe von Filterkategorien.**<br>
+**Aktuell arbeiten wir gemeinsam mit der edulabs-Community an einer Plattform, die das Finden zeitgemäßer und freier Unterrichtsideen erleichtern soll - durch redaktionelle Empfehlungen und eine Reihe von Filterkategorien.**<br>
 **Was machen für dich gute Unterrichtsmaterialien aus?**<br>
 Das sage ich jetzt aus meiner ganz eigenen Perspektive, aus der Sicht meiner Bedürfnisse: Was ich nicht so mag sind fertige PDFs, die ein fertiges Layout haben, in denen alle Fragen vorgefertigt sind. Ich lasse mich lieber inspirieren. Was ich also gerne habe sind Quellen, die für mich eine Inspiration sein können. Zum Beispiel Texte, die ich im Unterricht verwenden kann, zu denen ich dann meine eigenen Fragen formuliere. Gute Videos oder Übungen mag ich auch. Ich finde es hilfreich, wenn gutes Material erschlossen wird. 
 <!-- include floated image -->
