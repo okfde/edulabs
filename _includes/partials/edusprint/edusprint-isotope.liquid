@@ -1,23 +1,30 @@
 <div class="isotope-wrap col-xs-22 col-xs-push-1 no-padding">
     <div class="grid-sizer col-xs-24 col-sm-12 col-md-8 col-lg-6 col-xlg-4"></div>
     <h2 class="no-results hidden">Leider keine Ergebnisse.</h2>
-    {% include partials/edusprint/edusprint-teaser.liquid filter="kategorie-1 kategorie-2" category="#Kategorie 1, Kategorie 2" type="edusprint-blog" icons="" headline="Themen des nächsten edulabs calls: Calliope mini, das erste Lab-Treffen und Projekte, Projekte" copy="Am 10. und 11. Juni treffen sich Maker, Eltern, Kinder und andere Freund*innen von Hardware, DIY, Technik und Kreativität auf der Maker-Faire Berlin." %}
-    {% include partials/edusprint/edusprint-teaser.liquid filter="kategorie-3 kategorie-4" category="#Kategorie 3, Kategorie 4" icons="" headline="Nächstes edulabs meetup: online (Mi 17.5., 17:00)"  %}
-    {% include partials/edusprint/edusprint-teaser.liquid filter="kategorie-5 kategorie-6" category="#Kategorie 5, Kategorie 6" icons="" headline="Du hast Projektideen und möchtest lab-Vorhaben unterstützen?"  %}
-    {% include partials/edusprint/edusprint-teaser.liquid filter="kategorie-7 kategorie-8" category="#Kategorie 7, Kategorie 8" icons="" headline="edulabs-Projekte suchen Unterstützung"  %}
-    {% include partials/edusprint/edusprint-teaser.liquid filter="kategorie-9 kategorie-10" category="#Kategorie 9, Kategorie 10" headline="3. Mai 2017: Planungstreffen im Supermarkt Berlin"  %}
-    {% include partials/edusprint/edusprint-teaser.liquid filter="kategorie-11 kategorie-12" category="#Kategorie 11, Kategorie 12" headline="Erste Projekte: zum edulabs-Planungstreffen und wie es weiter geht" copy="Am 10. und 11. Juni treffen sich Maker, Eltern, Kinder und andere Freund*innen von Hardware, DIY, Technik und Kreativität auf der Maker-Faire Berlin."  %}
-    {% include partials/edusprint/edusprint-teaser.liquid filter="kategorie-13" category="#Kategorie 13" headline="edulabs-Projekte suchen Unterstützung"  %}
-    {% include partials/edusprint/edusprint-teaser.liquid filter="kategorie-1 kategorie-2" category="#Kategorie 1, Kategorie 2" headline="Nächstes edulabs meetup: online (Mi 17.5., 17:00)"  %}
-    {% include partials/edusprint/edusprint-teaser.liquid filter="kategorie-3 kategorie-4" category="#Kategorie 3, Kategorie 4" headline="Du hast Projektideen und möchtest lab-Vorhaben unterstützen?" copy="Am 10. und 11. Juni treffen sich Maker, Eltern, Kinder und andere Freund*innen von Hardware, DIY, Technik und Kreativität auf der Maker-Faire Berlin."  %}
-    {% include partials/edusprint/edusprint-teaser.liquid filter="kategorie-5 kategorie-6" category="#Kategorie 5, Kategorie 6" headline="edulabs-Projekte suchen Unterstützung"  %}
-    {% include partials/edusprint/edusprint-teaser.liquid filter="kategorie-7 kategorie-8" category="#Kategorie 7, Kategorie 8" headline="Nächstes edulabs meetup: online (Mi 17.5., 17:00)"  %}
-    {% include partials/edusprint/edusprint-teaser.liquid filter="kategorie-9 kategorie-10" category="#Kategorie 9, Kategorie 10" headline="Du hast Projektideen und möchtest lab-Vorhaben unterstützen?" copy="Am 10. und 11. Juni treffen sich Maker, Eltern, Kinder und andere Freund*innen von Hardware, DIY, Technik und Kreativität auf der Maker-Faire Berlin."  %}
-    {% include partials/edusprint/edusprint-teaser.liquid filter="kategorie-11 kategorie-12" category="#Kategorie 11, Kategorie 12" headline="edulabs-Projekte suchen Unterstützung"  %}
-    {% include partials/edusprint/edusprint-teaser.liquid filter="kategorie-13" category="#Kategorie 13" headline="3. Mai 2017: Planungstreffen im Supermarkt Berlin"  %}
-    {% include partials/edusprint/edusprint-teaser.liquid filter="kategorie-1 kategorie-2" category="#Kategorie 1, Kategorie 2" headline="Erste Projekte: zum edulabs-Planungstreffen und wie es weiter geht"  %}
-    {% include partials/edusprint/edusprint-teaser.liquid filter="kategorie-3 kategorie-4" category="#Kategorie 3, Kategorie 4" headline="edulabs-Projekte suchen Unterstützung"  %}
-    {% include partials/edusprint/edusprint-teaser.liquid filter="kategorie-5 kategorie-6" category="#Kategorie 5, Kategorie 6" headline="Nächstes edulabs meetup: online (Mi 17.5., 17:00)"  %}
-    {% include partials/edusprint/edusprint-teaser.liquid filter="kategorie-7 kategorie-8" category="#Kategorie 7, Kategorie 8" headline="Du hast Projektideen und möchtest lab-Vorhaben unterstützen?"  %}
-    {% include partials/edusprint/edusprint-teaser.liquid filter="kategorie-9 kategorie-10" category="#Kategorie 9, Kategorie 10" headline="edulabs-Projekte suchen Unterstützung"  %}
+    {{ include.type }}
+    {% if include.type %}
+    {% assign posts = site.dw | where: include.type, include.theme_num %}
+    {% else %}
+    {% assign posts = site.dw %}
+    {% endif %}
+    {% for post in posts %}
+      {% if post.visible == 0  %}
+      {% else %}
+          {% if post.tags %}
+              {% assign categories = "#" %}
+              {% assign filter = '' %}
+              {% for tag in post.tags %}
+                 {% assign t = tag | remove:',' %}
+                 {% assign categories = categories | append: tag | append: ' ' %}
+                 {% assign filter = filter | append: t | append: ' ' %}
+              {% endfor %}
+          {% endif %}
+          {% assign fach = post.fach | join:' ' %}
+          {% assign medien = post.medien | join:' ' %}
+          {% assign kmk = post.kmk | join:' ' %}
+          {% assign zielgruppe = post.zielgruppe | join:' ' %}
+          {% assign tags = post.tags | split:',' | join:' ' %}
+          {% include partials/edusprint/edusprint-teaser.liquid title=post.title fach=fach medien=medien kmk=kmk filter=filter category=post.tags type="edusprint-blog" icons="" headline=post.titel copy=post.teaser %}
+      {% endif %}
+    {% endfor %}
 </div>

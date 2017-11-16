@@ -81,7 +81,7 @@ defaults:
    scope:
      path: "_dw"
    values:
-     layout: dw-tool
+     layout: edusprint-post
  -
    scope:
      path: "_dw-edit"

@@ -1,5 +1,5 @@
-<div class="teaser blog-teaser isotope-item {{ include.filter }} {{ include.type }} {% if include.type == "featured" %}col-xs-24 col-sm-12 col-md-16 col-lg-12 col-xlg-8 {% else %}col-xs-24 col-sm-12 col-md-8 col-lg-6 col-xlg-4{% endif %}">
-    <a href="/edusprint-post" class="teaser-inner">
+<div class="teaser blog-teaser isotope-item {{ include.filter }} {{ include.zielgruppe }} {{ include.kmk }} {{ include.medien }} {{ include.fach }} {{ include.type }} {% if include.type == "featured" %}col-xs-24 col-sm-12 col-md-16 col-lg-12 col-xlg-8 {% else %}col-xs-24 col-sm-12 col-md-8 col-lg-6 col-xlg-4{% endif %}">
+    <a href="/oer/{{ include.title }}" class="teaser-inner">
         <div class="teaser-image">
             <img class="img-responsive" src="{{ site.baseurl }}{{ include.src }}"/>
         </div>
