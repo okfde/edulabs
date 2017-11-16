@@ -15,7 +15,7 @@ info_text: |
 
 ---
 *Wie lässt sich Bildung mit digital gestützten Methoden gestalten? Wir entwickeln eine Sammlung von Unterrichtsideen mit freien Materialien, in denen [zeitgemäße Bildung](https://edulabs.de/blog/Interview-mit-Dejan-Mihajlovic-zu-zeitgemae%C3%9Fer-Bildung) innovativ umgesetzt wird.
-Im Rahmen von [regelmäßigen edusprints](https://edulabs.de/blog/edusprint-in-Koeln) sammeln wir gemeinsam Empfehlungen für freie Materialien und Unterrichtsformate zu digitalen Kompetenzen.*
+Im Rahmen von [regelmäßigen edusprints](https://edulabs.de/blog/edusprint-in-Koeln) sammeln wir gemeinsam Empfehlungen für freie Materialien und Unterrichtsformate zu digitalen Kompetenzen. Ende November geht die Plattform online.*
 
 Mit dem Kompetenzraster der [KMK-Strategie "Bildung in der digitalen Welt"](https://www.kmk.org/fileadmin/Dateien/pdf/PresseUndAktuelles/2016/Bildung_digitale_Welt_Webversion.pdf) und den [4K (Kreativität, Kommunikation, Kollaboration, kritisches Denken)](http://politik-digital.de/news/aula-schuelerbeteiligung-und-die-kompetenzen-der-zukunft-153015/) gibt es bereits differenzierte Vorschläge zu den Zielen zeitgemäßer Bildung. Die Diskussion um die Frage, mit welchen Methoden und Inhalten sich diese Bildungsziele am besten erreichen lassen, hat allerdings gerade erst begonnen. Zusammen mit erfahrenen Pädagog*innen aus der Praxis entwickeln wir aktuell eine Sammlung von Unterrichtsmaterialien, in denen zeitgemäße Bildung innovativ umgesetzt wird.
 
