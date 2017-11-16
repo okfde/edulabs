@@ -20,11 +20,13 @@
               {% endfor %}
           {% endif %}
           {% assign fach = post.fach | join:' ' %}
+          {% assign long-fach = post.long-fach | join:' ' %}
           {% assign medien = post.medien | join:' ' %}
           {% assign kmk = post.kmk | join:' ' %}
           {% assign zielgruppe = post.zielgruppe | join:' ' %}
+          {% assign dauer = post.dauer | join:' ' %}
           {% assign tags = post.tags | split:',' | join:' ' %}
-          {% include partials/edusprint/edusprint-teaser.liquid title=post.title fach=fach medien=medien kmk=kmk filter=filter category=post.tags type="edusprint-blog" icons="" headline=post.titel copy=post.teaser %}
+          {% include partials/edusprint/edusprint-teaser.liquid long-fach=long-fach fach=fach dauer=dauer zielgruppe=zielgruppe title=post.title fach=fach medien=medien kmk=kmk filter=filter category=post.tags type="edusprint-blog" icons="" headline=post.titel copy=post.teaser %}
       {% endif %}
     {% endfor %}
 </div>
