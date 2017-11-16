@@ -10,7 +10,7 @@ desc: >-
   eigenen Sortierung über das Wischen von Inhalten.
 link: >-
   https://damianduchamps.wordpress.com/2016/09/04/padlet-das-digitale-einsteigertool-fuer-lehrer/
-lernziele: "*Motivation\r\n*Strukturierung von Wissen\r\n*Reflektion"
+lernziele: "*Motivation\r\n*Strukturierung von Wissen\r\n*Reflexion"
 tipp: >-
   Padlet ist meines Erachtens in 2 Settings sehr sinnvoll. Einmal um mit den SuS
   zu brainstormen, dabei Wissen zu sammeln und dann gemeinsam durch die

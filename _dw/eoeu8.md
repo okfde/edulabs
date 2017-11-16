@@ -8,10 +8,10 @@ desc: >-
   Wikipedia Artikel verfassen bietet sich als Projektarbeit oder als Alternative
   zu Hausarbeiten und Referaten an. Durch die praktische Erstellung von
   öffentlichen Lexika-Einträgen werden Meta-Diskurse wie die kritische
-  Auseinandersetzung mit Quellen, Wissensproduktion und Digitalen Medien
+  Auseinandersetzung mit Quellen, Wissensproduktion und digitalen Medien
   angeregt.
 link: 'https://de.wikipedia.org/wiki/Wikipedia:Wikipedia_im_Unterricht'
-lernziele: "*Kommunikation: Recherche und Textproduktion \r\n*Kollaboration: Gemeinsames Arbeiten, Schwarmintelligenz\r\n*Kritisches Denken: Wissensproduktion nach vorgegebenen Qualitätsstandards, Kritische Auseinandersetzung mit Wissen und Wissensproduktion\r\nKritischer Umgang mit Quellen \r\n*Bewusstsein für den Umgang mit Online-Medien: \r\nLizenzen, Urheberrecht, etc. \r\n*Erfahrung von Selbstwirksamkeit"
+lernziele: "*Kommunikation: Recherche und Textproduktion \r\n*Kollaboration: Gemeinsames Arbeiten, Schwarmintelligenz\r\n*Kritisches Denken: Wissensproduktion nach vorgegebenen Qualitätsstandards, kritische Auseinandersetzung mit Wissen und Wissensproduktion\r\nKritischer Umgang mit Quellen \r\n*Bewusstsein für den Umgang mit Online-Medien: \r\nLizenzen, Urheberrecht, etc. \r\n*Erfahrung von Selbstwirksamkeit"
 tipp: "Zur Veranschaulichung bietet sich zusätzlich die Erstellung von Grafiken, Audiodateien oder Videos an. [Hier] (https://schulesocialmedia.com/2013/06/02/in-der-schule-wikipedia-artikel-schreiben/) ist die Anwendung von Wikimedia-Artikeln im Deutschunterricht gut beschrieben.\r\nFür jüngere SuS der Grundstufe 4-6 oder sogar 1-3 bietet sich statt wikipedia [Klexikon] (https://klexikon.zum.de/wiki/Klexikon:Willkommen_im_Klexikon)an. \r\nSiehe: https://edulabs.de/dw/jmkls"
 medien:
   - medien-1

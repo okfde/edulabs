@@ -10,12 +10,12 @@ desc: >-
   Hörspiel aufgenommen und im Netz publiziert werden.
 link: >-
   https://www.medienpaedagogik-praxis.de/2012/12/09/horspiele-mit-dem-geschichtenkoffer/
-lernziele: "Das kreative Gestalten eigener Geschichten steht im Mittelpunkt der angeleiteten Hörspielproduktion. Der Einstieg regt mit haptischen Gegenständen die Phantasie an und sorgt für die notwendige Initialzündung, um ins Erzählen zu kommen. Die Aufbereitung der Geschichte als Hörspiel bedeutet einen interessanten Gegenpol zur eher durch Videos dominierten Lebenswelt von SchülerInnen. Die Lernenden werden angeleitet, genau hinzuhören und bekommen als Produzenten einen Blick hinter die Kulissen gelungener Audioentwicklung. \r\nDas Audio als digitales Format bietet ebenso zahlreiche Anknüpfungspunkte zum digitalen Kompetenzerwerb wie andere Formate auch: der kompetente Umgang mit Technologien, die Auseindersetzung mit urheberrechtlichen Fragen, wie etwa die Einbindung von geschützter Musik, reflektierte Rechercheleistung und die Möglichkeit der Publikation im Internet."
+lernziele: "Das kreative Gestalten eigener Geschichten steht im Mittelpunkt der angeleiteten Hörspielproduktion. Der Einstieg regt mit haptischen Gegenständen die Phantasie an und sorgt für die notwendige Initialzündung, um ins Erzählen zu kommen. Die Aufbereitung der Geschichte als Hörspiel bedeutet einen interessanten Gegenpol zur eher durch Videos dominierten Lebenswelt von SchülerInnen. Die Lernenden werden angeleitet, genau hinzuhören und bekommen als Produzenten einen Blick hinter die Kulissen gelungener Audioentwicklung. \r\nDas Audio als digitales Format bietet ebenso zahlreiche Anknüpfungspunkte zum digitalen Kompetenzerwerb wie andere Formate auch: der kompetente Umgang mit Technologien, die Auseinandersetzung mit urheberrechtlichen Fragen, wie etwa die Einbindung von geschützter Musik, reflektierte Rechercheleistung und die Möglichkeit der Publikation im Internet."
 tipp: >-
   Auch ohne Tonstudio und Equipment ist eine qualitativ hochwertige
   Hörspielproduktion möglich: Es gibt zahlreiche Schnittprogramme für Audio, die
   auch als freie App verfügbar sind. Gute Aufsteckmikros für Tablets oder
-  Smartphones sind mittlerweile kostengünstig erhältnlich. Auf diese Weise
+  Smartphones sind mittlerweile kostengünstig erhältlich. Auf diese Weise
   können die SuS mit dem Einsatz eine eigene mobile Audiostation aufbauen, die
   sie sogar auf die alltägliche Nutzung ihrer eignen Geräte übertragen können.
 medien:

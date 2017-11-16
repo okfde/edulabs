@@ -17,10 +17,10 @@ tipp: >-
   "Rollen beim (Cyber)Mobbing" auf S.174ff. Hier wird mit dem Video "Let`s fight
   it together", ebenfalls auf klicksafe.de zu finden, gearbeitet - einem
   fiktiven Fallbeispiel, das nachvollziehbar die Dimensionen von (Cyber)Mobbing
-  vor Augen führt und nicht zu letzt als Gesprächsanlass für einen realen Fall
-  in einer Klasse dienen kann. Bitte bedenken Sie aber unebdingt die hohe
-  emotionale Belastung in solchen Fällen für die SuS und verwenden Sie wenn
-  möglich anonymisierte Diskussionsformate.
+  vor Augen führt und nicht zuletzt als Gesprächsanlass für einen realen Fall
+  in einer Klasse dienen kann. Bitte bedenken Sie aber unbedingt die hohe
+  emotionale Belastung in solchen Fällen für die SuS und verwenden Sie, wenn
+  möglich, anonymisierte Diskussionsformate.
 medien: medien-2
 fach: fach-3
 long-fach: long-fach-4

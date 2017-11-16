@@ -6,8 +6,8 @@ titel: Mobiles Lernen als Methode im Unterricht
 desc: >-
   In dieser Anleitung wird ein Konzept eines mobilen Spiels beschrieben, das
   Anleihen im Geocaching hat, aber wesentlich multimedialer und interaktiver
-  arbeitet und sich dabei für viele Themen und Zielgruppen anpassen lässt.Dies
-  ermöglicht es,zahlreiche Unterrichtsideen mit mobilen Medien umzusetzen.
+  arbeitet und sich dabei für viele Themen und Zielgruppen anpassen lässt. Dies
+  ermöglicht es, zahlreiche Unterrichtsideen mit mobilen Medien umzusetzen.
 link: 'https://www.medienpaedagogik-praxis.de/2012/12/07/mobile-gaming/'
 lernziele: >-
   Mobiles Lernen eignet sich besonders, um Wissen dort zu erwerben und
