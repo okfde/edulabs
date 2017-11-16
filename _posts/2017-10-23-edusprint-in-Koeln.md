@@ -24,7 +24,7 @@ src="/assets/img/blog/2017/November/OER-Preview/OER-Filter_preview.png" caption=
 Bei dem edusprint entwickeln wir einen Tag lang Projekte und sammeln gemeinsam die besten Unterrichtsideen für die wachsende [edulabs.de/oer](http://www.edulabs.de/oer)-Sammlung (Achtung: noch Beta-Version!). Ein eigens aufgesetztes Redaktions- und Filtertool sowie vorbereitete Templates stehen schlüsselfertig zur Verfügung. Die OER-Empfehlungen richten sich vorrangig an Lehrer\*innen / Medienpädagog\*innen, ab Ende November lässt sie sich dann komfortabel nach Fächern, Kompetenzen und Lernzielen filtern. Ziel ist es, praxiserprobte OER-Empfehlungen zu digitalen Kompetenzen (wir orientieren uns an der [KMK-Strategie "Bildung in der digitalen Welt"](https://www.kmk.org/fileadmin/Dateien/pdf/PresseUndAktuelles/2016/Bildung_digitale_Welt_Webversion.pdf) und den [4K](http://politik-digital.de/news/aula-schuelerbeteiligung-und-die-kompetenzen-der-zukunft-153015/)) in allen Fächergruppen zusammenstellen. Das fertige Design ab Ende November sieht dann so aus (siehe rechts).
 
 
-# Ablauf
+## Ablauf
 Am Samstag, den 18. November treffen wir uns einen Tag, um ganz praktisch ins Machen zu kommen und Best-Practice-Projekte der zeitgemäßen (digitalen) Bildung zu sammeln; eigene Projektideen/Materialien gemeinsam weiterzuentwickeln, in eine nachnutzbare Form zu bringen und in die Breite zu tragen. Für Verpflegung, Mate und das Bier im Anschluss wird gesorgt:
 
 * 12:30 Uhr - Ankommen und Pizza
@@ -33,13 +33,13 @@ Am Samstag, den 18. November treffen wir uns einen Tag, um ganz praktisch ins Ma
 * 15:00 Uhr - Start der zweiten Runde
 * 16:30 Uhr - Abschluss und gemeinsamer Ausklang<br><br><br>
 
-# Wo?
+## Wo?
 Headquarters Cologne<br>
 Neue Weyerstraße 2<br>
 50676 Köln<br>
 [Lage](https://goo.gl/maps/d4Ln6x5wXPv)
 
-# Anmeldung: Wer macht mit?
+## Anmeldung: Wer macht mit?
 Möchtet ihr bei der OER-Sammlung mitmachen und zeitgemäße Bildung voranbringen? Für den edusprint suchen wir 10-15 engagierte Teilnehmer\*innen, mit Praxiserfahrung im Bereich digital gestützter Bildung in Schule, Medienpädagogik oder Lehrerfortbildung.
 
 Wir freuen uns über eure Anmeldung und einen spannenden Tag bei edulabs Köln/Bonn! Gern könnt ihr diese Einladung auch an Interessierte in eurem Umfeld weiterleiten. Bitte meldet euch über das folgende Formular an:<br><br>

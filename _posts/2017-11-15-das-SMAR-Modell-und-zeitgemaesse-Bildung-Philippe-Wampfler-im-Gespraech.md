@@ -79,7 +79,7 @@ Eine Idee, die ich besonders zeitgemäß finde, ist die, dass Lernende eigenstä
 <!-- include quote -->
 {% include partials/content/content-quote.liquid float="right" content="„Ich lasse mich lieber inspirieren.“" %}
 
-**Aktuell arbeiten wir gemeinsam mit der edulabs-Community an einer Plattform, die das Finden zeitgemäßer und freier Unterrichtsideen erleichtern soll - durch redaktionelle Empfehlungen und eine Reihe von Filterkategorien.**<br>
+**Aktuell arbeiten wir gemeinsam mit der edulabs-Community an [einer Plattform, die das Finden von zeitgemäßen und freien Unterrichtsideen erleichtern soll](/blog/plattform-fuer-kuratierte-oer-bald-online) - durch redaktionelle Empfehlungen und eine Reihe von Filterkategorien.**<br>
 **Was machen für dich gute Unterrichtsmaterialien aus?**<br>
 Das sage ich jetzt aus meiner ganz eigenen Perspektive, aus der Sicht meiner Bedürfnisse: Was ich nicht so mag sind fertige PDFs, die ein fertiges Layout haben, in denen alle Fragen vorgefertigt sind. Ich lasse mich lieber inspirieren. Was ich also gerne habe sind Quellen, die für mich eine Inspiration sein können. Zum Beispiel Texte, die ich im Unterricht verwenden kann, zu denen ich dann meine eigenen Fragen formuliere. Gute Videos oder Übungen mag ich auch. Ich finde es hilfreich, wenn gutes Material erschlossen wird. 
 <!-- include floated image -->
