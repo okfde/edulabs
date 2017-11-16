@@ -13,6 +13,10 @@ medien:
   - medien-3
 fach: fach-5
 long-fach: long-fach-7
+top-kmk:
+  - top-kmk-3
+  - top-kmk-5
+  - top-kmk-2
 kmk:
   - kmk-2-2
   - kmk-2-3

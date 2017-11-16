@@ -23,6 +23,11 @@ fach: fach-3
 long-fach:
   - long-fach-13
   - long-fach-16
+top-kmk:
+  - top-kmk-6
+  - top-kmk-5
+  - top-kmk-2
+  - top-kmk-1
 kmk:
   - kmk-1-2
   - kmk-2-3

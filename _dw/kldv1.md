@@ -15,6 +15,8 @@ tipp: "Die Seite ist tabellenartig aufgebaut: Links sind die Unterrichtsbeispiel
 medien: medien-3
 fach: fach-1
 long-fach: long-fach-1
+top-kmk:
+  - top-kmk-5
 kmk:
   - kmk-5-2
   - kmk-5-4

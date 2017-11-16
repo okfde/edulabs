@@ -31,6 +31,12 @@ long-fach:
   - long-fach-7
   - long-fach-8
   - long-fach-18
+top-kmk:
+  - top-kmk-4
+  - top-kmk-1
+  - top-kmk-5
+  - top-kmk-2
+  - top-kmk-3
 kmk:
   - kmk-1-2
   - kmk-2-1

@@ -23,6 +23,12 @@ fach:
 long-fach:
   - long-fach-7
   - long-fach-9
+top-kmk:
+  - top-kmk-5
+  - top-kmk-4
+  - top-kmk-6
+  - top-kmk-2
+  - top-kmk-3
 kmk:
   - kmk-2-1
   - kmk-2-2

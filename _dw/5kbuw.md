@@ -28,6 +28,10 @@ medien:
   - medien-1
   - medien-3
 fach: fach-2
+top-kmk:
+  - top-kmk-5
+  - top-kmk-2
+  - top-kmk-3
 kmk:
   - kmk-2-1
   - kmk-2-3

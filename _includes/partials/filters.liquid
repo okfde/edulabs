@@ -19,7 +19,7 @@
 {% endfor %}
 
 <div class="filter-items-inner col-xs-24">
-  {% for tag in categories %}
-    <a href="/" data-filter=".tag-{{ forloop.index }}" class="filter-item">#{{tag}}</a>
+  {% for kmk in site.data.digitalen_welt.top-kmk %}
+    <a href="/" data-filter=".top-kmk-{{ forloop.index }}" class="filter-item">{{kmk[1]}}</a>
   {% endfor %}
 </div>
