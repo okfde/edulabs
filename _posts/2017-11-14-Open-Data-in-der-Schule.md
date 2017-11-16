@@ -6,7 +6,7 @@ teaser: "Beim nächsten edulabsBE Treffen geht’s um die Pläne von OffenerHaus
 teaser_img_src: /assets/img/blog/2017/November/open_data_schule/Offenerhaushalt_Bonn_twitter.png
 image: /assets/img/blog/2017/November/open_data_schule/Offenerhaushalt_Bonn_twitter.png
 featured: true
-categories: News
+categories: News Events edulabsBE
 twitter_large_img: /assets/img/blog/2017/November/open_data_schule/Offenerhaushalt_Bonn_twitter.png
 header_background: /assets/img/blog/2017/November/open_data_schule/Offenerhaushalt_Bonn.png
 header_background_caption: "Der Haushalt der Stadt Bonn 2013/2014, <a href='https://ogdcockpit.bonn.de/index.php/Offenerhaushalt_Bonn'>visualisiert</a> mit OffenerHaushalt. Lizenz: <a href='https://creativecommons.org/licenses/by-nc-sa/3.0/'>CC BY-NC-SA 3.0</a>"
