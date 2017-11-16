@@ -4,24 +4,22 @@
         <div class="col-xs-24 col-md-12 edusprint-grey-light filter-items green">
             <h4 class="filter-items-headline">DIGITALE KOMPETENZEN:</h4>
             <div class="filter-items-inner">
-                <div class="filter-item shrinked disabled">Interagieren</div>
-                <div class="filter-item shrinked disabled">Teilen</div>
-                <div class="filter-item shrinked disabled">Zusammenarbeiten</div>
-                <div class="filter-item shrinked disabled">Zusammenarbeiten</div>
-                <div class="filter-item shrinked disabled">Entwickeln und Produzieren</div>
-                <div class="filter-item shrinked disabled">Weiterverarbeiten und Integrieren</div>
-                <div class="filter-item shrinked disabled">Rechtliche Vorgaben beachten</div>
-                <div class="filter-item shrinked disabled">Werkzeuge bedarfsgerecht einsetzen</div>
+              {% for f in page.kmk %}
+                {% if site.data.digitalen_welt.kmk[f] %}
+                 <div class="filter-item shrinked disabled">{{ site.data.digitalen_welt.kmk[f] }}</div>
+                {% endif %}
+              {% endfor %}
             </div>
         </div>
         <!-- Fächergruppen -->
         <div class="col-xs-24 col-md-12 edusprint-grey-light filter-items blue">
             <h4 class="filter-items-headline">FÄCHERGRUPPEN:</h4>
             <div class="filter-items-inner">
-                <div class="filter-item shrinked disabled">Kulturelle Bildung</div>
-                <div class="filter-item shrinked disabled">Geschichte & Gesellschaft</div>
-                <div class="filter-item shrinked disabled">Mathe & Naturwissenschaften</div>
-                <div class="filter-item shrinked disabled">Informatik & Technische Bildung</div>
+              {% for f in page.fach %}
+                {% if site.data.digitalen_welt.fachergruppen-dict[f] %}
+                  <div class="filter-item shrinked disabled">{{ site.data.digitalen_welt.fachergruppen-dict[f] }}</div>
+                {% endif %}
+              {% endfor %}
             </div>
         </div>
     </div>
@@ -56,12 +54,11 @@
         <div class="col-xs-24 col-md-12 edusprint-fach edusprint-blue-4 filter-items white">
             <h4 class="filter-items-headline">FACH:</h4>
             <div class="filter-items-inner">
-                <div class="filter-item shrinked disabled">Deutsch</div>
-                <div class="filter-item shrinked disabled">Chemie</div>
-                <div class="filter-item shrinked disabled">Geschichte</div>
-                <div class="filter-item shrinked disabled">Informatik</div>
-                <div class="filter-item shrinked disabled">Kunst</div>
-                <div class="filter-item shrinked disabled">Religion</div>
+            {% for f in page.long-fach %}
+              {% if site.data.digitalen_welt.long-fach[f] %}
+                <div class="filter-item shrinked disabled">{{ site.data.digitalen_welt.long-fach[f] }}</div>
+              {% endif %}
+            {% endfor %}
             </div>
         </div>
     </div>
