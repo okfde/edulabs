@@ -115,10 +115,12 @@
         <div class="col-xs-24 col-md-12 edusprint-vorbereitungszeit edusprint-blue-3 filter-items blue">
             <h4 class="filter-items-headline">VORBEREITUNGSZEIT::</h4>
             <div class="icons-wrap">
+              {% for vb in page.vorbereitungszeit %}
                 <a href="#" class="filter-icon disabled" >
-                    <div class="icon vorbereitungszeit-keine"></div>
-                    <span>KEINE</span>
+                  <!--<div class="icon vorbereitungszeit-keine"></div>-->
+                  <span>{{ site.data.digitalen_welt.vorbereitungszeit[vb] }}</span>
                 </a>
+              {% endfor %}
             </div>
         </div>
     </div>
