@@ -14,7 +14,7 @@ author: Maximilian Voigt
 info_text: |
 
 ---
-*Philippe Wampfler ist Lehrer für Deutsch an der [Kantonsschule Enge](http://ken.ch/), Dozent für Fachdidaktik Deutsch am [IFE der Universität Zürich](http://www.ife.uzh.ch/llbm/personen/fachdidaktikerinnen/wampflerphilippe.html), Kulturwissenschaftler und Experte für Lernen mit Neuen Medien.*
+*Philippe Wampfler ist Lehrer für Deutsch an der [Kantonsschule Enge](http://ken.ch/), Dozent für Fachdidaktik Deutsch am [IFE der Universität Zürich](http://www.ife.uzh.ch/llbm/personen/fachdidaktikerinnen/wampflerphilippe.html), Kulturwissenschaftler und Experte für das Lernen mit Neuen Medien.*
 
 **Gerade wird viel über Adjektive wie „digital“ und „zeitgemäß“ in Verbindung mit „Bildung“ diskutiert. Welche Rolle spielt diese Begriffsbildung für die konkrete und individuelle Weiterentwicklung von Lehr- und Lernszenarien?**<br>
 Wenn man sich die Twitter-Community anschaut, muss man vielleicht eine soziologische Perspektive einnehmen und sich fragen: „Was ist das Ziel der Leute, die dort aktiv sind?“. Diese Begriffsabgrenzungen kann man vielleicht als ein Kampf um die Deutungshoheit bezeichnen. 
@@ -34,7 +34,7 @@ Es geht auch darum, die eigenen Argumente zu prüfen und dadurch zu stärken. Da
 Ich mache Babysteps. Es ist nicht so, dass die Lernenden, mit denen ich zu tun habe, dass die völlig aufgeschlossen sind und ich sie komplett prägen kann. Sie sind in einer Schulkultur groß geworden. Ich kann jetzt nicht plötzlich sagen: „Wir werfen das alles über den Haufen, jetzt wird zeitgemäß gelernt!“ Es wäre ja auch vermessen zu sagen, dass das, was die Kollegen machen, nicht mehr zeitgemäß ist. 
 
 <!-- include quote -->
-{% include partials/content/content-quote.liquid float="left" content="„Es gibt von mir keine Beurteilung, ohne, dass sich die Lernenden selbst beurteilen.“" %}
+{% include partials/content/content-quote.liquid float="left" content="„Es gibt von mir keine Beurteilung, ohne dass sich die Lernenden selbst beurteilen.“" %}
 
 Was ich grundsätzlich mache ist, dass ich neue Lehr- und Lernformen ausprobiere und mit den Schülern und Schülerinnen darüber spreche, wie sie bei ihnen ankommen, was sie von ihnen mitnehmen. Gleichzeitig binde ich sie ein in Beurteilungsprozesse. Es gibt von mir keine Beurteilung, ohne dass sich die Lernenden selbst beurteilen. Das Ziel ist, dass sie selbst wissen, wie gut sie sind, wie weit sie gekommen sind und meine starke Außensicht nicht mehr benötigen. Es geht darum, den Schülern und Schülerinnen zu signalisieren, dass sie die Verantwortung für ihr Lernen übernehmen sollten. 
 Von vielen Vorgaben, die es in der Institution Schule gibt, kann ich mich allerdings nur bedingt entfernen.
