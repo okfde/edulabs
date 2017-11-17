@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: "Digitale Tools im zeitgemäßen Unterricht - Philippe Wampfler im Gespräch"
+title: "Digitale Tools im zeitgemäßen Unterricht - Philippe Wampfler im Interview"
 teaser: "Im Gespräch mit Philippe Wampfler über das SAMR-Modell und sein Potenzial für die zeitgemäße Bildung."
 teaser_img_src: /assets/img/blog/2017/November/Interview_Philippe_Wampfler/Philippe_Wampfler_2.jpg
 featured: true
