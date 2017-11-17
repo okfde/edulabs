@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: "Offene Daten in der Schule"
+title: "Offene Daten in der Schule nutzen"
 teaser: "Beim nächsten edulabsBE Treffen geht’s um die Pläne von OffenerHaushalt und offene Daten im Unterricht."
 teaser_img_src: /assets/img/blog/2017/November/open_data_schule/Offenerhaushalt_Bonn_twitter.png
 image: /assets/img/blog/2017/November/open_data_schule/Offenerhaushalt_Bonn_twitter.png
