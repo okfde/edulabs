@@ -5,7 +5,7 @@ title: "Offene Daten in der Schule"
 teaser: "Beim nächsten edulabsBE Treffen geht’s um die Pläne von OffenerHaushalt und offene Daten im Unterricht."
 teaser_img_src: /assets/img/blog/2017/November/open_data_schule/Offenerhaushalt_Bonn_twitter.png
 image: /assets/img/blog/2017/November/open_data_schule/Offenerhaushalt_Bonn_twitter.png
-featured: true
+featured: false
 categories: News Events edulabsBE
 twitter_large_img: /assets/img/blog/2017/November/open_data_schule/Offenerhaushalt_Bonn_twitter.png
 header_background: /assets/img/blog/2017/November/open_data_schule/Offenerhaushalt_Bonn.png
