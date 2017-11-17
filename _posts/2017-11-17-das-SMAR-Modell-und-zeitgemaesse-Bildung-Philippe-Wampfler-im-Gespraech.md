@@ -6,8 +6,8 @@ teaser: "Im Gespräch mit Philippe Wampfler über das SAMR-Modell und sein Poten
 teaser_img_src: /assets/img/blog/2017/November/Interview_Philippe_Wampfler/Philippe_Wampfler_2.jpg
 featured: true
 categories: Interviews
-twitter_large_img: /assets/img/blog/2017/November/Interview_Philippe_Wampfler/Philippe_Wampfler_2.jpg
-image: /assets/img/blog/2017/November/Interview_Philippe_Wampfler/Philippe_Wampfler_2.jpg
+twitter_large_img: /assets/img/blog/2017/November/Interview_Philippe_Wampfler/philippe_wampfler_twitter.png
+image: /assets/img/blog/2017/November/Interview_Philippe_Wampfler/philippe_wampfler_twitter.png
 header_background: /assets/img/blog/2017/November/Interview_Philippe_Wampfler/Philippe_Wampfler_2.jpg
 header_background_caption: "Bild: Philippe Wampfler. Lizenz: <a href='https://creativecommons.org/licenses/by/4.0/'>CC-BY 4.0</a>"
 author: Maximilian Voigt
