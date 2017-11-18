@@ -1,9 +1,31 @@
+{% assign posts = site.dw %}
+
+{% for post in posts %}
+    {% assign post_categories = post.tags | split:',' | join:'|' | append:'|' %}
+    {% assign rawcategories = rawcategories | append:post_categories %}
+{% endfor %}
+{% assign rawcategories = rawcategories | remove: "[" | remove: "]" | remove: '"' | remove: ' ' | split:'|' | sort %}
+
+{% assign categories = "" %}
+{% for category in rawcategories %}
+    {% if category != "" %}
+        {% assign category =  category | remove: "[" | remove: "]" | remove: '"' | remove: ' ' %}
+        {% if categories == "" %}
+            {% assign categories = category %}
+        {% endif %}
+        {% unless categories contains category %}
+            {% assign categories = categories | join:'|' | append:'|' | append:category | split:'|' %}
+        {% endunless %}
+    {% endif %}
+{% endfor %}
+
+
 <div class="edusprint-filters">
     <div class="row flex">
         <!-- Zielgruppe -->
         <div class="col-xs-24 col-md-12 edusprint-zielgruppe edusprint-grey filter-items">
             <h4 class="filter-items-headline">ZIELGRUPPE</h4>
-            <div class="icons-wrap">
+            <div data-filter-group="zielgruppe" class="icons-wrap">
                 <a href="#"  class="filter-icon" data-filter=".zielgruppe-1">
                     <div class="icon kita"></div>
                     <span>KITA/VORSCHULE</span>
@@ -29,7 +51,7 @@
         <!-- Fächergruppen -->
         <div class="col-xs-24 col-md-12 edusprint-faechergruppen  edusprint-grey-light filter-items blue">
             <h4 class="filter-items-headline">NACH FÄCHERGRUPPEN:</h4>
-            <div class="filter-items-inner">
+            <div data-filter-group="long-fachgruppe" class="filter-items-inner">
                 <a href="/" data-filter=".fach-1" class="filter-item shrinked">Sprachen</a>
                 <a href="#" data-filter=".fach-2" class="filter-item shrinked">Kulturelle Bildung</a>
                 <a href="#" data-filter=".fach-3" class="filter-item shrinked">Geschichte & Gesellschaft</a>
@@ -43,7 +65,7 @@
             <!-- Medieneinsatz -->
             <div class="edusprint-medieneinsatz edusprint-blue-1 filter-items flexed">
                 <h4 class="filter-items-headline">MEDIENEINSATZ</h4>
-                <div class="icons-wrap">
+                <div data-filter-group="mediengruppe" class="icons-wrap">
                     <a href="#" class="filter-icon" data-filter=".medien-1">
                         <div class="icon ohne-internetzugang"></div>
                         <span>OHNE INTERNETZUGANG</span>
@@ -65,7 +87,7 @@
             <!-- Dauer -->
             <div class="edusprint-dauer edusprint-blue-2 filter-items flexed">
                 <h4 class="filter-items-headline">DAUER</h4>
-                <div class="icons-wrap">
+                <div data-filter-group="dauergruppe" class="icons-wrap">
                     <a href="#" class="filter-icon" data-filter=".dauer-2">
                         <div class="icon unterrichtsreihe"></div>
                         <span>UNTERRICHTSREIHE</span>
@@ -95,7 +117,7 @@
                 <a class="filter-toggle" href="#">
                     <span class="filter-items-headline has-arrow-left down">FÄCHER</span>
                 </a>
-                <div class="filter-items-inner filter-accordion">
+                <div data-filter-group="fachergruppe" class="filter-items-inner filter-accordion">
                     <a href="#" data-filter=".long-fach-1" class="filter-item shrinked">Deutsch</a>
                     <a href="#" data-filter=".long-fach-2" class="filter-item shrinked">Chemie</a>
                     <a href="#" data-filter=".long-fach-3" class="filter-item shrinked">Englisch</a>
@@ -122,21 +144,9 @@
                     <span class="filter-items-headline has-arrow-left down">TAGS</span>
                 </a>
                 <div class="filter-items-inner filter-accordion">
-                    <a href="#" data-filter=".arduino" class="filter-item shrinked">Arduino</a>
-                    <a href="#" data-filter=".calliope" class="filter-item shrinked">Calliope</a>
-                    <a href="#" data-filter=".makeymakey" class="filter-item shrinked">MakeyMakey</a>
-                    <a href="#" data-filter=".raspberry" class="filter-item shrinked">Raspberry</a>
-                    <a href="#" data-filter=".scratch" class="filter-item shrinked">Scratch</a>
-                    <a href="#" data-filter=".ios" class="filter-item shrinked">iOS</a>
-                    <a href="#" data-filter=".android" class="filter-item shrinked">Android</a>
-                    <a href="#" data-filter=".mac" class="filter-item shrinked">Mac</a>
-                    <a href="#" data-filter=".pc" class="filter-item shrinked">PC</a>
-                    <a href="#" data-filter=".linux" class="filter-item shrinked">Linux</a>
-                    <a href="#" data-filter=".loeten" class="filter-item shrinked">Löten</a>
-                    <a href="#" data-filter=".bauten" class="filter-item shrinked">Bauten</a>
-                    <a href="#" data-filter=".basteln" class="filter-item shrinked">Basteln</a>
-                    <a href="#" data-filter=".byod" class="filter-item shrinked">BYOD</a>
-                    <a href="#" data-filter=".socialmedia" class="filter-item shrinked">Social Media</a>
+                  {% for category in categories %}
+                    <a href="#" data-filter=".{{category | remove: "[" | remove: "]" | remove: '"' | remove:' ' }}" class="filter-item shrinked">{{ category  | remove: "[" | remove: "]" | remove: '"' }}</a>
+                  {% endfor %}
                 </div>
             </div>
         </div>

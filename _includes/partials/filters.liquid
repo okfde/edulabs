@@ -18,7 +18,7 @@
     {% endif %}
 {% endfor %}
 
-<div class="filter-items-inner col-xs-24">
+<div data-filter-group="kmk" class="filter-items-inner col-xs-24">
   {% for kmk in site.data.digitalen_welt.top-kmk %}
     <a href="/" data-filter=".top-kmk-{{ forloop.index }}" class="filter-item">{{kmk[1]}}</a>
   {% endfor %}

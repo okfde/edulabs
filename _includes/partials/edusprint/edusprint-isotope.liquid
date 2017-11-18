@@ -13,11 +13,18 @@
           {% if post.tags %}
               {% assign categories = "#" %}
               {% assign filter = '' %}
-              {% for tag in post.tags %}
+              {% assign ts = post.tags | split: ',' %}
+              {% for tag in ts %}
                  {% assign t = tag | remove:',' %}
-                 {% assign categories = categories | append: tag | append: ' ' %}
-                 {% assign filter = filter | append: t | append: ' ' %}
+                 {% if forloop.last == false %}
+                 {% assign categories = categories | append: tag | append: ", "  %}
+                 {% else %}
+                 {% assign categories = categories | append: tag  %}
+                 {% endif %}
               {% endfor %}
+
+          {% assign filter = post.tags | split: ',' | join: ' ' |%}
+          {% assign filter = filter | remove: "[" | remove: "]" | remove: '"' %}
           {% endif %}
           {% assign fach = post.fach | join:' ' %}
           {% assign long-fach = post.long-fach | join:' ' %}
@@ -25,8 +32,8 @@
           {% assign top_kmk = post.top-kmk | join:' ' %}
           {% assign zielgruppe = post.zielgruppe | join:' ' %}
           {% assign dauer = post.dauer | join:' ' %}
-          {% assign tags = post.tags | split:',' | join:' ' %}
-          {% include partials/edusprint/edusprint-teaser.liquid long-fach=long-fach fach=fach dauer=dauer zielgruppe=zielgruppe title=post.title fach=fach medien=medien top_kmk=top_kmk filter=filter category=post.tags icons="" headline=post.titel copy=post.desc %}
+          {% assign tags = post.tags | split:',' %}
+          {% include partials/edusprint/edusprint-teaser.liquid long-fach=long-fach fach=fach dauer=dauer zielgruppe=zielgruppe title=post.title fach=fach medien=medien top_kmk=top_kmk filter=filter category=categories icons="" headline=post.titel copy=post.desc %}
       {% endif %}
     {% endfor %}
 </div>
