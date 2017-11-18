@@ -37,7 +37,7 @@ Am Samstag, den 18. November treffen wir uns einen Tag, um ganz praktisch ins Ma
 Headquarters Cologne<br>
 Neue Weyerstraße 2<br>
 50676 Köln<br>
-[Lage](https://goo.gl/maps/d4Ln6x5wXPv)
+[Lage](https://goo.gl/maps/wc71SQspjQJ2)
 
 ## Anmeldung: Wer macht mit?
 Möchtet ihr bei der OER-Sammlung mitmachen und zeitgemäße Bildung voranbringen? Für den edusprint suchen wir 10-15 engagierte Teilnehmer\*innen, mit Praxiserfahrung im Bereich digital gestützter Bildung in Schule, Medienpädagogik oder Lehrerfortbildung.
