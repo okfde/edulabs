@@ -59,7 +59,7 @@ vorbereitungszeit: vorbereitungszeit-3
 author-name: Steffen Jauch
 author-email: Steffen_jauch@me.com
 author-website: www.schuleunterstrom.de
-tags: 'BYOD,PC,reviewed'
+tags: 'BYOD,PC'
 date: '2017-10-07T13:24:15.995Z'
 ---
 empty

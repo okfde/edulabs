@@ -40,8 +40,6 @@ vorbereitungszeit: vorbereitungszeit-6
 author-name: Heiko Idensen
 author-email: heikoidensen@gmail.com
 author-website: 'http://idensen.org/'
-tags: >-
-  Maker,Scratch,Programmieren,KreativeInformatik,Informatik,Handlungsorientierung,Praxisbausteine,reviewed
 date: '2017-10-07T13:52:23.364Z'
 ---
 empty

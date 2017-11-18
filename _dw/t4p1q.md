@@ -45,7 +45,6 @@ vorbereitungszeit: vorbereitungszeit-5
 author-name: Alexa Schaegner
 author-email: aschaegner@politik-digital.de
 author-website: www.politik-digital.de
-tags: reviewed
 date: '2017-10-07T13:03:38.947Z'
 ---
 empty

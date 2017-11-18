@@ -30,7 +30,7 @@ vorbereitungszeit: vorbereitungszeit-3
 author-name: Steffen Jauch
 author-email: steffen_jauch@me.com
 author-website: www.schuleunterstrom.de
-tags: 'PC, reviewed'
+tags: 'PC'
 date: '2017-10-07T10:51:23.669Z'
 ---
 empty

@@ -57,7 +57,6 @@ vorbereitungszeit: vorbereitungszeit-3
 author-name: Moritz Neujeffski
 author-email: info@datenschule.de
 author-website: 'https://datenschule.de/'
-tags: Bundestag; Parlamentsdebatten; Ehe für alle; digitales Recherche-tool;
 date: '2017-11-15T11:10:51.787Z'
 slug: p78kq
 ---

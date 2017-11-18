@@ -59,7 +59,6 @@ vorbereitungszeit: vorbereitungszeit-4
 author-name: Heiko Idensen
 author-email: heikoidensen@gmail.com
 author-website: 'http://idensen.org/'
-tags: Reviewed
 date: '2017-10-07T14:00:59.551Z'
 ---
 empty

@@ -31,7 +31,6 @@ vorbereitungszeit: vorbereitungszeit-5
 author-name: Martin Fischer
 author-email: martin.fischer.eu@gmail.com
 author-website: gameoverhate.org
-tags: reviewed
 date: '2017-10-07T13:15:55.998Z'
 ---
 empty

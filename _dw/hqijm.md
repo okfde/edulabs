@@ -68,7 +68,7 @@ vorbereitungszeit: vorbereitungszeit-4
 author-name: Christine Kolbe
 author-email: christine.kolbe@medialepfade.org
 author-website: 'http://www.medialepfade.org/'
-tags: 'BYOD,MobilesLernen,Peer-Learning,OEP,Peer-to-Peer,reviewed'
+tags: 'BYOD,Peer-to-Peer'
 date: '2017-10-07T09:28:04.190Z'
 ---
 empty

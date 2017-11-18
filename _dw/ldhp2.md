@@ -41,7 +41,6 @@ vorbereitungszeit: vorbereitungszeit-6
 author-name: Nele Hirsch
 author-email: nele@ebildungslabor.de
 author-website: www.ebildungslabor.de
-tags: reviewed
 date: '2017-11-10T13:33:52.621Z'
 slug: ldhp2
 ---

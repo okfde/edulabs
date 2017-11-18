@@ -36,7 +36,7 @@ vorbereitungszeit: vorbereitungszeit-4
 author-name: Heiko Idensen
 author-email: heikoidensen@gmail.com
 author-website: 'http://idensen.org'
-tags: 'Remix,OER,InteraktiveBausteine,learningapps.org,HTML5,browserbasiert,?'
+tags: ''
 date: '2017-10-07T15:10:27.307Z'
 ---
 empty

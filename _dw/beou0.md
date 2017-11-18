@@ -27,7 +27,7 @@ vorbereitungszeit: vorbereitungszeit-1
 author-name: Steffen Jauch
 author-email: Steffen_Jauch@me.com
 author-website: www.schuleunterstrom.de
-tags: 'BYOD,reviewed'
+tags: 'BYOD'
 date: '2017-10-07T14:10:53.305Z'
 ---
 empty

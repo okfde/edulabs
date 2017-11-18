@@ -29,7 +29,7 @@ vorbereitungszeit: vorbereitungszeit-4
 author-name: Maria Grandl
 author-email: maria.grandl@tugraz.at
 author-website: 'https://learninglab.tugraz.at/informatischegrundbildung/'
-tags: 'Android,reviewed,wirdBlogartikel'
+tags: 'Android'
 date: '2017-10-07T10:01:11.749Z'
 ---
 empty

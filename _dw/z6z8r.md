@@ -45,7 +45,7 @@ vorbereitungszeit: vorbereitungszeit-2
 author-name: Thorsten Belzer
 author-email: mail@thorstenbelzer.de
 author-website: 'http://www.thorstenbelzer.de'
-tags: 'tablet,ipad,ios,android'
+tags: 'iPad,iOs,Android'
 date: '2017-10-07T12:51:49.232Z'
 ---
 empty

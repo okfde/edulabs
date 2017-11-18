@@ -60,7 +60,7 @@ vorbereitungszeit: vorbereitungszeit-2
 author-name: Charlott Rubach
 author-email: charlottrubach@gmx.net
 author-website: ''
-tags: 'BYOD,reviewed'
+tags: 'BYOD'
 date: '2017-11-09T08:00:59.330Z'
 slug: op2eh
 ---

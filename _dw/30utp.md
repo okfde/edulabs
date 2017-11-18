@@ -67,8 +67,7 @@ dauer: dauer-2
 vorbereitungszeit: vorbereitungszeit-5
 author-name: Tessa Moje
 author-email: tessamoje@gmail.de
-author-website: reviewed
-tags: reviewed
+author-website: ''
 date: '2017-10-06T16:16:54.539Z'
 ---
 empty

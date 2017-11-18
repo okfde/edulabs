@@ -36,7 +36,7 @@ vorbereitungszeit: vorbereitungszeit-4
 author-name: Maria Grandl
 author-email: maria.grandl@tugraz.at
 author-website: 'https://learninglab.tugraz.at/informatischegrundbildung/'
-tags: 'PC,reviewed'
+tags: 'PC'
 date: '2017-10-07T10:24:55.912Z'
 ---
 empty

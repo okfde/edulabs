@@ -52,7 +52,6 @@ vorbereitungszeit: vorbereitungszeit-4
 author-name: Sebastian Becker
 author-email: sebastian.becker@uni-goettingen.de
 author-website: about.me/lect
-tags: '???'
 date: '2017-10-07T13:48:27.107Z'
 ---
 empty

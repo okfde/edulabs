@@ -39,7 +39,7 @@ vorbereitungszeit: vorbereitungszeit-2
 author-name: Maria Grandl
 author-email: maria.grandl@tugraz.at
 author-website: 'https://learninglab.tugraz.at/informatischegrundbildung/'
-tags: 'PC,BYOD,reviewed'
+tags: 'PC,BYOD'
 date: '2017-11-16T12:37:14.535Z'
 slug: kdkj6
 ---

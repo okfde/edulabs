@@ -50,7 +50,7 @@ vorbereitungszeit: vorbereitungszeit-3
 author-name: Christine Kolbe
 author-email: christine.kolbe@medialepfade.org
 author-website: 'http://www.medialepfade.org/'
-tags: 'BYOD,Podcast,Radio,reviewed'
+tags: 'BYOD'
 date: '2017-11-08T13:44:13.969Z'
 slug: rat5i
 ---

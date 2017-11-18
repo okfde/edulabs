@@ -44,7 +44,6 @@ vorbereitungszeit: vorbereitungszeit-6
 author-name: Nele Hirsch
 author-email: nele@ebildungslabor.de
 author-website: www.ebildungslabor.de
-tags: reviewed
 date: '2017-10-06T16:06:44.982Z'
 ---
 empty

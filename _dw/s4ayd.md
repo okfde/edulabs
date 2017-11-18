@@ -49,7 +49,6 @@ vorbereitungszeit: vorbereitungszeit-6
 author-name: mediale pfade
 author-email: robert.alisch@medialepfade.org
 author-website: www.medialepfade.org
-tags: ''
 date: '2017-11-14T18:30:21.819Z'
 slug: s4ayd
 ---

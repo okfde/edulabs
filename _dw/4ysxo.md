@@ -74,7 +74,6 @@ author-website:
   - ''
   - ''
   - ''
-tags: socialmedia reviewed
 date: '2017-10-07T13:49:18.048Z'
 ---
 empty

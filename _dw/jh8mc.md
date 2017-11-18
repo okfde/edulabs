@@ -40,7 +40,7 @@ vorbereitungszeit: vorbereitungszeit-1
 author-name: Paula Seemann
 author-email: paula.seemann@posteo.de
 author-website: ''
-tags: 'BYOD,reviewed'
+tags: 'BYOD'
 date: '2017-10-07T13:19:25.501Z'
 ---
 empty

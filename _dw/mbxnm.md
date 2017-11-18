@@ -37,7 +37,7 @@ vorbereitungszeit: vorbereitungszeit-6
 author-name: Maximilian Voigt
 author-email: maximilian.voigt@okfn.de
 author-website: 'https://edulabs.de'
-tags: 'Bauen,Löten,???,reviewed'
+tags: 'Basteln,Löten'
 date: '2017-10-12T13:37:21.993Z'
 ---
 empty

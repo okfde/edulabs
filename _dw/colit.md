@@ -52,7 +52,7 @@ vorbereitungszeit: vorbereitungszeit-6
 author-name: Alexa Schaegner
 author-email: aschaegner@politik-digital.de
 author-website: www.aula.de
-tags: 'PC,reviewed'
+tags: 'PC'
 date: '2017-10-09T19:06:24.210Z'
 ---
 empty
