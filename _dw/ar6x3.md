@@ -3,7 +3,7 @@ _id: f059fd20-ab67-11e7-9686-dbf837d6a4ce
 title: ar6x3
 art: oer
 titel: Französische Revolution - Wissen testen
-visible: 1
+visible: 0
 desc: >-
   Mehrere Sets mit Fragen und Antworten unterstützen SchülerInnen beim Lernen
   von Grundlagen zur Französischen Revolution.
@@ -35,7 +35,6 @@ vorbereitungszeit: vorbereitungszeit-1
 author-name: Nele Hirsch
 author-email: nele@ebildungslabor.de
 author-website: www.ebildungslabor.de
-tags: reviewed
 date: '2017-10-07T14:00:56.226Z'
 ---
 empty

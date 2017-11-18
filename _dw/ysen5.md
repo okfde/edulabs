@@ -46,7 +46,7 @@ vorbereitungszeit: vorbereitungszeit-6
 author-name: Maximilian Voigt
 author-email: maximilian.voigt@okfn.de
 author-website: 'https://edulabs.de'
-tags: 'arduino,Mikrocontroller,Sammlung, reviewed'
+tags: 'arduino,Mikrocontroller'
 date: '2017-10-07T13:44:24.955Z'
 ---
 empty

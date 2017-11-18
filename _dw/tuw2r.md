@@ -6,21 +6,20 @@ titel: 'Wikipedia Bild-, Audio- oder Videodateien im eigenen Produkt einsetzen'
 visible: 1
 desc: >-
   SchülerInnen erstellen im Unterricht eigene Präsentationen, Videos oder andere
-  Medienprodukte. Dafür benötigen Sie Bild-, Audio-oder Videodateien von anderen
+  Medienprodukte. Dafür benötigen Sie Bild-, Audio- oder Videodateien von anderen
   Quellen. Hier lernen Sie, wie Dateien aus der Wikipedia bzw. Wikimedia Commons
   gefunden und Lizenzrechtlich korrekt eingebunden werden können.
 link: 'https://lizenzhinweisgenerator.de'
 lernziele: >-
   Suchen und Finden einer Mediendatei. Selbständiger Lizenzcheck. Durch die
-  Bedienung des Lizenzhinweisgenerators von Wikimedia Commens beschäftigen sich
+  Bedienung des Lizenzhinweisgenerators von Wikimedia Commons beschäftigen sich
   SuS mit den Themen Urheberrecht und Persönlichkeitsrechte. Sensibilisieren der
   SuS, sowohl in Ihren schulischen Produkten als auch in ihren Blogs oder
   SocialMedia Profilen Urheberrechtlich geschütztes Material zu verwenden.
   Reflexion über das Thema kann mit unterschiedlichen Methoden angeleitet
   werden.
-tipp: "Aufgabenstellung an die SuS:\r\nSuche in der Wikipedia nach einem Thema, welches dich persönlich interessiert. (Ideen: Schloß Karlsruhe, Minecraft, Lieblingsband, YouTuber...) – schaue welche Mediendateien im Artikel angeboten werden. Checke mit Hilfe des Lizenzhinweisgenerators ob und wie du diese Medien in deine schulischen oder privaten Nutzung verwenden kannst.\r\n* Mögliche Reflektionsfragen:\r\n* Welche Gedanken kommen dir beim recherchieren?\r\n* Ist die Plattform leicht zu bedienen?\r\n* Wo hast du bisher gesucht?\r\n* Welche Plattformen gibt es noch und wie dürfen diese Medien benutzt werden? (Bsp. [Pixabay](https://pixabay.com/), [Google Suche](https://www.google.de/imghp?hl=de&tab=wi), [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page), [Photos for Class](http://www.photosforclass.com/), [flickr](https://www.flickr.com/))"
+tipp: "Aufgabenstellung an die SuS:\r\nSuche in der Wikipedia nach einem Thema, welches dich persönlich interessiert. (Ideen: Schloss Karlsruhe, Minecraft, Lieblingsband, YouTuber...) – schaue welche Mediendateien im Artikel angeboten werden. Checke mithilfe des Lizenzhinweisgenerators ob und wie du diese Medien in deine schulischen oder privaten Nutzung verwenden kannst.\r\n* Mögliche Reflexionsfragen:\r\n* Welche Gedanken kommen dir beim recherchieren?\r\n* Ist die Plattform leicht zu bedienen?\r\n* Wo hast du bisher gesucht?\r\n* Welche Plattformen gibt es noch und wie dürfen diese Medien benutzt werden? (Bsp. [Pixabay](https://pixabay.com/), [Google Suche](https://www.google.de/imghp?hl=de&tab=wi), [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page), [Photos for Class](http://www.photosforclass.com/), [flickr](https://www.flickr.com/))"
 medien:
-  - medien-1
   - medien-2
   - medien-3
 fach:
@@ -68,7 +67,7 @@ vorbereitungszeit: vorbereitungszeit-1
 author-name: Thorsten Belzer
 author-email: mail@thorstenbelzer.de
 author-website: 'http://www.thorstenbelzer.de'
-tags: 'internet,pc,reviewed'
+tags: 'PC'
 date: '2017-10-07T14:04:03.071Z'
 ---
 empty

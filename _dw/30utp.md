@@ -11,20 +11,19 @@ desc: >-
   vertiefen und gleichzeitig vielfältige Kompetenzen entwickeln.
 link: 'http://www.rete-mirabile.net/lernen/lernvideos-erklaervideos-von-schuelern'
 lernziele: >-
-  Das Anschauen von Videos gehört zur Freizeitbeschäftigung vieler SchülerInnen.
+  Das Anschauen von Videos gehört zur Freizeitbeschäftigung vieler Schüler\*innen.
   Mit dem Aufgreifen von Erklärvideos im Fachunterricht wird also direkt an der
-  Lebenswelt der SchülerInnen angesetzt. Bei der Planung eines eigenen Videos
-  setzen sie sich intensiv mit Fachinhalten auseinander – denn nur wer versteht
+  Lebenswelt der Schüler\*innen angesetzt. Bei der Planung eines eigenen Videos
+  setzen sie sich intensiv mit Fachinhalten auseinander – denn nur wer versteht,
   kann auch erklären. Bei der Produktion entwickeln die SchüerInnen zahlreiche
   Kompetenzen, beginnend mit dem Erstellen eines Drehbuchs, der Entscheidung für
-  ein Videoformat und der Nutzung technischer Werkzeuge. Die SchülerInnen müssen
+  ein Videoformat und der Nutzung technischer Werkzeuge. Die Schüler\*innen müssen
   Kriterien für hilfreiche Videos entwickeln, sie lernen ein größeres Projekt
   sinnvoll zu strukturieren, müssen in der Gruppe kooperieren und stellen ein
   kreatives Produkt her.
 tipp: "Lass die SuS vor der konkreten Umsetzung ausprobieren und recherchieren, mit welchen Geräten und Apps sie Videos aufnehmen und nachbearbeiten können und wie die Videos nachher auf deinem Computer landen.\r\nDu willst die Videos bewerten? Testet doch mal, wie effektiv die Mitschüler mit den Videos lernen konnten!"
 medien:
   - medien-3
-  - medien-4
 fach:
   - fach-1
   - fach-2
@@ -75,8 +74,7 @@ dauer: dauer-2
 vorbereitungszeit: vorbereitungszeit-5
 author-name: Tessa Moje
 author-email: tessamoje@gmail.de
-author-website: reviewed
-tags: reviewed
+author-website: ''
 date: '2017-10-06T16:16:54.539Z'
 ---
 empty

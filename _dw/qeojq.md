@@ -3,7 +3,7 @@ _id: a6dbce90-ab61-11e7-80b1-75ea103d587c
 title: qeojq
 art: oer
 titel: Migration als Simulation
-visible: 1
+visible: 0
 desc: >-
   In dieser Methode wird die Spielmechanik des Videospiels "Papers, Please!"
   analog nachgebildet, um den Teilnehmenden verschiedene Perspektiven auf
@@ -34,7 +34,6 @@ vorbereitungszeit: vorbereitungszeit-5
 author-name: Martin Fischer
 author-email: martin.fischer.eu@gmail.com
 author-website: gameoverhate.org
-tags: reviewed
 date: '2017-10-07T13:15:55.998Z'
 ---
 empty

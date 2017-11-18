@@ -1,9 +1,8 @@
 ---
-_id: 00d6eec0-ab62-11e7-80b1-75ea103d587c
+_id: ca9fdae0-c61b-11e7-a1cf-8971f8c2d4c4
 title: ldhp2
 art: oer
 titel: Kommunalpolitik verstehen und bewerten
-visible: 1
 desc: >-
   In diesem Unterrichtsbeispiel analysieren Jugendliche die Auswirkungen einer
   kommunalpolitischen Entscheidung auf den Umweltschutz. Es sind vielfältige
@@ -14,7 +13,7 @@ lernziele: >-
   Wirkungsvoll ist dieses Unterrichtsbeispiel insbesondere durch das Aufgreifen
   eines konkreten Themas aus der Lebensrealität der Jugendlichen. Ausgehend von
   diesem Thema setzen sie sich mit kommunalpolitischen Entscheidungsstrukturen
-  auseinander und lernen über Möglichkeiten der politischen Partizipation.
+  auseinander und lernen Möglichkeiten der politischen Partizipation kennen.
   Sofern die entsprechende Infrastruktur zur Verfügung steht, kann zudem gelernt
   werden, wie das Internet zu Recherche- und Meinungsbildung genutzt werden
   kann.
@@ -46,7 +45,7 @@ vorbereitungszeit: vorbereitungszeit-6
 author-name: Nele Hirsch
 author-email: nele@ebildungslabor.de
 author-website: www.ebildungslabor.de
-tags: reviewed
-date: '2017-10-07T13:18:26.888Z'
+date: '2017-11-10T13:33:52.621Z'
+slug: ldhp2
 ---
 empty

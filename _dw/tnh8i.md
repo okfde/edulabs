@@ -51,7 +51,6 @@ vorbereitungszeit: vorbereitungszeit-5
 author-name: Steffen Jauch
 author-email: steffen_jauch@me.com
 author-website: www.schuleunterstrom.de
-tags: ''
 date: '2017-10-14T06:47:20.451Z'
 ---
 empty

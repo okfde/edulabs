@@ -10,11 +10,11 @@ desc: >-
   kann auch Technik getauscht werden. Im Rahmen eines Projektes oder AG in der
   Schule kann eine PING!-Station eingerichtet werden.
 link: 'http://pingstation.de/ping-station-als-ag-oder-projekt-in-der-schule/'
-lernziele: "* Geräte kennen lernen, Geräte auf Funktion testen\r\n* für defekte Geräte korrekte Recycling oder Spendenprojekte finden\r\n* funktionierende Geräte und Zubehör in den Kreislauf zu bringen\r\n* Über Produktionsprozesse und Ressourcenschonung bescheid wissen\r\n* Möglichst lange die eigenen Geräte benutzen\r\n* Sensibilisieren für Faire Geräte und Produktionsbedingungen."
+lernziele: "* Geräte kennen lernen, Geräte auf Funktion testen\r\n* für defekte Geräte korrekte Recycling oder Spendenprojekte finden\r\n* funktionierende Geräte und Zubehör in den Kreislauf zu bringen\r\n* Über Produktionsprozesse und Ressourcenschonung Bescheid wissen\r\n* Möglichst lange die eigenen Geräte benutzen\r\n* Sensibilisieren für faire Geräte und Produktionsbedingungen."
 tipp: >-
   Das Projekt PING!-Station wurde vom Nachhaltigkeitspreis Karlsruhe
-  ausgezeichnet und Betreut 3 Stationen in Karlsruhe (Ladengeschäft,
-  Konzertlokation und Museum) – 2 Schulen starten im Kalenderjahr 2018. Es gibt
+  ausgezeichnet und betreut 3 Stationen in Karlsruhe (Ladengeschäft,
+  Konzertort und Museum) – 2 Schulen starten im Kalenderjahr 2018. Es gibt
   noch keine Praxiserfahrungen in Schule und AG´s. Aus anderen Projekten besteht
   aber die Erfahrung, dass es Jugendliche gibt, die gerne mit Technik arbeiten,
   diese auch gerne Aufschrauben, testen und z.T. mit neuer Software bespielen.
@@ -57,7 +57,6 @@ vorbereitungszeit: vorbereitungszeit-2
 author-name: Thorsten Belzer
 author-email: mail@thorstenbelzer.de
 author-website: 'http://www.thorstenbelzer.de'
-tags: reviewed
 date: '2017-10-07T11:13:23.311Z'
 ---
 empty

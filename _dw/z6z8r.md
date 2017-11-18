@@ -8,13 +8,13 @@ desc: >-
   Workshop-Konzept, um das Thema „Smartphones“ zu erarbeiten. Unterthemen wie
   „Mobile Daten“ - "WLAN" - "Apps und Berechtigungen" - „In-App-Käufe" sind
   Inhalt des Workshops. Der exemplarische Workshopablauf beinhaltet
-  Impulsvideos, Materialideen und Konkrete Fragen.
+  Impulsvideos, Materialideen und konkrete Fragen.
 link: 'https://www.netzwerkzeug.org/arbeitsmaterial/smartphones-grundlagenworkshop/'
 lernziele: >-
   Geräte und Funktionen kennenlernen. Verständnis für Apps und die Bedeutung der
   Berechtigungen fördern.
 tipp: >-
-  Um Unsicherheiten bei SuS beim nutzen von Geräten, Internet und App-Stores
+  Um Unsicherheiten bei SuS beim Nutzen von Geräten, Internet und App-Stores
   abzubauen, bzw. um wichtiges Hintergrundwissen aufzubauen ist dieser
   Workshopablauf sehr gut geeignet. Die Methode eignet sich auch für
   Elternabende oder Lehrerfortbildungen.
@@ -51,7 +51,7 @@ vorbereitungszeit: vorbereitungszeit-2
 author-name: Thorsten Belzer
 author-email: mail@thorstenbelzer.de
 author-website: 'http://www.thorstenbelzer.de'
-tags: 'tablet,ipad,ios,android'
+tags: 'iPad,iOs,Android'
 date: '2017-10-07T12:51:49.232Z'
 ---
 empty

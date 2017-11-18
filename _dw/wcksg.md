@@ -5,7 +5,7 @@ art: noer
 titel: >-
   Kreativ programmieren mit interaktiven Sozialformen:  Handlungsorientes
   Scratch Handbuch
-visible: 1
+visible: 0
 desc: >-
   Das praxisorientierte 141-seitige Lehrerhandbuch gibt didaktisch-konzeptuelle
   Hinweise für Lehrer, Eltern und Workshopleiter. Das 44-seitige Schülerhandbuch
@@ -44,8 +44,6 @@ vorbereitungszeit: vorbereitungszeit-6
 author-name: Heiko Idensen
 author-email: heikoidensen@gmail.com
 author-website: 'http://idensen.org/'
-tags: >-
-  Maker,Scratch,Programmieren,KreativeInformatik,Informatik,Handlungsorientierung,Praxisbausteine,reviewed
 date: '2017-10-07T13:52:23.364Z'
 ---
 empty
