@@ -7,7 +7,10 @@
             <span class="teaser-blog-tag">Aus dem Blog</span>
             <h3 class="teaser-headline">{{ include.headline }}</h3>
             <p class="teaser-copy">{{ include.copy }}</p>
-            <span class="teaser-cats">{{ include.category | remove:"[" | remove:']'| remove:'"' }}</span>
+            {% assign tags = include.category | remove:"[" | remove:']'| remove:'"' %}
+            {% if tags != '#' %}
+            <span class="teaser-cats">{{ tags }}</span>
+            {% endif %}
             <div class="edusprint-cats">
                 {% if include.zielgruppe contains 'zielgruppe-1' %}
                 <div class="icon small kita"></div>

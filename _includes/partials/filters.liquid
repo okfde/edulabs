@@ -1,5 +1,5 @@
 <h4 class="filter-items-headline">NACH KATEGORIE FILTERN:</h4>
-{% assign posts = site.dw %}
+{% assign posts = site.dw | where_exp: "visible", "visible != 0" %}
 {% for post in posts %}
     {% assign post_categories = post.categories | join:'|' | append:'|' %}
     {% assign rawcategories = rawcategories | append:post_categories %}

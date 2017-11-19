@@ -37,7 +37,7 @@
 
             e.preventDefault();
 
-            var $buttonGroup = $(this).parents('.filter');
+            var $buttonGroup = $(this).parent();
             var filterGroup = ''
             if ($buttonGroup) {
                 filterGroup = $buttonGroup.attr('data-filter-group');
@@ -56,7 +56,8 @@
                 }
 
                 ref.addFilterToList(filterGroup, filter);
-
+                if (filterGroup === 'kmk')
+                    $(this).siblings().removeClass('active hover')
                 $(this).addClass('active');
             } else {
                 //remove filter
@@ -93,7 +94,7 @@
     };
 
     IsotopeController.prototype.addFilterToList = function(group, filter){
-        Logger.log("add filter -> " + filter);
+        Logger.log("add filter -> ", group, filter);
         //check if filter is already in list
         var found = false;
         if (filterGroups.hasOwnProperty(group)) {
@@ -105,7 +106,19 @@
              filterGroups[group] = [];
              found = false;
         }
-        if(!found) filterGroups[group].push(filter);
+        if(!found) {
+            console.log(group, group === 'kmk')
+            if (group !== 'kmk') {
+                filterGroups[group].push(filter);
+            } else {
+                for (var a = 0; a < filterGroups['kmk'].length; ++a) {
+                    var f = filterGroups['kmk'][a]
+                    ref.removeFilterFromList('kmk', f)
+                }
+
+                filterGroups[group] = [filter];
+            }
+        }
         //ref.filterList(filterGroups.join());
         ref.filterList();
     };

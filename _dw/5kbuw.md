@@ -27,7 +27,8 @@ tipp: >-
 medien:
   - medien-1
   - medien-3
-fach: fach-2
+fach:
+  - fach-2
 top-kmk:
   - top-kmk-5
   - top-kmk-2

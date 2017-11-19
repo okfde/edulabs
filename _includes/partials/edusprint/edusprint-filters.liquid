@@ -1,4 +1,4 @@
-{% assign posts = site.dw %}
+{% assign posts = site.dw | where: "visible", 1 %}
 
 {% for post in posts %}
     {% assign post_categories = post.tags | split:',' | join:'|' | append:'|' %}
