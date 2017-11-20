@@ -17,6 +17,8 @@ tipp: >-
   Dadurch, dass die Materialien vorbereitet werden müssen, ist schon eine
   gewisse Vorbereitungszeit einzuplanen durch die Erstellung. Zur Verfestigung
   sind die angegeben Links mit Hilfe des Internets hinzuzuziehen.
+medien:
+  - medien-1
 fach:
   - fach-4
   - fach-5

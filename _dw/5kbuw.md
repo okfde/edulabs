@@ -2,7 +2,7 @@
 _id: 59599aa0-aab0-11e7-a55a-4daac0be43df
 title: 5kbuw
 art: oer
-titel: Praxisprojekt Trickfilmproduktion zum Nachmachen
+titel: Praxisprojekt Trickfilmproduktion
 visible: 1
 desc: >-
   In Bad Reichenhall haben Kinder im Rahmen eines außerschulischen
@@ -25,7 +25,6 @@ tipp: >-
   Jugendlichen. Vorbereitungszeit ist vor allem dann nötig, wenn man sich noch
   neu in die zu nutzenden Apps einarbeiten muss.
 medien:
-  - medien-1
   - medien-3
 fach:
   - fach-2
