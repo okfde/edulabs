@@ -94,7 +94,7 @@ Es ist sehr wichtig, dass es sowas gibt. Die Schwierigkeit ist, dass sich eine k
 
 <p class="link-list">
 <span class="link-list-headline">Links</span>
-<a class="external-link" href="https://schulesocialmedia.com/2017/11/05/digitale-bildung-und-zeitgemaesses-lernen-bemerkungen-zu-zwei-haltungen/" target="_blank">„digitale Bildung“ und „zeitgemäßes Lernen“ - Philippe Wampfler über zwei Haltungen</a>
+<a class="external-link" href="https://schulesocialmedia.com/2017/11/05/digitale-bildung-und-zeitgemaesses-lernen-bemerkungen-zu-zwei-haltungen/" target="_blank">„Digitale Bildung“ und „zeitgemäßes Lernen“ - Philippe Wampfler über zwei Haltungen</a>
 <a class="external-link" href="https://www.youtube.com/channel/UC78JYY9v-3xnILnoekLMQcw" target="_blank">Der YouTube-Channel der Kantonsschule Wettingen</a>
 <a class="external-link" href="https://schulesocialmedia.com/2017/11/09/portfolio-blogprojekt-als-basis-fuer-zeitgemaesses-lernen/" target="_blank">Blogprojekt als Basis für zeitgemäßes Lernen</a>
 <a class="external-link" href="https://schulesocialmedia.com/2016/03/21/schulnews-per-youtube-projektbeschreibung/" target="_blank">Schulnews per Youtube – Projektbeschreibung</a>
