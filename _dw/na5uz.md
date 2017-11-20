@@ -2,6 +2,7 @@
 _id: ba6b1ec0-cdd5-11e7-a1cf-8971f8c2d4c4
 title: na5uz
 art: noer
+visible: 0
 titel: Ein spielerischer Einstieg in die Programmierung
 desc: "Im Artikel wird ein Moodle-Kurs sowie Begleitmaterialien rund um die App Pocket Code vorgestellt, welche einen spielerischen Einstieg in die Programmierung ermöglicht."
 link: 'https://hackmd.io/JwJgbGxg7CC0ZwBY5KQE3gQwMZLHAKwBGAjAGY6FgAMxx5IQA==='
