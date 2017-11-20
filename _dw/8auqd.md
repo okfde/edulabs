@@ -15,9 +15,8 @@ lernziele: >-
   Die SchülerInnen setzen sich spielerisch mit dem Thema Flucht und Asyl
   auseinander. Auf einer Meta-Ebene reflektieren sie Kriterien für gute Spiele
   und können ihren MitschülerInnen davon berichten.
-tipp: "Exemplarisch könnte eine Unterrichtseinheit folgendermaßen gestaltet sein: \r\n1. Die SchülerInnen erhalten je Kleingruppe einen Link und die Aufgabe, das Spiel zu spielen.\r\n2. In der Kleingruppe überlegen sie, was sie an dem Spiel gut und was schlecht finden. \r\n3. Die Ergebnisse werden in der Klasse vorgestellt und diskutiert."
+tipp: "Exemplarisch könnte eine Unterrichtseinheit folgendermaßen gestaltet sein:<br>1. Die SchülerInnen erhalten je Kleingruppe einen Link und die Aufgabe, das Spiel zu spielen.<br>2. In der Kleingruppe überlegen sie, was sie an dem Spiel gut und was schlecht finden.<br>3. Die Ergebnisse werden in der Klasse vorgestellt und diskutiert."
 medien:
-  - medien-1
   - medien-2
 fach: fach-3
 long-fach:

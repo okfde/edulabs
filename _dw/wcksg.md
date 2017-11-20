@@ -12,7 +12,12 @@ desc: >-
   führt spielerisch in die  Routinetätigkeiten des Programmieres ein und enthält
   direkt in Scratch umsetzbare praktische Aufgaben.
 link: 'http://eis.ph-noe.ac.at/kreativeinformatik/'
-lernziele: "Die Schüler werden: \r\n* auf die ersten Erkundungen in der Scratch-Umgebung aufbauen,\r\n* indem sie ein interaktives Scratch-Projekt erstellen\r\n* in eine breite Palette an Scratch-Blöcken eingeführt\r\n* sich mit dem Konzept der Folge vertraut machen\r\n* während der Erstellung von Projekten das Experimentieren und Wiederholen üben (S.5)"
+lernziele: "Die Schülerinnen werden:
+<br>- auf die ersten Erkundungen in der Scratch-Umgebung aufbauen
+<br>- indem sie ein interaktives Scratch-Projekt erstellen
+<br>- in eine breite Palette an Scratch-Blöcken eingeführt
+<br>- sich mit dem Konzept der Folge vertraut machen
+<br>- während der Erstellung von Projekten das Experimentieren und Wiederholen üben (S.5)"
 tipp: "Beide Handbücher sind auch visuell ansprechend gestaltet und machen Lust darauf, die Praxisbausteine auszuprobieren.\r\nDas Konzept der \"kreativen Informatik\" passt wunderbar zu Maker-Aktivitäten mit der Orientierung an Kreativität und selbständigem Gestalten und zielt als eine Karriere als Informatiker oder Programmierer: \"Es unterstützt die Entwicklung junger Leute als informatisch Gebildete – Individuen, die in allen Bereichen ihres Lebens, über Fachbereiche und Kontexte hinaus, auf computergestützte Konzepte, Methoden und Perspektiven aufbauen können.\" (S.9)
 <br><br>Zu Scratch gibt es auch einen <a href='https://scratch.mit.edu/download'>Offline-Editor</a> (Mac, Windows, einige Linux-Versionen)
 "
