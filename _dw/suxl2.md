@@ -12,7 +12,6 @@ link: 'https://events.withgoogle.com/nichtegal-workshops/materialien/'
 lernziele: "1) SuS lernen das Phänomen \"Hassrede im Netz\" gesellschaftlich einzuordnen und eine eigene Position zu beziehen.\r\n2) SuS lernen ihre Haltung kreativ zu Ausdruck zu bringen.\r\n3) Mit ihren eigenen Smartphones (BYOD) drehen, schneiden, bearbeiten und veröffentlichen die SuS eigene Videos zum Thema.\r\n4) SuS verstehen die Bedeutung von digitaler Zivilcourage und können dafür eintreten.\r\n5) Die SuS werden zu Mentor*innen ausgebildet und können die Inhalte der Workshops an jüngere Klassen weitergeben."
 tipp: "1) Es empfiehlt sich, die Workshops in Projektwochen durchzuführen und ggf. Kontakt mit YouTuber*innen aufzunehmen, da deren Teilnahme eine zusätzliche Motivation für die SuS darstellt.\r\n2) Der geplante und kreative Einsatz der Smartphones lockert sofort die klassische Schullernsituation auf, dafür sollten sich die SuS in der Produktionsphase aber auch frei in der Schule bewegen können.\r\n3) Das Material eignet sich, um auch andere Querschnittsthemen inhaltlich zu bearbeiten, wie etwa: Grundrechte, Medienarbeit, Kommunikationsverhalten oder Urheberrecht."
 medien:
-  - medien-1
   - medien-2
   - medien-3
 fach:

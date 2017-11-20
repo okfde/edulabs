@@ -19,6 +19,8 @@ lernziele: >-
 tipp: >-
   Je nach Druckmöglichkeit gibt es die Vorlagen in schwarz-weiß oder bunt zum
   Herunterladen.
+medien:
+  - medien-1
 kmk: kmk-1-2
 zielgruppe: zielgruppe-1
 lizenz: lizenz-1

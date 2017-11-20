@@ -11,7 +11,7 @@ desc: >-
   nachvollziehen.
 link: 'https://offenesparlament.de/'
 lernziele: >-
-  Die Schüler*innen erkennen auf der einen Seite wie Themen im Bundestag
+  Die Schüler\*innen erkennen auf der einen Seite wie Themen im Bundestag
   verhandelt werden und welche Argumente die jeweiligen politischen Parteien
   vorbringen. Gleichzeitig erlernen sie den Unterschied zwischen einer
   „Eingetragenen Lebenspartnerschaft“ und einer vollwertigen Anerkennung durch

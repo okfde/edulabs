@@ -16,7 +16,6 @@ tipp: >-
   zu bearbeiten. Der Aufwand muss vor allem nur einmalig getätigt werden,
   weitere Durchführungen können mit minimalem Aufwand vorbereitet werden.
 medien:
-  - medien-1
   - medien-2
   - medien-3
 fach:

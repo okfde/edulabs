@@ -18,7 +18,7 @@ lernziele: >-
   einzelnen Übungsaufgaben gibt es weiterführende Infos, Links, Videos und
   Bilder. Wer das klassische Buchformat bevorzugt, kann CS Unplugged auch in
   gedruckter Form erwerben.
-tipp: "Leider gibt es das Material im Moment nur auf Englisch. Deshalb ist die Vorbereitungszeit zur Übersetzung einzelner \"Activities\" größer. Die Arbeit lohnt sich aber, da selbst in mäßig ausgestatteten Schulen Informatikunterricht durchgeführt werden kann. \r\nDie eigentliche Zielgruppe sind Grundschüler (6-14 Jahre), weshalb das Material auch für Inklusionsschüler verwendet werden kann. Ebenso eignen sich einzelne \"Activities\" für den Schülergerechten Einstieg in ein Themengebiet der Informatik in höheren Klassen. \r\nDa einige \"Activities\" viel Raum einnehmen, empfiehlt es sich, die Schulaula oder den Schulhof als Lernort in Betracht zu ziehen."
+tipp: "Leider gibt es das Material im Moment nur auf Englisch. Deshalb ist die Vorbereitungszeit zur Übersetzung einzelner \"Activities\" größer. Die Arbeit lohnt sich aber, da selbst in mäßig ausgestatteten Schulen Informatikunterricht durchgeführt werden kann. \r\nDie eigentliche Zielgruppe sind Grundschüler (6-14 Jahre), weshalb das Material auch für Inklusionsschüler verwendet werden kann. Ebenso eignen sich einzelne \"Activities\" für den schülergerechten Einstieg in ein Themengebiet der Informatik in höheren Klassen. \r\nDa einige \"Activities\" viel Raum einnehmen, empfiehlt es sich, die Schulaula oder den Schulhof als Lernort in Betracht zu ziehen."
 medien:
   - medien-1
   - medien-4
