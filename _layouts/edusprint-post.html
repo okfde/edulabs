@@ -16,14 +16,14 @@ title: Edusprint Post
 
                     <h2 class="section-headline">Kurzbeschreibung:</h2>
                     <p class="excerpt">
-                    {{ page.desc }}
+                    {{ page.desc | markdownify }}
                     </p>
 
                     <h3>Wirkungen und Lernziele:</h3>
-                    <p>{{ page.lernziele }}</p>
+                    <p>{{ page.lernziele | markdownify }}</p>
 
                     <h3>Empfehlungen und Tipps:</h3>
-                    <p>{{ page.tipp }}</p>
+                    <p>{{ page.tipp | markdownify }}</p>
 
                     <p class="link-list">
                         <span class="link-list-headline">zum Material</span>
