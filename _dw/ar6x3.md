@@ -13,9 +13,8 @@ lernziele: >-
   Revolution testen sowie nutzen, um sich beispielsweise für eine Klassenarbeit
   vorzubereiten. Der Schwerpunkt des Angebots liegt somit auf dem
   selbstorganisierten Lernen.
-tipp: "Gut einsetzbar als Tipp für SchülerInnen, ob wesentliche Themen verstanden wurden, z.B. in Anschluss an eine Projektarbeit oder ähnliches zu diesem Thema.\r\n\r\nBei jüngeren SuS sollte die Plattform vorher eingeführt sein. Alternativ dazu ist es möglich, die Lerninhalte der Plattform in den eigenen Lehrerblog bzw. Schulwebseite einzubinden. Das würde dann so aussehen (am Beispiel Hauptstädte der EU Länder prüfen:  https://www.netzwerkzeug.org/arbeitsmaterial/wissensquiz-hauptstaedte-der-eu"
+tipp: "Gut einsetzbar als Tipp für SchülerInnen, ob wesentliche Themen verstanden wurden, z.B. in Anschluss an eine Projektarbeit oder ähnliches zu diesem Thema.<br>Bei jüngeren SuS sollte die Plattform vorher eingeführt sein. Alternativ dazu ist es möglich, die Lerninhalte der Plattform in den eigenen Lehrerblog bzw. Schulwebseite einzubinden. Das würde dann so aussehen (am Beispiel Hauptstädte der EU Länder prüfen: https://www.netzwerkzeug.org/arbeitsmaterial/wissensquiz-hauptstaedte-der-eu)"
 medien:
-  - medien-1
   - medien-2
 fach: fach-3
 long-fach: long-fach-6

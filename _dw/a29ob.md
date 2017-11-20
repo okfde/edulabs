@@ -10,10 +10,9 @@ desc: >-
   Internets entschlüsseln und selbst verschlüsseln!
 link: >-
   http://www.ebildungslabor.de/blog/faszination-geheimschriften-%E2%80%93-unterrichtsbeispiel-caesar-scheibe
-lernziele: "Lernziele sind insbesondere:\r\n* Informationen im Internet finden; Suchmaschinen nutzen\r\n* Interesse wecken an Programmierung/ Algorithmen\r\n* Sicherheit im Umgang mit Buchstabieren/ dem Alphabet"
-tipp: 'Suchmaschinen speziell für Kinder sind z.B. Frag Finn: https://www.fragfinn.de'
+lernziele: "Lernziele sind insbesondere:<br>- Informationen im Internet finden; Suchmaschinen nutzen<br>- Interesse wecken an Programmierung / Algorithmen<br>- Sicherheit im Umgang mit Buchstabieren / dem Alphabet"
+tipp: 'Suchmaschinen speziell für Kinder sind z.B. <a href="https://www.fragfinn.de">Frag Finn</a>'
 medien:
-  - medien-1
   - medien-2
 fach:
   - fach-3

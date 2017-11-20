@@ -10,10 +10,9 @@ desc: >-
   erstellen, diskutieren und abstimmen. So können sie aktiv ihre Schule
   mitgestalten und durch Demokratie in der Praxis wichtige Kompetenzen erwerben.
 link: 'http://aula-blog.website/wp-content/uploads/2015/11/aula-Beschreibung-2.pdf'
-lernziele: "*Partizipieren und aktiv an der Gestaltung des eigenen Lern- und Lebensraums mitwirken\r\n*Erfahrung von Selbstwirksamkeit \r\n*Politische Bildung in der Praxis\r\n*21st Century Skills werden trainiert: Kommunikation (Argumentation, Diskussion, Kompromissfindung), Kollaboration, kritisches Denken und Kreativität \r\n*Umgang mit digitalen Medien\r\n*Minderheitenschutz und Antidiskriminierung\r\n*Transparenz von vorhandenen Schulstrukturen"
-tipp: "Um alle Lernziele und Möglichkeiten auszuschöpfen empfiehlt es sich die gesamte Schule mit  allen AkteurInnen in das Projekt einzubeziehen. Es kann aber auch mit einzelnen Klassen/Lerngruppen durchgeführt werden.\r\nZu den Funktionen der Plattform finden sich [Tutorial-Videos](http://aula-blog.website/how-to-aula/)\r\nDer Code zum Herunterladen der Plattform steht auf [github](https://github.com/liqd/aula)"
+lernziele: "- Partizipieren und aktiv an der Gestaltung des eigenen Lern- und Lebensraums mitwirken<br>- Erfahrung von Selbstwirksamkeit<br>- Politische Bildung in der Praxis<br>- 21st Century Skills werden trainiert: Kommunikation (Argumentation, Diskussion, Kompromissfindung), Kollaboration, kritisches Denken und Kreativität<br>- Umgang mit digitalen Medien<br>- Minderheitenschutz und Antidiskriminierung<br>- Transparenz von vorhandenen Schulstrukturen"
+tipp: "Um alle Lernziele und Möglichkeiten auszuschöpfen empfiehlt es sich die gesamte Schule mit  allen AkteurInnen in das Projekt einzubeziehen. Es kann aber auch mit einzelnen Klassen/Lerngruppen durchgeführt werden.<br>Zu den Funktionen der Plattform finden sich <a href='http://aula-blog.website/how-to-aula/'>Tutorial-Videos</a><br>Der Code zum Herunterladen der Plattform steht auf <a href='https://github.com/liqd/aula'>github</a>"
 medien:
-  - medien-1
   - medien-2
   - medien-3
 fach:
@@ -59,7 +58,7 @@ vorbereitungszeit: vorbereitungszeit-6
 author-name: Alexa Schaegner
 author-email: aschaegner@politik-digital.de
 author-website: www.aula.de
-tags: 'PC'
+tags: ''
 date: '2017-10-09T19:06:24.210Z'
 ---
 empty

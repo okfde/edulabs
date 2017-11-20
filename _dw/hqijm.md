@@ -11,7 +11,7 @@ desc: >-
   kostenlosen App auf dem Smartphone oder Tablet.
 link: >-
   http://www.medien-in-die-schule.de/werkzeugkaesten/werkzeugkasten-lernen-lehren-mit-apps/werkzeugportraits-apps-fuer-lehren-und-lernen/apps-im-portrait-actionbound/
-lernziele: "Die Aufbereitung von Unterrichtseinheiten im spielerischen Kontext einer Schnitzeljagd erlaubt ein hohes Maß an schülerzentrierter und aktivierender Vermittlung vor allem von ortsgebundenem Wissen und im Feld der Sozialraumerkundung. Die Methode eignet sich besonders für kreativ orientierte, geschichtlich-politische als auch naturwissenschaftliche Fächer. Aufgrund beliebig kombinierbarer Spielmodule sind die Einsatzmöglichkeiten jedoch nahezu grenzenlos und generell fächerungebunden.\r\nWird die Rallye im Team gelaufen, sind besonders soziale und kollaborative Kompetenzen gefragt. Quizfragen zielen auf Fachkompetenz, der Ansatz des mobilen Lernens fördert Erkundung und Orientierung am unbekannten Lernort.\r\nDurch die gute Bedienbarkeit auf der Konstruktionsebene im browserbasierten Backend eignet sich Actionbound auch für die Erstellung durch die SchülerInnen selbst. Durch das Bauen einer eigenen Ralley kann das Erlernte als Peer-to-Peer-Vorhaben oder auch eine Form des intergenerativen Lernens (etwa wenn die Bounds von Eltern oder jüngeren SchülerInnen gespielt werden) gefestigt werden. Hierdurch vereint die Methode Ergebnissicherung, Präsentation und Wertschätzung. Durch den gemeinschaftlichen und identifikationsstiftenden Charakter kann die Schulkultur gestärkt werden. \r\nDer Einsatz von Methoden des mobilen Lernens befördert den themengebundenen Umgang mit mobilen Geräten und speziellen Funktionen wie etwa die GPS-Funktion oder QR-Codes."
+lernziele: "Die Aufbereitung von Unterrichtseinheiten im spielerischen Kontext einer Schnitzeljagd erlaubt ein hohes Maß an schülerzentrierter und aktivierender Vermittlung vor allem von ortsgebundenem Wissen und im Feld der Sozialraumerkundung. Die Methode eignet sich besonders für kreativ orientierte, geschichtlich-politische als auch naturwissenschaftliche Fächer. Aufgrund beliebig kombinierbarer Spielmodule sind die Einsatzmöglichkeiten jedoch nahezu grenzenlos und generell fächerungebunden.<br>Wird die Rallye im Team gelaufen, sind besonders soziale und kollaborative Kompetenzen gefragt. Quizfragen zielen auf Fachkompetenz, der Ansatz des mobilen Lernens fördert Erkundung und Orientierung am unbekannten Lernort.<br>Durch die gute Bedienbarkeit auf der Konstruktionsebene im browserbasierten Backend eignet sich Actionbound auch für die Erstellung durch die SchülerInnen selbst. Durch das Bauen einer eigenen Ralley kann das Erlernte als Peer-to-Peer-Vorhaben oder auch eine Form des intergenerativen Lernens (etwa wenn die Bounds von Eltern oder jüngeren SchülerInnen gespielt werden) gefestigt werden. Hierdurch vereint die Methode Ergebnissicherung, Präsentation und Wertschätzung. Durch den gemeinschaftlichen und identifikationsstiftenden Charakter kann die Schulkultur gestärkt werden.<br>Der Einsatz von Methoden des mobilen Lernens befördert den themengebundenen Umgang mit mobilen Geräten und speziellen Funktionen wie etwa die GPS-Funktion oder QR-Codes."
 tipp: >-
   Bereits in der Grundstufe kann mit Actionbound gearbeitet werden. Es empfiehlt
   sich der Einsatz von Tablets mit altersgerechten Schutzhüllen (stoßsicheres
@@ -20,7 +20,6 @@ tipp: >-
   LeseanfängerInnen können Aufgaben mit der Audiofunktion oder bildgestützt
   gestellt werden.
 medien:
-  - medien-1
   - medien-3
 fach:
   - fach-1
@@ -72,7 +71,7 @@ vorbereitungszeit: vorbereitungszeit-4
 author-name: Christine Kolbe
 author-email: christine.kolbe@medialepfade.org
 author-website: 'http://www.medialepfade.org/'
-tags: 'BYOD,Peer-to-Peer'
+tags: 'BYOD'
 date: '2017-10-07T09:28:04.190Z'
 ---
 empty
