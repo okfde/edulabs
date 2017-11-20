@@ -11,8 +11,8 @@ desc: >-
   kooperativ mittels Bearbeitungsschema ausgewertet.
 link: >-
   https://fortbildungsinfo.wordpress.com/2017/10/06/neue-methode-zur-kooperativen-erschliessung-von-videos-reziproke-filmauswertung/
-lernziele: "Flüchtigkeit des Mediums Film wird verlangsamt und so eine tatsächliche Auseinandersetzung mit den Filminhalten erreicht. \r\nDurch kooperative Abhängigkeit erfolgt zielgerichtete Kommunikation der SuS untereinander. \r\nLehr-, Lernvideos bzw. filmische Quellen werden als Arbeitsmaterial statt \"Entertainment\" wahrgenommen."
-tipp: "Wenn alle SchülerInnen selbstgesteuert im eigenen Lerntempo auf die Videos zugreifen, belastet dies die Internetkapazität sehr stark. Dies kann zu Filmaussetzern usw. führen. Alternativ kann dies als kooperative Partner-/Gruppenarbeit durchgeführt werden, was die Zugriffsgeräte halbiert bzw. viertelt. \r\n\r\nWichtig: Nicht vergessen, dass alle SuS Kopfhörer und digitale Endgeräte in ausreichender Zahl benötigen."
+lernziele: "Flüchtigkeit des Mediums Film wird verlangsamt und so eine tatsächliche Auseinandersetzung mit den Filminhalten erreicht.<br>Durch kooperative Abhängigkeit erfolgt zielgerichtete Kommunikation der SuS untereinander.<br>Lehr-, Lernvideos bzw. filmische Quellen werden als Arbeitsmaterial statt \"Entertainment\" wahrgenommen."
+tipp: "Wenn alle SchülerInnen selbstgesteuert im eigenen Lerntempo auf die Videos zugreifen, belastet dies die Internetkapazität sehr stark. Dies kann zu Filmaussetzern usw. führen. Alternativ kann dies als kooperative Partner-/Gruppenarbeit durchgeführt werden, was die Zugriffsgeräte halbiert bzw. viertelt.<br>Wichtig: Nicht vergessen, dass alle SuS Kopfhörer und digitale Endgeräte in ausreichender Zahl benötigen."
 medien:
   - medien-2
   - medien-3
@@ -63,7 +63,7 @@ vorbereitungszeit: vorbereitungszeit-3
 author-name: Steffen Jauch
 author-email: Steffen_jauch@me.com
 author-website: www.schuleunterstrom.de
-tags: 'BYOD,PC'
+tags: 'BYOD'
 date: '2017-10-07T13:24:15.995Z'
 ---
 empty

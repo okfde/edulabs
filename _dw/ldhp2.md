@@ -21,7 +21,6 @@ tipp: >-
   Ausreichend Zeit zur Vorbereitung und Durchführung einplanen. Falls möglich
   die Jugendlichen mit einbeziehen in die Auswahl des Themas.
 medien:
-  - medien-1
   - medien-2
 fach: fach-3
 long-fach:

@@ -25,7 +25,6 @@ tipp: >-
   auch tiefe Einblicke in die Ideen und Leidenschaften der SuS. Diese können
   gute Grundlage für die weiterführende Arbeit im Unterricht sein.
 medien:
-  - medien-1
   - medien-2
   - medien-4
 fach:
@@ -67,7 +66,7 @@ vorbereitungszeit: vorbereitungszeit-6
 author-name: mediale pfade
 author-email: daniel.seitz@medialepfade.org
 author-website: 'http://medialepfade.org'
-tags: 'Mac,PC,Basteln'
+tags: ''
 date: '2017-11-14T18:33:52.900Z'
 slug: mkifa
 ---

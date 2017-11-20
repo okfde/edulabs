@@ -5,7 +5,7 @@ art: oer
 titel: Sprachlerntagebuch / Portfolio für Kita-Kinder
 visible: 1
 desc: >-
-  ErzieherInnen finden hier Vorlagen für Sprachlerntagebücher/ Portfolios für
+  ErzieherInnen finden hier Vorlagen für Sprachlerntagebücher / Portfolios für
   Kita-Kinder. Ursprünglich erstellt wurden sie für den Einsatz in Kitas in
   Berlin und für alle aufbereitet durch das Team von ‚KindOERgarten‘.
 link: >-

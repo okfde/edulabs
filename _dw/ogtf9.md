@@ -11,8 +11,10 @@ desc: >-
   können sie aufgrund eigener Erfahrung Social-Media beurteilen.
 link: >-
   http://schuleunterstrom.de/index.php/2017/04/10/erleben-reflektieren-beurteilen-das-social-network-offline-spiel/
-lernziele: "Kennen des Funktionsprinzips, der Dynamiken, Chancen und Risiken von sozialen Netzwerken. \r\nErfahrung des \"Stresses\" die eine intensive Nutzung mit sich bringt. \r\nBeurteilung von Social-Media auf Grunde eigener Erfahrungen."
-tipp: "Das Spiel ist ein Selbstläufer. Die \"Regeln\" sollte man großzügig auslegen. \r\nSofern möglich empfiehlt es sich, dass SuS und Eltern zusammen z.B. in einem Elternabend \"spielen\".\r\nMaterial: Papier, viele Post-its und Klebepunkte."
+lernziele: "- Kennen des Funktionsprinzips, der Dynamiken, Chancen und Risiken von sozialen Netzwerken.<br>- Erfahrung des \"Stresses\" die eine intensive Nutzung mit sich bringt.<br>- Beurteilung von Social-Media auf Grunde eigener Erfahrungen."
+tipp: "Das Spiel ist ein Selbstläufer. Die \"Regeln\" sollte man großzügig auslegen.<br>Sofern möglich empfiehlt es sich, dass SuS und Eltern zusammen z.B. in einem Elternabend \"spielen\".\r\nMaterial: Papier, viele Post-its und Klebepunkte."
+medien:
+  - medien-1
 fach:
   - fach-1
   - fach-2

@@ -14,7 +14,9 @@ tipp: >-
   Für das Löten sollten genügend Personen dabei sein, die die Jugendlichen
   beaufsichtigen können - Unfälle sind schnell passiert. Auch ist es gut, ca.
   ein Lötkolben pro drei TeilnehmerInnen mitzunehmen.
-medien: medien-4
+medien: 
+  - medien-1
+  - medien-4
 fach: fach-4
 long-fach:
   - long-fach-12
@@ -41,7 +43,7 @@ vorbereitungszeit: vorbereitungszeit-6
 author-name: Maximilian Voigt
 author-email: maximilian.voigt@okfn.de
 author-website: 'https://edulabs.de'
-tags: 'Basteln,Löten'
+tags: 'Löten'
 date: '2017-10-12T13:37:21.993Z'
 ---
 empty

@@ -10,13 +10,12 @@ desc: >-
   verknüpft werden mit Text, Bild, Audio und Video, die die Schülerinnen und
   Schüler im Internet recherchieren.
 link: 'https://h5p.org/timeline'
-lernziele: "Durch die Erstellung einer interaktiven Zeitleiste beschäftigen sich Schülerinnen und Schüler intensiv mit einem bestimmten Thema / einer bestimmten geschichtlichen Epoche. Zudem lernen sie, im Internet zu recherchieren und rechtlich sicher zu veröffentlichen. Die Aufgabe kann als Einzelarbeit oder Gruppenarbeit gestaltet werden. Mögliche Aufgaben für Zeitleisten wären:\r\nStellt die wesentlichen Ereignisse der Französischen Revolution/ den Weg zur Deutschen Einheit/ den Zweiten Weltkrieg in einer interaktiven Zeitleiste dar.\r\nPolitischer Rückblick: Was waren die aus Deiner Sicht wichtigsten politischen Ereignisse des letzten Jahres?\r\n\r\nDas H5P-Tool 'Timeline' kann direkt nach Registrierung auf der H5P-Website genutzt werden. Alternativ lässt sich H5P als Plugin auf einer Moodle, Wordpress oder Drupal-Installation integrieren. Erstellte Inhalte können in jede beliebige Website eingebunden werden."
+lernziele: "Durch die Erstellung einer interaktiven Zeitleiste beschäftigen sich Schülerinnen und Schüler intensiv mit einem bestimmten Thema / einer bestimmten geschichtlichen Epoche. Zudem lernen sie, im Internet zu recherchieren und rechtlich sicher zu veröffentlichen. Die Aufgabe kann als Einzelarbeit oder Gruppenarbeit gestaltet werden. Mögliche Aufgaben für Zeitleisten wären:\r\nStellt die wesentlichen Ereignisse der Französischen Revolution/ den Weg zur Deutschen Einheit / den Zweiten Weltkrieg in einer interaktiven Zeitleiste dar.<br>Politischer Rückblick: Was waren die aus Deiner Sicht wichtigsten politischen Ereignisse des letzten Jahres?<br>Das H5P-Tool 'Timeline' kann direkt nach Registrierung auf der H5P-Website genutzt werden. Alternativ lässt sich H5P als Plugin auf einer Moodle, Wordpress oder Drupal-Installation integrieren. Erstellte Inhalte können in jede beliebige Website eingebunden werden."
 tipp: >-
   Eine gute Zusammenstellung zu Medien zu politisch-historischen Ereignissen
-  findet sich in der [Wikimedia
-  Commons](https://commons.wikimedia.org/wiki/Main_Page).
+  findet sich in der <a href='https://commons.wikimedia.org/wiki/Main_Page'>Wikimedia
+  Commons</a>
 medien:
-  - medien-1
   - medien-2
 fach: fach-3
 long-fach:

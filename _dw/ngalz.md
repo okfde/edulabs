@@ -14,6 +14,8 @@ lernziele: "Die Broschüre eignet sich überwiegend als Selbstlern-Material für
 tipp: >-
   Gut geeignet für Vertretungsstunden: einfach ausdrucken, austeilen und
   Leitfrage zur Diskussion dazu empfehlen.
+medien:
+  - medien-1
 fach:
   - fach-3
   - fach-5
