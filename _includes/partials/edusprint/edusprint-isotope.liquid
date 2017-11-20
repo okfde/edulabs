@@ -33,8 +33,9 @@
           {% assign zielgruppe = post.zielgruppe | join:' ' %}
           {% assign dauer = post.dauer | join:' ' %}
           {% assign tags = post.tags | split:',' %}
+          {% assign link = post.link %}
           {% assign art = post.art %}
-          {% include partials/edusprint/edusprint-teaser.liquid art=art long-fach=long-fach fach=fach dauer=dauer zielgruppe=zielgruppe title=post.title fach=fach medien=medien top_kmk=top_kmk filter=filter category=categories icons="" headline=post.titel copy=post.desc %}
+          {% include partials/edusprint/edusprint-teaser.liquid art=art link=link long-fach=long-fach fach=fach dauer=dauer zielgruppe=zielgruppe title=post.title fach=fach medien=medien top_kmk=top_kmk filter=filter category=categories icons="" headline=post.titel copy=post.desc %}
       {% endif %}
     {% endfor %}
 </div>
