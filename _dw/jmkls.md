@@ -23,7 +23,6 @@ tipp: >-
   werden: Gemeinsam an einem Projekt arbeiten und auf diese Weise ganz viele
   Informationen zusammentragen.
 medien:
-  - medien-1
   - medien-2
 fach:
   - fach-2

@@ -10,7 +10,7 @@ desc: >-
   kann auch Technik getauscht werden. Im Rahmen eines Projektes oder AG in der
   Schule kann eine PING!-Station eingerichtet werden.
 link: 'http://pingstation.de/ping-station-als-ag-oder-projekt-in-der-schule/'
-lernziele: "* Geräte kennen lernen, Geräte auf Funktion testen\r\n* für defekte Geräte korrekte Recycling oder Spendenprojekte finden\r\n* funktionierende Geräte und Zubehör in den Kreislauf zu bringen\r\n* Über Produktionsprozesse und Ressourcenschonung Bescheid wissen\r\n* Möglichst lange die eigenen Geräte benutzen\r\n* Sensibilisieren für faire Geräte und Produktionsbedingungen."
+lernziele: "- Geräte kennen lernen, Geräte auf Funktion testen<br>- für defekte Geräte korrekte Recycling oder Spendenprojekte finden<br>- funktionierende Geräte und Zubehör in den Kreislauf zu bringen<br>- Über Produktionsprozesse und Ressourcenschonung Bescheid wissen<br>- Möglichst lange die eigenen Geräte benutzen<br>- Sensibilisieren für faire Geräte und Produktionsbedingungen."
 tipp: >-
   Das Projekt PING!-Station wurde vom Nachhaltigkeitspreis Karlsruhe
   ausgezeichnet und betreut 3 Stationen in Karlsruhe (Ladengeschäft,
@@ -23,7 +23,6 @@ tipp: >-
   Talstation, die Geräte/DVD usw. tauscht, bis zu Reparaturwerkstatt kann alles
   entstehen.
 medien:
-  - medien-1
   - medien-4
 fach: fach-5
 long-fach:

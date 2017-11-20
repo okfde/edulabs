@@ -11,8 +11,10 @@ desc: >-
   Materialien für Fortgeschrittene.
 link: 'http://starthardware.org/'
 lernziele: "* Die SchülerInnen kennen den Mikrocontroller und seine Funktionsweise.\r\n* Sie haben erste elektronische Bauteile kennengelernt.\r\n* Sie haben einfache Programme selbst geschrieben und wissen dadurch, wie ein Mikrocontroller programmiert wird."
-tipp: "Die verlinkten Materialien eignen sich besonders gut für Gruppenarbeiten und projektorientierten Unterricht. Auch lassen sich mit ihnen Themen aus dem Physik-\r\n und Mathematikunterricht praxisnah erfahren. Wer Geld sparen möchte, kauft die Mikrocontroller bei SunFounder (~15€) oder baut mit den SchülerInnen die Boards gleich selber (kosten ~10€). [Hier](https://github.com/cdpoffline/starthardware) gibt es die Materialien auch für die offline Anwendung."
+tipp: "Die verlinkten Materialien eignen sich besonders gut für Gruppenarbeiten und projektorientierten Unterricht. Auch lassen sich mit ihnen Themen aus dem Physik-\r\n und Mathematikunterricht praxisnah erfahren. Wer Geld sparen möchte, kauft die Mikrocontroller bei SunFounder (~15€) oder baut mit den SchülerInnen die Boards gleich selber (kosten ~10€).
+<br><a href='https://github.com/cdpoffline/starthardware'>Hier</a> gibt es die Materialien auch für die offline-Anwendung."
 medien:
+  - medien-1
   - medien-2
   - medien-4
 fach:

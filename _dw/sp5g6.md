@@ -14,7 +14,6 @@ link: >-
 lernziele: "Flüchtigkeit des Mediums Film wird verlangsamt und so eine tatsächliche Auseinandersetzung mit den Filminhalten erreicht. \r\nDurch kooperative Abhängigkeit erfolgt zielgerichtete Kommunikation der SuS untereinander. \r\nLehr-, Lernvideos bzw. filmische Quellen werden als Arbeitsmaterial statt \"Entertainment\" wahrgenommen."
 tipp: "Wenn alle SchülerInnen selbstgesteuert im eigenen Lerntempo auf die Videos zugreifen, belastet dies die Internetkapazität sehr stark. Dies kann zu Filmaussetzern usw. führen. Alternativ kann dies als kooperative Partner-/Gruppenarbeit durchgeführt werden, was die Zugriffsgeräte halbiert bzw. viertelt. \r\n\r\nWichtig: Nicht vergessen, dass alle SuS Kopfhörer und digitale Endgeräte in ausreichender Zahl benötigen."
 medien:
-  - medien-1
   - medien-2
   - medien-3
 fach:

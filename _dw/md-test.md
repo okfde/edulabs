@@ -43,9 +43,9 @@ dauer:
   - dauer-1
   - dauer-2
 vorbereitungszeit: vorbereitungszeit-6
-author-name: Heiko Idensen
-author-email: heikoidensen@gmail.com
-author-website: 'http://idensen.org/'
+author-name: Test Test
+author-email: test@gmail.com
+author-website: 'http://google.com/'
 date: '2017-10-07T13:52:23.364Z'
 ---
 empty

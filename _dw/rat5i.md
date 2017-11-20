@@ -19,7 +19,6 @@ tipp: >-
   können die SuS mit dem Einsatz eine eigene mobile Audiostation aufbauen, die
   sie sogar auf die alltägliche Nutzung ihrer eignen Geräte übertragen können.
 medien:
-  - medien-1
   - medien-3
 fach:
   - fach-1
