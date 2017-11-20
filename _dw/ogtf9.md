@@ -23,6 +23,7 @@ long-fach:
   - long-fach-1
   - long-fach-7
   - long-fach-16
+top-kmk: top-kmk-6
 kmk: kmk-6-2
 zielgruppe:
   - zielgruppe-3
