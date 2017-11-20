@@ -111,9 +111,41 @@
                 {% endif %}
             </div>
         </div>
-        <!-- Vorbereitungszeit -->
+
+        <!-- Medieneinsatz -->
         <div class="col-xs-24 col-md-12 edusprint-vorbereitungszeit edusprint-blue-3 filter-items blue">
-            <h4 class="filter-items-headline">VORBEREITUNGSZEIT::</h4>
+            <h4 class="filter-items-headline">MEDIENEINSATZ:</h4>
+            <div class="icons-wrap">
+                {% if page.medien contains 'medien-1' %}
+                <a href="#" class="filter-icon disabled" >
+                        <div class="icon ohne-internetzugang"></div>
+                        <span>OHNE INTERNETZUGANG</span>
+                </a>
+                {% endif %}
+                {% if page.medien contains 'medien-2' %}
+                <a href="#" class="filter-icon disabled" >
+                        <div class="icon pc-laptop"></div>
+                        <span>PC / LAPTOP</span>
+                </a>
+                {% endif %}
+                {% if page.medien contains 'medien-3' %}
+
+                <a href="#" class="filter-icon disabled" >
+                        <div class="icon tablet-smartphone"></div>
+                        <span>TABLET / SMARTPHONE</span>
+                </a>
+                {% endif %}
+                {% if page.medien contains 'medien-4' %}
+
+                <a href="#" class="filter-icon disabled" >
+                        <div class="icon hardware-basteln"></div>
+                        <span>HARDWARE / BASTELN</span>
+                </a>
+                {% endif %}
+            </div>
+
+            <!-- Vorbereitungszeit - not in use -->
+            {% comment %}
             <div class="icons-wrap">
               {% for vb in page.vorbereitungszeit %}
                 <a href="#" class="filter-icon disabled" >
@@ -122,6 +154,7 @@
                 </a>
               {% endfor %}
             </div>
+            {% endcomment %}
         </div>
     </div>
 </div>
