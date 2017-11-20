@@ -3,6 +3,7 @@ _id: 02eef610-c96e-11e7-a1cf-8971f8c2d4c4
 title: vuy8p
 art: oer
 titel: Mobiles Lernen als Methode im Unterricht
+visible: 1
 desc: >-
   In dieser Anleitung wird ein Konzept eines mobilen Spiels beschrieben, das
   Anleihen im Geocaching hat, aber wesentlich multimedialer und interaktiver
@@ -22,12 +23,13 @@ lernziele: >-
   Erfahrungen ermöglichen kann.
 tipp: >-
   Das Konzept ist mittlerweile einige Jahre alt, inzwischen gibt es auch
-  zahlreiche Tools wie z.B. Actionbound (siehe [Karte]
-  (https://edulabs.de/oer/hqijm/index.html)). Dennoch besticht dieses Konzept
+  zahlreiche Tools wie z.B. Actionbound (siehe <a href='https://edulabs.de/oer/hqijm/index.html'>Karte</a>). Dennoch besticht dieses Konzept
   durch einfache Umsetzung, geringen Technik-Einsatz und größtmögliche Varianz,
   wodurch zahlreiche verschiedene Ideen modular umgesetzt und immer wieder neu
   kombiniert werden können.
-medien: medien-3
+medien:
+- medien-1
+- medien-3
 fach:
   - fach-2
   - fach-3

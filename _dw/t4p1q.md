@@ -12,9 +12,8 @@ desc: >-
 link: >-
   https://schulesocialmedia.com/2012/05/01/zeichenbegrenzungen-kreativ-nutzen-twitter-im-deutschunterricht/
 lernziele: "*Identifikation mit einer Figur \r\n*Gemeinsame Diskussion eines literarischen Werks \r\n*Kreatives Schreiben \r\n*Üben von fokussiertem Schreiben: präzise Wortwahl, inhaltliche Verdichtung, bewusste Formulierung\r\n* Nebenbei: Umgang mit sozialen Medien und Internetöffentlichkeit reflektieren"
-tipp: "Die Vorbereitungszeit richtet sich stark nach den Vorkenntnissen im Umgang mit Social Media. Besteht Erfahrung mit Twitter, verkürzt sich die Vorbereitungszeit auf wenige Stunden.\r\nHier gibt es weitere Anregungen speziell zum [Literaturunterricht] (https://schulesocialmedia.com/2012/06/12/twitter-im-literaturunterricht/) und generell zu Twitter in der [Lehre](http://redaktionsblog.hypotheses.org/585)"
+tipp: "Die Vorbereitungszeit richtet sich stark nach den Vorkenntnissen im Umgang mit Social Media. Besteht Erfahrung mit Twitter, verkürzt sich die Vorbereitungszeit auf wenige Stunden.\r\nHier gibt es weitere Anregungen speziell zum <a href='https://schulesocialmedia.com/2012/06/12/twitter-im-literaturunterricht/'>Literaturunterricht</a> und generell zu Twitter in der <a href='http://redaktionsblog.hypotheses.org/585'>Lehre</a>."
 medien:
-  - medien-1
   - medien-2
   - medien-3
 fach:

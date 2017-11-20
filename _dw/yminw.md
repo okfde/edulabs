@@ -13,7 +13,7 @@ lernziele: "H5P eignet sich sowohl zum Einstieg in ein Thema als auch zum Überp
 tipp: >-
   Der Inhaltstyp 'Column' eignet sich gut für den Einstieg. Hier werden mehrere
   Fragen- und Präsentationstypen miteinander kombiniert. Etwas schweieriger ist
-  erfahrungsgemäß das Drag and Drop Tool. Am meisten beeindruckend ist für die
+  erfahrungsgemäß das Drag and Drop-Tool. Am meisten beeindruckend ist für die
   meisten das interaktive Video.
 medien:
   - medien-1

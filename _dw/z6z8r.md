@@ -18,7 +18,9 @@ tipp: >-
   abzubauen, bzw. um wichtiges Hintergrundwissen aufzubauen ist dieser
   Workshopablauf sehr gut geeignet. Die Methode eignet sich auch für
   Elternabende oder Lehrerfortbildungen.
-medien: medien-3
+medien:
+- medien-1
+- medien-3
 fach:
   - fach-2
   - fach-5
