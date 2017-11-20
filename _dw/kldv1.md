@@ -3,7 +3,7 @@ _id: fbe0d500-ac26-11e7-b141-576e82c5a7f7
 title: kldv1
 art: noer
 titel: 'Unterrichtsbeispiele: interkulturelle Bildung und Sprachbildung mit Apps'
-visible: 1
+visible: 0
 desc: >-
   Die downloadbaren Unterrichtsbeispiele für den Deutsch-Unterricht mit Apps für
   Tablets und Smartphones enthalten unterrichtspraktische und

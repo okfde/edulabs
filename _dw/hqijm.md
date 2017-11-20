@@ -3,7 +3,7 @@ _id: d1d9b820-ab41-11e7-a77c-717033e1f76a
 title: hqijm
 art: oer
 titel: Digitale Schnitzeljagd - Lernraumerkundung mit Actionbound
-visible: 1
+visible: 0
 desc: >-
   Mit Actionbound können digitale Lernreisen angelegt und durchgeführt werden.
   Quizelemente, Kreativaufgaben, Informationen werden zur ortsgebundenen Rallye
