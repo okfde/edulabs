@@ -9,12 +9,11 @@ desc: >-
   weiterführenden Links und Beispielen.
 link: >-
   https://www.bpb.de/gesellschaft/kultur/zukunft-bildung/213447/kollaborative-arbeitsprozesse
-lernziele: "Erweiterung der Methodenkompetenz.\r\nKennen verschiedener Formen des Zusammenarbeitens on- und offline."
+lernziele: "- Erweiterung der Methodenkompetenz.<br>- Kennen verschiedener Formen des Zusammenarbeitens on- und offline."
 tipp: >-
   Gut geeignet zum Einstieg und zum Methodenlernen, als Ausgangspunkt für eigene
   thematische Projekte.
 medien:
-  - medien-1
   - medien-2
   - medien-3
 fach:

@@ -20,8 +20,10 @@ lernziele: >-
   Werkzeuge. Die Schüler\*innen müssen Kriterien für hilfreiche Videos
   entwickeln, sie lernen ein größeres Projekt sinnvoll zu strukturieren, müssen
   in der Gruppe kooperieren und stellen ein kreatives Produkt her.
-tipp: "Lass die SuS vor der konkreten Umsetzung ausprobieren und recherchieren, mit welchen Geräten und Apps sie Videos aufnehmen und nachbearbeiten können und wie die Videos nachher auf deinem Computer landen.\r\nDu willst die Videos bewerten? Testet doch mal, wie effektiv die Mitschüler mit den Videos lernen konnten!"
-medien: medien-3
+tipp: "Lass die SuS vor der konkreten Umsetzung ausprobieren und recherchieren, mit welchen Geräten und Apps sie Videos aufnehmen und nachbearbeiten können und wie die Videos nachher auf deinem Computer landen.<br>Du willst die Videos bewerten? Testet doch mal, wie effektiv die Mitschüler mit den Videos lernen konnten!"
+medien: 
+  - medien-1
+  - medien-3
 fach:
   - fach-1
   - fach-2
