@@ -41,11 +41,11 @@ info_text: |
 ## Formate und Kompetenzen, die sie vermitteln
 
 *Neben dem möglichen Erwerb sozialer sowie technischer Kompetenzen, wie der Umgang mit der Kamera, dem Ton oder den Schnittprogrammen, erlernen die Schüler\*innen auch durch das konzeptionelle Arbeiten unterschiedliche Fertigkeiten: Beispielsweise fördert das Erstellen eines Storyboards das Denken in Bildern, die Auseinandersetzung mit filmischem Erzählen vermittelt ein Gefühl für Länge und das Schreiben von Drehbüchern schult die Kunst des kreativen Schreibens.
-Abhängig vom Format, erlernen die Schüler\*innen weitere Kompetenzen:*
+Abhängig vom Format erlernen die Schüler\*innen weitere Kompetenzen:*
 
 ### Stop-Motion/Trickfilm
 
-*Beispiel „[3D-Druck trifft Trickfilm](http://www.medien-in-die-schule.de/werkzeugkaesten/werkzeugkasten-diy-und-making/werkzeugportraets-beispiele-aus-der-praxis/stop-motion-3d-druck-trifft-trickfilm-projekt/)“: Die Schüler\*innen entwerfen 3D-Figuren und drucken diese mit Hilfe eines 3D-Druckers aus. Anschließend nutzen sie die Figuren bei der Erstellung eines Stop-Motion-Filmes.*
+*Beispiel „[3D-Druck trifft Trickfilm](http://www.medien-in-die-schule.de/werkzeugkaesten/werkzeugkasten-diy-und-making/werkzeugportraets-beispiele-aus-der-praxis/stop-motion-3d-druck-trifft-trickfilm-projekt/)“: Die Schüler\*innen entwerfen 3D-Figuren und drucken diese mithilfe eines 3D-Druckers aus. Anschließend nutzen sie die Figuren bei der Erstellung eines Stop-Motion-Filmes.*
 <div class="video"><iframe src="https://giphy.com/embed/R3H7UiNMdykYE" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/3d-printing-R3H7UiNMdykYE"></a></p></div>
 
 * Das Erstellen von 3D-Modellen kann das räumliche Denken verbessern.<br>
@@ -74,6 +74,7 @@ Abhängig vom Format, erlernen die Schüler\*innen weitere Kompetenzen:*
 * Storyboard anlegen: Das hilft bei der Organisation der Kameraaufnahmen und dabei, dass keine Bilder vergessen werden, um eine gewünschte Handlung darzustellen.
 * Zur Erläuterung der [Einstellungsgrößen](https://de.wikipedia.org/wiki/Einstellungsgr%C3%B6%C3%9Fe) können Videos verwendet werden, beispielsweise folgendes:<br><br>
 <div class="video"><iframe  src="https://www.youtube.com/embed/rOFIwI2zEoo?ecver=1" frameborder="0" allowfullscreen></iframe></div>
+<div class="caption">Ein Video zu Einstellungsgrößen. Lizenz: <a href='https://creativecommons.org/licenses/by/4.0/'>CC-BY 4.0</a></div>
 
 * Altersklassen: Ab 10 Jahren können erfahrungsgemäß abstraktere Themen behandelt werden.
 * In der Regeln kommen die Schüler\*innen mit eigenen Ideen.

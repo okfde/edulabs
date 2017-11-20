@@ -13,7 +13,6 @@ tipp: >-
   Diese Learning-App verwenden zur Sicherung der Fachbegriffe nachdem ein alter
   Rechner mit den SuS zerlegt wurde. Auch gut geeignet zur Wiederholung.
 medien:
-  - medien-1
   - medien-2
   - medien-3
   - medien-4
@@ -27,7 +26,7 @@ vorbereitungszeit: vorbereitungszeit-1
 author-name: Steffen Jauch
 author-email: steffen_jauch@me.com
 author-website: www.schuleunterstrom.de
-tags: 'PC,reviewed'
+tags: ''
 date: '2017-10-06T15:37:26.643Z'
 ---
 empty

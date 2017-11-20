@@ -4,24 +4,22 @@
         <div class="col-xs-24 col-md-12 edusprint-grey-light filter-items green">
             <h4 class="filter-items-headline">DIGITALE KOMPETENZEN:</h4>
             <div class="filter-items-inner">
-                <div class="filter-item shrinked disabled">Interagieren</div>
-                <div class="filter-item shrinked disabled">Teilen</div>
-                <div class="filter-item shrinked disabled">Zusammenarbeiten</div>
-                <div class="filter-item shrinked disabled">Zusammenarbeiten</div>
-                <div class="filter-item shrinked disabled">Entwickeln und Produzieren</div>
-                <div class="filter-item shrinked disabled">Weiterverarbeiten und Integrieren</div>
-                <div class="filter-item shrinked disabled">Rechtliche Vorgaben beachten</div>
-                <div class="filter-item shrinked disabled">Werkzeuge bedarfsgerecht einsetzen</div>
+              {% for f in page.top-kmk %}
+                {% if site.data.digitalen_welt.top-kmk[f] %}
+                 <div class="filter-item shrinked disabled">{{ site.data.digitalen_welt.top-kmk[f] }}</div>
+                {% endif %}
+              {% endfor %}
             </div>
         </div>
         <!-- Fächergruppen -->
         <div class="col-xs-24 col-md-12 edusprint-grey-light filter-items blue">
             <h4 class="filter-items-headline">FÄCHERGRUPPEN:</h4>
             <div class="filter-items-inner">
-                <div class="filter-item shrinked disabled">Kulturelle Bildung</div>
-                <div class="filter-item shrinked disabled">Geschichte & Gesellschaft</div>
-                <div class="filter-item shrinked disabled">Mathe & Naturwissenschaften</div>
-                <div class="filter-item shrinked disabled">Informatik & Technische Bildung</div>
+              {% for f in page.fach %}
+                {% if site.data.digitalen_welt.fachergruppen-dict[f] %}
+                  <div class="filter-item shrinked disabled">{{ site.data.digitalen_welt.fachergruppen-dict[f] }}</div>
+                {% endif %}
+              {% endfor %}
             </div>
         </div>
     </div>
@@ -30,38 +28,47 @@
         <div class="col-xs-24 col-md-12 edusprint-zielgruppe edusprint-grey filter-items">
             <h4 class="filter-items-headline">ZIELGRUPPE:</h4>
             <div class="icons-wrap">
+                {% if page.zielgruppe contains 'zielgruppe-1' %}
                 <a href="#" class="filter-icon disabled">
                     <div class="icon kita"></div>
                     <span>KITA/VORSCHULE</span>
                 </a>
+                {% endif %}
+                {% if page.zielgruppe contains 'zielgruppe-2' %}
                 <a href="#" class="filter-icon disabled">
                     <div class="icon grundstufe-1-3"></div>
                     <span>GRUNDSTUFE (1-3)</span>
                 </a>
+                {% endif %}
+                {% if page.zielgruppe contains 'zielgruppe-3' %}
                 <a href="#"  class="filter-icon disabled" >
                     <div class="icon grundstufe-4-6"></div>
                     <span>GRUNDSTUFE (4-6)</span>
                 </a>
+                {% endif %}
+                {% if page.zielgruppe contains 'zielgruppe-4' %}
                 <a href="#"  class="filter-icon disabled" >
                     <div class="icon sekundarstufe-1"></div>
                     <span>SEKUNDARSTUFE 1</span>
                 </a>
+                {% endif %}
+                {% if page.zielgruppe contains 'zielgruppe-5' %}
                 <a href="#"  class="filter-icon disabled" >
                     <div class="icon sekundarstufe-2"></div>
                     <span>SEKUNDARSTUFE 2</span>
                 </a>
+                {% endif %}
             </div>
         </div>
         <!-- Fach -->
         <div class="col-xs-24 col-md-12 edusprint-fach edusprint-blue-4 filter-items white">
             <h4 class="filter-items-headline">FACH:</h4>
             <div class="filter-items-inner">
-                <div class="filter-item shrinked disabled">Deutsch</div>
-                <div class="filter-item shrinked disabled">Chemie</div>
-                <div class="filter-item shrinked disabled">Geschichte</div>
-                <div class="filter-item shrinked disabled">Informatik</div>
-                <div class="filter-item shrinked disabled">Kunst</div>
-                <div class="filter-item shrinked disabled">Religion</div>
+            {% for f in page.long-fach %}
+              {% if site.data.digitalen_welt.long-fach[f] %}
+                <div class="filter-item shrinked disabled">{{ site.data.digitalen_welt.long-fach[f] }}</div>
+              {% endif %}
+            {% endfor %}
             </div>
         </div>
     </div>
@@ -70,37 +77,84 @@
         <div class="col-xs-24 col-md-12 edusprint-zielgruppe edusprint-blue-2 filter-items">
             <h4 class="filter-items-headline">ZEITBEDARF DER MATERIALEINHEIT:</h4>
             <div class="icons-wrap">
+                {% if page.dauer contains 'dauer-2' %}
                 <a href="#" class="filter-icon disabled" >
                     <div class="icon unterrichtsreihe"></div>
                     <span>UNTERRICHTSREIHE</span>
                 </a>
+                {% endif %}
+                {% if page.dauer contains 'dauer-3' %}
                 <a href="#" class="filter-icon disabled" >
                     <div class="icon doppelstunde"></div>
-                    <span>DOPPERLSTUNDE</span>
+                    <span>DOPPELSTUNDE</span>
                 </a>
+                {% endif %}
+                {% if page.dauer contains 'dauer-4' %}
+
                 <a href="#" class="filter-icon disabled" >
                     <div class="icon min45"></div>
                     <span>45 MINUTEN</span>
                 </a>
+                {% endif %}
+                {% if page.dauer contains 'dauer-5' %}
+
                 <a href="#" class="filter-icon disabled" >
                     <div class="icon min20"></div>
                     <span>ÜBUNG (BIS ZU 20 MIN)</span>
                 </a>
+                {% endif %}
+                {% if page.dauer contains 'dauer-1' %}
                 <a href="#" class="filter-icon disabled" >
                     <div class="icon flexibel"></div>
                     <span>FLEXIBEL</span>
                 </a>
+                {% endif %}
             </div>
         </div>
-        <!-- Vorbereitungszeit -->
+
+        <!-- Medieneinsatz -->
         <div class="col-xs-24 col-md-12 edusprint-vorbereitungszeit edusprint-blue-3 filter-items blue">
-            <h4 class="filter-items-headline">VORBEREITUNGSZEIT::</h4>
+            <h4 class="filter-items-headline">MEDIENEINSATZ:</h4>
             <div class="icons-wrap">
+                {% if page.medien contains 'medien-1' %}
                 <a href="#" class="filter-icon disabled" >
-                    <div class="icon vorbereitungszeit-keine"></div>
-                    <span>KEINE</span>
+                        <div class="icon ohne-internetzugang"></div>
+                        <span>OHNE INTERNETZUGANG</span>
                 </a>
+                {% endif %}
+                {% if page.medien contains 'medien-2' %}
+                <a href="#" class="filter-icon disabled" >
+                        <div class="icon pc-laptop"></div>
+                        <span>PC / LAPTOP</span>
+                </a>
+                {% endif %}
+                {% if page.medien contains 'medien-3' %}
+
+                <a href="#" class="filter-icon disabled" >
+                        <div class="icon tablet-smartphone"></div>
+                        <span>TABLET / SMARTPHONE</span>
+                </a>
+                {% endif %}
+                {% if page.medien contains 'medien-4' %}
+
+                <a href="#" class="filter-icon disabled" >
+                        <div class="icon hardware-basteln"></div>
+                        <span>HARDWARE / BASTELN</span>
+                </a>
+                {% endif %}
             </div>
+
+            <!-- Vorbereitungszeit - not in use -->
+            {% comment %}
+            <div class="icons-wrap">
+              {% for vb in page.vorbereitungszeit %}
+                <a href="#" class="filter-icon disabled" >
+                  <!--<div class="icon vorbereitungszeit-keine"></div>-->
+                  <span>{{ site.data.digitalen_welt.vorbereitungszeit[vb] }}</span>
+                </a>
+              {% endfor %}
+            </div>
+            {% endcomment %}
         </div>
     </div>
 </div>

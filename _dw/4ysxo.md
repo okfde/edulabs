@@ -11,10 +11,9 @@ desc: >-
   Referaten und Präsentationen dar.
 link: >-
   https://mihajlovicfreiburg.com/2016/09/02/snapchat-story-eine-alternative-zum-klassischen-referat/
-lernziele: "*Didaktische Reduktion lernen\r\n*Analyse der eigenen Sprache, Gestik, Mimik\r\n*Rhetorische Fähigkeiten verbessern \r\n*Kollaborative Auseinandersetzung mit Themen\r\n*Kreative Aufbereitung von Inhalten und Themen \r\n*Austausch, Reflexion über Themen"
-tipp: "SuS sind mit der Nutzung von Snapchat vertraut und der Einsatz der App im Unterricht hat einen motivierenden Charakter.\r\nAuch stillere SuS können sich so an Präsentationen (mit oder ohne Publikum) herantasten. Besonders empfehlenswert ist die Methode für die Fachbereiche Geschichte & Gesellschaft, kulturelle Bildung und Sprachen. \r\nDie Frage des Urheberrechts der verwendeten Inhalte sollte vorher thematisiert werden. \r\nZur Vorbereitung empfiehlt sich der \r\n[Blogartikel] (http://blog.patrickbreitenbach.de/content-creation-snapchat-bildung-formatentwicklung/) von Patrick Breitenbach."
+lernziele: "- Didaktische Reduktion lernen<br>- Analyse der eigenen Sprache, Gestik, Mimik<br>- Rhetorische Fähigkeiten verbessern<br>- Kollaborative Auseinandersetzung mit Themen<br>- Kreative Aufbereitung von Inhalten und Themen<br>- Austausch, Reflexion über Themen"
+tipp: "SuS sind mit der Nutzung von Snapchat vertraut und der Einsatz der App im Unterricht hat einen motivierenden Charakter. Auch stillere SuS können sich so an Präsentationen (mit oder ohne Publikum) herantasten. Besonders empfehlenswert ist die Methode für die Fachbereiche Geschichte & Gesellschaft, kulturelle Bildung und Sprachen. Die Frage des Urheberrechts der verwendeten Inhalte sollte vorher thematisiert werden. \r\nZur Vorbereitung empfiehlt sich der <a href='http://blog.patrickbreitenbach.de/content-creation-snapchat-bildung-formatentwicklung/'>Blogartikel</a> von Patrick Breitenbach."
 medien:
-  - medien-1
   - medien-3
 fach:
   - fach-1
@@ -40,6 +39,11 @@ long-fach:
   - long-fach-15
   - long-fach-16
   - long-fach-17
+top-kmk:
+  - top-kmk-1
+  - top-kmk-3
+  - top-kmk-5
+  - top-kmk-2
 kmk:
   - kmk-1-1
   - kmk-1-2
@@ -74,7 +78,6 @@ author-website:
   - ''
   - ''
   - ''
-tags: socialmedia reviewed
 date: '2017-10-07T13:49:18.048Z'
 ---
 empty

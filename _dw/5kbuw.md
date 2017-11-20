@@ -2,7 +2,7 @@
 _id: 59599aa0-aab0-11e7-a55a-4daac0be43df
 title: 5kbuw
 art: oer
-titel: Praxisprojekt Trickfilmproduktion zum Nachmachen
+titel: Praxisprojekt Trickfilmproduktion
 visible: 1
 desc: >-
   In Bad Reichenhall haben Kinder im Rahmen eines außerschulischen
@@ -25,9 +25,13 @@ tipp: >-
   Jugendlichen. Vorbereitungszeit ist vor allem dann nötig, wenn man sich noch
   neu in die zu nutzenden Apps einarbeiten muss.
 medien:
-  - medien-1
   - medien-3
-fach: fach-2
+fach:
+  - fach-2
+top-kmk:
+  - top-kmk-5
+  - top-kmk-2
+  - top-kmk-3
 kmk:
   - kmk-2-1
   - kmk-2-3
@@ -44,7 +48,6 @@ vorbereitungszeit: vorbereitungszeit-6
 author-name: Nele Hirsch
 author-email: nele@ebildungslabor.de
 author-website: www.ebildungslabor.de
-tags: reviewed
 date: '2017-10-06T16:06:44.982Z'
 ---
 empty

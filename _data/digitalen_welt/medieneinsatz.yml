@@ -1,4 +1,4 @@
-- name: Internetzugang
-- name: PC / Laptop
-- name: Tablet / Smartphone
-- name: Hardware /Basteln
+- name: "Ohne Internetzugang"
+- name: "PC / Laptop"
+- name: "Tablet / Smartphone"
+- name: "Hardware /Basteln"

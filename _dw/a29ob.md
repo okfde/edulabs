@@ -10,10 +10,9 @@ desc: >-
   Internets entschlüsseln und selbst verschlüsseln!
 link: >-
   http://www.ebildungslabor.de/blog/faszination-geheimschriften-%E2%80%93-unterrichtsbeispiel-caesar-scheibe
-lernziele: "Lernziele sind insbesondere:\r\n* Informationen im Internet finden; Suchmaschinen nutzen\r\n* Interesse wecken an Programmierung/ Algorithmen\r\n* Sicherheit im Umgang mit Buchstabieren/ dem Alphabet"
-tipp: 'Suchmaschinen speziell für Kinder sind z.B. Frag Finn: https://www.fragfinn.de'
+lernziele: "Lernziele sind insbesondere:<br>- Informationen im Internet finden; Suchmaschinen nutzen<br>- Interesse wecken an Programmierung / Algorithmen<br>- Sicherheit im Umgang mit Buchstabieren / dem Alphabet"
+tipp: 'Suchmaschinen speziell für Kinder sind z.B. <a href="https://www.fragfinn.de">Frag Finn</a>'
 medien:
-  - medien-1
   - medien-2
 fach:
   - fach-3
@@ -21,6 +20,9 @@ fach:
 long-fach:
   - long-fach-1
   - long-fach-15
+top-kmk:
+  - top-kmk-5
+  - top-kmk-1
 kmk:
   - kmk-1-1
   - kmk-1-2
@@ -36,7 +38,6 @@ vorbereitungszeit: vorbereitungszeit-3
 author-name: Nele Hirsch
 author-email: nele@ebildungslabor.de
 author-website: www.ebildungslabor.de
-tags: reviewed
 date: '2017-10-07T13:11:19.248Z'
 ---
 empty

@@ -11,16 +11,20 @@ desc: >-
   Kampagnen zum Thema Klimaschutz.
 link: >-
   http://www.umwelt-im-unterricht.de/unterrichtsvorschlaege/wirksam-fuer-den-klimaschutz-werben-wie-geht-das/
-lernziele: "In der einfachen Form werden Schülerinnen und Schüler zu einer kritischen Reflexion mit medialen Kampagnen befähigt. Bei mehr Zeit und entsprechender technischer Infrastruktur können auch eigene Gestaltungen versucht werden, womit zudem aktive Mediengestaltung gelernt wird. \r\nDie Unterrichtseinheit ist nicht auf das Thema 'Klimaschutz' begrenzt. Ausgewählt werden können Kampagnen zu unterschiedlichen Themen. Sehr gut können auch Schülerinnen und Schüler in die Themenauswahl einbezogen werden."
+lernziele: "In der einfachen Form werden Schülerinnen und Schüler zu einer kritischen Reflexion mit medialen Kampagnen befähigt. Bei mehr Zeit und entsprechender technischer Infrastruktur können auch eigene Gestaltungen versucht werden, womit zudem aktive Mediengestaltung gelernt wird.<br>Die Unterrichtseinheit ist nicht auf das Thema 'Klimaschutz' begrenzt. Ausgewählt werden können Kampagnen zu unterschiedlichen Themen. Sehr gut können auch Schülerinnen und Schüler in die Themenauswahl einbezogen werden."
 tipp: Ausreichend Zeit einplanen!
 medien:
-  - medien-1
   - medien-2
 fach: fach-3
 long-fach:
   - long-fach-4
   - long-fach-13
   - long-fach-16
+top-kmk:
+  - top-kmk-6
+  - top-kmk-1
+  - top-kmk-4
+  - top-kmk-2
 kmk:
   - kmk-1-1
   - kmk-1-2
@@ -39,7 +43,6 @@ vorbereitungszeit: vorbereitungszeit-5
 author-name: Nele Hirsch
 author-email: nele@ebildungslabor.de
 author-website: www.ebildungslabor.de
-tags: reviewed
 date: '2017-10-07T13:50:05.584Z'
 ---
 empty

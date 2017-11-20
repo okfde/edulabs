@@ -3,7 +3,7 @@ _id: f059fd20-ab67-11e7-9686-dbf837d6a4ce
 title: ar6x3
 art: oer
 titel: Französische Revolution - Wissen testen
-visible: 1
+visible: 0
 desc: >-
   Mehrere Sets mit Fragen und Antworten unterstützen SchülerInnen beim Lernen
   von Grundlagen zur Französischen Revolution.
@@ -13,12 +13,13 @@ lernziele: >-
   Revolution testen sowie nutzen, um sich beispielsweise für eine Klassenarbeit
   vorzubereiten. Der Schwerpunkt des Angebots liegt somit auf dem
   selbstorganisierten Lernen.
-tipp: "Gut einsetzbar als Tipp für SchülerInnen, ob wesentliche Themen verstanden wurden, z.B. in Anschluss an eine Projektarbeit oder ähnliches zu diesem Thema.\r\n\r\nBei jüngeren SuS sollte die Plattform vorher eingeführt sein. Alternativ dazu ist es möglich, die Lerninhalte der Plattform in den eigenen Lehrerblog bzw. Schulwebseite einzubinden. Das würde dann so aussehen (am Beispiel Hauptstädte der EU Länder prüfen:  https://www.netzwerkzeug.org/arbeitsmaterial/wissensquiz-hauptstaedte-der-eu"
+tipp: "Gut einsetzbar als Tipp für SchülerInnen, ob wesentliche Themen verstanden wurden, z.B. in Anschluss an eine Projektarbeit oder ähnliches zu diesem Thema.<br>Bei jüngeren SuS sollte die Plattform vorher eingeführt sein. Alternativ dazu ist es möglich, die Lerninhalte der Plattform in den eigenen Lehrerblog bzw. Schulwebseite einzubinden. Das würde dann so aussehen (am Beispiel Hauptstädte der EU Länder prüfen: https://www.netzwerkzeug.org/arbeitsmaterial/wissensquiz-hauptstaedte-der-eu)"
 medien:
-  - medien-1
   - medien-2
 fach: fach-3
 long-fach: long-fach-6
+top-kmk:
+  - top-kmk-5
 kmk:
   - kmk-5-2
   - kmk-5-3
@@ -33,7 +34,6 @@ vorbereitungszeit: vorbereitungszeit-1
 author-name: Nele Hirsch
 author-email: nele@ebildungslabor.de
 author-website: www.ebildungslabor.de
-tags: reviewed
 date: '2017-10-07T14:00:56.226Z'
 ---
 empty

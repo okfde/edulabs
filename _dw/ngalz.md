@@ -14,6 +14,8 @@ lernziele: "Die Broschüre eignet sich überwiegend als Selbstlern-Material für
 tipp: >-
   Gut geeignet für Vertretungsstunden: einfach ausdrucken, austeilen und
   Leitfrage zur Diskussion dazu empfehlen.
+medien:
+  - medien-1
 fach:
   - fach-3
   - fach-5
@@ -22,6 +24,11 @@ long-fach:
   - long-fach-11
   - long-fach-15
   - long-fach-16
+top-kmk:
+  - top-kmk-3
+  - top-kmk-4
+  - top-kmk-2
+  - top-kmk-6
 kmk:
   - kmk-2-4
   - kmk-2-5
@@ -39,7 +46,6 @@ vorbereitungszeit: vorbereitungszeit-1
 author-name: Nele Hirsch
 author-email: nele@ebildungslabor.de
 author-website: www.ebildungslabor.de
-tags: reviewed
 date: '2017-10-07T13:42:31.529Z'
 ---
 empty

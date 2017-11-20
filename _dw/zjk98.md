@@ -23,8 +23,20 @@ lernziele: >-
   elektrische Schaltungen eingesetzt werden. Für die Arbeit in der Schule lohnt
   es sich in der Regel, anstelle des Original-Minecraft den kostenlosen
   Open-Source-Klon Minetest einzusetzen." (Tobias Thiel)
-tipp: "* Es werden konkret Unterrichtsbeispiele für 4 Fächer aufgeführt:\r\n1. Biologie/Ökologie: Baut einen Fluss, der gute Lebensbedingungen bietet und einen Fluss, in dem es deutlich weniger Leben gibt.\r\n* 2. Kunst: Baut drei historische Gebäude in ihrem architektonischen Stil nach: Renaissance, Klassizismus und Neogotik.\r\n3. Religion/Ethik: Baut eine Kirche, eine Synagoge und eine Moschee\r\n4. Sozialkunde/Wirtschaft/Ökologie/Ethik: Baut die Stadt der Zukunft.\r\nDie für diese Szenarien erstellte Beispielwelt steht zum Download bereit:\r\nMan muss sie in den Ordner \"worlds\" im Minetest-Ordner entpacken.\r\nNach dem Neustart von Minetest muss man die Welt \"LiGa\" auswähen\r\nhttp://junge-akademie-wittenberg.de/sites/default/files/downloads/liga.zip\r\n\r\nWeitere Links und Resourcen:\r\n*Minetest in der Schule (Wiki) mit ausführlichen Schritt-für-Schritt Anleitungen (Birgit Lacher)\r\nhttps://wiki.minetest.net/Minetest_in_der_Schule\r\n*Lebendige Facebook-Gruppe zum Einsatz von Minntest/Minecraft in der Schule\r\nhttps://www.facebook.com/groups/1458900627735518/?ref=br_rs\r\n*MinetestEdu: visuelles Admin-Tool für die Steuerung von Welteinstellungen und Teilnehmer-/Schüler-Aktivitäten - angelehnt an Minecraft-Edu\r\nhttps://github.com/minetest4edu"
+tipp: "Es werden konkret Unterrichtsbeispiele für 4 Fächer aufgeführt:
+<br>1. Biologie/Ökologie: Baut einen Fluss, der gute Lebensbedingungen bietet und einen Fluss, in dem es deutlich weniger Leben gibt.
+<br>*2. Kunst: Baut drei historische Gebäude in ihrem architektonischen Stil nach: Renaissance, Klassizismus und Neogotik.
+<br>3. Religion/Ethik: Baut eine Kirche, eine Synagoge und eine Moschee
+<br>4. Sozialkunde/Wirtschaft/Ökologie/Ethik: Baut die Stadt der Zukunft.\r\n
+<br><brDie für diese Szenarien erstellte Beispielwelt steht zum Download bereit:\r\nMan muss sie in den Ordner \"worlds\" im Minetest-Ordner entpacken.\r\nNach dem Neustart von Minetest muss man die Welt \"LiGa\" auswählen\r\n<a href='http://junge-akademie-wittenberg.de/sites/default/files/downloads/liga.zip'>http://junge-akademie-wittenberg.de/sites/default/files/downloads/liga.zip</a>\r\n\r\n
+
+<br><br>Weitere Links und Ressourcen:\r\n
+<br>- Minetest in der Schule (Wiki) mit ausführlichen Schritt-für-Schritt Anleitungen (Birgit Lacher)\r\n<a href='https://wiki.minetest.net/Minetest_in_der_Schule'>https://wiki.minetest.net/Minetest_in_der_Schule</a>\r\n
+<br>- Lebendige Facebook-Gruppe zum Einsatz von Minetest/Minecraft in der Schule\r\n<a href='https://www.facebook.com/groups/1458900627735518/?ref=br_rs'>https://www.facebook.com/groups/1458900627735518/?ref=br_rs</a>\r\n
+<br>- MinetestEdu: visuelles Admin-Tool für die Steuerung von Welteinstellungen und Teilnehmer- /Schüler-Aktivitäten - angelehnt an Minecraft-Edu\r\n<a href='https://github.com/minetest4edu'>https://github.com/minetest4edu</a>
+<br><br>Hinweis: Ohne Internetzugang ist die Installation via USB-Stick o.ä. möglich, die Schüler*innen können aber nicht zusammen in einer Welt arbeiten."
 medien:
+  - medien-1
   - medien-2
   - medien-3
 fach:
@@ -37,6 +49,11 @@ long-fach:
   - long-fach-14
   - long-fach-16
   - long-fach-19
+top-kmk:
+  - top-kmk-6
+  - top-kmk-3
+  - top-kmk-5
+  - top-kmk-2
 kmk:
   - kmk-2-1
   - kmk-2-2
@@ -59,7 +76,6 @@ vorbereitungszeit: vorbereitungszeit-4
 author-name: Heiko Idensen
 author-email: heikoidensen@gmail.com
 author-website: 'http://idensen.org/'
-tags: Reviewed
 date: '2017-10-07T14:00:59.551Z'
 ---
 empty

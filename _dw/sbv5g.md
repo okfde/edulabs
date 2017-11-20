@@ -3,9 +3,9 @@ _id: 547fb1b0-ab44-11e7-a77c-717033e1f76a
 title: sbv5g
 art: oer
 titel: Sprachlerntagebuch / Portfolio für Kita-Kinder
-visible: 1
+visible: 0
 desc: >-
-  ErzieherInnen finden hier Vorlagen für Sprachlerntagebücher/ Portfolios für
+  ErzieherInnen finden hier Vorlagen für Sprachlerntagebücher / Portfolios für
   Kita-Kinder. Ursprünglich erstellt wurden sie für den Einsatz in Kitas in
   Berlin und für alle aufbereitet durch das Team von ‚KindOERgarten‘.
 link: >-
@@ -19,6 +19,8 @@ lernziele: >-
 tipp: >-
   Je nach Druckmöglichkeit gibt es die Vorlagen in schwarz-weiß oder bunt zum
   Herunterladen.
+medien:
+  - medien-1
 kmk: kmk-1-2
 zielgruppe: zielgruppe-1
 lizenz: lizenz-1
@@ -27,7 +29,6 @@ vorbereitungszeit: vorbereitungszeit-2
 author-name: Nele Hirsch
 author-email: nele@ebildungslabor.de
 author-website: www.ebildungslabor.de
-tags: reviewed
 date: '2017-10-07T09:46:02.355Z'
 ---
 empty

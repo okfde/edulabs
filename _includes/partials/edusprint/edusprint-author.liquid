@@ -6,8 +6,10 @@
         <div class="author-content-wrap col-xs-24 col-sm-12 col-md-16">
             <div class="author-content-inner">
                 <h3 class="author-name">{{ include.name }}</h3>
-                <a href="{{ include.url }}" class="external-link fixed">{{ include.website }}</a>
-                <a href="mailto:{{ include.email }}" class="external-link fixed">{{ include.email }}</a>
+                {% if include.url != '' %}
+                <a href="{{ include.url }}" class="external-link fixed">WEBSITE</a>
+                {% endif %}
+                <a href="mailto:{{ include.email }}" class="external-link fixed">EMAIL</a>
             </div>
         </div>
     </div>

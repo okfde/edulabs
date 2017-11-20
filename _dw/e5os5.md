@@ -9,12 +9,11 @@ desc: >-
   weiterführenden Links und Beispielen.
 link: >-
   https://www.bpb.de/gesellschaft/kultur/zukunft-bildung/213447/kollaborative-arbeitsprozesse
-lernziele: "Erweiterung der Methodenkompetenz.\r\nKennen verschiedener Formen des Zusammenarbeitens on- und offline."
+lernziele: "- Erweiterung der Methodenkompetenz.<br>- Kennen verschiedener Formen des Zusammenarbeitens on- und offline."
 tipp: >-
   Gut geeignet zum Einstieg und zum Methodenlernen, als Ausgangspunkt für eigene
   thematische Projekte.
 medien:
-  - medien-1
   - medien-2
   - medien-3
 fach:
@@ -32,6 +31,10 @@ long-fach:
   - long-fach-8
   - long-fach-13
   - long-fach-16
+top-kmk:
+  - top-kmk-3
+  - top-kmk-5
+  - top-kmk-2
 kmk:
   - kmk-2-3
   - kmk-3-1
@@ -45,7 +48,6 @@ vorbereitungszeit: vorbereitungszeit-1
 author-name: Steffen Jauch
 author-email: steffen_jauch@me.com
 author-website: www.schuleunterstrom.de
-tags: reviewed
 date: '2017-10-06T15:40:02.055Z'
 ---
 empty

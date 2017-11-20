@@ -17,12 +17,20 @@ tipp: >-
   Dadurch, dass die Materialien vorbereitet werden müssen, ist schon eine
   gewisse Vorbereitungszeit einzuplanen durch die Erstellung. Zur Verfestigung
   sind die angegeben Links mit Hilfe des Internets hinzuzuziehen.
+medien:
+  - medien-1
 fach:
   - fach-4
   - fach-5
 long-fach:
   - long-fach-7
   - long-fach-9
+top-kmk:
+  - top-kmk-5
+  - top-kmk-4
+  - top-kmk-6
+  - top-kmk-2
+  - top-kmk-3
 kmk:
   - kmk-2-1
   - kmk-2-2
@@ -52,7 +60,6 @@ vorbereitungszeit: vorbereitungszeit-4
 author-name: Sebastian Becker
 author-email: sebastian.becker@uni-goettingen.de
 author-website: about.me/lect
-tags: '???'
 date: '2017-10-07T13:48:27.107Z'
 ---
 empty

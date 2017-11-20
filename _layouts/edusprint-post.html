@@ -1,0 +1,59 @@
+---
+layout: default
+title: Edusprint Post
+---
+<!-- a edusprint post -->
+<div class="row">
+    <section class="section first col-xs-24 edusprint">
+        <div class="content-wrap subpage">
+          <h1 class="section-headline">{{ page.titel }}</h1>
+        </div>
+        <!-- the filters -->
+        {% include partials/edusprint/edusprint-filters-post.liquid %}
+        <div class="edusprint-post-content">
+            <div class="content-wrap subpage">
+                <div class="subpage-content">
+
+                    <h2 class="section-headline">Kurzbeschreibung:</h2>
+                    <p class="excerpt">
+                    {{ page.desc }}
+                    </p>
+
+                    <h3>Wirkungen und Lernziele:</h3>
+                    <p>{{ page.lernziele | markdownify }}</p>
+
+                    <h3>Empfehlungen und Tipps:</h3>
+                    <p>{{ page.tipp | markdownify }}</p>
+
+                    <p class="link-list">
+                        <span class="link-list-headline">Zum Material</span>
+                        <a class="external-link" href="{{ page.link }}" target="_blank">{{page.link}}</a>
+                    </p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="edusprint-authors-wrap col-xs-24 col-md-22 col-md-push-1 col-lg-16 col-lg-push-4">
+                  {% for author in page.author-name %}
+                       {% if forloop.length == 1 %}
+                       {% assign email =  page.author-email %}
+                       {% assign website = page.author-website %}
+                       {% else %}
+                       {% assign email =  page.author-email[forloop.index0] %}
+                       {% assign website = page.author-website[forloop.index0] %}
+                       {% endif %}
+                       {% include partials/edusprint/edusprint-author.liquid name=author email=email url=website  %}
+                  {% endfor %}
+                </div>
+            </div>
+
+            <div class="edupsprint-btn-wrap"><a class="edu-btn blue" href="/oer">ZURÜCK ZUR SAMMLUNG</a></div>
+            <div class="edupsprint-btn-wrap">
+                <h3>LIZENZ:</h3>
+                <!-- <a class="public-domain" href="https://de.wikipedia.org/wiki/Gemeinfreiheit" target="_blank">
+                    <img class="img-responsive" src="/assets/img/static/public-domain.png"/>
+                </a> -->
+                {{ site.data.digitalen_welt.lizenz[page.lizenz] }}<br>
+            </div>
+        </div>
+    </section>
+</div>

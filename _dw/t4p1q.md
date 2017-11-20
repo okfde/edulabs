@@ -11,10 +11,9 @@ desc: >-
   kreativ erweitern, das Werk reflektieren oder eigene Geschichten entwickeln.
 link: >-
   https://schulesocialmedia.com/2012/05/01/zeichenbegrenzungen-kreativ-nutzen-twitter-im-deutschunterricht/
-lernziele: "*Identifikation mit einer Figur \r\n*Gemeinsame Diskussion eines literarischen Werks \r\n*Kreatives Schreiben \r\n*Üben von fokussiertem Schreiben: präzise Wortwahl, inhaltliche Verdichtung, bewusste Formulierung\r\n* Nebenbei: Umgang mit sozialen Medien und Internetöffentlichkeit reflektieren"
-tipp: "Die Vorbereitungszeit richtet sich stark nach den Vorkenntnissen im Umgang mit Social Media. Besteht Erfahrung mit Twitter, verkürzt sich die Vorbereitungszeit auf wenige Stunden.\r\nHier gibt es weitere Anregungen speziell zum [Literaturunterricht] (https://schulesocialmedia.com/2012/06/12/twitter-im-literaturunterricht/) und generell zu Twitter in der [Lehre](http://redaktionsblog.hypotheses.org/585)"
+lernziele: "<br>- Identifikation mit einer Figur<br>- Gemeinsame Diskussion eines literarischen Werks<br>- Kreatives Schreiben<br>- Üben von fokussiertem Schreiben: präzise Wortwahl, inhaltliche Verdichtung, bewusste Formulierung<br>- Nebenbei: Umgang mit sozialen Medien und Internetöffentlichkeit reflektieren"
+tipp: "Die Vorbereitungszeit richtet sich stark nach den Vorkenntnissen im Umgang mit Social Media. Besteht Erfahrung mit Twitter, verkürzt sich die Vorbereitungszeit auf wenige Stunden.\r\nHier gibt es weitere Anregungen speziell zum <a href='https://schulesocialmedia.com/2012/06/12/twitter-im-literaturunterricht/'>Literaturunterricht</a> und generell zu Twitter in der <a href='http://redaktionsblog.hypotheses.org/585'>Lehre</a>."
 medien:
-  - medien-1
   - medien-2
   - medien-3
 fach:
@@ -24,6 +23,11 @@ long-fach:
   - long-fach-1
   - long-fach-3
   - long-fach-11
+top-kmk:
+  - top-kmk-2
+  - top-kmk-6
+  - top-kmk-5
+  - top-kmk-3
 kmk:
   - kmk-2-1
   - kmk-2-3
@@ -45,7 +49,6 @@ vorbereitungszeit: vorbereitungszeit-5
 author-name: Alexa Schaegner
 author-email: aschaegner@politik-digital.de
 author-website: www.politik-digital.de
-tags: reviewed
 date: '2017-10-07T13:03:38.947Z'
 ---
 empty

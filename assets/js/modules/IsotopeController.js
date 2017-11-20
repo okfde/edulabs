@@ -14,7 +14,7 @@
     };
 
     var ref, controller, filterList,
-        $itemsWrap, $items, $grid, isotopeInitialized, $noFilterResult;
+        $itemsWrap, $items, $grid, isotopeInitialized;
     function IsotopeController(pController){
         ref = this;
         controller = pController;
@@ -31,14 +31,13 @@
 
         $itemsWrap = $('.isotope-wrap');
         $items = $itemsWrap.find('.isotope-item ');
-        $noFilterResult = $itemsWrap.find('.no-results');
 
         // filter items when filter link is clicked
         $('.filter-item, .filter-icon').click(function(e){
 
             e.preventDefault();
 
-            var $buttonGroup = $(this).parents('.filter');
+            var $buttonGroup = $(this).parent();
             var filterGroup = ''
             if ($buttonGroup) {
                 filterGroup = $buttonGroup.attr('data-filter-group');
@@ -57,7 +56,8 @@
                 }
 
                 ref.addFilterToList(filterGroup, filter);
-
+                if (filterGroup === 'kmk')
+                    $(this).siblings().removeClass('active hover')
                 $(this).addClass('active');
             } else {
                 //remove filter
@@ -77,12 +77,11 @@
     };
 
     IsotopeController.prototype.concatValues = function ( obj  ) {
-           var value = '';
-           for ( var prop in obj  ) {
-                   value += obj[ prop  ];
-
-           }
-             return value;
+      var value = '';
+      for ( var prop in obj  ) {
+        value += obj[ prop ];
+      }
+      return value.replace(/,/g, '')
     }
 
     IsotopeController.prototype.setTileZindex = function($e){
@@ -95,7 +94,7 @@
     };
 
     IsotopeController.prototype.addFilterToList = function(group, filter){
-        Logger.log("add filter -> " + filter);
+        Logger.log("add filter -> ", group, filter);
         //check if filter is already in list
         var found = false;
         if (filterGroups.hasOwnProperty(group)) {
@@ -107,7 +106,19 @@
              filterGroups[group] = [];
              found = false;
         }
-        if(!found) filterGroups[group].push(filter);
+        if(!found) {
+            console.log(group, group === 'kmk')
+            if (group !== 'kmk') {
+                filterGroups[group].push(filter);
+            } else {
+                for (var a = 0; a < filterGroups['kmk'].length; ++a) {
+                    var f = filterGroups['kmk'][a]
+                    ref.removeFilterFromList('kmk', f)
+                }
+
+                filterGroups[group] = [filter];
+            }
+        }
         //ref.filterList(filterGroups.join());
         ref.filterList();
     };
@@ -124,11 +135,9 @@
     };
 
     IsotopeController.prototype.filterList = function(filters){
+        Logger.log("filterList -> " + filters);
         var filterValue = ref.concatValues(filterGroups);
-        Logger.log("filterValue!!! -> ", filterValue);
-
-        $noFilterResult.addClass('hidden');
-
+        console.log('Filter used: ', filterValue)
         $itemsWrap.isotope({ filter: filterValue });
     };
 
@@ -167,9 +176,8 @@
             }, 50);
 
 
-            $grid.on( 'layoutComplete', function( event, filteredItems ) {
-                Logger.log( '++++++++++++++++++++layoutComplete with ' + filteredItems.length + ' items' );
-                if(filteredItems.length == 0) $noFilterResult.removeClass('hidden');
+            $grid.on( 'arrangeComplete', function( event, filteredItems ) {
+                //Logger.log( '++++++++++++++++++++arrangeComplete with ' + filteredItems.length + ' items' );
             });
 
         }

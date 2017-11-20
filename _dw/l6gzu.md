@@ -23,6 +23,10 @@ tipp: >-
   werden sollen. Zum Lesenlernen können die Texte vorab heruntergeladen und als
   Ausdruck im Unterricht genutzt werden.
 long-fach: long-fach-1
+top-kmk:
+  - top-kmk-3
+  - top-kmk-5
+  - top-kmk-1
 kmk:
   - kmk-1-1
   - kmk-3-1
@@ -35,7 +39,6 @@ vorbereitungszeit: vorbereitungszeit-1
 author-name: Nele Hirsch
 author-email: nele@ebildungslabor.de
 author-website: www.ebildungslabor.de
-tags: reviewed
 date: '2017-10-07T14:08:28.547Z'
 ---
 empty

@@ -23,7 +23,6 @@ tipp: >-
   werden: Gemeinsam an einem Projekt arbeiten und auf diese Weise ganz viele
   Informationen zusammentragen.
 medien:
-  - medien-1
   - medien-2
 fach:
   - fach-2
@@ -31,6 +30,10 @@ fach:
 long-fach:
   - long-fach-1
   - long-fach-15
+top-kmk:
+  - top-kmk-5
+  - top-kmk-1
+  - top-kmk-2
 kmk:
   - kmk-1-1
   - kmk-2-1
@@ -48,7 +51,7 @@ vorbereitungszeit: vorbereitungszeit-2
 author-name: Nele Hirsch
 author-email: nele@ebildungslabor.de
 author-website: www.ebildungslabor.de
-tags: reviewed
+tags:
 date: '2017-10-07T10:56:53.407Z'
 ---
 empty

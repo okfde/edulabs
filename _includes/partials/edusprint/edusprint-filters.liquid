@@ -1,26 +1,48 @@
+{% assign posts = site.dw | where: "visible", 1 %}
+
+{% for post in posts %}
+    {% assign post_categories = post.tags | split:',' | join:'|' | append:'|' %}
+    {% assign rawcategories = rawcategories | append:post_categories %}
+{% endfor %}
+{% assign rawcategories = rawcategories | remove: "[" | remove: "]" | remove: '"' | remove: ' ' | split:'|' | sort %}
+
+{% assign categories = "" %}
+{% for category in rawcategories %}
+    {% if category != "" %}
+        {% assign category =  category | remove: "[" | remove: "]" | remove: '"' | remove: ' ' %}
+        {% if categories == "" %}
+            {% assign categories = category %}
+        {% endif %}
+        {% unless categories contains category %}
+            {% assign categories = categories | join:'|' | append:'|' | append:category | split:'|' %}
+        {% endunless %}
+    {% endif %}
+{% endfor %}
+
+
 <div class="edusprint-filters">
     <div class="row flex">
         <!-- Zielgruppe -->
         <div class="col-xs-24 col-md-12 edusprint-zielgruppe edusprint-grey filter-items">
             <h4 class="filter-items-headline">ZIELGRUPPE</h4>
-            <div class="icons-wrap">
-                <a href="#"  class="filter-icon" data-filter=".kita">
+            <div data-filter-group="zielgruppe" class="icons-wrap">
+                <a href="#"  class="filter-icon" data-filter=".zielgruppe-1">
                     <div class="icon kita"></div>
                     <span>KITA/VORSCHULE</span>
                 </a>
-                <a href="#"  class="filter-icon" data-filter=".grundstufe-1-3">
+                <a href="#"  class="filter-icon" data-filter=".zielgruppe-2">
                     <div class="icon grundstufe-1-3"></div>
                     <span>GRUNDSTUFE (1-3)</span>
                 </a>
-                <a href="#"  class="filter-icon" data-filter=".grundstufe-4-6" >
+                <a href="#"  class="filter-icon" data-filter=".zielgruppe-3" >
                     <div class="icon grundstufe-4-6"></div>
                     <span>GRUNDSTUFE (4-6)</span>
                 </a>
-                <a href="#"  class="filter-icon" data-filter=".sekundarstufe-1" >
+                <a href="#"  class="filter-icon" data-filter=".zielgruppe-4" >
                     <div class="icon sekundarstufe-1"></div>
                     <span>SEKUNDARSTUFE 1</span>
                 </a>
-                <a href="#"  class="filter-icon" data-filter=".sekundarstufe-2" >
+                <a href="#"  class="filter-icon" data-filter=".zielgruppe-5" >
                     <div class="icon sekundarstufe-2"></div>
                     <span>SEKUNDARSTUFE 2</span>
                 </a>
@@ -29,12 +51,12 @@
         <!-- Fächergruppen -->
         <div class="col-xs-24 col-md-12 edusprint-faechergruppen  edusprint-grey-light filter-items blue">
             <h4 class="filter-items-headline">NACH FÄCHERGRUPPEN:</h4>
-            <div class="filter-items-inner">
-                <a href="/" data-filter=".sprachen" class="filter-item shrinked">Sprachen</a>
-                <a href="#" data-filter=".kulturelle-bildung" class="filter-item shrinked">Kulturelle Bildung</a>
-                <a href="#" data-filter=".geschichte-gesellschaft" class="filter-item shrinked">Geschichte & Gesellschaft</a>
-                <a href="#" data-filter=".mathe-naturwissenschaften" class="filter-item shrinked">Mathe & Naturwissenschaften</a>
-                <a href="#" data-filter=".informatik-technische-bildung" class="filter-item shrinked">Informatik & Technische Bildung</a>
+            <div data-filter-group="long-fachgruppe" class="filter-items-inner">
+                <a href="/" data-filter=".fach-1" class="filter-item shrinked">Sprachen</a>
+                <a href="#" data-filter=".fach-2" class="filter-item shrinked">Kulturelle Bildung</a>
+                <a href="#" data-filter=".fach-3" class="filter-item shrinked">Geschichte & Gesellschaft</a>
+                <a href="#" data-filter=".fach-4" class="filter-item shrinked">Mathe & Naturwissenschaften</a>
+                <a href="#" data-filter=".fach-5" class="filter-item shrinked">Informatik & Technische Bildung</a>
             </div>
         </div>
     </div>
@@ -43,20 +65,20 @@
             <!-- Medieneinsatz -->
             <div class="edusprint-medieneinsatz edusprint-blue-1 filter-items flexed">
                 <h4 class="filter-items-headline">MEDIENEINSATZ</h4>
-                <div class="icons-wrap">
-                    <a href="#" class="filter-icon" data-filter=".ohne-internetzugang">
+                <div data-filter-group="mediengruppe" class="icons-wrap">
+                    <a href="#" class="filter-icon" data-filter=".medien-1">
                         <div class="icon ohne-internetzugang"></div>
                         <span>OHNE INTERNETZUGANG</span>
                     </a>
-                    <a href="#" class="filter-icon" data-filter=".pc-laptop">
+                    <a href="#" class="filter-icon" data-filter=".medien-2">
                         <div class="icon pc-laptop"></div>
                         <span>PC / LAPTOP</span>
                     </a>
-                    <a href="#" class="filter-icon" data-filter=".tablet-smartphone" >
+                    <a href="#" class="filter-icon" data-filter=".medien-3" >
                         <div class="icon tablet-smartphone"></div>
                         <span>TABLET / SMARTPHONE</span>
                     </a>
-                    <a href="#" class="filter-icon" data-filter=".hardware-basteln" >
+                    <a href="#" class="filter-icon" data-filter=".medien-4" >
                         <div class="icon hardware-basteln"></div>
                         <span>HARDWARE / BASTELN</span>
                     </a>
@@ -65,24 +87,24 @@
             <!-- Dauer -->
             <div class="edusprint-dauer edusprint-blue-2 filter-items flexed">
                 <h4 class="filter-items-headline">DAUER</h4>
-                <div class="icons-wrap">
-                    <a href="#" class="filter-icon" data-filter=".unterrichtsreihe">
+                <div data-filter-group="dauergruppe" class="icons-wrap">
+                    <a href="#" class="filter-icon" data-filter=".dauer-2">
                         <div class="icon unterrichtsreihe"></div>
                         <span>UNTERRICHTSREIHE</span>
                     </a>
-                    <a href="#" class="filter-icon" data-filter=".doppelstunde">
+                    <a href="#" class="filter-icon" data-filter=".dauer-3">
                         <div class="icon doppelstunde"></div>
-                        <span>DOPPERLSTUNDE</span>
+                        <span>DOPPELSTUNDE</span>
                     </a>
-                    <a href="#" class="filter-icon" data-filter=".min45" >
+                    <a href="#" class="filter-icon" data-filter=".dauer-4" >
                         <div class="icon min45"></div>
                         <span>45 MINUTEN</span>
                     </a>
-                    <a href="#" class="filter-icon" data-filter=".min20" >
+                    <a href="#" class="filter-icon" data-filter=".dauer-5" >
                         <div class="icon min20"></div>
                         <span>ÜBUNG (BIS ZU 20 MIN)</span>
                     </a>
-                    <a href="#" class="filter-icon" data-filter=".flexibel" >
+                    <a href="#" class="filter-icon" data-filter=".dauer-1" >
                         <div class="icon flexibel"></div>
                         <span>FLEXIBEL</span>
                     </a>
@@ -95,25 +117,25 @@
                 <a class="filter-toggle" href="#">
                     <span class="filter-items-headline has-arrow-left down">FÄCHER</span>
                 </a>
-                <div class="filter-items-inner filter-accordion">
-                    <a href="#" data-filter=".deutsch" class="filter-item shrinked">Deutsch</a>
-                    <a href="#" data-filter=".chemie" class="filter-item shrinked">Chemie</a>
-                    <a href="#" data-filter=".englisch" class="filter-item shrinked">Englisch</a>
-                    <a href="#" data-filter=".erdkunde-geografie" class="filter-item shrinked">Erdkunde/Geografie</a>
-                    <a href="#" data-filter=".ethik" class="filter-item shrinked">Ethik</a>
-                    <a href="#" data-filter=".franzoesisch" class="filter-item shrinked">Französisch</a>
-                    <a href="#" data-filter=".geschichte" class="filter-item shrinked">Geschichte</a>
-                    <a href="#" data-filter=".informatik" class="filter-item shrinked">Informatik</a>
-                    <a href="#" data-filter=".kunst" class="filter-item shrinked">Kunst</a>
-                    <a href="#" data-filter=".mathe" class="filter-item shrinked">Mathe</a>
-                    <a href="#" data-filter=".musik" class="filter-item shrinked">Musik</a>
-                    <a href="#" data-filter=".philosophie" class="filter-item shrinked">Philosophie</a>
-                    <a href="#" data-filter=".physik" class="filter-item shrinked">Physik</a>
-                    <a href="#" data-filter=".politik" class="filter-item shrinked">Politik</a>
-                    <a href="#" data-filter=".religion" class="filter-item shrinked">Religion</a>
-                    <a href="#" data-filter=".sachkunde" class="filter-item shrinked">Sachkunde</a>
-                    <a href="#" data-filter=".sowi" class="filter-item shrinked">SoWi</a>
-                    <a href="#" data-filter=".sport" class="filter-item shrinked">Sport</a>
+                <div data-filter-group="fachergruppe" class="filter-items-inner filter-accordion">
+                    <a href="#" data-filter=".long-fach-1" class="filter-item shrinked">Deutsch</a>
+                    <a href="#" data-filter=".long-fach-2" class="filter-item shrinked">Chemie</a>
+                    <a href="#" data-filter=".long-fach-3" class="filter-item shrinked">Englisch</a>
+                    <a href="#" data-filter=".long-fach-18" class="filter-item shrinked">Erdkunde/Geografie</a>
+                    <a href="#" data-filter=".long-fach-4" class="filter-item shrinked">Ethik</a>
+                    <a href="#" data-filter=".long-fach-5" class="filter-item shrinked">Französisch</a>
+                    <a href="#" data-filter=".long-fach-6" class="filter-item shrinked">Geschichte</a>
+                    <a href="#" data-filter=".long-fach-7" class="filter-item shrinked">Informatik</a>
+                    <a href="#" data-filter=".long-fach-8" class="filter-item shrinked">Kunst</a>
+                    <a href="#" data-filter=".long-fach-9" class="filter-item shrinked">Mathe</a>
+                    <a href="#" data-filter=".long-fach-10" class="filter-item shrinked">Musik</a>
+                    <a href="#" data-filter=".long-fach-11" class="filter-item shrinked">Philosophie</a>
+                    <a href="#" data-filter=".long-fach-12" class="filter-item shrinked">Physik</a>
+                    <a href="#" data-filter=".long-fach-13" class="filter-item shrinked">Politik</a>
+                    <a href="#" data-filter=".long-fach-14" class="filter-item shrinked">Religion</a>
+                    <a href="#" data-filter=".long-fach-15" class="filter-item shrinked">Sachkunde</a>
+                    <a href="#" data-filter=".long-fach-16" class="filter-item shrinked">SoWi</a>
+                    <a href="#" data-filter=".long-fach-20" class="filter-item shrinked">Sport</a>
                 </div>
             </div>
             <!-- Tags -->
@@ -122,21 +144,9 @@
                     <span class="filter-items-headline has-arrow-left down">TAGS</span>
                 </a>
                 <div class="filter-items-inner filter-accordion">
-                    <a href="#" data-filter=".arduino" class="filter-item shrinked">Arduino</a>
-                    <a href="#" data-filter=".calliope" class="filter-item shrinked">Calliope</a>
-                    <a href="#" data-filter=".makeymakey" class="filter-item shrinked">MakeyMakey</a>
-                    <a href="#" data-filter=".raspberry" class="filter-item shrinked">Raspberry</a>
-                    <a href="#" data-filter=".scratch" class="filter-item shrinked">Scratch</a>
-                    <a href="#" data-filter=".ios" class="filter-item shrinked">iOS</a>
-                    <a href="#" data-filter=".android" class="filter-item shrinked">Android</a>
-                    <a href="#" data-filter=".mac" class="filter-item shrinked">Mac</a>
-                    <a href="#" data-filter=".pc" class="filter-item shrinked">PC</a>
-                    <a href="#" data-filter=".linux" class="filter-item shrinked">Linux</a>
-                    <a href="#" data-filter=".loeten" class="filter-item shrinked">Löten</a>
-                    <a href="#" data-filter=".bauten" class="filter-item shrinked">Bauten</a>
-                    <a href="#" data-filter=".basteln" class="filter-item shrinked">Basteln</a>
-                    <a href="#" data-filter=".byod" class="filter-item shrinked">BYOD</a>
-                    <a href="#" data-filter=".socialmedia" class="filter-item shrinked">Social Media</a>
+                  {% for category in categories %}
+                    <a href="#" data-filter=".{{category | remove: "[" | remove: "]" | remove: '"' | remove:' ' }}" class="filter-item shrinked">{{ category  | remove: "[" | remove: "]" | remove: '"' }}</a>
+                  {% endfor %}
                 </div>
             </div>
         </div>
@@ -144,8 +154,8 @@
     <div class="row">
         <div class="col-xs-24">
             <a href="#" class="more-filters-btn">
-                <span class="closed">MEHR ANZEIGEN</span>
-                <span class="opened">WENIGER ANZEIGEN</span>
+                <span class="closed">MEHR FILTER</span>
+                <span class="opened">WENIGER FILTER</span>
             </a>
         </div>
     </div>

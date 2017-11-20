@@ -1,17 +1,16 @@
 ---
-_id: 9a766b90-ab68-11e7-aad5-b90faa5ac528
+_id: 1f33ea40-c524-11e7-a1cf-8971f8c2d4c4
 title: op2eh
 art: oer
 titel: Padlet im Unterricht
-visible: 1
 desc: >-
   Padlet ist ein digitales Tool, sozusagen eine interaktive Tafel. SuS können
-  diese zugangsfrei (per Link) bearbeitet. Hier gibt es 5 unterschiedliche
+  diese zugangsfrei (per Link) bearbeiten. Hier gibt es 5 unterschiedliche
   Formate, unter anderem Sammlung und Kommentierung von Wissen (Wall) oder
   eigenen Sortierung über das Wischen von Inhalten.
 link: >-
   https://damianduchamps.wordpress.com/2016/09/04/padlet-das-digitale-einsteigertool-fuer-lehrer/
-lernziele: "*Motivation\r\n*Strukturierung von Wissen\r\n*Reflektion"
+lernziele: "- Motivation<br>- Strukturierung von Wissen<br>- Reflexion"
 tipp: >-
   Padlet ist meines Erachtens in 2 Settings sehr sinnvoll. Einmal um mit den SuS
   zu brainstormen, dabei Wissen zu sammeln und dann gemeinsam durch die
@@ -19,7 +18,6 @@ tipp: >-
   erstellen und kommentieren, wodurch die Interaktion im Unterricht unterstützt
   wird.
 medien:
-  - medien-1
   - medien-2
   - medien-3
 fach:
@@ -46,6 +44,9 @@ long-fach:
   - long-fach-15
   - long-fach-16
   - long-fach-17
+top-kmk:
+  - top-kmk-2
+  - top-kmk-1
 kmk:
   - kmk-1-3
   - kmk-2-1
@@ -61,7 +62,8 @@ vorbereitungszeit: vorbereitungszeit-2
 author-name: Charlott Rubach
 author-email: charlottrubach@gmx.net
 author-website: ''
-tags: 'BYOD, reviewed'
-date: '2017-10-07T14:05:41.667Z'
+tags: 'BYOD'
+date: '2017-11-09T08:00:59.330Z'
+slug: op2eh
 ---
 empty
