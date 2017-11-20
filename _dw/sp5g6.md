@@ -2,7 +2,7 @@
 _id: d0e59120-ab62-11e7-80b1-75ea103d587c
 title: sp5g6
 art: oer
-titel: Reziproke Filmauswertung - kooperativen Erschließung von Videos
+titel: Reziproke Filmauswertung - kooperative Erschließung von Videos
 visible: 1
 desc: >-
   Ausgehend von der Methode reziprokes Lesen werden hier die verwendeten Filme –

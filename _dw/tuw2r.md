@@ -18,7 +18,7 @@ lernziele: >-
   SocialMedia Profilen Urheberrechtlich geschütztes Material zu verwenden.
   Reflexion über das Thema kann mit unterschiedlichen Methoden angeleitet
   werden.
-tipp: "Aufgabenstellung an die SuS:\r\nSuche in der Wikipedia nach einem Thema, welches dich persönlich interessiert. (Ideen: Schloss Karlsruhe, Minecraft, Lieblingsband, YouTuber...) – schaue welche Mediendateien im Artikel angeboten werden. Checke mithilfe des Lizenzhinweisgenerators ob und wie du diese Medien in deine schulischen oder privaten Nutzung verwenden kannst.\r\n* Mögliche Reflexionsfragen:\r\n* Welche Gedanken kommen dir beim recherchieren?\r\n* Ist die Plattform leicht zu bedienen?\r\n* Wo hast du bisher gesucht?\r\n* Welche Plattformen gibt es noch und wie dürfen diese Medien benutzt werden? (Bsp. [Pixabay](https://pixabay.com/), [Google Suche](https://www.google.de/imghp?hl=de&tab=wi), [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page), [Photos for Class](http://www.photosforclass.com/), [flickr](https://www.flickr.com/))"
+tipp: "Aufgabenstellung an die SuS:<br>Suche in der Wikipedia nach einem Thema, welches dich persönlich interessiert. (Ideen: Schloss Karlsruhe, Minecraft, Lieblingsband, YouTuber...) – schaue welche Mediendateien im Artikel angeboten werden. Checke mithilfe des Lizenzhinweisgenerators ob und wie du diese Medien in deine schulischen oder privaten Nutzung verwenden kannst.<br>Mögliche Reflexionsfragen:\r\n* Welche Gedanken kommen dir beim recherchieren?\r\n* Ist die Plattform leicht zu bedienen?\r\n* Wo hast du bisher gesucht?\r\n* Welche Plattformen gibt es noch und wie dürfen diese Medien benutzt werden? (Bsp. [Pixabay](https://pixabay.com/), [Google Suche](https://www.google.de/imghp?hl=de&tab=wi), [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page), [Photos for Class](http://www.photosforclass.com/), [flickr](https://www.flickr.com/))"
 medien:
   - medien-2
   - medien-3
@@ -67,7 +67,7 @@ vorbereitungszeit: vorbereitungszeit-1
 author-name: Thorsten Belzer
 author-email: mail@thorstenbelzer.de
 author-website: 'http://www.thorstenbelzer.de'
-tags: 'PC'
+tags: ''
 date: '2017-10-07T14:04:03.071Z'
 ---
 empty
