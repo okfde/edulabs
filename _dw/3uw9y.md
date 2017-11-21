@@ -10,7 +10,7 @@ desc: >-
   Lösungsansätze im Fall eines Konflikts im Klassenkollektiv.
 link: >-
   http://www.klicksafe.de/fileadmin/media/documents/pdf/klicksafe_Materialien/Lehrer_Allgemein/Was_tun_bei_Cybermobbing.pdf
-lernziele: "- Sensibilisierung für das Thema im Allgemeinen<br>- gemeinsame Definition von (Cyber)Mobbing erarbeiten<br>- Rollenklärung im (Cyber)Mobbing Prozess<br>- Handlungsmöglichkeiten und Vorgehen im Konfliktfall kennenlernen<br>- Auseinandersetzung mit rechtlichen Konsequenzen<br>- Möglichkeit zum Erstellen von gemeinsamen Verhaltensregeln für die Kommunikation im Netz"
+lernziele: '- Sensibilisierung für das Thema im Allgemeinen<br>- gemeinsame Definition von (Cyber)Mobbing erarbeiten<br>- Rollenklärung im (Cyber)Mobbing Prozess<br>- Handlungsmöglichkeiten und Vorgehen im Konfliktfall kennenlernen<br>- Auseinandersetzung mit rechtlichen Konsequenzen<br>- Möglichkeit zum Erstellen von gemeinsamen Verhaltensregeln für die Kommunikation im Netz'
 tipp: >-
   Sowohl zum Einstieg ins Thema als auch zur Rollenklärung in (Cyber)Mobbing
   Prozessen empfiehlt sich im Material das Arbeitsblatt (zu Projekt 2) zu den

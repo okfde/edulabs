@@ -25,10 +25,10 @@ lernziele: >-
   Open-Source-Klon Minetest einzusetzen." (Tobias Thiel)
 tipp: "Es werden konkret Unterrichtsbeispiele für 4 Fächer aufgeführt:
 <br>1. Biologie/Ökologie: Baut einen Fluss, der gute Lebensbedingungen bietet und einen Fluss, in dem es deutlich weniger Leben gibt.
-<br>*2. Kunst: Baut drei historische Gebäude in ihrem architektonischen Stil nach: Renaissance, Klassizismus und Neogotik.
+<br>2. Kunst: Baut drei historische Gebäude in ihrem architektonischen Stil nach: Renaissance, Klassizismus und Neogotik.
 <br>3. Religion/Ethik: Baut eine Kirche, eine Synagoge und eine Moschee
-<br>4. Sozialkunde/Wirtschaft/Ökologie/Ethik: Baut die Stadt der Zukunft.\r\n
-<br><brDie für diese Szenarien erstellte Beispielwelt steht zum Download bereit:\r\nMan muss sie in den Ordner \"worlds\" im Minetest-Ordner entpacken.\r\nNach dem Neustart von Minetest muss man die Welt \"LiGa\" auswählen\r\n<a href='http://junge-akademie-wittenberg.de/sites/default/files/downloads/liga.zip'>http://junge-akademie-wittenberg.de/sites/default/files/downloads/liga.zip</a>\r\n\r\n
+<br>4. Sozialkunde/Wirtschaft/Ökologie/Ethik: Baut die Stadt der Zukunft.
+<br><br>Die für diese Szenarien erstellte Beispielwelt steht zum Download bereit:<br>Man muss sie in den Ordner \"worlds\" im Minetest-Ordner entpacken.\r\nNach dem Neustart von Minetest muss man die Welt \"LiGa\" auswählen\r\n<a href='http://junge-akademie-wittenberg.de/sites/default/files/downloads/liga.zip'>http://junge-akademie-wittenberg.de/sites/default/files/downloads/liga.zip</a>\r\n\r\n
 
 <br><br>Weitere Links und Ressourcen:\r\n
 <br>- Minetest in der Schule (Wiki) mit ausführlichen Schritt-für-Schritt Anleitungen (Birgit Lacher)\r\n<a href='https://wiki.minetest.net/Minetest_in_der_Schule'>https://wiki.minetest.net/Minetest_in_der_Schule</a>\r\n

@@ -11,8 +11,8 @@ desc: >-
   Auseinandersetzung mit Quellen, Wissensproduktion und digitalen Medien
   angeregt.
 link: 'https://de.wikipedia.org/wiki/Wikipedia:Wikipedia_im_Unterricht'
-lernziele: "- Kommunikation: Recherche und Textproduktion<br>- Kollaboration: Gemeinsames Arbeiten, Schwarmintelligenz<br>- Kritisches Denken: Wissensproduktion nach vorgegebenen Qualitätsstandards, kritische Auseinandersetzung mit Wissen und Wissensproduktion<br>- Kritischer Umgang mit Quellen<br>- Bewusstsein für den Umgang mit Online-Medien:<br>-- Lizenzen, Urheberrecht, etc.<br>-- Erfahrung von Selbstwirksamkeit"
-tipp: "Zur Veranschaulichung bietet sich zusätzlich die Erstellung von Grafiken, Audiodateien oder Videos an. [Hier] (https://schulesocialmedia.com/2013/06/02/in-der-schule-wikipedia-artikel-schreiben/) ist die Anwendung von Wikimedia-Artikeln im Deutschunterricht gut beschrieben.\r\nFür jüngere SuS der Grundstufe 4-6 oder sogar 1-3 bietet sich statt wikipedia <a href='https://klexikon.zum.de/wiki/Klexikon:Willkommen_im_Klexikon'>Klexikon</a> an.<br>Siehe auch: https://edulabs.de/dw/jmkls"
+lernziele: '- Kommunikation: Recherche und Textproduktion<br>- Kollaboration: Gemeinsames Arbeiten, Schwarmintelligenz<br>- Kritisches Denken: Wissensproduktion nach vorgegebenen Qualitätsstandards, kritische Auseinandersetzung mit Wissen und Wissensproduktion<br>- Kritischer Umgang mit Quellen<br>- Bewusstsein für den Umgang mit Online-Medien:<br>-- Lizenzen, Urheberrecht, etc.<br>-- Erfahrung von Selbstwirksamkeit'
+tipp: "Zur Veranschaulichung bietet sich zusätzlich die Erstellung von Grafiken, Audiodateien oder Videos an. [Hier](https://schulesocialmedia.com/2013/06/02/in-der-schule-wikipedia-artikel-schreiben/) ist die Anwendung von Wikimedia-Artikeln im Deutschunterricht gut beschrieben.\r\nFür jüngere SuS der Grundstufe 4-6 oder sogar 1-3 bietet sich statt wikipedia <a href='https://klexikon.zum.de/wiki/Klexikon:Willkommen_im_Klexikon'>Klexikon</a> an.<br>Siehe auch: https://edulabs.de/dw/jmkls"
 medien:
   - medien-2
 fach:

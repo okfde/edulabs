@@ -9,7 +9,7 @@ desc: >-
   davon erstellen sie eigene LearningApps, welche zur Übung und Wiederholung
   weitergenutzt werden können.
 link: 'https://www.tutory.de/w/3e14c1f0'
-lernziele: "- Die SuS kennen verschiedene altersgerechte Suchmaschinen.<br>- Die SuS können Suchmaschinen bedienen und einfache Verknüpfungen (+,-) zwischen zwei Suchbegriffen erstellen."
+lernziele: '- Die SuS kennen verschiedene altersgerechte Suchmaschinen.<br>- Die SuS können Suchmaschinen bedienen und einfache Verknüpfungen (+,-) zwischen zwei Suchbegriffen erstellen.'
 tipp: "In LearningApps generische Schüleraccounts erstellen und die erstellten Schülerapps in den eigenen Account übernehmen. (Ähnliche App erstellen, nichts ändern, speichern)<br>Das Lernmodul in Einzelarbeit bearbeiten lassen. Anschließend die LearningApp in Partnerarbeit erstellen lassen. Zur Partnerwahl bietet sich das Lerntempoduett an.<br>Achtung! Das Material auf der Website www.internet-abc.de unterliegt dem deutschen Urheberrecht."
 medien:
   - medien-2

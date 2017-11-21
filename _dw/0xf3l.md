@@ -11,7 +11,7 @@ desc: >-
   (Grammatikregeln) anwenden.
 link: >-
   http://www.schule-bw.de/faecher-und-schularten/sprachen-und-literatur/deutsch/unterrichtseinheiten/projekte/comics
-lernziele: "- Stilistik Sprache<br>- Motivation<br>- Anwendung"
+lernziele: '- Stilistik Sprache<br>- Motivation<br>- Anwendung'
 tipp: "Eine kostenlose App ist <a href='https://play.google.com/store/apps/details?id=com.tiltedchair.cacomic&hl=de'>Comic Creator</a>. Hier können schnell Comics erstellt werden und unterschiedliche Features genutzt werden."
 medien:
   - medien-3
