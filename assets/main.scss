@@ -80,6 +80,21 @@ you can add resource intensive styles.
 } // end of media query
 
 /*********************
+RETINA (2x RESOLUTION DEVICES)
+This applies to the retina iPhone (4s) and iPad (2,3) along with
+other displays with a 2x resolution. You can also create a media
+query for retina AND a certain size if you want. Go Nuts.
+*********************/
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+       only screen and (min--moz-device-pixel-ratio: 1.5),
+       only screen and (min-device-pixel-ratio: 1.5){
+
+   // styles in 2x.scss
+   @import "breakpoints/2x";
+
+} // end of media query
+
+/*********************
 IPAD landscape (col-md)
 *********************/
 @media only screen and (min-width: 1024px) {
@@ -145,21 +160,6 @@ EVEN LARGER VIEWING SIZE (col-xlg)
 
   // styles in 1920up.scss
   @import "breakpoints/1920up";
-
-} // end of media query
-
-/*********************
-RETINA (2x RESOLUTION DEVICES)
-This applies to the retina iPhone (4s) and iPad (2,3) along with
-other displays with a 2x resolution. You can also create a media
-query for retina AND a certain size if you want. Go Nuts.
-*********************/
-@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
-only screen and (min--moz-device-pixel-ratio: 1.5),
-only screen and (min-device-pixel-ratio: 1.5) {
-
-  // styles in 2x.scss
-  @import "breakpoints/2x";
 
 } // end of media query
 
