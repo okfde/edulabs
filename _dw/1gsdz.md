@@ -1,29 +1,34 @@
 ---
-_id: 41745500-cf91-11e7-a1cf-8971f8c2d4c4
+_id: 9459cc50-cf91-11e7-a1cf-8971f8c2d4c4
 title: 1gsdz
 art: noer
-titel: Lernen mit dem Raspberry Pi - Erfahrungen und Ideen
+titel: Videos produzieren als pädagogische Methode
 desc: >-
-  Der Raspberry Pi ist ein leistungsstarker, aber gleichzeitig sehr kompakter
-  und günstiger Einplatinencomputer. All seine Bauteile sind auf einer Fläche
-  untergebracht, die etwa der Größe einer Kreditkarte entspricht. Im Artikel
-  werden Vor- und Nachteile beleuchtet sowie Praxisbeispiele gegeben.
-link: >-
-  https://edulabs.de/blog/Erfahrungen-mit-dem-Raspberry-Pi-in-der-schulischen-und-au%C3%9Ferschulischen-Bildung
+  Wie können Schüler*innen Medienkompetenzen erlangen und damit den kritischen
+  Umgang mit Medien lernen? Zum Beispiel, indem sie in die Lage von
+  Medienschaffenden versetzt werden und selbst hinter der Kamera stehen. Im
+  Artikel werden Vor- und Nachteile beleuchtet sowie Praxisbeispiele gegeben.
+link: 'https://edulabs.de/blog/videos-produzieren-als-p%C3%A4dagogische-methode'
 lernziele: ''
 tipp: ''
 medien:
   - medien-1
   - medien-2
-  - medien-4
 fach:
+  - fach-1
+  - fach-2
+  - fach-3
   - fach-4
   - fach-5
 kmk:
-  - kmk-1-1
-  - kmk-1-3
+  - kmk-1-2
+  - kmk-2-3
+  - kmk-3-1
   - kmk-5-1
+  - kmk-6-1
 zielgruppe:
+  - zielgruppe-2
+  - zielgruppe-3
   - zielgruppe-4
   - zielgruppe-5
 lizenz: lizenz-1
@@ -32,7 +37,7 @@ author-name: ''
 author-email: ''
 author-website: ''
 tags: ''
-date: '2017-11-22T14:27:23.575Z'
+date: '2017-11-22T14:29:42.643Z'
 slug: 1gsdz
 ---
 empty
