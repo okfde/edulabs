@@ -18,7 +18,7 @@ info_text: |
 {% include partials/content/content-float-image.liquid float="right"
 src="/assets/img/blog/2017/August/Interview_Maxim/maxim_loick.jpg" caption="Bild: Maxim Loick" %}
 
-*Maxim Loick ist Mitgründer des [CoderDojos Bonn](http://www.coderdojobn.org/) und der gemeinnützigen GmbH [Calliope](https://calliope.cc/ueber-mini), die den [Einplatinencomputer](https://de.wikipedia.org/wiki/Einplatinencomputer) Calliope mini für den Einsatz an Grundschulen produziert.*
+*Maxim Loick ist Mitgründer des [CoderDojos Bonn](http://www.coderdojobn.org/) und der gemeinnützigen GmbH [Calliope](https://calliope.cc/idee/ueber-mini), die den [Einplatinencomputer](https://de.wikipedia.org/wiki/Einplatinencomputer) Calliope mini für den Einsatz an Grundschulen produziert.*
 
 **Maxim, warum steckst du so viel Zeit in ehrenamtliches Engagement?**<br>
 Gerade liegt das CoderDojo Bonn leider etwas brach, da ich viel Zeit in Calliope und in ein anderes Startup stecke. Gegründet hatte ich es aber wegen meiner beiden Kinder. Ich wollte, dass sie informatische Themen praktisch entdecken können. Die Möglichkeit gab es zu diesem Zeitpunkt in Bonn aber noch nicht oder war mir nicht bekannt. Dann bin ich im Internet über die CoderDojo-Bewegung gestolpert, fand die total cool und habe dann auch eines für ein Jahr betreut, bevor mir dann die Zeit weggelaufen ist. Momentan möchte ich das Dojo mit anderen Initiativen in Bonn zusammenführen, um es zu verstetigen. Denn ich finde die Herangehensweise der CoderDojos sehr gut, die da ist: Ich weiß auch nicht genau, wie es geht, liebe Kinder. Also lasst es uns zusammen im Internet recherchieren und die Probleme, die wir uns vorher selbst gestellt haben, gemeinsam lösen. Das ist eine Herangehensweise, mit der man den Jugendlichen und Kindern auf Augenhöhe begegnet und sich nicht als Oberlehrer vor sie hinstellt und sagt: Hier habe ich die Lösung, mach das so.
@@ -44,7 +44,7 @@ Es hapert an Folgendem: Die Lehrpläne müssen nach bestehenden Lerninhalten ges
 Ein Beispiel für die Grundschule ist der Sprung von einstelligen zu zweistelligen Zahlen. Das ist für viele Kinder sehr schwierig. Wenn sich diese Thematik mit einem Calliope spielerisch aneignen lässt, dann lernen sie nebenbei, dass so ein Mikrocontroller etwas ganz normales ist - ein Handwerkszeug. Sie kriegen damit aber auch die Lehrinhalte vermittelt, die sowieso vermittelt werden müssen, die in den Lehrplänen stehen. 
 
 **Wie werden die Lehrenden bei der Umsetzung konkret unterstützt?**<br>
-Ein zentraler Bestandteil ist die Lehrerfortbildung. Im Saarland wird diese beispielsweise vom [Landesinstitut für Pädagogik und Medien](http://www.lpm.uni-sb.de/typo3/index.php?id=867&no_cache=1) umgesetzt. In anderen Bundesländern sind wir noch nicht ganz so weit, dort gibt es Fortbildungen auf freiwilliger Basis, die von [Open Roberta](https://www.open-roberta.org/willkommen/) angeboten werden.<br>
+Ein zentraler Bestandteil ist die Lehrerfortbildung. Im Saarland wird diese beispielsweise vom [Landesinstitut für Pädagogik und Medien](http://www.lpm.uni-sb.de/typo3/index.php?id=867&no_cache=1) umgesetzt. In anderen Bundesländern sind wir noch nicht ganz so weit, dort gibt es Fortbildungen auf freiwilliger Basis, die von [Open Roberta](https://www.open-roberta.org/) angeboten werden.<br>
 Zweitens muss entsprechendes didaktisches Material geschaffen werden, das den Lehrern eine Anleitung gibt, wie sie ihren Unterricht konkret vorbereiten können. Das Material entsteht und ist beispielsweise auf der Plattform [App Camps](https://appcamps.de/unterrichtsmaterial/calliope-mini/) zu finden.
 
 <!-- include quote -->
@@ -57,10 +57,10 @@ Das Prinzip von OER finde ich super, weil die Bildung eine öffentliche Aufgabe 
 <span class="link-list-headline">Links</span>
 <a class="external-link" href="https://www.hackster.io/search?i=projects&q=calliope" target="_blank">Projektanleitungen für den Calliope mini auf Hackster.io</a>
 <a class="external-link" href="https://appcamps.de/unterrichtsmaterial/calliope-mini/" target="_blank">Unterrichtsmaterialien für den Calliope mini auf App Camps</a>
-<a class="external-link" href="https://calliope.cc/schulmaterial" target="_blank">Verschiedene Schulmaterialien auf der Calliope Website</a>
+<a class="external-link" href="https://calliope.cc/schulen/schulmaterial" target="_blank">Verschiedene Schulmaterialien auf der Calliope Website</a>
 <a class="external-link" href="http://kata.coderdojo.com/wiki/Learning_Resource" target="_blank">Lern- und Lehrmaterialien der CoderDojos</a>
 <a class="external-link" href="http://www.coderdojobn.org/" target="_blank">Zum CoderDojo Bonn</a>
-<a class="external-link" href="https://www.open-roberta.org/willkommen/" target="_blank">Zu Open Roberta, einem Projekt, das das Programmieren erleichtern möchte</a>
+<a class="external-link" href="https://www.open-roberta.org/" target="_blank">Zu Open Roberta, einem Projekt, das das Programmieren erleichtern möchte</a>
 </p>
 
 
