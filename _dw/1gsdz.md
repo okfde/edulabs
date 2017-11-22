@@ -1,34 +1,28 @@
 ---
-_id: 9459cc50-cf91-11e7-a1cf-8971f8c2d4c4
+_id: 03622cf0-cf92-11e7-a1cf-8971f8c2d4c4
 title: 1gsdz
 art: noer
-titel: Videos produzieren als pädagogische Methode
+titel: Ein-Chip-Computer und die Arduino-Plattform im Unterricht
 desc: >-
-  Wie können Schüler*innen Medienkompetenzen erlangen und damit den kritischen
-  Umgang mit Medien lernen? Zum Beispiel, indem sie in die Lage von
-  Medienschaffenden versetzt werden und selbst hinter der Kamera stehen. Im
-  Artikel werden Vor- und Nachteile beleuchtet sowie Praxisbeispiele gegeben.
-link: 'https://edulabs.de/blog/videos-produzieren-als-p%C3%A4dagogische-methode'
+  Arduino sowohl eine Software als auch eine Hardware-Plattform. Die Kombination
+  beider Systeme erlaubt den vereinfachten Einstieg in die Programmierung von
+  Elektronik oder auch das “physical computing”. Im Artikel werden Vor- und
+  Nachteile beleuchtet sowie Praxisbeispiele gegeben.
+link: 'https://edulabs.de/blog/arduino-im-schulunterricht'
 lernziele: ''
 tipp: ''
 medien:
   - medien-1
   - medien-2
+  - medien-4
 fach:
-  - fach-1
-  - fach-2
-  - fach-3
   - fach-4
   - fach-5
 kmk:
-  - kmk-1-2
-  - kmk-2-3
   - kmk-3-1
   - kmk-5-1
-  - kmk-6-1
+  - kmk-5-5
 zielgruppe:
-  - zielgruppe-2
-  - zielgruppe-3
   - zielgruppe-4
   - zielgruppe-5
 lizenz: lizenz-1
@@ -37,7 +31,7 @@ author-name: ''
 author-email: ''
 author-website: ''
 tags: ''
-date: '2017-11-22T14:29:42.643Z'
+date: '2017-11-22T14:32:48.947Z'
 slug: 1gsdz
 ---
 empty
