@@ -33,7 +33,7 @@ vorbereitungszeit: vorbereitungszeit-1
 author-name: ''
 author-email: ''
 author-website: ''
-tags: 'RaspberryPi'
+tags: 'Raspberry'
 date: '2017-11-22T14:45:19.299Z'
 slug: sphsn
 ---

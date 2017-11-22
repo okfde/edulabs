@@ -30,7 +30,7 @@ vorbereitungszeit: vorbereitungszeit-1
 author-name: ''
 author-email: ''
 author-website: ''
-tags: 'arduino'
+tags: 'arduino,Mikrocontroller'
 date: '2017-11-22T14:32:48.947Z'
 slug: 1gsdz
 ---
