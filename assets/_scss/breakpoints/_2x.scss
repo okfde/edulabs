@@ -1,0 +1,88 @@
+/******************************************************************
+Site Name: edulabs.de/oer
+Author: Maximilian Voigt
+
+Stylesheet: Retina Screens & Devices Stylesheet
+
+When handling retina screens you need to make adjustments, especially
+if you're not using font icons. Here you can add them in one neat
+place.
+
+******************************************************************/
+
+
+
+/*********************
+WRAPPER STYLES
+*********************/
+
+
+.page-wrap {
+  a, p,.subheading, .content-element .infobox-headline, .content-element .infobox-copy, ul li {
+    font-size: 1.0rem;
+  }
+  .page-description{
+     p{
+        font-size: 1.0rem;
+     }
+     a{
+        font-size: 1.0rem;
+     }
+  }
+  .section-headline{
+    font-size: 2.7rem;
+  }
+}
+
+
+/*********************
+EDUSPRINT
+*********************/
+
+.edusprint{
+
+  .filter-items{
+    width: 100%;
+    .filter-icon{
+      font-size: 0.90em;
+    }
+    .shrinked{
+      font-size: 1.00em;
+    }
+
+    .icons-wrap{
+      .filter-icon{
+        span{
+          font-size: 0.7rem;
+        }
+
+      }
+    }
+    .filter-items-headline{
+      font-size: 0.7rem;
+    }
+  }
+
+  .edusprint-filters {
+    display: block;
+  }
+
+  .edusprint-authors-wrap {
+    .edusprint-author {
+      .author-image-wrap {
+        display: block;
+      }
+    }
+  }
+
+}
+
+.filter-items {
+  display: inline-block;
+  width: 90%;
+
+  .filter-item {
+    font-size: 1.0em;
+    padding: 5px 15px;
+  }
+}
