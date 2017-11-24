@@ -85,9 +85,9 @@ This applies to the retina iPhone (4s) and iPad (2,3) along with
 other displays with a 2x resolution. You can also create a media
 query for retina AND a certain size if you want. Go Nuts.
 *********************/
-@media only screen and (min-width:600px) and (-webkit-min-device-pixel-ratio: 1.5),
-       only screen and (min-width:600px) and (min--moz-device-pixel-ratio: 1.5),
-       only screen and (min-width:600px) and (min-device-pixel-ratio: 1.5){
+@media only screen and (min-width:550px) and (max-width:650px) and (-webkit-min-device-pixel-ratio: 1.5),
+       only screen and (min-width:550px) and (max-width:650px) and (min--moz-device-pixel-ratio: 1.5),
+       only screen and (min-width:550px) and (max-width:650px) and (min-device-pixel-ratio: 1.5){
 
    // styles in 2x.scss
    @import "breakpoints/2x";
