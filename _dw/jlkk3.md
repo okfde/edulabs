@@ -11,8 +11,8 @@ desc: >-
 link: >-
   https://www.calliope.cc/content/3-schulen/1-schulmaterial/cornelsen_lehrerhandreichung.pdf
 lernziele: >-
-  - Bietet einen leichten und motivierenden Einstieg ins Programmieren<br>-
-  Fördert das forschend-entdeckende Lernen<br>- Fördert das Abstraktionsvermögen
+  \- Bietet einen leichten und motivierenden Einstieg ins Programmieren<br>
+  - Fördert das forschend-entdeckende Lernen<br>- Fördert das Abstraktionsvermögen
   und analytisches Denken<br>- Fördert das Verständnis von Programmierung als
   Werkzeug zur Problemlösung statt als Selbstzweck
 tipp: >-
@@ -22,7 +22,7 @@ tipp: >-
   nicht nur die Codes vorzugeben, sollte die Lehrkraft den Aufbau der Codes
   kindergerecht aufbereiten, etwa über Beispiele aus der Lebensrealität der
   Kinder. Eine gute Hilfe bietet hier das
-  <https://www.calliope.cc/content/3-schulen/1-schulmaterial/9783066000115-gesamt_pdf.pdf>Schülermaterial</a>
+  <a href='https://www.calliope.cc/content/3-schulen/1-schulmaterial/9783066000115-gesamt_pdf.pdf'>Schülermaterial</a>
   zum Calliope mini mit Erklärungen und Arbeitsblättern für den Unterricht, das
   einige der Projekte aus der Handreichung für Kinder aufbereitet (Lizenz:
   cc-by-sa).<br>Die Codes werden in einem internetbasierten Editor geschrieben.
@@ -45,6 +45,8 @@ long-fach:
   - long-fach-7
   - long-fach-9
   - long-fach-15
+top-kmk:
+  - top-kmk-5
 kmk:
   - kmk-5-1
   - kmk-5-4
