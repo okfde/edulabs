@@ -1,8 +1,8 @@
 ---
 
 layout: post
-title: "Die App POCKET CODE im Unterricht - Erfahrungen und Ideen"
-teaser: "Die App POCKET CODE wurde nach dem Vorbild der Programmiersprache SCRATCH entwickelt und soll einen einfachen Einstieg in die Programmierung eröffnen. Maria Grandl hat Erfahrungen und Ideen mit der App zusammengefasst."
+title: "Programmieren lernen mit Apps - Erfahrungen und Ideen"
+teaser: "Die meisten Lernenden besitzen Smartphones. Im Artikel werden verschiedene Apps vorgestellt, um das Smartphone zum Programmieren lernen einzusetzen."
 teaser_img_src: /assets/img/blog/2017/November/POCKET_CODE_Toolcard/scratch_uebersicht.jpg
 featured: true
 categories: Toolcard
@@ -14,7 +14,9 @@ author: Maria Grandl
 info_text: |
 
 ---
-*Die App [POCKET CODE](https://scratch-dach.info/wiki/Pocket_Code) wurde nach dem Vorbild der Programmiersprache [SCRATCH](https://de.wikipedia.org/wiki/Scratch_(Programmiersprache)) an der [Technischen Universität Graz](https://www.tugraz.at/home/) entwickelt und soll einen einfachen Einstieg in die Programmierung eröffnen. Die Erstellung der Programme erfolgt direkt am mobilen Gerät. Somit können alle Sensoren des Smartphones oder Tablets angesprochen werden. Darüber hinaus sind spezielle Befehlsblöcke in Verbindung mit Arduino, Raspberry Pi und den Lego-Mindstorms-Robotern verfügbar. Erstellte Programme können hochgeladen und über den Menüpunkt "Erkunden" gesucht, gespeichert und weiterentwickelt werden.* 
+*Die meisten Lernenden besitzen Smartphones. Im Folgenden stellen verschiedene Autoren Apps und Unterrichtsmaterialien vor, die das Programmieren Lernen mit dem Smartphone ermöglichen.*
+
+Die App [POCKET CODE](https://scratch-dach.info/wiki/Pocket_Code) wurde nach dem Vorbild der Programmiersprache [SCRATCH](https://de.wikipedia.org/wiki/Scratch_(Programmiersprache)) an der [Technischen Universität Graz](https://www.tugraz.at/home/) entwickelt und soll einen einfachen Einstieg in die Programmierung eröffnen. Die Erstellung der Programme erfolgt direkt am mobilen Gerät. Somit können alle Sensoren des Smartphones oder Tablets angesprochen werden. Darüber hinaus sind spezielle Befehlsblöcke in Verbindung mit Arduino, Raspberry Pi und den Lego-Mindstorms-Robotern verfügbar. Erstellte Programme können hochgeladen und über den Menüpunkt "Erkunden" gesucht, gespeichert und weiterentwickelt werden.
 <!-- include ionfobox -->
 {% include partials/content/content-infobox.liquid float="left" headline="Der Raspberry Pi im Unterricht" copy="<a href='/blog/arduino-im-schulunterricht'><img src='/assets/img/blog/2017/Oktober/Toolcard_Raspberry Pi/Raspberry Pi.jpg' style='width: 100%; display: inline-block'></a><br>Der Raspberry Pi ist ein leistungsstarker, aber gleichzeitig sehr kompakter und günstiger Einplatinencomputer. Wir haben pädagogische Erfahrungen mit dem Pi gesammelt und für euch aufgeschrieben." %}
 
