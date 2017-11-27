@@ -2,10 +2,10 @@
 _id: ba6b1ec0-cdd5-11e7-a1cf-8971f8c2d4c4
 title: na5uz
 art: noer
-visible: 0
+visible: 1
 titel: Ein spielerischer Einstieg in die Programmierung
 desc: "Im Artikel wird ein Moodle-Kurs sowie Begleitmaterialien rund um die App Pocket Code vorgestellt, welche einen spielerischen Einstieg in die Programmierung ermöglicht."
-link: 'https://hackmd.io/JwJgbGxg7CC0ZwBY5KQE3gQwMZLHAKwBGAjAGY6FgAMxx5IQA==='
+link: 'https://edulabs.de/blog/die-App-POCKET-CODE-im-Unterricht'
 lernziele: "Grundlegende Programmierkonzepte- und Strukturen kennen lernen und anwenden\r\nProbleme abstrahieren und Lösungsschritte formulieren\r\nKreative Auseinandersetzung mit vorgegebenen Aufgabenstellungen"
 tipp: "Die App POCKET CODE wurde nach dem Vorbild der Programmiersprache SCRATCH an der Technischen Universität Graz entwickelt und soll einen einfachen Einstieg in die Programmierung eröffnen. Die Erstellung der Programme erfolgt direkt am mobilen Gerät. Somit können alle Sensoren des Smartphones oder Tablets angesprochen werden. Darüber hinaus sind spezielle Befehlsblöcke in Verbindung mit Arduino, Raspberry Pi und den Lego-Mindstorms-Robotern verfügbar. Erstellte Programme können hochgeladen werden und über den Menüpunkt \"Erkunden\" gesucht, gespeichert und weiter entwickelt werden. In diesem Zusammenhang ist es auch wichtig, die Kompetenzbereiche \"Kommunizieren und Kooperieren\"\r\nund \"Produzieren und Präsentieren\" zu beleuchten\r\n\r\nDer Moodle-Kurs ist aus dem gleichnamigen MOOC entstanden, welcher auf der MOOC-Plattform iMooX.at verfügbar ist und sich, wie auch der Moodle-Kurs, an Kinder und Jugendliche im Alter von 10-14 Jahren richtet. Der Moodle-Kurs kann exportiert und in das schuleigene Moodle-System geladen werden.\r\n\r\nDie SchülerInnen können auf Basis eines Arbeitsplans selbständig mit den zur Verfügung stehenden Materialien arbeiten. Am Arbeitsplan befindet sich auch der sogenannte „Ideen-Tisch“. Dieser soll im Präsenzsetting als Anlaufstelle für verschiedene Fragen an die Lehrperson und als ein Ort zum Austausch von Ideen umgesetzt werden. \r\n\r\nAuf der folgenden Website gibt es eine Fülle von weiterführenden Lehr- und Lernmaterialien und verschiedene Beispiele für einen fächerintegrativen Einsatz.<br>Die App ist momentan nur für das Betriebssystem ANDROID verfügbar."
 medien:
