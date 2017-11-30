@@ -10,7 +10,7 @@ src: "/assets/img/labs/edulabsBN.jpg"
 <div style="text-align: right"></div>
 </div>
 Willkommen bei edulabsKBN! In selbstorganisierten Teams entwickeln wir neue Tools, Materialien und Methoden für offene Bildung. Wir kommen aus ganz verschiedenen
-Bereichen, entsprechend behandeln auch unsere <a href="hackdash.org/dashboards/edulabs">Lab-Projekte</a> ganz unterschiedliche Themen.
+Bereichen, entsprechend behandeln auch unsere <a href="/projects/">Lab-Projekte</a> ganz unterschiedliche Themen.
 <br>
 <br>
 Am 18. November lädt edulabsKBN gemeinsam mit der OKF und mediale pfade zu einem eintägigen [edusprint](https://edulabs.de/blog/edusprint-in-Koeln) ein, um Empfehlungen für freie Materialien und Unterrichtsformate zu digitalen Kompetenzen zu entwickeln.

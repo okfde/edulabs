@@ -10,15 +10,14 @@ src: "/assets/img/labs/edulabsBE.jpg"
 <div style="text-align: right"></div>
 </div>
 Willkommen bei edulabsBE! In selbstorganisierten Teams entwickeln wir neue Tools, Materialien und Methoden für offene Bildung.<br>Wir kommen aus ganz verschiedenen
-Bereichen, entsprechend behandeln auch unsere <a href="hackdash.org/dashboards/edulabs">Lab-Projekte</a> ganz unterschiedliche Themen.<br>
+Bereichen, entsprechend behandeln auch unsere <a href="/projects/">Lab-Projekte</a> ganz unterschiedliche Themen.<br>
 <br>
-Wir treffen uns regelmäßig in den Lehrwerkstätten der TU-Berlin, am [Institut für berufliche Bildung und Arbeitslehre / Technik und Partizipation](http://www.technik.tu-berlin.de/menue/arbeitslehretechnik_und_partizipation/) (**Marchstraße 23,
-10587 Berlin, Untergeschoss** [<a href="https://goo.gl/maps/ghTV3dpD4Nr">Karte</a>]) und arbeiten an unseren Projekten.
 
-Neue Vorhaben und Ideen kannst du zu Beginn gerne vorstellen. Notizen zu den Lab-Treffen sammeln wir in diesem Hackmd-Dokument: [http://bit.ly/edulabs-berlin](http://bit.ly/edulabs-berlin)
-
-
+### Achtung: Umzug
+Seit dem 5.12. finden die Treffen nicht mehr an der TU-Berlin statt. Das Lab ist in die Evangelische Schule Berlin Zentrum (ESBZ) umgezogen: Wallstraße 32, 10179 Berlin. Neue Vorhaben und Ideen kannst du zu Beginn gerne vorstellen.
 
 Du hast Lust, dir unser Lab anzuschauen? Dann komm einfach zum nächsten Treffen vorbei:
 
-<a class="edu-btn black" href="https://www.meetup.com/edulabsBE/">Meetup-Gruppe</a>
+<a class="edu-btn black" href="https://www.meetup.com/edulabsBE/">Meetup-Gruppe</a><br><br>
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=13.40930163860321%2C52.51070033934583%2C13.412327170372011%2C52.51255473838148&amp;layer=mapnik&amp;marker=52.51162754864496%2C13.41081440448761" style="border: 1px solid black"></iframe>
+
