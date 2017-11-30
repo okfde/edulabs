@@ -2,7 +2,7 @@
 layout: post
 title: "Launch: Wie mit digitalen Tools zeitgemäßer Unterricht gelingt"
 teaser: "Nach drei edusprints sowie einiger Redaktions-, Design- und Programmierarbeit ist es nun soweit: edulabs.de/oer ist online."
-teaser_img_src: /assets/img/blog/2017/November/OER-Preview/OER-Filter_preview.png
+teaser_img_src: /assets/img/blog/2017/November/OER-Preview/twitter_oer_tool.png
 featured: true
 categories: News
 twitter_large_img: /assets/img/blog/2017/November/OER-Preview/twitter_oer_tool.png
