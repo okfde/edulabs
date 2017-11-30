@@ -14,7 +14,7 @@ info_text: |
  ...
 
 ---
-Nach drei [edusprints](https://edulabs.de/blog/plattform-fuer-kuratierte-oer-bald-online) sowie einiger Redaktions-, Design- und Programmierarbeit ist es nun soweit: [edulabs.de/oer](https://edulabs.de/oer/) ist online. Auf der Plattform sammeln wir Unterrichtsideen für zeitgemäße Bildung, die sich mit frei lizensierten Materialien umsetzen lassen.
+Nach drei [edusprints](https://edulabs.de/blog/plattform-fuer-kuratierte-oer-bald-online) sowie einiger Redaktions-, Design- und Programmierarbeit ist es nun soweit: [edulabs.de/oer](https://edulabs.de/oer/) ist online. Auf der Plattform sammeln wir Unterrichtsideen für zeitgemäße Bildung, die sich mit frei lizenzierten Materialien umsetzen lassen.
 
 Grundlage der Sammlung sind Empfehlungen aus der pädagogischen Praxis, die wir bei edusprint-Events und den regelmäßigen lab-Treffen dokumentieren. Die Unterrichtsideen lassen sich nach diversen Kategorien filtern, unter anderem nach digitalen Kompetenzen, Medieneinsatz, Fächern und Zielgruppen.
 
