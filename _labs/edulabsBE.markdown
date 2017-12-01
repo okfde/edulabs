@@ -19,5 +19,3 @@ Seit dem 5.12. finden die Treffen nicht mehr an der TU-Berlin statt. Das Lab ist
 Du hast Lust, dir unser Lab anzuschauen? Dann komm einfach zum nächsten Treffen vorbei:
 
 <a class="edu-btn black" href="https://www.meetup.com/edulabsBE/">Meetup-Gruppe</a><br><br>
-<iframe width="225" height="150" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=13.40930163860321%2C52.51070033934583%2C13.412327170372011%2C52.51255473838148&amp;layer=mapnik&amp;marker=52.51162754864496%2C13.41081440448761" style="border: 1px solid black"></iframe>
-
