@@ -31,6 +31,13 @@ title: Edusprint Post
                     </p>
                 </div>
             </div>
+            <div class="edupsprint-btn-wrap">
+                <h3>LIZENZ:</h3>
+                <!-- <a class="public-domain" href="https://de.wikipedia.org/wiki/Gemeinfreiheit" target="_blank">
+                    <img class="img-responsive" src="/assets/img/static/public-domain.png"/>
+                </a> -->
+                {{ site.data.digitalen_welt.lizenz[page.lizenz] }}<br>
+            </div>
             <div class="row">
                 <div class="edusprint-authors-wrap col-xs-24 col-md-22 col-md-push-1 col-lg-16 col-lg-push-4">
                   {% for author in page.author-name %}
@@ -47,19 +54,12 @@ title: Edusprint Post
             </div>
 
             <div class="row">
-                <section class="section col-xs-16">
+                <section class="content-wrap subpage">
                     {% include page__comments.html %}
                 </section>
             </div>
 
             <div class="edupsprint-btn-wrap"><a class="edu-btn blue" href="/oer">ZURÜCK ZUR SAMMLUNG</a></div>
-            <div class="edupsprint-btn-wrap">
-                <h3>LIZENZ:</h3>
-                <!-- <a class="public-domain" href="https://de.wikipedia.org/wiki/Gemeinfreiheit" target="_blank">
-                    <img class="img-responsive" src="/assets/img/static/public-domain.png"/>
-                </a> -->
-                {{ site.data.digitalen_welt.lizenz[page.lizenz] }}<br>
-            </div>
         </div>
     </section>
 </div>
