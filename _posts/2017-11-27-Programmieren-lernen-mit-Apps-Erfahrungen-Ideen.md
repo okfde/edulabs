@@ -24,7 +24,7 @@ Die App [POCKET CODE](https://scratch-dach.info/wiki/Pocket_Code) wurde nach dem
 
 Pocket Code ist nur eine von vielen Möglichkeiten, um Kindern ab 10 Jahren das Programmieren auf eine spielerische und kreative Weise beizubringen. Für die App gibt es spezielle Vorlagen (Programme), welche Beispiele für einen fächerintegrativen Einsatz von Pocket Code (beispielsweise im Physikunterricht) liefern. 
 
-## Einsatzbeispiel: Ein offener Moodle-Kurs
+## Einsatzbeispiel: Ein Moodle-Kurs
 
 Der offene Moodle-Kurs mit dem Titel "[LEARNING TO CODE - PROGRAMMIEREN MIT POCKET CODE](https://tc.tugraz.at/main/course/view.php?id=1415 )" unterstützt die Umsetzung eines offenen Unterrichts- und Lernsettings und kann über das Learning Management System "TeachCenter" der Technischen Universität Graz aufgerufen werden.
 
@@ -54,3 +54,5 @@ Für den Einstieg in das Arbeiten mit Pocket Code steht auch ein MOOC auf der Pl
     <a class="external-link" href="https://catrobatblog.wordpress.com/education/" target="_blank">Tutorials in englischer Sprache</a>
     <a class="external-link" href="https://scratch-dach.info/wiki/Pocket_Code" target="_blank">Über POCKET CODE im Scratch Wiki</a>
 </p>
+
+Hinweis der Redaktion: Einige Materialien sind nicht unter einer freien OER-Lizenz, sondern mit der eingeschränkt offenen NC-Lizenz nutzbar. Wir freuen uns über Hinweise für Ergänzungen mit offenen Lizenzen zu diesem Thema (CC-BY, CC0, CC-BY-SA).
