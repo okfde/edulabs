@@ -125,9 +125,10 @@
                   {% for subtheme in theme.subthemes %}
                     {% assign kmk_name = "kmk-" | append: theme_level | append: "-" | append: forloop.index %}
                     <input name="fields[kmk]" type="checkbox" value="kmk-{{ theme_level }}-{{ forloop.index }}" {% if project_kmk contains kmk_name %}checked{% endif %}>{{ subtheme.name }}
+                    <input type="hidden" name="fields[top-kmk]" value="top-kmk-{{ forloop.index }}" {% if project_kmk contains kmk_name %}checked{% endif %}>{{ subtheme.name }}
                     <br>
                   {% endfor %}
-                  <input type="hidden" id="project_topkmk" name="fields[top-kmk]" value="top-kmk-{{ forloop.index }}" {% if project_kmk contains kmk_name %}checked{% endif %}>{{ subtheme.name }}
+
                 {% endfor %}
             </fieldset>
 
