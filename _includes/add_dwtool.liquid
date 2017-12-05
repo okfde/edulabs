@@ -115,18 +115,18 @@
                 {% endfor %}
             </fieldset>
 
-            <!-- KMK -->
+
+            <!-- TOP-KMK -->
             <fieldset>
-              <label for="project-form-kmk"><strong>Digitale Kompetenzen (KMK)</strong></label>
+              <label for="project-form-topkmk"><strong>Digitale Kompetenzen (KMK)</strong></label>
                 <br>
                 {% for theme in site.data.digitalen_welt.themes %}
                   {%  capture theme_level %}{{ forloop.index }}{% endcapture %}
-                  <h4>{{ theme.name }}</h4>
-                  {% for subtheme in theme.subthemes %}
-                    {% assign kmk_name = "kmk-" | append: theme_level | append: "-" | append: forloop.index %}
-                    <input name="fields[kmk]" type="checkbox" value="kmk-{{ theme_level }}-{{ forloop.index }}" {% if project_kmk contains kmk_name %}checked{% endif %}>{{ subtheme.name }}
+
+                    {% assign topkmk_name = "top-kmk-" | append: theme_level | append: "-" | append: forloop.index %}
+                    <input name="fields[top-kmk]" type="checkbox" value="top-kmk-{{ theme_level }}" {% if project_topkmk contains topkmk_name %}checked{% endif %}>{{ theme.name }}
                     <br>
-                  {% endfor %}
+
                 {% endfor %}
             </fieldset>
 
