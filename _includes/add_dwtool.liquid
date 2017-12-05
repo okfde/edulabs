@@ -9,6 +9,7 @@
   {% assign project_lernziele = page.lernziele %}
   {% assign project_art = page.art %}
   {% assign project_kmk = page.kmk %}
+  {% assign project_topkmk = page.top-kmk %}
   {% assign project_fach = page.fach %}
   {% assign project_medien = page.medien %}
   {% assign project_desc = page.desc %}
@@ -40,6 +41,7 @@
 
             <!-- Visibility -->
             <input type="hidden" id="visible" name="fields[visible]" value="0" spellcheck="false" {{editable}}/>
+
             <!-- Materialempfehlung -->
             <fieldset>
               <label for="project-form-art"><strong>Materialempfehlung</strong></label>
@@ -125,6 +127,7 @@
                     <input name="fields[kmk]" type="checkbox" value="kmk-{{ theme_level }}-{{ forloop.index }}" {% if project_kmk contains kmk_name %}checked{% endif %}>{{ subtheme.name }}
                     <br>
                   {% endfor %}
+                  <input type="hidden" id="project_topkmk" name="fields[top-kmk]" value="kmk-{{ forloop.index }}" spellcheck="false" {{editable}}/>
                 {% endfor %}
             </fieldset>
 
