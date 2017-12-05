@@ -37,12 +37,12 @@
             <!-- Random Slug -->
             <input type="hidden" id="random-slug" name="fields[title]" value="{{ project_random_slug }}" spellcheck="false" {{editable}}/>
             <input type="hidden" id="random-slug" name="fields[desc2]" value="empty" spellcheck="false" {{editable}}/>
-            
+
             <!-- Visibility -->
             <input type="hidden" id="visible" name="fields[visible]" value="0" spellcheck="false" {{editable}}/>
             <!-- Materialempfehlung -->
             <fieldset>
-              <label for="project-form-art"><strong>Materialempfehlung</strong> <span class="required">*</span></label>
+              <label for="project-form-art"><strong>Materialempfehlung</strong></label>
               <select name="fields[art]" required>
                 <option value="oer" {% if project_art == "oer" %}selected{% endif %}>Materialempfehlung (OER)</option>
                 <option value="noer" {% if project_art == "noer" %}selected{% endif %}>Verweis auf Blogartikel (nicht nur OER)</option>
@@ -69,19 +69,19 @@
 
             <!-- Wirkung / Lernziele  -->
             <fieldset>
-              <label for="project-form-lernziele"><strong>Wirkung / Lernziele</strong> <span class="required">*</span></label>
+              <label for="project-form-lernziele"><strong>Wirkung / Lernziele</strong></label>
               <textarea type="text" rows="6" id="project-form-lernziele" name="fields[lernziele]" spellcheck="true">{{ project_lernziele }}</textarea>
             </fieldset>
 
             <!-- Persönliche Empfehlung / Tipp  -->
             <fieldset>
-              <label for="project-form-tipp"><strong>Persönliche Empfehlung / Tipp</strong> <span class="required">*</span></label>
+              <label for="project-form-tipp"><strong>Persönliche Empfehlung / Tipp</strong></label>
               <textarea type="text" rows="6" id="project-form-tipp" name="fields[tipp]" spellcheck="true">{{ project_tipp }}</textarea>
             </fieldset>
 
             <!-- Medieneinsatz -->
             <fieldset>
-              <label for="project-form-medien"><strong> Diese Medien oder Technologien werden benötigt</strong> <span class="required">*</span></label>
+              <label for="project-form-medien"><strong> Diese Medien oder Technologien werden benötigt</strong></label>
                 <br>
                 {% for medien in site.data.digitalen_welt.medieneinsatz %}
                   {% assign medien_name = "medien-" | append: forloop.index %}
@@ -92,7 +92,7 @@
 
             <!-- Fachbereich -->
             <fieldset>
-              <label for="project-form-fach"><strong>  Fachbereich</strong> <span class="required">*</span></label>
+              <label for="project-form-fach"><strong>  Fachbereich</strong></label>
                 <br>
                 {% for fach in site.data.digitalen_welt.fachergruppen %}
                   {% assign fach_name = "fach-" | append: forloop.index %}
@@ -104,7 +104,7 @@
             {% assign long_fach = "Deutsch, Chemie, Englisch, Ethik, Französisch, Geschichte, Informatik, Kunst, Mathe, Musik, Philosophie, Physik, Politik, Religion, Sachkunde, SoWi, Spanisch, Geographie/Erdkunde, Biologie, Sport" | split: "," %}
             <!-- Fach -->
             <fieldset>
-              <label for="project-form-long-fach"><strong>  Fach</strong> <span class="required">*</span></label>
+              <label for="project-form-long-fach"><strong>  Fach</strong></label>
                 <br>
                 {% for fach in long_fach %}
                   {% assign long_fach_name = "long-fach-" | append: forloop.index %}
@@ -115,7 +115,7 @@
 
             <!-- KMK -->
             <fieldset>
-              <label for="project-form-kmk"><strong>Digitale Kompetenzen (KMK)</strong> <span class="required">*</span></label>
+              <label for="project-form-kmk"><strong>Digitale Kompetenzen (KMK)</strong></label>
                 <br>
                 {% for theme in site.data.digitalen_welt.themes %}
                   {%  capture theme_level %}{{ forloop.index }}{% endcapture %}
@@ -130,7 +130,7 @@
 
             <!-- Zielgruppe -->
             <fieldset>
-              <label for="project-form-zielgruppe"><strong>  Zielgruppe</strong> <span class="required">*</span></label>
+              <label for="project-form-zielgruppe"><strong>  Zielgruppe</strong></label>
               {% assign zielgruppe = "Kita/Vorschule, Grundstufe (1-3), Grundstufe (4-6), Sekundarstufe 1, Sekundarstufe 2" | split: "," %}
                   {% for zg in zielgruppe %}
                     {% assign zg_name = "zielgruppe-" | append: forloop.index %}
@@ -142,7 +142,7 @@
 
             <!-- Lizenz des Materials -->
             <fieldset>
-              <label for="project-form-lizenz"><strong>Lizenz des Materials</strong> <span class="required">*</span></label>
+              <label for="project-form-lizenz"><strong>Lizenz des Materials</strong></label>
               <select name="fields[lizenz]" required>
                 <option value="lizenz-1" {% if project_lizenz == "lizenz-1" %}selected{% endif %}>CC0</option>
                 <option value="lizenz-2" {% if project_lizenz == "lizenz-2" %}selected{% endif %}>CC-BY</option>
@@ -153,7 +153,7 @@
 
             <!-- Dauer -->
             <fieldset>
-              <label for="project-form-dauer"><strong>Zeitbedarf der Materialeinheit</strong> <span class="required">*</span></label>
+              <label for="project-form-dauer"><strong>Zeitbedarf der Materialeinheit</strong></label>
               {% assign dauer = "mehrtägiges Projekt, Unterrichtsreihe, Doppelstunde, 45 Minuten, Übung (bis zu 20 min)" | split: "," %}
                   {% for d in dauer %}
                     {% assign d_name = "dauer-" | append: forloop.index %}
@@ -164,7 +164,7 @@
 
             <!-- Vorbereitungszeit -->
             <fieldset>
-              <label for="project-form-vorbereitungszeit"><strong>Vorbereitungszeit</strong> <span class="required">*</span></label>
+              <label for="project-form-vorbereitungszeit"><strong>Vorbereitungszeit</strong></label>
               <select name="fields[vorbereitungszeit]" required>
                 <option value="vorbereitungszeit-1" {% if project_vorbereitungszeit == "vorbereitungszeit-1" %}selected{% endif %}>keine</option>
                 <option value="vorbereitungszeit-2" {% if project_vorbereitungszeit == "vorbereitungszeit-2" %}selected{% endif %}>ca 30 Minuten</option>
@@ -188,21 +188,21 @@
                            {% assign author_email = page.author-email[forloop.index0] %}
                            {% assign author_website = page.author-website[forloop.index0] %}
                          {% endif %}
-                        <label for="project-form-author-name"><strong>Name</strong> <span class="required">*</span></label>
+                        <label for="project-form-author-name"><strong>Name</strong></label>
                         <input type="text" id="project-form-author-name" name="fields[author-name]" value="{{ author_name }}" spellcheck="false"/>
-                        <label for="project-form-author-email"><strong>Email</strong> <span class="required">*</span></label>
+                        <label for="project-form-author-email"><strong>Email</strong></label>
                         <input type="text" id="project-form-author-email" name="fields[author-email]" value="{{ author_email }}" spellcheck="false"/>
-                        <label for="project-form-author-website"><strong>Site</strong> <span class="required">*</span></label>
+                        <label for="project-form-author-website"><strong>Site</strong></label>
                         <input type="text" id="project-form-author-website" name="fields[author-website]" value="{{ author_website }}" spellcheck="false"/>
 
                          {% endfor %}
                     {% if include.new %}
                     <div class="contacts">
-                          <label for="project-form-author-name"><strong>Name</strong> <span class="required">*</span></label>
+                          <label for="project-form-author-name"><strong>Name</strong></label>
                           <input type="text" id="project-form-author-name" name="fields[author-name]" value="{{ project_author_name  }}" spellcheck="false"/>
-                          <label for="project-form-author-email"><strong>Email</strong> <span class="required">*</span></label>
+                          <label for="project-form-author-email"><strong>Email</strong></label>
                           <input type="text" id="project-form-author-email" name="fields[author-email]" value="{{ project_author_email  }}" spellcheck="false"/>
-                          <label for="project-form-author-website"><strong>Site</strong> <span class="required">*</span></label>
+                          <label for="project-form-author-website"><strong>Site</strong></label>
                           <input type="text" id="project-form-author-website" name="fields[author-website]" value="" spellcheck="false"/>
                       </div>
                     {% endif %}
@@ -214,7 +214,7 @@
 
             <!-- Tags -->
             <fieldset>
-              <label for="project-form-tags"><strong>Tags</strong> <span class="required">*</span></label>
+              <label for="project-form-tags"><strong>Tags</strong></label>
               <input type="text" id="project-form-tags" name="fields[tags]" value="{{ project_tags }}" spellcheck="false"/>
             </fieldset>
 
@@ -244,11 +244,11 @@
             <p>
       </div>
       <div id="contact-template" style="display: none">
-        <label for="project-form-author-name"><strong>Name</strong> <span class="required">*</span></label>
+        <label for="project-form-author-name"><strong>Name</strong></label>
         <input type="text" id="project-form-author-name" name="fields[author-name]" value="" spellcheck="false"/>
-        <label for="project-form-author-email"><strong>Email</strong> <span class="required">*</span></label>
+        <label for="project-form-author-email"><strong>Email</strong></label>
         <input type="text" id="project-form-author-email" name="fields[author-email]" value="" spellcheck="false"/>
-        <label for="project-form-author-website"><strong>Site</strong> <span class="required">*</span></label>
+        <label for="project-form-author-website"><strong>Site</strong></label>
         <input type="text" id="project-form-author-website" name="fields[author-website]" value="" spellcheck="false"/>
       </div>
       </div>
