@@ -37,7 +37,7 @@ projects:
         field       :  title
 
 dw:
-  allowedFields     : ['title', 'titel', 'art', 'visible', 'kmk', 'fach', 'medien', 'desc', 'desc2', 'lernziele', 'tipp', 'long-fach', 'zielgruppe', 'lizenz', 'dauer', 'vorbereitungszeit', 'author-name', 'author-email', 'author-website', 'tags', 'link']
+  allowedFields     : ['title', 'titel', 'art', 'visible', 'kmk', 'top-kmk', 'fach', 'medien', 'desc', 'desc2', 'lernziele', 'tipp', 'long-fach', 'zielgruppe', 'lizenz', 'dauer', 'vorbereitungszeit', 'author-name', 'author-email', 'author-website', 'tags', 'link']
   branch            : "master"
   commitMessage     : "New card"
   filename          : "{fields.title}"
