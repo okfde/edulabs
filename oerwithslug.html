@@ -1,0 +1,23 @@
+---
+layout: default
+title: Über die OER-Plattform
+permalink: /oerwithslug/
+info_text: |
+
+---
+<!-- über das projekt -->
+<div class="row">
+    <section class="section first col-xs-24">
+        <div class="content-wrap subpage">
+            <div class="content-wrap subpage">
+                <h1 class="section-headline">Liste aller OER-Karten</h1>
+            </div>
+            <div class="subpage-content">
+                {% for post in site.dw %}
+                <a href="{{ post.url }}">{{ post.title }}</a> - {{ post.titel }}<br>
+                {% endfor %}
+            </div>
+        </div>
+    </section>
+</div>
+
