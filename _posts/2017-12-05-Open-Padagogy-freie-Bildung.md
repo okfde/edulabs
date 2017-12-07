@@ -37,22 +37,22 @@ Wie wäre es, wenn man die „Wegwerf-Hausaufgaben“ so verändert, dass die Er
 
 Doch welche vorhandenen Methoden müssen anders genutzt und strukturiert werden, um die „Wegwerf-Hausaufgaben“ abzuschaffen? John Hattie’s Buch [Visible Learning](http://www.amazon.com/Visible-Learning-Synthesis-Meta-Analyses-Achievement/dp/0415476186) ist eine gute Grundlage für effektive Methoden. In dem Buch stellt Hattie Erkenntnisse aus über 800 Metaanalysen von 50.000 Studien mit 80.000.000 Studierenden zusammen, um durchschnittliche Effektgrößen für über 130 Einflüsse auf das Lernen zu erzielen – Einflüsse von den Studierenden selbst, über die Lehrenden, die Lehrmethoden, bis hin zu den Institutionen. Hier nur ein paar Beispiele, die mir in Erinnerung geblieben sind (die Seitenzahlen sind aus der ersten Ausgabe des Buches):
 
-Lehrer-Schüler-Beziehung = 0,72
+Lehrer-Schüler-Beziehung = 0,72<br>
 „Die Entwicklung von Beziehungen erfordert Fertigkeiten des Lehrers - zum Beispiel die Fähigkeiten des Zuhörens, Empathie, Fürsorge und die positive Rücksichtnahme auf andere ... Lehrende sollten lernen die Entwicklung ihrer Studierenden zu unterstützen, indem sie ihnen zeigen, dass sie sich für den Lernfortschritt eines jeden Einzelnen und den Mensch dahinter interessieren.“ (S.118f)
 
-Lehrer-Klarheit = 0,75
+Lehrer-Klarheit = 0,75<br>
 „Klarheit – von den Schüler\*innen bewertet (nicht von anderen Lehrenden) – in „Organisation, Erklärungen, Beispielen, Aufgabenstellungen und der Bewertung der Lernleistung der Schüler\*innen“ (S.126)
 
-Angewandte Beispiele = 0,57
+Angewandte Beispiele = 0,57<br>
 „Angewandte Beispiele reduzieren die kognitive Belastung für Schüler\*innen, sodass sie sich auf die Prozesse konzentrieren, die zur richtigen Antwort führen und nicht nur eine Antwort liefern.“ (S.172)
 
-Organisieren und Transformieren = 0,85
+Organisieren und Transformieren = 0,85<br>
 „Offene oder verdeckte Neuanordnung von Unterrichtsmaterialien zur Verbesserung des Lernens. (z.B. Erstellen eines Entwurfs vor dem Schreiben einer Hausarbeit) ... Die Arten von Strategien, die in dieser Kategorie enthalten sind (z.B. Zusammenfassung und Paraphrasierung), fördern eine aktivere Herangehensweise an Lernaufgaben.“ (S.190f)
 
-Feedback = 0,73
+Feedback = 0,73<br>
 S. 173-178
 
-Gegenseitiges Lehren = 0,74
+Gegenseitiges Lehren = 0,74<br>
 „Der Fokus liegt auf Lehrenden, die es ihren Schülern ermöglichen, kognitive Strategien zu erlernen und zu nutzen, wie Zusammenfassen, Befragen, Klären und Vorhersagen... Die Effekte für das gegenseitige Lehren waren am höchsten, wenn kognitive Strategien im Vorhinein unterrichtet wurden.“ (S. 204)
 
 **Ein Beispiel von Freier Pädagogik**<br>
@@ -79,4 +79,3 @@ Natürlich bin ich nicht der Einzige, der mit solchen Methoden experimentiert. [
 **Freie Pädagogik definieren**<br>
 Was ist an dieser Methode so anders, dass man sie als freie Pädagogik bezeichnet und nicht als eine andere Art, wie wir Lernenden sagen, was sie zu tun haben? Wie schon erwähnt, kann diese Aufgabe nur mit freien Lizenzen für freies Material realisiert werden. Es ist ein Test, ob eine solche Methode als „Freie Pädagogik“ bezeichnet werden kann – ist es möglich ähnliches ohne freien Zugang und die 4R Berechtigung (aus dem Engl.: reuse, revise, remix, redistribute = wiederverwenden, überarbeiten, neu zusammenstellen, umverteilen) umzusetzen? Wenn ja, dann wurde bis jetzt schon sehr effektiv unterrichtet, aber es ist dennoch keine Freie Pädagogik.
 Freie Pädagogik ist eine bestimmte Sammlung von Lehr- und Lernmethoden, die nur mit freiem Zugang zu Unterrichtsmaterial und der 4R Berechtigung funktionieren.
-
