@@ -1,15 +1,15 @@
 ---
 
 layout: post
-title: "What is Open Padagogy - Was ist Freie Pädagogik?"
-teaser: "Marina Weisband ist Diplom-Psychologin und Projektleiterin von aula. Im Interview spricht sie über die Rolle und die Gestaltung politischer Bildung."
-teaser_img_src: /assets/img/blog/2017/November/
+title: "Was ist Freie Pädagogik?"
+teaser: "„OER in der gleichen Weise zu nutzen, wie kommerzielle Lehrbücher, schöpft ihr volles Potenzial nicht aus.“ - eine Übersetzung von Anna-Lena Öhmann"
+teaser_img_src: /assets/img/blog/2017/Dezember/Open_Padagogy/david_wiley.jpg
 featured: true
-categories:
-twitter_large_img: /assets/img/blog/2017/November/
-image: /assets/img/blog/2017/November/
-header_background: /assets/img/blog/2017/November/
-header_background_caption: "Bild: Lizenz: <a href='https://creativecommons.org/licenses/by-sa/2.0/'>CC BY-SA 2.0</a>"
+categories: Methoden
+twitter_large_img: /assets/img/blog/2017/Dezember/Open_Padagogy/david_wiley.jpg
+image: /assets/img/blog/2017/Dezember/Open_Padagogy/david_wiley.jpg
+header_background: /assets/img/blog/2017/Dezember/Open_Padagogy/david_wiley.jpg
+header_background_caption: "Bild: David Wiley. Lizenz: <a href='https://creativecommons.org/licenses/by-sa/2.0/'>CC BY-SA 2.0</a>"
 author: Anna-Lena Öhmann
 info_text: |
 
@@ -28,12 +28,12 @@ OER in der gleichen Weise zu nutzen, wie kommerzielle Lehrbücher, schöpft ihr 
 -	uneingeschränkt umverteilbar
 <br><br>
 
-Daraus ergeben sich folgende Fragen: Wie sind diese Fähigkeiten untereinander verbunden sind? Wie kann man sinnvoll für uns bekannte Lern- und Lehrstrategien einsetzen? Weiterhin gilt es zu beantworten, wie wir Bildung auf Grundlage dessen erweitern, überarbeiten und neu zusammenstellen können. Es gibt viele verschiedene Wege, diese Fragen zu beantworten, im Folgenden ein Beispiel:
+Daraus ergeben sich folgende Fragen: Wie sind diese Fähigkeiten untereinander verbunden? Wie kann man sinnvoll für uns bekannte Lern- und Lehrstrategien einsetzen? Weiterhin gilt es zu beantworten, wie wir Bildung auf Grundlage dessen erweitern, überarbeiten und neu zusammenstellen können. Es gibt viele verschiedene Wege, diese Fragen zu beantworten, im Folgenden ein Beispiel:
 
 **„Wegwerf-Hausaufgaben“ aufgeben**<br>
 Wenn jemand in den letzten Monaten etwas von David Wiley gehört oder gelesen hat, ist er vermutlich darauf gestoßen, wie er gegen sogenannte „Wegwerf-Hausaufgaben“ (disposable assignments) argumentierte. Studierende beschweren sich darüber diese Aufgaben erfüllen und Lehrkräfte darüber die Ergebnisse bewerten zu müssen. Die Bearbeitung der Aufgaben hat keinen Mehrwert – Studierende verbringen einige Stunden mit dem Bearbeiten einer Aufgabe, Lehrende eine halbe Stunde mit dem Bewerten und danach landet die Arbeit im Papierkorb. Im Endeffekt ist es eine große Verschwendung von Zeit und Intellekt.
 
-Wie wäre es, wenn man die „Wegwerf-Hausaufgaben“ so verändert, dass die Ergebnisse sinnvoll genutzt werden können anstatt Mittel zum Zweck zu sein? Studierende und Lehrende bekämen eine ganz neue Einstellung zur investierten Zeit und Arbeit. Es macht einen Unterschied, wenn die Aufgaben und deren Ergebnisse noch weiter genutzt werden können.
+Wie wäre es, wenn man die „Wegwerf-Hausaufgaben“ so verändert, dass die Ergebnisse sinnvoll genutzt werden können, anstatt Mittel zum Zweck zu sein? Studierende und Lehrende bekämen eine ganz neue Einstellung zur investierten Zeit und Arbeit. Es macht einen Unterschied, wenn die Aufgaben und deren Ergebnisse noch weiter genutzt werden können.
 
 Doch welche vorhandenen Methoden müssen anders genutzt und strukturiert werden, um die „Wegwerf-Hausaufgaben“ abzuschaffen? John Hattie’s Buch [Visible Learning](http://www.amazon.com/Visible-Learning-Synthesis-Meta-Analyses-Achievement/dp/0415476186) ist eine gute Grundlage für effektive Methoden. In dem Buch stellt Hattie Erkenntnisse aus über 800 Metaanalysen von 50.000 Studien mit 80.000.000 Studierenden zusammen, um durchschnittliche Effektgrößen für über 130 Einflüsse auf das Lernen zu erzielen – Einflüsse von den Studierenden selbst, über die Lehrenden, die Lehrmethoden, bis hin zu den Institutionen. Hier nur ein paar Beispiele, die mir in Erinnerung geblieben sind (die Seitenzahlen sind aus der ersten Ausgabe des Buches):
 
@@ -53,7 +53,7 @@ Feedback = 0,73
 S. 173-178
 
 Gegenseitiges Lehren = 0,74
-„Der Fokus liegt auf Lehrenden, die es ihren Schülern ermöglichen, kognitive Strategien zu erlernen und zu nutzen, wie Zusammenfassen, Befragen, Klären und Vorhersagen... Die Effekte für das Gegenseitige Lehren waren am höchsten, wenn kognitive Strategien im Vorhinein unterrichtet wurden.“ (S. 204)
+„Der Fokus liegt auf Lehrenden, die es ihren Schülern ermöglichen, kognitive Strategien zu erlernen und zu nutzen, wie Zusammenfassen, Befragen, Klären und Vorhersagen... Die Effekte für das gegenseitige Lehren waren am höchsten, wenn kognitive Strategien im Vorhinein unterrichtet wurden.“ (S. 204)
 
 **Ein Beispiel von Freier Pädagogik**<br>
 Ausgehend davon, dass alle Materialien, die Lehrende im Unterricht verwenden, OER sind, folgt hier eine Liste mit Ideen, wie die oben genannten Praktiken sinnvoll miteinander vermischt und mit OER kombiniert werden können. Eine Kombination, die Lehrenden und Lernenden die Möglichkeit gibt, ihre Zeit und Energie in Dinge zu stecken, die nachnutzbar sind.
@@ -62,7 +62,7 @@ Ausgehend davon, dass alle Materialien, die Lehrende im Unterricht verwenden, OE
 -	Zusätzlich zu der präzisen Aufgabenstellung sollte auch genau festgehalten und besprochen werden, wie die Aufgaben benotet werden und was erwartet wird.
 -	Einige funktionierende Beispiele zeigen. Wenn zum ersten Mal mit OER Material gearbeitet wird, dann sollten die Lernenden zunächst das Material kennenlernen und die Methode verstehen. Am besten arbeitet man sich gemeinsam mit den Lernenden mit vorhandenen OER Material zu einem Beispielthema durch, das ihrer Fragestellung entspricht und erklärt anhand dessen die Arbeitsweise. Im Idealfall kann man natürlich Arbeiten von früheren Lerngruppen als Beispiele zeigen.
 -	Lernende dazu animieren selbst Material zusammenzustellen. Im Hinblick auf das gegenseitige Unterrichten sollten die Lernenden die Unterlagen sichten, zusammenfassen, selbst hinterfragen und verstehen, um eine sinnvolle Auswahl zu treffen.
--	Konstruktive Kritik zu den erarbeiteten Materialsammlungen und eine Überarbeitung der Tutorials ist essentiell.
+-	Konstruktive Kritik zu den erarbeiteten Materialsammlungen und eine Überarbeitung der Tutorials ist essenziell.
 -	Im Anschluss können die Lernenden sich gegenseitig ihr Material vorstellen und es bearbeiten. Unter Berücksichtigung der ersten Erfahrung mit den Mitschüler\*innen werden die Tutorials und Materialsammlungen endgültig überarbeitet und fertiggestellt.
 -	Am Ende wird die Arbeit aller gewürdigt und den Schüler\*innen dazu gratuliert, dass ihr Tutorial in die offiziellen Unterrichtsmaterialien aufgenommen wird.
 <br><br>
@@ -72,7 +72,7 @@ Diese Aufgabenstellung unterstützt eindeutig das Wiederverwenden, Überarbeiten
 **Beispiele für die studentische Arbeit im Kontext der freien Pädagogik**<br>
 Ich wiederhole einige Versionen dieser Methode jetzt seit einigen Jahren. Obwohl es nicht überall gleich gut funktioniert, sind die Ergebnisse Studierenden meist unfassbar gut. Eines der ersten Male endete damit, dass [Kennedy and Nixon](http://www.youtube.com/watch?v=AsFU3sAlPx4) über die Vor- und Nachteile von Blogs und Wikis diskutierten - „[Rick Noblenski: Blasting Caps Expert and Wiki Advocate](http://www.youtube.com/watch?v=PQvLRXpGbzk)“ und eine Konfrontation von Vater und Sohn über „[District Policies Regarding Blogs and Wikis](http://www.youtube.com/watch?v=4_Lk2uU_elU)“.
 
-Spätere Lerngruppen erarbeiteten auf diese Weise ein freies Lehrbuch „[Project Management for Instructional Designers](http://pm4id.org/)“. Darin finden sich heute unter anderem mehrere Videoanalysen; neue Textbeispiele; ein ausführlicher Glossar; sämtliche Inhalte sind angelehnt an die „Project Management Professional“ zertifizierung und es gibt downloadbare HTML, PDF, ePub, MOBI und MP3 Versionen des Buches. Inzwischen wird das Buch als offizielles Lehrbuch an mindestens einer anderen Universität verwendet.
+Spätere Lerngruppen erarbeiteten auf diese Weise ein freies Lehrbuch „[Project Management for Instructional Designers](http://pm4id.org/)“. Darin finden sich heute unter anderem mehrere Videoanalysen; neue Textbeispiele; ein ausführlicher Glossar; sämtliche Inhalte sind angelehnt an die „Project Management Professional“-Zertifizierung und es gibt downloadbare HTML, PDF, ePub, MOBI und MP3 Versionen des Buches. Inzwischen wird das Buch als offizielles Lehrbuch an mindestens einer anderen Universität verwendet.
 
 Natürlich bin ich nicht der Einzige, der mit solchen Methoden experimentiert. [Murder, Madness, and Mayhem: Latin American Literature in Translation](http://en.wikipedia.org/wiki/Wikipedia:WikiProject_Murder_Madness_and_Mayhem) – ist eine weitere meiner Lieblingsproduktionen (in [diesem Essay](http://en.wikipedia.org/wiki/User:Jbmurray/Madness) finden Sie eine Beschreibung).
 
@@ -80,10 +80,3 @@ Natürlich bin ich nicht der Einzige, der mit solchen Methoden experimentiert. [
 Was ist an dieser Methode so anders, dass man sie als freie Pädagogik bezeichnet und nicht als eine andere Art, wie wir Lernenden sagen, was sie zu tun haben? Wie schon erwähnt, kann diese Aufgabe nur mit freien Lizenzen für freies Material realisiert werden. Es ist ein Test, ob eine solche Methode als „Freie Pädagogik“ bezeichnet werden kann – ist es möglich ähnliches ohne freien Zugang und die 4R Berechtigung (aus dem Engl.: reuse, revise, remix, redistribute = wiederverwenden, überarbeiten, neu zusammenstellen, umverteilen) umzusetzen? Wenn ja, dann wurde bis jetzt schon sehr effektiv unterrichtet, aber es ist dennoch keine Freie Pädagogik.
 Freie Pädagogik ist eine bestimmte Sammlung von Lehr- und Lernmethoden, die nur mit freiem Zugang zu Unterrichtsmaterial und der 4R Berechtigung funktionieren.
 
-<p class="link-list">
-<span class="link-list-headline">Links</span>
-<a class="external-link" href="http://aula-blog.website/ideen-fuer-zeitgemaessen-unterricht-der-smartphone-tag-in-freiburg/" target="_blank">Ideen für zeitgemäßen Unterricht: Der „Smartphone-Tag“ in Freiburg</a>
-<a class="external-link" href="http://politik-digital.de/news/aula-schuelerbeteiligung-und-die-kompetenzen-der-zukunft-153015/" target="_blank">Aula, Schülerbeteiligung und die Kompetenzen der Zukunft</a>
-<a class="external-link" href="https://edulabs.de/projects/unterrichtseinheit-zu-partizipation-und-liquid-democracy/" target="_blank">Das edulabs Projekt von aula: „Unterrichtseinheit zu Partizipation und Liquid Democracy“</a>
-<a class="external-link" href="https://github.com/liqd/aula" target="_blank">Zur aula Software des Liquid Democracy e.V.</a>
-</p>
