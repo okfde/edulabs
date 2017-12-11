@@ -1,5 +1,5 @@
 ---
-_id: 57989220-dd23-11e7-9d16-ed20949b8d27
+_id: 067ad1a0-dec7-11e7-9d16-ed20949b8d27
 title: auxfs
 visible: '0'
 art: oer
@@ -42,7 +42,8 @@ vorbereitungszeit: vorbereitungszeit-3
 author-name: Alicia Bankhofer
 author-email: alicia.bankhofer@phwien.ac.at
 author-website: 'http://oe1macht.schule'
-tags: '#robotik #KI #KünstlicheIntelligenz #Radiosendungen #Ö1 #Ö1machtSchule'
-date: '2017-12-09T20:55:52.368Z'
+tags: ''
+date: '2017-12-11T23:00:06.201Z'
+slug: auxfs
 ---
 empty
