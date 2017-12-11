@@ -26,6 +26,8 @@
 
         ref.options = pOptions;
 
+        ref.uniqueGroups = ['kmk', 'zielgruppe', 'mediengruppe', 'dauergruppe', 'long-fachgruppe']
+
         filterGroups = {};
         filterList = [];
 
@@ -56,7 +58,7 @@
                 }
 
                 ref.addFilterToList(filterGroup, filter);
-                if (filterGroup === 'kmk')
+                if (ref.uniqueGroups.indexOf(filterGroup) >= 0)
                     $(this).siblings().removeClass('active hover')
                 $(this).addClass('active');
             } else {
@@ -107,13 +109,12 @@
              found = false;
         }
         if(!found) {
-            console.log(group, group === 'kmk')
-            if (group !== 'kmk') {
+            if (ref.uniqueGroups.indexOf(group) < 0) {
                 filterGroups[group].push(filter);
             } else {
-                for (var a = 0; a < filterGroups['kmk'].length; ++a) {
-                    var f = filterGroups['kmk'][a]
-                    ref.removeFilterFromList('kmk', f)
+                for (var a = 0; a < filterGroups[group].length; ++a) {
+                    var f = filterGroups[group][a]
+                    ref.removeFilterFromList(group, f)
                 }
 
                 filterGroups[group] = [filter];
