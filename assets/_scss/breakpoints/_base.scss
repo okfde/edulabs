@@ -322,7 +322,9 @@ WRAPPER STYLES
           cursor: pointer;
         }
       }
-
+      a{
+        color: $secondary-color;
+      }
     }
 
     .more-block{
