@@ -2,6 +2,7 @@
 _id: 91229040-c969-11e7-a1cf-8971f8c2d4c4
 title: 3uw9y
 art: oer
+visible: 0
 titel: Filmarbeit zu (Cyber) Mobbing
 desc: >-
   Das Klicksafe-Modul "Was tun bei (Cyber)Mobbing" bietet neben einem profunden
