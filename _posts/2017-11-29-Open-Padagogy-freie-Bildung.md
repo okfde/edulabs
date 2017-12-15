@@ -4,7 +4,7 @@ layout: post
 title: "Was ist Freie Pädagogik?"
 teaser: "„OER in der gleichen Weise zu nutzen, wie kommerzielle Lehrbücher, schöpft ihr volles Potenzial nicht aus.“ - eine Übersetzung von Anna-Lena Öhmann"
 teaser_img_src: /assets/img/blog/2017/Dezember/Open_Padagogy/david_wiley.jpg
-featured: true
+featured: false
 categories: Methoden
 twitter_large_img: /assets/img/blog/2017/Dezember/Open_Padagogy/david_wiley.jpg
 image: /assets/img/blog/2017/Dezember/Open_Padagogy/david_wiley.jpg
