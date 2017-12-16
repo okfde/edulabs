@@ -10,11 +10,13 @@
     {% assign posts = site.posts %}
     {% endif %}
     {% for post in posts %}
-      {% assign categories = post.categories | join:', ' %}
-      {% if categories %}
-          {% assign categories = "#" | append:categories %}
+      {% if post.visible == 0  %}
+      {% else %}
+          {% assign categories = post.categories | join:', ' %}
+          {% if categories %}
+              {% assign categories = "#" | append:categories %}
+          {% endif %}
+          {% include partials/blog/blog-teaser.liquid date=post.date featured=post.featured url=post.url filter=post.categories categories=categories src=post.teaser_img_src headline=post.title copy=post.teaser %}
       {% endif %}
-      {% include partials/blog/blog-teaser.liquid date=post.date featured=post.featured url=post.url filter=post.categories categories=categories src=post.teaser_img_src headline=post.title copy=post.teaser %}
-
     {% endfor %}
 </div>
