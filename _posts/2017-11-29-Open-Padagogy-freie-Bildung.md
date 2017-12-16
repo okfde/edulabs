@@ -2,7 +2,7 @@
 
 layout: redirected
 sitemap: false
-permalink: /blog/Open-Padagogy-freie-Bildung
+permalink: /blog/Open-Padagogy-freie-Bildung/
 redirect_to:  /blog/Open-Pedagogy-freie-Bildung
 title: "Was ist Freie Pädagogik?"
 teaser: "„OER in der gleichen Weise zu nutzen, wie kommerzielle Lehrbücher, schöpft ihr volles Potenzial nicht aus.“ - eine Übersetzung von Anna-Lena Öhmann"
