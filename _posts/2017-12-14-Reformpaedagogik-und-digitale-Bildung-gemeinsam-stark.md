@@ -6,8 +6,8 @@ teaser: "„Es hat recht lange gedauert, bis die Pädagogik durch den Hashtag #z
 teaser_img_src: /assets/img/blog/2017/Dezember/interview_dominik/montessorischule.jpg
 featured: true
 categories: Interviews
-twitter_large_img: /assets/img/blog/2017/Dezember/interview_dominik/montessorischule.jpg
-image: /assets/img/blog/2017/Dezember/interview_dominik/montessorischule.jpg
+twitter_large_img: /assets/img/blog/2017/Dezember/interview_dominik/montessorischule_twitter.jpg
+image: /assets/img/blog/2017/Dezember/interview_dominik/montessorischule_twitter.jpg
 header_background: /assets/img/blog/2017/Dezember/interview_dominik/montessorischule.jpg
 header_background_caption: "Bild: Unterricht in einer Montessorischule. Lizenz: <a href='https://de.wikipedia.org/wiki/Gemeinfreiheit'>gemeinfrei</a>"
 author: Maximilian Voigt
