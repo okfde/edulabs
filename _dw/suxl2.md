@@ -1,7 +1,7 @@
 ---
 _id: 17ffbbf0-df46-11e7-9d16-ed20949b8d27
 title: suxl2
-visible: '0'
+visible: 0
 art: oer
 titel: Webvideos gegen Hassrede im Netz selber machen
 desc: >-
