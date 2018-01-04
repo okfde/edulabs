@@ -10,7 +10,7 @@ permalink: /oer.xml
 		<atom:link href="{{ site.url }}/{{ page.path }}" rel="self" type="application/rss+xml" />
     {% assign posts = site.dw | where: "visible", 1 %}
 		<lastBuildDate>{% for post in posts limit:1 %}{% unless post.link %}{{ post.date | date_to_rfc822 }}{% endunless %}{% endfor %}</lastBuildDate>
-		{% for post in site.dw %}
+		{% for post in posts %}
 			<item>
 				<title>{{ post.titel | xml_escape }}</title>
 				{% if post.desc %}
