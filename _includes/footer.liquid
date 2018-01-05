@@ -13,8 +13,15 @@
         <br>
         <ul class="icons-list">
             <li><a class="icon black" href="mailto:info@edulabs.de"><i class="icon-paper-plane-empty">&#xf1d9;</i></a></li>
-            <li><a class="icon black" href="https://twitter.com/edulabsde" target="_blank" ><i class="icon-twitter">&#xe800;</i></a></li>
-            <li><a class="icon btn-github black" href="https://github.com/okfde/edulabs" target="_blank" ><i class="icon-github-circled">&#xe801;</i></a></li>
+            <li><a class="icon black" href="https://twitter.com/edulabsde" target="_blank" ><i class="icon-twitter">&#xf099;</i></a></li>
+            <li><a class="icon btn-github black" href="https://github.com/okfde/edulabs" target="_blank" ><i class="icon-github-circled">&#xe800;</i></a></li>
+            <li><a class="icon btn-rss black" target="_blank" ><i class="icon-rss">&#xf09e;</i></a>
+                <div id="rsslinks" style="display: none;">
+                    <a href="/blog.xml">Blog RSS</a>
+                    <br/>
+                    <a href="/oer.xml">OER RSS</a>
+                </div>
+            </li>
         </ul>
     </div>
     <div class="sponsors-nav">
@@ -35,8 +42,8 @@
                 </a>
             </li>
             <li class="cc-info">
-                <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br/><p class="bold">Inhalte dieser Webseite sind, sofern nicht anders angegeben, nach <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons 4.0 Attribution lizenziert.</a></br></br></p>
-            </li>
+                <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br/><p class="bold">Inhalte dieser Webseite sind, sofern nicht anders angegeben, nach <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons 4.0 Attribution lizenziert.</a>
+           </li>
         </ul>
         <div class="foot-links">
         <a class="conduct simple-btn" href="/codeofconduct">Code of Conduct</a>
@@ -73,7 +80,7 @@
                   emptyMsg  : '<p>Nothing found.</p>'     // shown message if search returns no results
                 });
 
-                var drawRandomTeaser = function () {
+               var drawRandomTeaser = function () {
                     $.each($('.project-teaser.random-image'), function(i,e) {
                         var pattern = Trianglify({
                                           height: 200,
@@ -81,10 +88,14 @@
                                           cell_size: 30 + Math.random() * 100});
                         $('.teaser-image', this).html(pattern.canvas());
                     });
-                }
+               }
 
-                $(window).resize(drawRandomTeaser);
-                drawRandomTeaser();
+               $(window).resize(drawRandomTeaser);
+               drawRandomTeaser();
+
+                $('.btn-rss').click(function () {
+                    $('#rsslinks').fadeToggle(200);
+                });
 
                 window.controller = new Controller($);
                 window.controller.init();

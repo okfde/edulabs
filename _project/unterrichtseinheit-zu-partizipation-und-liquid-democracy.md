@@ -19,10 +19,12 @@ date: '2017-08-10T14:25:17.930Z'
 slug: unterrichtseinheit-zu-partizipation-und-liquid-democracy
 image_src: /assets/img/projects/aula.jpg
 ---
-Ziele der Einheit sind: 
+
+Ziele der Einheit sind:
+
 - praktisches ausprobieren von Liquid Democracy 
 - Unterschied zwischen direkter und repräsentativer Demokratie kennenlernen
 - Liquid Democracy als mögliche Mischform kennenlernen
 - Rechte und Pflichten der Akteur:innen (Wähler:innen / Vertreter:innen) in einer repräsentativen  Demokratie diskutieren
--Bedingungen unterscheiden, wann direkte und wann repräsentative Entscheidungsfindung sinnvoll sind
--Theoretisches Wissen mit konkreten Phänomenen im deutschen Staat abgleichen
+- Bedingungen unterscheiden, wann direkte und wann repräsentative Entscheidungsfindung sinnvoll sind
+- Theoretisches Wissen mit konkreten Phänomenen im deutschen Staat abgleichen

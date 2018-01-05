@@ -1,7 +1,7 @@
 ---
 _id: 7f81bf10-df1b-11e7-9d16-ed20949b8d27
 title: auxfs
-visible: '0'
+visible: 0
 art: oer
 titel: Zum Thema Robotik forschen und präsentieren
 desc: >-
