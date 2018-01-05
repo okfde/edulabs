@@ -15,7 +15,13 @@
             <li><a class="icon black" href="mailto:info@edulabs.de"><i class="icon-paper-plane-empty">&#xf1d9;</i></a></li>
             <li><a class="icon black" href="https://twitter.com/edulabsde" target="_blank" ><i class="icon-twitter">&#xe800;</i></a></li>
             <li><a class="icon btn-github black" href="https://github.com/okfde/edulabs" target="_blank" ><i class="icon-github-circled">&#xe801;</i></a></li>
+            <li><a class="icon btn-rss black" target="_blank" ><img src="/assets/img/static/rss.svg"></a></li>
         </ul>
+                <div id="rsslinks" style="display: none;">
+                    <a href="/blog.xml">Blog RSS</a>
+                    <p/>
+                    <a href="/oer.xml">OER RSS</a>
+                </div>
     </div>
     <div class="sponsors-nav">
         <ul>
@@ -35,8 +41,8 @@
                 </a>
             </li>
             <li class="cc-info">
-                <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br/><p class="bold">Inhalte dieser Webseite sind, sofern nicht anders angegeben, nach <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons 4.0 Attribution lizenziert.</a></br></br></p>
-            </li>
+                <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br/><p class="bold">Inhalte dieser Webseite sind, sofern nicht anders angegeben, nach <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons 4.0 Attribution lizenziert.</a>
+           </li>
         </ul>
         <div class="foot-links">
         <a class="conduct simple-btn" href="/codeofconduct">Code of Conduct</a>
@@ -85,6 +91,10 @@
 
                 $(window).resize(drawRandomTeaser);
                 drawRandomTeaser();
+
+                $('.btn-rss').click(function () {
+                    $('#rsslinks').toggle(200);
+                });
 
                 window.controller = new Controller($);
                 window.controller.init();
