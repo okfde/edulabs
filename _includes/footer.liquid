@@ -15,13 +15,14 @@
             <li><a class="icon black" href="mailto:info@edulabs.de"><i class="icon-paper-plane-empty">&#xf1d9;</i></a></li>
             <li><a class="icon black" href="https://twitter.com/edulabsde" target="_blank" ><i class="icon-twitter">&#xe800;</i></a></li>
             <li><a class="icon btn-github black" href="https://github.com/okfde/edulabs" target="_blank" ><i class="icon-github-circled">&#xe801;</i></a></li>
-            <li><a class="icon btn-rss black" target="_blank" ><img src="/assets/img/static/rss.svg"></a></li>
-        </ul>
+            <li><a class="icon btn-rss black" target="_blank" ><img src="/assets/img/static/rss.svg"></a>
                 <div id="rsslinks" style="display: none;">
                     <a href="/blog.xml">Blog RSS</a>
-                    <p/>
+                    <br/>
                     <a href="/oer.xml">OER RSS</a>
                 </div>
+            </li>
+        </ul>
     </div>
     <div class="sponsors-nav">
         <ul>
@@ -93,7 +94,7 @@
                // drawRandomTeaser();
 
                 $('.btn-rss').click(function () {
-                    $('#rsslinks').toggle(200);
+                    $('#rsslinks').fadeToggle(200);
                 });
 
                 window.controller = new Controller($);

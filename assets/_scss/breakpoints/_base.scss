@@ -1183,5 +1183,13 @@ FOOTER STYLES
 
 }
 
-.btn-rss {
+#rsslinks {
+    border: 1px solid black;
+    padding: 10px;
+
+    a:hover {
+        text-decoration: underline;
+    }
+
+    position: absolute;
 }
