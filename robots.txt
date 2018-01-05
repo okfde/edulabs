@@ -1,3 +1,2 @@
-User-agent: *
+﻿User-agent: *
 Disallow: /oer/hidden
-Allow: /
