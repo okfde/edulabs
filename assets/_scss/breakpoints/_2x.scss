@@ -22,6 +22,7 @@ WRAPPER STYLES
     font-size: 1.0rem;
   }
   .page-description{
+     padding: 0px 0px;
      p{
         font-size: 1.0rem;
      }
@@ -44,7 +45,7 @@ EDUSPRINT
   .filter-items{
     width: 100%;
     .filter-icon{
-      font-size: 0.90em;
+      font-size: 0.70em;
     }
     .shrinked{
       font-size: 1.00em;
@@ -52,10 +53,10 @@ EDUSPRINT
 
     .icons-wrap{
       .filter-icon{
+        margin-bottom: 0px !important;
         span{
           font-size: 0.7rem;
         }
-
       }
     }
     .filter-items-headline{
