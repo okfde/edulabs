@@ -1,2 +1,3 @@
 ﻿User-agent: *
 Disallow: /oer/hidden
+Disallow: /oerwithslug/
