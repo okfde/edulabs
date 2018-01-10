@@ -9,7 +9,7 @@ desc: >-
   sich das richtige Denk-Werkzeug anzueignen, um dann auch programmieren zu
   können. "CS Unplugged" vermittelt spielerisch wichtige Grundlagen,
   Fragestellungen und Methoden der Informatik, ganz ohne Strom.
-link: 'http://cs-unplugged.appspot.com/en-gb/'
+link: 'https://cs-unplugged.appspot.com/en/'
 lernziele: >-
   In einer Reihe von "Activities", werden Schritt für Schritt die Grundlagen der
   Informatik und des informatik-bezogenen Denkens eingeführt. Anschaulich und
