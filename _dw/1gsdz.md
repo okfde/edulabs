@@ -5,7 +5,7 @@ art: noer
 visible: 1
 titel: Ein-Chip-Computer und die Arduino-Plattform im Unterricht
 desc: >-
-  Arduino sowohl eine Software als auch eine Hardware-Plattform. Die Kombination
+  Arduino ist sowohl eine Software als auch eine Hardware-Plattform. Die Kombination
   beider Systeme erlaubt den vereinfachten Einstieg in die Programmierung von
   Elektronik oder auch das “physical computing”. Im Artikel werden Vor- und
   Nachteile beleuchtet sowie Praxisbeispiele gegeben.
