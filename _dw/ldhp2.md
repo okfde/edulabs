@@ -2,6 +2,7 @@
 _id: ca9fdae0-c61b-11e7-a1cf-8971f8c2d4c4
 title: ldhp2
 art: oer
+visible: 1
 titel: Kommunalpolitik verstehen und bewerten
 desc: >-
   In diesem Unterrichtsbeispiel analysieren Jugendliche die Auswirkungen einer

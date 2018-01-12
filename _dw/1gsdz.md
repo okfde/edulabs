@@ -2,6 +2,7 @@
 _id: 03622cf0-cf92-11e7-a1cf-8971f8c2d4c4
 title: 1gsdz
 art: noer
+visible: 1
 titel: Ein-Chip-Computer und die Arduino-Plattform im Unterricht
 desc: >-
   Arduino sowohl eine Software als auch eine Hardware-Plattform. Die Kombination

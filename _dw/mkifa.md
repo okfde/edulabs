@@ -3,6 +3,7 @@ _id: 5d497120-c96a-11e7-a1cf-8971f8c2d4c4
 title: mkifa
 art: oer
 titel: Jugend-Hackathons selbst veranstalten
+visible: 1
 desc: >-
   Das Projekt "Jugend hackt" hat zahlreiche Hackathons für 12-18 Jährige selbst
   durchgeführt und diese Erfahrungen in einem umfangreichen Handbuch

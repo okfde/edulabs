@@ -2,6 +2,7 @@
 _id: c2a36600-cf93-11e7-a1cf-8971f8c2d4c4
 title: sphsn
 art: noer
+visible: 1
 titel: Lernen mit dem Raspberry Pi - Erfahrungen und Ideen
 desc: >-
   Der Raspberry Pi ist ein leistungsstarker, aber gleichzeitig sehr kompakter

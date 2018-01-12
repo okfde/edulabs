@@ -2,6 +2,7 @@
 _id: df7475b0-c969-11e7-a1cf-8971f8c2d4c4
 title: s4ayd
 art: oer
+visible: 1
 titel: Spielanleitung DATA RUN - Ein Alternate-Reality Game zum Thema Überwachung
 desc: >-
   Abhörskandal, sichere Chateinstellungen, Datenklau – das Alternate Reality

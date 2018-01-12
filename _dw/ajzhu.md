@@ -2,6 +2,7 @@
 _id: 86a378f0-cf90-11e7-a1cf-8971f8c2d4c4
 title: ajzhu
 art: noer
+visible: 1
 titel: H5P im Unterricht - Erfahrungen und Ideen
 desc: >-
   H5P ist eine freie und quelloffene Software zum Erstellen von interaktiven

@@ -2,6 +2,7 @@
 _id: 46d1f2c0-cdd2-11e7-a1cf-8971f8c2d4c4
 title: 30utp
 art: oer
+visible: 1
 titel: Erklärvideos im Unterricht erstellen
 desc: >-
   Ob ihr Lehrer gut erklärt oder nicht, ist vielen SuS mittlerweile egal. Sie
