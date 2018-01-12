@@ -4,7 +4,7 @@ layout: post
 title: "Was Bildungsreformer und -digitalisierer voneinander lernen können"
 teaser: "„Es hat recht lange gedauert, bis die Pädagogik durch den Hashtag #zeitgemäßeBildung in den Fokus gelangt ist.“ - Dominik Schöneberg im Interview"
 teaser_img_src: /assets/img/blog/2017/Dezember/interview_dominik/montessorischule.jpg
-featured: true
+featured: false
 categories: Interviews
 twitter_large_img: /assets/img/blog/2017/Dezember/interview_dominik/montessorischule_twitter.jpg
 image: /assets/img/blog/2017/Dezember/interview_dominik/montessorischule_twitter.jpg
