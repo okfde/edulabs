@@ -46,6 +46,7 @@ Ich beginne mit ganz alltäglichen Situationen, zum Beispiel mit einer Suchanfra
 Die sozialen Interaktionen werden teilweise simuliert. Es ist aber möglich, sich im sozialen Netzwerk des Nachbarn anzumelden. Das ist notwendig, da jeder und jede die Möglichkeit haben soll, als Administrator das System zu erforschen und zu manipulieren. Wenn es nur ein System gäbe, wäre das schwieriger. Außerdem haben die Lernenden die volle Macht; sie können ihre Netzwerke auch löschen. Es geht in erster Linie um technische Aspekte. Aber dabei tauchen auch immer wieder gesellschaftliche Fragen auf. Zum Beispiel, wie wenig Privatsphäre ich als User eigentlich in solchen Netzwerken habe. Das Ausmaß überrascht viele Schülerinnen und Schüler sehr. 
 <!-- include quote -->
 {% include partials/content/content-quote.liquid float="left" content="Das Ausmaß, wie wenig Privatsphäre User in sozialen Netzwerken haben, überrascht viele Schülerinnen und Schüler sehr." %}
+
 **Wie haben Lernende das System bisher aufgenommen?**<br>
 Sie hatten großen Spaß. Ich habe zum Beispiel das Feedback bekommen, dass ein Schüler einem anderen, der ebenfalls das Thema Datenbanken an seiner Schule hatte, vieles erklären konnte, weil er es anhand der realen Anwendung viel besser verstanden hatte.
 
