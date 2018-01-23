@@ -4,7 +4,7 @@ layout: post
 title: "Über ein soziales Netzwerk, in dem Lernende die Macht haben"
 teaser: "Julian Dorn ist Informatiklehrer. Für seinen Unterricht hat er ein soziales Netzwerk entwickelt, welches es Lernenden ermöglicht hinter die Fassade von Plattformen wie Facebook und Snapchat zu blicken."
 teaser_img_src: /assets/img/blog/2018/Januar/interview_julian_dorn/profile.png
-featured: true
+featured: false
 categories: Interviews
 twitter_large_img: /assets/img/blog/2018/Januar/interview_julian_dorn/profile.png
 image: /assets/img/blog/2018/Januar/interview_julian_dorn/profile.png
