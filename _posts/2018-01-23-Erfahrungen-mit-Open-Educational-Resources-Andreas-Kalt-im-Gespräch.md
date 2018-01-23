@@ -3,11 +3,11 @@
 layout: post
 title: "Zum „wundersamen“ Netz und 10 Jahren Erfahrung mit OER"
 teaser: "Andreas Kalt ist Lehrer und veröffentlicht seit einigen Jahren Unterrichtsmaterialien, Methoden und Gedanken unter einer freien Lizenz. Wir haben mit ihm über seine Erfahrungen gesprochen."
-teaser_img_src: /assets/img/blog/2018/Januar/andreas_kalt/andreas_kalt_small.jpg
+teaser_img_src: /assets/img/blog/2018/Januar/andreas_kalt/andreas_kalt_twitter.jpg
 featured: true
 categories: Interviews
-twitter_large_img: /assets/img/blog/2018/Januar/andreas_kalt/andreas_kalt_small.jpg
-image: /assets/img/blog/2018/Januar/andreas_kalt/andreas_kalt_small.jpg
+twitter_large_img: /assets/img/blog/2018/Januar/andreas_kalt/andreas_kalt_twitter.jpg
+image: /assets/img/blog/2018/Januar/andreas_kalt/andreas_kalt_twitter.jpg
 header_background: /assets/img/blog/2018/Januar/andreas_kalt/andreas_kalt_small.jpg
 header_background_caption: "Bild: Andreas Kalt. Lizenz: <a href='https://creativecommons.org/licenses/by/4.0/'>CC-BY 4.0</a>"
 author: Maximilian Voigt
