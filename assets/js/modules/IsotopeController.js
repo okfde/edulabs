@@ -172,6 +172,8 @@
                  sortBy: 'title'*/
             });
             if (ref.options.shuffle) {
+                console.log(ref.options)
+                console.log('shuffle')
                 $grid.isotope('shuffle')
             }
             isotopeInitialized = true;
