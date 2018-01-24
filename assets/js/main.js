@@ -57,6 +57,7 @@
 
         //edusprint commands
         if($('.edusprint')){
+            isotopeController.options.shuffle = true;
             ref.initEduSprintPage();
         }
 
@@ -298,6 +299,7 @@
      edusprint filter stuff belongs here
      *********************/
     Controller.prototype.initEduSprintPage = function(){
+
 
         $moreBlock = $('.more-block');
         $moreButton = $('.more-btn');

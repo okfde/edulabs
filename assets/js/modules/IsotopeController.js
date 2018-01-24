@@ -171,6 +171,9 @@
                  // sort by title
                  sortBy: 'title'*/
             });
+            if (ref.options.shuffle) {
+                $grid.isotope('shuffle')
+            }
             isotopeInitialized = true;
             setTimeout(function(){
                 $itemsWrap.isotope('layout');
