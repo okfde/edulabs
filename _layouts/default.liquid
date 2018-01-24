@@ -7,7 +7,22 @@
     <meta name="viewport" content="width=device-width, user-scalable=no">
     <link rel="shortcut icon" type="image/x-icon" href="/assets/img/static/edulabs.ico">
     <link rel="stylesheet" href="/assets/main.css">
+    {% if page.url contains '/oer' %}
+    <title> {{ page.titel }}</title>
+    <meta property="og:title" content="{{ page.titel }}" />
+    <meta property="og:locale" content="de_DE" />
+    <meta name="description" content="{{ page.desc }}" />
+    <meta property="og:description" content="{{ page.desc }}" />
+    <link rel="canonical" href="{{site.url}}{{ page.url }}" />
+    <meta property="og:url" content="{{site.url}}{{ page.url }}" />
+    <meta property="og:site_name" content="edulabs" />
+    <meta property="og:type" content="Open Educational Resource" />
+    <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}" />
+    <script type="application/ld+json">
+    {"name":"{{ page.titel}}","description":"{{ page.desc}}","author": "{{ page.author-name}}","@type":"OER","url":"{{site.url}}{{ page.url }}","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"{{ site.logo}}"}},"image":null,"headline":"{{ page.titel }}","dateModified":{{ page.date | date_to_xmlschema }},"datePublished":{{ page.date | date_to_xmlschema }},"sameAs":null,"mainEntityOfPage":{"@type":"WebPage","@id":"{{ page.url}}"},"@context":"http://schema.org"}</script>
+    {% else %}
     {% seo %}
+    {% endif %}
     <!-- Piwik -->
    <script type="text/javascript">
        var _paq = _paq || [];
@@ -33,7 +48,7 @@
 <body>
   <style>
   html {
-	touch-action: manipulation;
+    touch-action: manipulation;
 }
   </style>
 {% include header.liquid %}
