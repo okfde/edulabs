@@ -8,6 +8,10 @@
     <link rel="shortcut icon" type="image/x-icon" href="/assets/img/static/edulabs.ico">
     <link rel="stylesheet" href="/assets/main.css">
     {% if page.url contains '/oer' %}
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="{{page.titel}}" />
+    <meta name="twitter:description" content="{{page.desc}}" />
+    <meta name="twitter:image" content="{{site.url}}assets/img/static/oer_card_twitter_img.jpg" />
     <title> {{ page.titel }}</title>
     <meta property="og:title" content="{{ page.titel }}" />
     <meta property="og:locale" content="de_DE" />
@@ -16,6 +20,7 @@
     <link rel="canonical" href="{{site.url}}{{ page.url }}" />
     <meta property="og:url" content="{{site.url}}{{ page.url }}" />
     <meta property="og:site_name" content="edulabs" />
+    <meta property="og:image" content="{{site.url}}assets/img/static/oer_card_twitter_img.jpg" />
     <meta property="og:type" content="Open Educational Resource" />
     <meta property="article:published_time" content="{{ page.date }}" />
     <script type="application/ld+json">
