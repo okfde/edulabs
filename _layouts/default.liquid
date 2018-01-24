@@ -19,7 +19,7 @@
     <meta property="og:type" content="Open Educational Resource" />
     <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}" />
     <script type="application/ld+json">
-    {"name":"{{ page.titel}}","description":"{{ page.desc}}","author": "{{ page.author-name}}","@type":"OER","url":"{{site.url}}{{ page.url }}","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"{{ site.logo}}"}},"image":null,"headline":"{{ page.titel }}","dateModified":{{ page.date | date_to_xmlschema }},"datePublished":{{ page.date | date_to_xmlschema }},"sameAs":null,"mainEntityOfPage":{"@type":"WebPage","@id":"{{ page.url}}"},"@context":"http://schema.org"}</script>
+    {"name":"{{ page.titel}}","description":"{{ page.desc}}","author": "{{ page.author-name}}","@type":"OER","url":"{{site.url}}{{ page.url }}","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"{{ site.logo}}"}},"image":null,"headline":"{{ page.titel }}","dateModified":"{{ page.date | date_to_xmlschema }}","datePublished":"{{ page.date | date_to_xmlschema }}","sameAs":"","mainEntityOfPage":{"@type":"WebPage","@id":"{{ page.url}}"},"@context":"http://schema.org"}</script>
     {% else %}
     {% seo %}
     {% endif %}
