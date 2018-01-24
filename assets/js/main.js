@@ -51,15 +51,16 @@
         //isotope
         isotopeController = new IsotopeController(this);
         var options = {
-            multiple: true //if set to TRUE you can filter by multiple items
+            multiple: true, //if set to TRUE you can filter by multiple items
+            shuffle: false
         };
         isotopeController.init(options);
 
         //edusprint commands
-        if($('.edusprint')){
+        if($('.edusprint').length > 0){
+            isotopeController.options.shuffle = true;
             ref.initEduSprintPage();
         }
-
 
         ref.addEventHandlers();
         ref.resize();
@@ -298,6 +299,7 @@
      edusprint filter stuff belongs here
      *********************/
     Controller.prototype.initEduSprintPage = function(){
+
 
         $moreBlock = $('.more-block');
         $moreButton = $('.more-btn');

@@ -171,6 +171,11 @@
                  // sort by title
                  sortBy: 'title'*/
             });
+            if (ref.options.shuffle) {
+                console.log(ref.options)
+                console.log('shuffle')
+                $grid.isotope('shuffle')
+            }
             isotopeInitialized = true;
             setTimeout(function(){
                 $itemsWrap.isotope('layout');
