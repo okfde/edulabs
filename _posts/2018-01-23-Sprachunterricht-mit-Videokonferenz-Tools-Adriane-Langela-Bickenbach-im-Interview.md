@@ -21,6 +21,8 @@ info_text: |
 **Wie ist die Idee zum Projekt entstanden?**<br>
 Während meiner Ausbildung habe ich zweimal im Ausland studiert und konnte im Anschluss daran den Kontakt zu meinen dortigen Freunden über digitale Dienste halten. Schon damals hatte ich die Vision, irgendwann digitale Verbindungen für das Fremdsprachenlernen zu nutzen. Es ist einfach großartig, sich zu vernetzen und (Fremd-)Sprache zu kultivieren. 2010 erfuhr ich von einer Förderung vom Ministerium für Bauen und Wohnen. Damals hatte ich bereits 7 Jahre Erfahrung mit E-Mail-Projekten gesammelt. So schrieb ich einen Antrag und wagte den Schritt in das GLAS-Projekt, das nicht ganz unumstritten war. Durch die Unterstützung der Schulleitung und eines Informatikkollegen konnten Sponsoren aus der Aachener Region gewonnen werden.
 
+<div class="video"><iframe width="560" height="315" src="https://www.youtube.com/embed/3ei9cXh65Jg?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+
 **Hat es auf Anhieb geklappt?**<br>
 Es musste viel Pionierarbeit geleistet werden, so dass es mehrere Jahre dauerte, den Videokonferenzraum umzusetzen und das Konzept sowohl schulintern als auch mit den Partnern zu etablieren. Der nicht immer leichte Prozess wurde aber am Ende belohnt. Ohne meinen Schulleiter, meine Teilzeitstelle, meine Frohnatur und ein kleines Team aus niederländischen und deutschen Kollegen hätte es das Projekt nicht gegeben. Mit meinem jetzigen Hintergundwissen und dem heutigen Stand der Technik würde die Energie weniger in den Raum, sondern mehr in mobile Lösungen fließen.
 
@@ -34,11 +36,6 @@ Eigentlich waren alle Schüler\*innen von Anfang an begeistert und neugierig: en
 <!-- include quote -->
 {% include partials/content/content-quote.liquid float="left" content="Lernende, die aus einem traditionellen System kommen und an „richtig“ oder „falsch“ gewöhnt sind, brauchen etwas Zeit, eine positive Fehlerkultur leben zu lernen." %}
 Bisher waren die Jugendlichen damit vertraut, Rückmeldung von der Lehrperson oder ihren Mitlernenden zu erhalten. Plötzlich entscheidet aber der Kommunikationserfolg mit echten ausländischen Partnern über die Qualität ihrer kommunikativen Fähigkeiten. Sie müssen nachfragen, erklären, neu formulieren. Einigen Schüler\*innen fällt dies zu Beginn nicht leicht und sie legen erst nach der zweiten oder dritten Einheit den eigenen Anspruch ab, nur vollständig korrekte Sätze zu formulieren und diese auch von der Lehrperson abgenickt zu bekommen. In den Videokonferenzstunden ändert sich nicht nur die Lehrer- sondern auch die Schülerrolle. 
-
-**Wie haben die Lernenden das Konzept angenommen?**<br>
-Unsere schulinterne Evaluation und die Übertragung auf weitere Fächer (Englisch und Spanisch) zeigt, dass das Konzept angenommen wurde und die Idee funktioniert. Aber echte Glücksmomente erfahren wir, wenn die Jugendlichen fragen, wann es endlich wieder eine Videokonferenz gibt. Noch nie haben sich so viele Lernende persönlich bedankt wie nach den GLAS-Stunden. Es begeistert mich zu sehen, wie schnell Schüler\*innen in diesem Unterrichtsformat eigene Unsicherheiten ablegen und sich interkulturell handlungsfähig zeigen. 
-
-<div class="video"><iframe width="560" height="315" src="https://www.youtube.com/embed/3ei9cXh65Jg?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 **Woran liegt das, was macht das GLAS-Projekt besonders?**<br>
 Die Videokonferenzstunden sind Bestandteil eines größeren Konzeptes, bei dem die Austauschklassen sich auch in der Realität treffen. So liegt das innovative Element von GLAS nicht an den Videokonferenzen selbst, sondern an einer zeitgemäßen Kombination diverser Möglichkeiten im Kontext Schule. Zum Beispiel findet zwischen den Lernenden auch unbegleitete Kommunikation in sozialen Netzwerken, wie Instagram, Snapchat o.ä., statt. Idealerweise verselbstständigt sich diese informelle Kommunikation und wird im Unterricht reflektierend thematisiert. 
