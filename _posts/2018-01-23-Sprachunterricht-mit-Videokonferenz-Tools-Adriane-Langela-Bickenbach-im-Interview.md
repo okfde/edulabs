@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: "Sprachunterricht über kulturelle und geographische Grenzen hinweg"
+title: "Sprachunterricht über kulturelle und geografische Grenzen hinweg"
 teaser: "Adriane Langela-Bickenbach ist Lehrerin und hat das Projekt GLAS gestartet, das 2018 mit dem Deutschen Lehrerpreis ausgezeichnet wurde. Ein Konzept, das Videokonferenzen in den Unterricht einbindet und damit den internationalen Austausch zwischen Lernenden erleichtert sowie zeitgemäße Kompetenzen fördert."
 teaser_img_src: /assets/img/blog/2018/Januar/Interview_Adriane_Langela-Bickenbach/adriane_teaser_small.JPG
 featured: true
@@ -24,7 +24,7 @@ Während meiner Ausbildung habe ich zweimal im Ausland studiert und konnte im An
 <div class="video"><iframe width="560" height="315" src="https://www.youtube.com/embed/3ei9cXh65Jg?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 **Hat es auf Anhieb geklappt?**<br>
-Es musste viel Pionierarbeit geleistet werden, so dass es mehrere Jahre dauerte, den Videokonferenzraum umzusetzen und das Konzept sowohl schulintern als auch mit den Partnern zu etablieren. Der nicht immer leichte Prozess wurde aber am Ende belohnt. Ohne meinen Schulleiter, meine Teilzeitstelle, meine Frohnatur und ein kleines Team aus niederländischen und deutschen Kollegen hätte es das Projekt nicht gegeben. Mit meinem jetzigen Hintergundwissen und dem heutigen Stand der Technik würde die Energie weniger in den Raum, sondern mehr in mobile Lösungen fließen.
+Es musste viel Pionierarbeit geleistet werden, sodass es mehrere Jahre dauerte, den Videokonferenzraum umzusetzen und das Konzept sowohl schulintern als auch mit den Partnern zu etablieren. Der nicht immer leichte Prozess wurde aber am Ende belohnt. Ohne meinen Schulleiter, meine Teilzeitstelle, meine Frohnatur und ein kleines Team aus niederländischen und deutschen Kollegen hätte es das Projekt nicht gegeben. Mit meinem jetzigen Hintergrundwissen und dem heutigen Stand der Technik würde die Energie weniger in den Raum, sondern mehr in mobile Lösungen fließen.
 
 <div class="img-wrap-center">
 <img src="https://github.com/okfde/edulabs/blob/master/assets/img/projects_extern/glas%20projekt_klassenraum(gro%C3%9F).jpg?raw=true" style="width: 100%; display: inline-block">
@@ -35,7 +35,7 @@ Es musste viel Pionierarbeit geleistet werden, so dass es mehrere Jahre dauerte,
 Eigentlich waren alle Schüler\*innen von Anfang an begeistert und neugierig: endlich echte Austauschpartner, mit denen sie fremdsprachlichen Kontakt haben können! Eine Situation, die sonst nur bei einem realen Austausch auftaucht und eine unglaubliche Chance für die Begegnungsdidaktik bedeutet. Allerdings brauchen Lernende, die aus einem traditionellen System kommen und an „richtig“ oder „falsch“ gewöhnt sind, meist etwas Zeit, eine positive Fehlerkultur leben zu lernen. 
 <!-- include quote -->
 {% include partials/content/content-quote.liquid float="left" content="Lernende, die aus einem traditionellen System kommen und an „richtig“ oder „falsch“ gewöhnt sind, brauchen etwas Zeit, eine positive Fehlerkultur leben zu lernen." %}
-Bisher waren die Jugendlichen damit vertraut, Rückmeldung von der Lehrperson oder ihren Mitlernenden zu erhalten. Plötzlich entscheidet aber der Kommunikationserfolg mit echten ausländischen Partnern über die Qualität ihrer kommunikativen Fähigkeiten. Sie müssen nachfragen, erklären, neu formulieren. Einigen Schüler\*innen fällt dies zu Beginn nicht leicht und sie legen erst nach der zweiten oder dritten Einheit den eigenen Anspruch ab, nur vollständig korrekte Sätze zu formulieren und diese auch von der Lehrperson abgenickt zu bekommen. In den Videokonferenzstunden ändert sich nicht nur die Lehrer- sondern auch die Schülerrolle. 
+Bisher waren die Jugendlichen damit vertraut, Rückmeldung von der Lehrperson oder ihren Mitlernenden zu erhalten. Plötzlich entscheidet aber der Kommunikationserfolg mit echten ausländischen Partnern über die Qualität ihrer kommunikativen Fähigkeiten. Sie müssen nachfragen, erklären, neu formulieren. Einigen Schüler\*innen fällt dies zu Beginn nicht leicht und sie legen erst nach der zweiten oder dritten Einheit den eigenen Anspruch ab, nur vollständig korrekte Sätze zu formulieren und diese auch von der Lehrperson abgenickt zu bekommen. In den Videokonferenzstunden ändert sich nicht nur die Lehrer-, sondern auch die Schülerrolle. 
 
 **Woran liegt das, was macht das GLAS-Projekt besonders?**<br>
 Die Videokonferenzstunden sind Bestandteil eines größeren Konzeptes, bei dem die Austauschklassen sich auch in der Realität treffen. So liegt das innovative Element von GLAS nicht an den Videokonferenzen selbst, sondern an einer zeitgemäßen Kombination diverser Möglichkeiten im Kontext Schule. Zum Beispiel findet zwischen den Lernenden auch unbegleitete Kommunikation in sozialen Netzwerken, wie Instagram, Snapchat o.ä., statt. Idealerweise verselbstständigt sich diese informelle Kommunikation und wird im Unterricht reflektierend thematisiert. 
@@ -44,5 +44,5 @@ Lehrpersonen können die Videokonferenzen als eine Form der gezielten medialen B
 <p class="link-list">
 <span class="link-list-headline">Links</span>
 <a class="external-link" href="http://www.aachener-nachrichten.de/lokales/region/deutscher-lehrerpreis-auch-fuer-aachener-gymnasium-1.1802625" target="_blank">Das Glas-Konzept gewinnt den Deutschen Lehrerpreis - Aachener Nachrichten</a>
-<a class="external-link" href="http://slg-aachen.de/index.php/mehr-am-leo/90-mehr-am-leo/244-glas-projekt " target="_blank">Zur Internetpräsenz von GLAS</a>
+<a class="external-link" href="http://slg-aachen.de/index.php/mehr-am-leo/90-mehr-am-leo/244-glas-projekt" target="_blank">Zur Internetpräsenz von GLAS</a>
 </p>
