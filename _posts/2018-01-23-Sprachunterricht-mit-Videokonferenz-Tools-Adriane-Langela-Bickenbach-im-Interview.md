@@ -1,0 +1,51 @@
+---
+
+layout: post
+title: "Sprachunterricht über kulturelle und geographische Grenzen hinweg"
+teaser: "Adriane Langela-Bickenbach ist Lehrerin und hat das Projekt GLAS gestartet, das 2018 mit dem Deutschen Lehrerpreis ausgezeichnet wurde. Ein Konzept, das Videokonferenzen in den Unterricht einbindet und damit den internationalen Austausch zwischen Lernenden erleichtert sowie zeitgemäße Kompetenzen fördert."
+teaser_img_src: /assets/img/blog/2018/Januar/andreas_kalt/andreas_kalt_twitter.jpg
+featured: true
+categories: Interviews
+twitter_large_img: /assets/img/blog/2018/Januar/andreas_kalt/andreas_kalt_twitter.jpg
+image: /assets/img/blog/2018/Januar/andreas_kalt/andreas_kalt_twitter.jpg
+header_background: /assets/img/blog/2018/Januar/andreas_kalt/andreas_kalt_small.jpg
+header_background_caption: "Bild: Adriane Langela-Bickenbach. Lizenz: <a href='https://creativecommons.org/licenses/by/4.0/'>CC-BY 4.0</a>"
+author: Maximilian Voigt
+info_text: |
+
+---
+<!-- include infobox -->
+{% include partials/content/content-infobox.liquid float="right" headline="Was ist zeitgemäße Bildung?" copy="<a href='/blog/Interview-mit-Dejan-Mihajlovic-zu-zeitgemaeßer-Bildung'><img src='/assets/img/blog/2017/Oktober/Interview_Dejan/Dejan Mihajlovic.jpg' style='width: 100%; display: inline-block'></a>„Momentan wird Bestehendes nur digitalisiert. Es wird wenig infrage gestellt.“ - Dejan Mihajlovic im Interview" %}
+*Adriane Langela-Bickenbach ist Lehrerin für Niederländisch und Englisch am Gymnasium St. Leonhard in Aachen. 2010/11 hat sie das Projekt GLAS gestartet, das 2018 mit dem Deutschen Lehrerpreis ausgezeichnet wurde. Ein Konzept, das Videokonferenzen in den Unterricht einbindet und damit den internationalen Austausch zwischen Lernenden erleichtert sowie zeitgemäße Kompetenzen fördert.*
+
+**Wie ist die Idee zum Projekt entstanden?**<br>
+Während meiner Ausbildung habe ich zweimal im Ausland studiert und konnte im Anschluss daran den Kontakt zu meinen dortigen Freunden über digitale Dienste halten. Schon damals hatte ich die Vision, irgendwann digitale Verbindungen für das Fremdsprachenlernen zu nutzen. Es ist einfach großartig, sich zu vernetzen und (Fremd-)Sprache zu kultivieren. 2010 erfuhr ich von einer Förderung vom Ministerium für Bauen und Wohnen. Damals hatte ich bereits 7 Jahre Erfahrung mit E-Mail-Projekten gesammelt. So schrieb ich einen Antrag und wagte den Schritt in das GLAS-Projekt, das nicht ganz unumstritten war. Durch die Unterstützung der Schulleitung und eines Informatikkollegen konnten Sponsoren aus der Aachener Region gewonnen werden.
+
+**Hat es auf Anhieb geklappt?**<br>
+Es musste viel Pionierarbeit geleistet werden, so dass es mehrere Jahre dauerte, den Videokonferenzraum umzusetzen und das Konzept sowohl schulintern als auch mit den Partnern zu etablieren. Der nicht immer leichte Prozess wurde aber am Ende belohnt. Ohne meinen Schulleiter, meine Teilzeitstelle, meine Frohnatur und ein kleines Team aus niederländischen und deutschen Kollegen hätte es das Projekt nicht gegeben. Mit meinem jetzigen Hintergundwissen und dem heutigen Stand der Technik würde die Energie weniger in den Raum, sondern mehr in mobile Lösungen fließen.
+
+<div class="img-wrap-center">
+<img src="https://github.com/okfde/edulabs/blob/master/assets/img/projects_extern/glas%20projekt_klassenraum(gro%C3%9F).jpg?raw=true" style="width: 100%; display: inline-block">
+<div class="caption" style="text-align: right">Bild: Der GLAS-Raum, illustriert von Daria Rüttimann. Lizenz: <a href='https://creativecommons.org/licenses/by/4.0/'>CC-BY 4.0</a></div>
+</div>
+
+**Wie haben es die Lernenden aufgenommen?**<br>
+Eigentlich waren alle Schüler\*innen von Anfang an begeistert und neugierig: endlich echte Austauschpartner, mit denen sie fremdsprachlichen Kontakt haben können! Eine Situation, die sonst nur bei einem realen Austausch auftaucht und eine unglaubliche Chance für die Begegnungsdidaktik bedeutet. Allerdings brauchen Lernende, die aus einem traditionellen System kommen und an „richtig“ oder „falsch“ gewöhnt sind, meist etwas Zeit, eine positive Fehlerkultur leben zu lernen. 
+<!-- include quote -->
+{% include partials/content/content-quote.liquid float="left" content="Lernende, die aus einem traditionellen System kommen und an „richtig“ oder „falsch“ gewöhnt sind, brauchen etwas Zeit, eine positive Fehlerkultur leben zu lernen." %}
+Bisher waren die Jugendlichen damit vertraut, Rückmeldung von der Lehrperson oder ihren Mitlernenden zu erhalten. Plötzlich entscheidet aber der Kommunikationserfolg mit echten ausländischen Partnern über die Qualität ihrer kommunikativen Fähigkeiten. Sie müssen nachfragen, erklären, neu formulieren. Einigen Schüler\*innen fällt dies zu Beginn nicht leicht und sie legen erst nach der zweiten oder dritten Einheit den eigenen Anspruch ab, nur vollständig korrekte Sätze zu formulieren und diese auch von der Lehrperson abgenickt zu bekommen. In den Videokonferenzstunden ändert sich nicht nur die Lehrer- sondern auch die Schülerrolle. 
+
+**Wie haben die Lernenden das Konzept angenommen?**<br>
+Unsere schulinterne Evaluation und die Übertragung auf weitere Fächer (Englisch und Spanisch) zeigt, dass das Konzept angenommen wurde und die Idee funktioniert. Aber echte Glücksmomente erfahren wir, wenn die Jugendlichen fragen, wann es endlich wieder eine Videokonferenz gibt. Noch nie haben sich so viele Lernende persönlich bedankt wie nach den GLAS-Stunden. Es begeistert mich zu sehen, wie schnell Schüler\*innen in diesem Unterrichtsformat eigene Unsicherheiten ablegen und sich interkulturell handlungsfähig zeigen. 
+
+<div class="video"><iframe width="560" height="315" src="https://www.youtube.com/embed/3ei9cXh65Jg?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+
+**Woran liegt das, was macht das GLAS-Projekt besonders?**<br>
+Die Videokonferenzstunden sind Bestandteil eines größeren Konzeptes, bei dem die Austauschklassen sich auch in der Realität treffen. So liegt das innovative Element von GLAS nicht an den Videokonferenzen selbst, sondern an einer zeitgemäßen Kombination diverser Möglichkeiten im Kontext Schule. Zum Beispiel findet zwischen den Lernenden auch unbegleitete Kommunikation in sozialen Netzwerken, wie Instagram, Snapchat o.ä., statt. Idealerweise verselbstständigt sich diese informelle Kommunikation und wird im Unterricht reflektierend thematisiert. 
+Lehrpersonen können die Videokonferenzen als eine Form der gezielten medialen Begleitung nutzen. Dadurch erhalten sie eine Grundlage für durchgängigen (digitalen) Austausch und begünstigen nachhaltige Kommunikation. Der Diskurs darüber, wie man soziale Netzwerke als festen Bestandteil von „didaktisiertem“ Lernen in der Schule etablieren kann oder ob diese Form der Kommunikation dem Gedanken der Authentizität widerspricht, ist besonders spannend. Nicht ohne Grund wird dieses Thema inzwischen nicht nur in wissenschaftlichen Publikationen, sondern auch in sozialen Netzwerken wie Twitter kontrovers diskutiert.
+
+<p class="link-list">
+<span class="link-list-headline">Links</span>
+<a class="external-link" href="http://www.aachener-nachrichten.de/lokales/region/deutscher-lehrerpreis-auch-fuer-aachener-gymnasium-1.1802625" target="_blank">Das Glas-Konzept gewinnt den Deutschen Lehrerpreis - Aachener Nachrichten</a>
+<a class="external-link" href="http://slg-aachen.de/index.php/mehr-am-leo/90-mehr-am-leo/244-glas-projekt " target="_blank">Zur Internetpräsenz von GLAS</a>
+</p>
