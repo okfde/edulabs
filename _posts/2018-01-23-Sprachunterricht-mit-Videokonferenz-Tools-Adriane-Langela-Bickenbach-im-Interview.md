@@ -3,12 +3,12 @@
 layout: post
 title: "Sprachunterricht über kulturelle und geographische Grenzen hinweg"
 teaser: "Adriane Langela-Bickenbach ist Lehrerin und hat das Projekt GLAS gestartet, das 2018 mit dem Deutschen Lehrerpreis ausgezeichnet wurde. Ein Konzept, das Videokonferenzen in den Unterricht einbindet und damit den internationalen Austausch zwischen Lernenden erleichtert sowie zeitgemäße Kompetenzen fördert."
-teaser_img_src: /assets/img/blog/2018/Januar/andreas_kalt/andreas_kalt_twitter.jpg
+teaser_img_src: /assets/img/blog/2018/Januar/Interview_Adriane_Langela-Bickenbach/adriane_teaser_small.JPG
 featured: true
 categories: Interviews
-twitter_large_img: /assets/img/blog/2018/Januar/andreas_kalt/andreas_kalt_twitter.jpg
-image: /assets/img/blog/2018/Januar/andreas_kalt/andreas_kalt_twitter.jpg
-header_background: /assets/img/blog/2018/Januar/andreas_kalt/andreas_kalt_small.jpg
+twitter_large_img: /assets/img/blog/2018/Januar/Interview_Adriane_Langela-Bickenbach/adriane_teaser_small.JPG
+image: /assets/img/blog/2018/Januar/Interview_Adriane_Langela-Bickenbach/adriane_teaser_small.JPG
+header_background: /assets/img/blog/2018/Januar/Interview_Adriane_Langela-Bickenbach/adriane_teaser_small.JPG
 header_background_caption: "Bild: Adriane Langela-Bickenbach. Lizenz: <a href='https://creativecommons.org/licenses/by/4.0/'>CC-BY 4.0</a>"
 author: Maximilian Voigt
 info_text: |
