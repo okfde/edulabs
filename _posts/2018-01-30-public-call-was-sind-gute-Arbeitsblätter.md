@@ -18,4 +18,6 @@ Nach einer kleinen Auszeit geht der edulabs-Call in die nächste Runde: Am Donne
 
 Dieses Mal zu Gast ist Thomas Hoyer, Geschäftsführer und Produktentwickler von tutory, einer Online-Plattform für Unterrichtsmaterialien. Gemeinsam möchten wir über die Frage sprechen, was gute Arbeitsblätter ausmacht. 
 
-Am Mittwoch könnt ihr Euch über den folgenden Link einwählen (Passwort: edulabs): <a href="https://meet.jit.si/edulabscall">meet.jit.si/edulabscall</a>
+## am Call Teilnehmen
+
+Am Mittwoch könnt ihr Euch über den folgenden Link einwählen (**Passwort: edulabs**): <a href="https://meet.jit.si/edulabscall">meet.jit.si/edulabscall</a>
