@@ -4,7 +4,7 @@ layout: post
 title: "Wundersames Netz: Mehrwert von OER in der Praxis"
 teaser: "Andreas Kalt ist Lehrer und veröffentlicht seit einigen Jahren Unterrichtsmaterialien, Methoden und Gedanken unter einer freien Lizenz. Wir haben mit ihm über seine Erfahrungen gesprochen."
 teaser_img_src: /assets/img/blog/2018/Januar/andreas_kalt/andreas_kalt_twitter.jpg
-featured: true
+featured: false
 categories: Interviews
 twitter_large_img: /assets/img/blog/2018/Januar/andreas_kalt/andreas_kalt_twitter.jpg
 image: /assets/img/blog/2018/Januar/andreas_kalt/andreas_kalt_twitter.jpg
