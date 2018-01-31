@@ -15,7 +15,7 @@ info_text: |
 
 ---
 <!-- include infobox -->
-{% include partials/content/content-infobox.liquid float="right" headline="Jetzt online:" copy="<a href='https://hackmd.io/s/B1xoPtjQG'><img src='/assets/img/projects_extern/glas projekt_banner(groß).jpg' style='width: 100%; display: inline-block'></a>Das GLAS-Konzept unter einer freien Lizenz" %}
+{% include partials/content/content-infobox.liquid float="right" headline="Jetzt online:" copy="<a href='https://hackmd.io/s/B1xoPtjQG'><img src='/assets/img/projects_extern/glas projekt_banner(groß).jpg' style='width: 100%; display: inline-block'></a>Unterrichtsmaterialien zum GLAS-Konzept unter einer freien Lizenz" %}
 
 *Adriane Langela-Bickenbach ist Lehrerin für Englisch und Niederländisch am Gymnasium St. Leonhard in Aachen und in der Referendarsausbildung sowie Lehrerfortbildung aktiv. Seit 2012 bindet Adriane Videokonferenzen in den Unterricht ein, um den internationalen Austausch zwischen Lernenden zu erleichtern und zeitgemäße Kompetenzen zu fördern. Das sogenannte „GLAS“-Konzept ist nun mit dem Deutschen Lehrerpreis ausgezeichnet worden.*
 
