@@ -5,7 +5,7 @@ title: "Was sind gute Arbeitsblätter?"
 teaser: "Zu Gast beim edulabs-Call: Thomas Hoyer, Lehrer, Geschäftsführer und Produktentwickler von tutory."
 teaser_img_src: /assets/img/blog/2018/Januar/public_call_tutory/Was sind gute Arbeitsblätter.jpg
 categories: edulabsCall
-featured: true
+featured: false
 twitter_large_img: /assets/img/blog/2018/Januar/public_call_tutory/Was sind gute Arbeitsblätter.jpg
 image: /assets/img/blog/2018/Januar/public_call_tutory/Was sind gute Arbeitsblätter.jpg
 header_background: /assets/img/blog/2018/Januar/public_call_tutory/papers.jpg
