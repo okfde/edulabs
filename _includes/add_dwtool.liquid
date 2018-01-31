@@ -8,7 +8,7 @@
   {% assign project_title = page.titel %}
   {% assign project_lernziele = page.lernziele %}
   {% assign project_art = page.art %}
-  {% assign project_kmk = page.kmk %}
+  {% assign project_topkmk = page.top-kmk %}
   {% assign project_fach = page.fach %}
   {% assign project_medien = page.medien %}
   {% assign project_desc = page.desc %}
@@ -119,13 +119,17 @@
               <label for="project-form-kmk"><strong>Digitale Kompetenzen (KMK)</strong></label>
                 <br>
                 {% for theme in site.data.digitalen_welt.themes %}
-                  {%  capture theme_level %}{{ forloop.index }}{% endcapture %}
-                  <h4>{{ theme.name }}</h4>
+                    {%  capture theme_level %}{{ forloop.index }}{% endcapture %}
+                    {% assign theme_level_long = 'top-kmk-' | append: theme_level %}
+                  <div class="top-kmk-form{% if project_topkmk contains theme_level_long %} checked{% endif %}">
+                  <h4><input name="fields[top-kmk]" type="checkbox" value="top-kmk-{{ theme_level }}" {% if project_topkmk contains theme_level_long %}checked{% endif %}> {{ theme.name }}</h4>
+                  <ul>
                   {% for subtheme in theme.subthemes %}
                     {% assign kmk_name = "kmk-" | append: theme_level | append: "-" | append: forloop.index %}
-                    <input name="fields[kmk]" type="checkbox" value="kmk-{{ theme_level }}-{{ forloop.index }}" {% if project_kmk contains kmk_name %}checked{% endif %}>{{ subtheme.name }}
-                    <br>
+                    <li class="kmk">{{ subtheme.name }}</li>
                   {% endfor %}
+                  </ul>
+                  </div>
                 {% endfor %}
             </fieldset>
 

@@ -62,6 +62,12 @@
             ref.initEduSprintPage();
         }
 
+        $('.top-kmk-form').click(function () {
+             var check = $('input', this)
+             check.prop('checked', !check[0].checked)
+             $(this).toggleClass('checked')
+        })
+
         ref.addEventHandlers();
         ref.resize();
 
