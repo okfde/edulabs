@@ -38,6 +38,6 @@ Die **Kontakte**...<br>
 … regen Nutzende zu Feedback an und helfen der edulabs-Redaktion dabei, die Sammlung zu verbessern.
 
 **Du möchtest mitmachen?**<br>
-Dann trage dich bitte bis zum 15.2. hier ein, wir melden uns bei allen Interessenten bis zum 20.2. zurück.<br>
+Dann trage dich bitte bis zum 15.2. hier ein, wir melden uns bei allen Interessenten bis zum 20.2. zurück.<br><br>
 
 <div class="video"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf0gwEV2bh5moOxd0Y4KEIDcQw8CQVESS6DlpZwzP1lrx2eYA/viewform?embedded=true#start=embed" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Wird geladen...</iframe></div>
