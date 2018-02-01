@@ -14,7 +14,7 @@ author: Maximilian Voigt
 info_text: |
 
 ---
-*In drei Monaten hat die edulabs-Community bereits 60 Unterrichtsmaterialien und -ideen für eine nachhaltige und zeitgemäße Medienbildung veröffentlicht. Sämtliche Inhalte sind über die [OER-Plattform](https://edulabs.de/oer/) mit einer freien Lizenz abrufbar. Doch wie praxistauglich sind die Materialien, was wird noch gebraucht? Bis zum 15.2. suchen wir edulabs-Kontakte an Schulen, die uns dabei helfen, die Sammlung mit Feedback von Lehrenden zu verbessern.* 
+*In drei Monaten hat die edulabs-Community bereits 60 Unterrichtsmaterialien und -ideen für eine nachhaltige und zeitgemäße Medienbildung veröffentlicht. Sämtliche Inhalte sind über die [OER-Plattform](https://edulabs.de/oer/) mit einer freien Lizenz abrufbar. Doch wie praxistauglich sind die Materialien, was wird noch gebraucht? Bis zum 15.2. suchen wir **edulabs-Kontakte** an Schulen, die uns dabei helfen, die Sammlung mit Feedback von Lehrenden zu verbessern.* 
 
 **Rolle der edulabs-Kontakte**<br>
 Die Kontakte wirken in der [edulabs-Redaktion](https://edulabs.de/oer/about) mit, indem sie an einem monatlichen Call teilnehmen und bilden die Schnittstelle zu ihrer Schule. Sie stehen im Austausch mit ihrem Kollegium und unterstützen die Redaktion mit Praxiserfahrung.
@@ -30,7 +30,7 @@ Ca. 2-5 Stunden pro Monat (März-Juli)
 
 **Wie sieht das in der Praxis aus?**<br>
 Für die Schulen stehen 15 speziell konfigurierte Tablets zur Verfügung.<br> 
-Die Kontakte...<br>
+Die **Kontakte**...<br>
 … organisieren, dass die Geräte im Lehrerzimmer aufgestellt und wahrgenommen werden.<br>
 … geben im Rahmen einer Gesamtkonferenz eine kurze Einführung in die Sammlung.<br>
 … regen Nutzende zu Feedback an und helfen der edulabs-Redaktion dabei, die Sammlung zu verbessern.
