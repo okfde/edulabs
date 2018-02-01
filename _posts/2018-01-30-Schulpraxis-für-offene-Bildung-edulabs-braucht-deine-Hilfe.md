@@ -9,7 +9,7 @@ categories: News
 twitter_large_img: /assets/img/blog/2018/Januar/edulabs-Kontakte_Ausschreibung/edulabs-Kontakte.png
 image: /assets/img/blog/2018/Januar/edulabs-Kontakte_Ausschreibung/edulabs-Kontakte.png
 header_background: /assets/img/blog/2018/Januar/edulabs-Kontakte_Ausschreibung/edulabs-Kontakte_tablet.jpg
-header_background_caption: "Bild: <a href=\"http://katringreiner.com/\">Katrin Greiner</a>. Lizenz: <a href='https://creativecommons.org/licenses/by/4.0/'>CC-BY 4.0</a>"
+header_background_caption: "Bild: Maximilian Voigt. Lizenz: <a href='https://creativecommons.org/licenses/by/4.0/'>CC-BY 4.0</a>"
 author: Maximilian Voigt
 info_text: |
 
