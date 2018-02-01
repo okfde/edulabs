@@ -22,10 +22,10 @@ Die Kontakte wirken in der [edulabs-Redaktion](https://edulabs.de/oer/about) mit
 **Zeitaufwand**<br>
 Ca. 2-5 Stunden pro Monat (März-Juli)
 
-**Mehrwert für teilnehmende Lehrende und Schulen**<br>
-\- Als Teil des edulabs-Netzwerks erhaltet ihr aktuelle Unterrichtsideen und Praxistipps.<br>
 <!-- include infobox -->
 {% include partials/content/content-infobox.liquid float="right" headline="edulabs-Tablet mit Ständer" copy="<img src='/assets/img/blog/2018/Januar/edulabs-Kontakte_Ausschreibung/edulabs-Kontakte_tablet_staender.jpg' style='width: 100%; display: inline-block'>15 Geräte stehen für den Einsatz in der Schule zur Verfügung." %}
+**Mehrwert für teilnehmende Lehrende und Schulen**<br>
+\- Als Teil des edulabs-Netzwerks erhaltet ihr aktuelle Unterrichtsideen und Praxistipps.<br>
 \- Das edulabs-Team hilft auf Wunsch bei der Aufbereitung eigener Materialien in nachnutzbare [OER](https://de.wikipedia.org/wiki/Open_Educational_Resources) und berät bei Lizenzfragen.<br>
 \- Es gibt Ansprechpartner und Unterstützung bei technischen Fragen.<br>
 \- Euer persönliches Engagement für zeitgemäße Bildung wird überregional sichtbar.
