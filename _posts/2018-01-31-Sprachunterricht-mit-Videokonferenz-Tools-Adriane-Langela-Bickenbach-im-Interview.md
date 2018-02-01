@@ -9,7 +9,7 @@ categories: Interviews
 twitter_large_img: /assets/img/blog/2018/Januar/Interview_Adriane_Langela-Bickenbach/adriane_teaser_small.JPG
 image: /assets/img/blog/2018/Januar/Interview_Adriane_Langela-Bickenbach/adriane_teaser_small.JPG
 header_background: /assets/img/blog/2018/Januar/Interview_Adriane_Langela-Bickenbach/adriane_teaser_small.JPG
-header_background_caption: "Bild: Adriane Langela-Bickenbach. Lizenz: <a href='https://creativecommons.org/licenses/by/4.0/'>CC-BY 4.0</a>"
+header_background_caption: "Bild: Adriane Langela-Bickenbach. Fotografiert von: Martin Stockberg. Lizenz: <a href='https://creativecommons.org/licenses/by/4.0/'>CC-BY 4.0</a>"
 author: Maximilian Voigt
 info_text: |
 
