@@ -4,7 +4,7 @@ layout: post
 title: "Sprachunterricht über kulturelle und geografische Grenzen hinweg"
 teaser: "Adriane Langela-Bickenbach ist Lehrerin und hat das Projekt GLAS gestartet, das 2018 mit dem Deutschen Lehrerpreis ausgezeichnet wurde. Ein Konzept, das Videokonferenzen in den Unterricht einbindet und damit den internationalen Austausch zwischen Lernenden erleichtert sowie zeitgemäße Kompetenzen fördert."
 teaser_img_src: /assets/img/blog/2018/Januar/Interview_Adriane_Langela-Bickenbach/adriane_teaser_small.JPG
-featured: true
+featured: false
 categories: Interviews
 twitter_large_img: /assets/img/blog/2018/Januar/Interview_Adriane_Langela-Bickenbach/adriane_teaser_small.JPG
 image: /assets/img/blog/2018/Januar/Interview_Adriane_Langela-Bickenbach/adriane_teaser_small.JPG
@@ -20,7 +20,7 @@ info_text: |
 *Adriane Langela-Bickenbach ist Lehrerin für Englisch und Niederländisch am Gymnasium St. Leonhard in Aachen und in der Referendarsausbildung sowie Lehrerfortbildung aktiv. Seit 2012 bindet Adriane Videokonferenzen in den Unterricht ein, um den internationalen Austausch zwischen Lernenden zu erleichtern und zeitgemäße Kompetenzen zu fördern. Das sogenannte „GLAS“-Konzept ist nun mit dem Deutschen Lehrerpreis ausgezeichnet worden.*
 
 **Was macht GLAS besonders?**<br>
-Die Videokonferenzstunden sind Bestandteil eines größeren Konzeptes, bei dem die Austauschklassen sich auch in der Realität treffen. So liegt das innovative Element von GLAS nicht an den Videokonferenzen selbst, sondern an einer zeitgemäßen Kombination diverser Möglichkeiten im Kontext Schule. Zum Beispiel findet zwischen den Lernenden auch unbegleitete Kommunikation in sozialen Netzwerken, wie Instagram, Snapchat o.ä., statt. Idealerweise verselbstständigt sich diese informelle Kommunikation und wird im Unterricht reflektierend thematisiert. 
+Die Videokonferenzstunden sind Bestandteil eines größeren Konzeptes, bei dem die Austauschklassen sich auch in der Realität treffen. So liegt das innovative Element von GLAS nicht an den Videokonferenzen selbst, sondern an einer zeitgemäßen Kombination diverser Möglichkeiten im Kontext Schule. Zum Beispiel findet zwischen den Lernenden auch unbegleitete Kommunikation in sozialen Netzwerken, wie Instagram, Snapchat o.ä., statt. Idealerweise verselbstständigt sich diese informelle Kommunikation und wird im Unterricht reflektierend thematisiert.
 
 <div class="video"><iframe width="560" height="315" src="https://www.youtube.com/embed/3ei9cXh65Jg?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
@@ -43,7 +43,7 @@ Es musste viel Pionierarbeit geleistet werden, sodass es mehrere Jahre dauerte, 
 </div>
 
 **Wie haben es die Lernenden aufgenommen?**<br>
-Eigentlich waren alle Schüler\*innen von Anfang an begeistert und neugierig: endlich echte Austauschpartner, mit denen sie fremdsprachlichen Kontakt haben können! Eine Situation, die sonst nur bei einem realen Austausch auftaucht und eine unglaubliche Chance für die Begegnungsdidaktik bedeutet. Allerdings brauchen Lernende, die aus einem traditionellen System kommen und an „richtig“ oder „falsch“ gewöhnt sind, meist etwas Zeit, eine positive Fehlerkultur leben zu lernen. 
+Eigentlich waren alle Schüler\*innen von Anfang an begeistert und neugierig: endlich echte Austauschpartner, mit denen sie fremdsprachlichen Kontakt haben können! Eine Situation, die sonst nur bei einem realen Austausch auftaucht und eine unglaubliche Chance für die Begegnungsdidaktik bedeutet. Allerdings brauchen Lernende, die aus einem traditionellen System kommen und an „richtig“ oder „falsch“ gewöhnt sind, meist etwas Zeit, eine positive Fehlerkultur leben zu lernen.
 
 <p class="link-list">
 <span class="link-list-headline">Links</span>
