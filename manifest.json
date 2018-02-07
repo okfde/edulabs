@@ -5,7 +5,7 @@
   "display": "standalone",
   "background_color" : "#fff" ,
   "description": "Offene Bildung mit digital gestützten Methodendf",
-  "Icons": [{
+  "icons": [{
     "src": "assets/img/static/edulabs-48x48.png",
     "sizes": "48x48",
     "type": "image/png"
@@ -32,6 +32,5 @@
   }],
   "related_applications": [{
     "platform": "Web"
-  }
-  ]
+  }]
 }
