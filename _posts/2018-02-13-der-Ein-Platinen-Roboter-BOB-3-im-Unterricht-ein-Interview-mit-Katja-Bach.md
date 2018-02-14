@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mit dem Lötkölben in die digitale Welt: BOB3 im Unterricht"
+title: "Mit dem Lötkolben in die digitale Welt: BOB3 im Unterricht"
 teaser: "Katja Bach ist Mathematikerin und war als Ausbilderin für mathematisch-technische Softwareentwickler tätig. Im Interview spricht sie über den Einplatinencomputer BOB3."
 teaser_img_src: /assets/img/blog/2018/Februar/Interview_Katja_Bach/BOB3_in_use.jpg
 featured: true
