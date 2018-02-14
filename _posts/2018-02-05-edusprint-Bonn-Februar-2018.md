@@ -3,7 +3,7 @@ layout: post
 title: "edusprint für #zeitgemäßeBildung, am 24.02. in Bonn"
 teaser: "Wir organisieren einen eintägigen edusprint, um Empfehlungen für Materialien und Unterrichtsformate zu digitalen Kompetenzen zu entwickeln."
 teaser_img_src: /assets/img/blog/2018/Februar/edusprint-bonn.png
-featured: true
+featured: false
 categories: News Events edulabsKBN
 twitter_large_img: /assets/img/blog/2018/Februar/edusprint-bonn.png
 header_background: /assets/img/blog/2017/Oktober/edusprint_Koeln/edusprint_atmo.jpg
