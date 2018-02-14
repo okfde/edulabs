@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "Mit dem BOB3 in die digitale Welt löten"
-teaser: "Katja Bach ist Mathematikerin und war als Ausbilderin für mathematisch-technische Softwareentwickler tätig. Im Interview spricht sie über den Ein-Platinen-Computer BOB3."
+title: "Mit dem Lötkölben in die digitale Welt: BOB3 im Unterricht"
+teaser: "Katja Bach ist Mathematikerin und war als Ausbilderin für mathematisch-technische Softwareentwickler tätig. Im Interview spricht sie über den Einplatinencomputer BOB3."
 teaser_img_src: /assets/img/blog/2018/Februar/Interview_Katja_Bach/BOB3_in_use.jpg
 featured: true
 categories: Interviews
 twitter_large_img: /assets/img/blog/2018/Februar/Interview_Katja_Bach/BOB3_in_use.jpg
 header_background: /assets/img/blog/2018/Februar/Interview_Katja_Bach/BOB3_in_use.jpg
 image: /assets/img/blog/2018/Februar/Interview_Katja_Bach/BOB3_in_use.jpg
-header_background_caption: "Bild: Der Ein-Platinen-Computer BOB3. Lizenz: <a href='https://creativecommons.org/licenses/by-sa/3.0/de/'>CC-BY 3.0</a>"
+header_background_caption: "Bild: Der Einplatinencomputer BOB3. Lizenz: <a href='https://creativecommons.org/licenses/by-sa/3.0/de/'>CC-BY 3.0</a>"
 author: Maximilian Voigt
 info_text: |
  ...
@@ -18,9 +18,9 @@ info_text: |
 {% include partials/content/content-float-image.liquid float="left"
 src="/assets/img/blog/2018/Februar/Interview_Katja_Bach/bob3_contact_katja.jpg" caption="Bild: Katja Bach. Lizenz: <a href='https://creativecommons.org/licenses/by/4.0/legalcode'>CC-BY 4.0</a>" %}
 
-*Katja Bach ist Mathematikerin und war als Ausbilderin für mathematisch-technische Softwareentwickler tätig. Inzwischen hat sie mit ihrem Kollegen Nils Springob eine eigene Firma, die edukative Roboter und passende Lernkonzepte entwickelt, wie auch den Ein-Platinen-Computer BOB3.*
+*Katja Bach ist Mathematikerin und war als Ausbilderin für mathematisch-technische Softwareentwickler tätig. Inzwischen hat sie mit ihrem Kollegen Nils Springob eine eigene Firma, die edukative Roboter und passende Lernkonzepte entwickelt, wie auch den Einplatinencomputer BOB3.*
 
-**Es gibt inzwischen einige Ein-Platinen-Computer für den Bildungskontext. Was macht euren besonders?**<br>
+**Es gibt inzwischen einige Einplatinencomputer für den Bildungskontext. Was macht euren besonders?**<br>
 Es ist ja gar nicht so einfach, ein Kind oder auch Erwachsene für eine Thematik zu begeistern. Wenn ich einem Schüler beispielsweise diese Geräte versuche zu erklären, will er vielleicht in diesem Moment gar nicht oder es interessiert ihn nicht. Das Wissenwollen ist schwierig, das muss ich erst mal gewinnen. 
 Deswegen können die Lernenden den BOB erst mal zusammenbauen und verlöten, was ihn von vielen anderen Modellen unterscheidet. Das dauert etwas, sie sehen die Teile, machen sich ihre Gedanken und bauen eine Beziehung zu dem Gerät auf. Mit den ersten Programmieraufgaben kommt meistens der Moment, in dem dann bei den Lernenden die erste Frage entsteht und damit die Bereitschaft, sich Wissen anzueignen. Durch das eigenständige Zusammenbauen haben die Lernenden also einen Bezug zum Gerät entwickelt und können totalen Neulingen schon etwas erklären. Dadurch haben sie mehr Interesse an der Sache. Dann kommen auch tiefer gehende Fragen. Die Antworten darauf werden viel besser aufgenommen, als wenn ich einen Vortrag darüber halte. 
 
