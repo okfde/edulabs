@@ -63,6 +63,7 @@ Durch einen kleinen Lötpunkt auf der Rückseite der Geräte lässt sich für je
 
 <p class="link-list">
 <span class="link-list-headline">Links</span>
-<a class="external-link" href="https://www.bob3.org/downloads/Lehrerhandreichung_BOB3_latest_pdf.php" target="_blank">Lehrmaterialien zum BOB3</a>
+<a class="external-link" href="https://www.bob3.org/downloads/Lehrerhandreichung_BOB3_latest_pdf.php" target="_blank">Freie Lehrmaterialien zum BOB3</a>
+<a class="external-link" href="https://www.bob3.org/downloads/Loetfibel_12s_web.pdf" target="_blank">Die Lötfibel zum BOB3 unter einer freien Lizenz</a>
 <a class="external-link" href="https://www.bob3.org/de/mint" target="_blank">Zur BOB3-Internetpräsenz</a>
 </p>
