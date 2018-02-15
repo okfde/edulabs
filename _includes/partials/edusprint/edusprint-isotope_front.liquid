@@ -9,7 +9,7 @@
         {% if include.visible == 0 %}
             {% assign posts = posts | where: "visible", 0 %}
             {% else %}
-            {% assign posts = posts | where: "visible", 1 %}
+            {% assign posts = posts | where: "visible", 1 | slice: 0, 3 %}
         {% endif %}
     {% endif %}
 
