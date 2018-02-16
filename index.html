@@ -30,17 +30,17 @@ layout: default
     <section class="section green col-xs-24">
         <div class="content-wrap">
             <h2 class="section-headline">Aktuelles</h2>
-            <p>Du findest hier bevorstehende Veranstaltungen und ein Highlight aus dem Blog</p>
+            <p>Du findest hier bevorstehende Veranstaltungen und Highlights aus dem Blog</p>
         </div>
         <!-- blog teasers -->
         <div class="isotope-wrap col-xs-22 col-xs-push-1 no-padding">
             <div class="grid-sizer col-xs-24 col-sm-12 col-md-8 col-lg-6 col-xlg-4"></div>
 
-            {% assign posts = site.posts | slice: 0, 3 %}
+            {% assign posts = site.posts | where: "frontpage", true %}
             {% for post in posts %}
               {% assign categories = post.categories | join:', ' %}
               {% assign categories = "#" | append:categories %}
-              {% include partials/blog/blog-teaser.liquid date=post.date featured=post.featured url=post.url filter=post.categories categories=categories src=post.teaser_img_src headline=post.title copy=post.teaser %}
+              {% include partials/blog/blog-teaser.liquid date=post.date featured=true url=post.url filter=post.categories categories=categories src=post.teaser_img_src headline=post.title copy=post.teaser %}
             {% endfor %}
         </div>
         <div class="content-wrap btn-wrap">
@@ -67,7 +67,7 @@ layout: default
         <div class="content-wrap">
             <h2 class="section-headline white">Zeitgemäße Unterrichtsideen</h2>
 
-            <p>Die edulabs-Community empfiehlt die folgenden Unterrichtsideen, um zeitgemäße Bildung und Partizipation zu fördern. Sämtliche Materialien sind frei nachnutzbar.</p>
+            <p>Die edulabs-Community empfiehlt Unterrichtsideen, um zeitgemäße Bildung und Partizipation zu fördern. Alle Materialien findet ihr in der Sammlung.</p>
         </div>
         {% include partials/edusprint/edusprint-isotope.liquid visible=1 number=3 %}
         <div class="content-wrap btn-wrap">
@@ -81,7 +81,6 @@ layout: default
     <section class="section  col-xs-24">
         <div class="content-wrap">
             <h2 class="section-headline">Projekte und Initiativen</h2>
-
             <p></p>
         </div>
         <div class="row">
