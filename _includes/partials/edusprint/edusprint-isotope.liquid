@@ -4,16 +4,20 @@
     {{ include.type }}
     {% if include.type %}
         {% assign posts = site.dw | where: include.type, include.theme_num %}
-        {% else %}
+    {% else %}
         {% assign posts = site.dw %}
         {% if include.visible == 0 %}
             {% assign posts = posts | where: "visible", 0 %}
-            {% else %}
+        {% else %}
             {% assign posts = posts | where: "visible", 1 %}
         {% endif %}
     {% endif %}
-
-    {% for post in posts %}
+    {% if include.number > 0 %}
+        {% assign num = {{include.number}} %}
+    {% else %}
+        {% assign num = posts.length %}
+    {% endif %}
+    {% for post in posts limit:num %}
        {% if post.tags %}
            {% assign categories = "#" %}
            {% assign filter = '' %}
