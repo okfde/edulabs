@@ -3,7 +3,7 @@ _id: 1f9645f0-7ce0-11e7-807c-1bb98bc71e68
 title: >-
   Chaos macht Schule-Workshops als OER-Materialien zu Datenschutz, Schutz der
   Privatsphäre, Urheberrecht aufbereiten
-lab: 'BE'
+lab: 'Projekte'
 status: releasing
 short-desc: >-
   Wir möchten unsere erprobten und oft durchgeführten Workshops zu technischen
@@ -13,7 +13,7 @@ link: 'https://berlin.ccc.de/wiki/Chaos_macht_Schule'
 contact-name: Chaos Macht Schule
 contact-email: schule@berlin.ccc.de
 date: '2017-08-09T08:52:50.488Z'
-featured: true
+featured: false
 slug: >-
   chaos-macht-schule-workshops-als-oer-materialien-zu-datenschutz-schutz-der-privatsphare-urheberrecht-aufbereiten
 ---

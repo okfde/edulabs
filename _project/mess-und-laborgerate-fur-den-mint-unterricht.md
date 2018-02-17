@@ -1,7 +1,7 @@
 ---
 _id: 2c947910-ecd0-11e7-bde9-99b7584a705b
 title: Mess- und Laborgeräte für den MINT-Unterricht
-lab: BE
+lab: Projekte
 status: building
 short-desc: >-
   Basierend auf der Arduino-, ESP8266/ESP32- oder Raspberry Pi - Plattform

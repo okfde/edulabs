@@ -31,11 +31,10 @@
 
             <!-- Project Lab -->
             <fieldset>
-              <label for="project-form-lab"><strong>Lab</strong> <span class="required">*</span></label>
+              <label for="project-form-lab"><strong>Kategorie</strong> <span class="required">*</span></label>
               <select name="fields[lab]" required>
-                <option value="BE" {% if project_lab == "#BE - Berlin" %}selected{% endif %}>#BE - Berlin</option>
-                <option value="KBN" {% if project_lab == "#KBN - Köln/Bonn" %}selected{% endif %}>#KBN - Köln/Bonn</option>
-                <option value="KA" {% if project_lab == "#KA - Karlsruhe" %}selected{% endif %}>#KA - Karlsruhe</option>
+                <option value="Projekte" {% if project_lab == "Projekt" %}selected{% endif %}>Projekt</option>
+                <option value="Initiativen" {% if project_lab == "Initiative" %}selected{% endif %}>Initiative</option>
               </select>
             </fieldset>
 
