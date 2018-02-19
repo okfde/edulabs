@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "„Noten sind meistens scheiße“"
-teaser: "Ralph Caspers im Gespräch über den Freiraum, Scheitern zu drüfen, über Medienkompetenz und die Sendung mit der Maus."
+teaser: "Ralph Caspers im Gespräch über den Freiraum, scheitern zu dürfen, über Medienkompetenz und die Sendung mit der Maus."
 teaser_img_src: /assets/img/blog/2018/Februar/Interview_Ralph_Caspers/Ralph Caspers_teaser.jpg
 featured: true
 categories: Interviews
@@ -49,7 +49,7 @@ In der Schule ist es ja in der Regel anders: Jeder Fehler wird mit einer schlech
 <div class="caption">Ralph Caspers auf dem Chaos Communication Camp 2015</div>
 
 **Wie im Video geht es bei der Maus auch immer darum, Kompliziertes einfach zu erklären. Wenn du die Maus jetzt neuerfinden könntest, würdest du etwas anders machen?**<br>
-Ich würde die Maus nicht ändern. Das einzige, was ich machen würde, wäre ein Archiv einzuführen, damit dieses ganze Wissen auch nachgenutzt werden kann. Ansonsten hat sich die Erzählweise bewährt: Dieses einfache, am Thema bleibende Erzählen ist genau richtig. 
+Ich würde die Maus nicht ändern. Das Einzige, was ich machen würde, wäre ein Archiv einzuführen, damit dieses ganze Wissen auch nachgenutzt werden kann. Ansonsten hat sich die Erzählweise bewährt: Dieses einfache, am Thema bleibende Erzählen ist genau richtig. 
 
 **Brauchen wir für eine andere Jugendkultur eine Art Neon-Maus?**<br>
 Die Frage ist, auf was wir Wert legen: auf die Verpackung oder auf den Inhalt. Ich mache nur Dinge, mit denen ich etwas anfangen kann, sonst wäre es nicht authentisch. Macht man es anders, besteht immer das Risiko, dass es aufgesetzt wirkt. Dann schaut es niemand gern, und davon hab ich dann ja auch nichts.
