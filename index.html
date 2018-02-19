@@ -54,8 +54,8 @@ layout: default
                 {% else %}
                   {% assign categories = post.categories | join:', ' %}
                   {% assign categories = "#" | append:categories %}
-                  {% include partials/blog/blog-teaser.liquid date=post.date featured=post.featured url=post.url filter=post.categories categories=categories src=post.teaser_img_src headline=post.title copy=post.teaser %}
                 {% endif %}
+            {% include partials/blog/blog-teaser.liquid date=post.date featured=post.featured url=post.url filter=post.categories categories=categories src=post.teaser_img_src headline=post.title copy=post.teaser %}
             {% endfor %}
         </div>
         <div class="content-wrap btn-wrap">
