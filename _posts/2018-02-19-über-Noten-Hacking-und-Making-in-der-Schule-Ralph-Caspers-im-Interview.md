@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "„Noten sind meistens scheiße“"
-teaser: "Ralph Caspers im Gespräch über den Freiraum, scheitern zu drüfen, über Medienkompetenz und die Sendung mit der Maus."
+teaser: "Ralph Caspers im Gespräch über den Freiraum, Scheitern zu drüfen, über Medienkompetenz und die Sendung mit der Maus."
 teaser_img_src: /assets/img/blog/2018/Februar/Interview_Ralph_Caspers/Ralph Caspers_teaser.jpg
 featured: true
 categories: Interviews
