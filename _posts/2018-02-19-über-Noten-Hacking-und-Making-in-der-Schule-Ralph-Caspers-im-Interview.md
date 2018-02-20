@@ -15,7 +15,7 @@ info_text: |
    <br>Die Medienpädagogin Kristin Narr berichtet von ihren Erfahrungen mit Making sowie der Verwandtschaft von Making und OER.<br><br><a href='/blog/making-und-oer'>Zum Artikel</a>
 
 ---
-*Ralph Caspers ist Autor, Schauspieler und moderiert „Wissen macht Ah!“ und „die Sendung mit der Maus“. Außerdem gibt er regelmäßg Vorträge, wie auch auf dem [Chaos Communication Camp](https://media.ccc.de/v/camp2015-6987-kissing_heisse_tipps_und_techniken). Wir haben mit ihm über Medienkompetenz, Noten und den Spaß am Lernen gesprochen.* 
+*Ralph Caspers ist Autor, Schauspieler und moderiert „Wissen macht Ah!“ und „die Sendung mit der Maus“. Außerdem gibt er regelmäßig Vorträge, wie auch auf dem [Chaos Communication Camp](https://media.ccc.de/v/camp2015-6987-kissing_heisse_tipps_und_techniken). Wir haben mit ihm über Medienkompetenz, Noten und den Spaß am Lernen gesprochen.* 
 
 <!-- include quote -->
 {% include partials/content/content-quote.liquid float="left" content="Medienkompetenz ist das Wissen, wie Texte und auch Filme gestaltet werden müssen, um Gefühle zu erzeugen." %}
