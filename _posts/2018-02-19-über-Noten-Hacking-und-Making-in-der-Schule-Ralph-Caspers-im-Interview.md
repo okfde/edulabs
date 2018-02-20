@@ -25,6 +25,7 @@ Ich kann es am besten anhand eines Beispiels erklären: Wir können uns super un
 <!-- include ionfobox -->
 {% include partials/content/content-infobox.liquid float="right" headline="Kompetenzorientierte Unterrichtsideen finden" copy="<a href='/oer'><img src='/assets/img/blog/2017/November/OER-Preview/OER-Filter_preview.png' style='width: 100%; display: inline-block'></a><br>Die edulabs-Community empfiehlt Unterrichtsideen, um zeitgemäße Bildung und Partizipation zu fördern.<br><br><a href='/oer'>Zur Sammlung</a>" %}
 <br><br>Allgemeiner bedeutet das: Das Wissen, wie Texte und auch Filme gestaltet werden müssen, um gewisse Gefühle zu erzeugen, das gehört für mich zu einer Medienkompetenz. Weil wir diesen Dingen dann nicht hilflos ausgeliefert sind. Das Wissen, wie etwas funktioniert, nimmt nicht den Spaß daran.
+
 **Die Kultusminister haben sich auf einige Kompetenzen geeinigt, die in der „digitalen Welt“ wichtig sind und an jeder Schule vermittelt werden sollen. Wie können die öffentlich-rechtlichen Medien dazu beitragen?**<br>
 Das kommt immer auf die Sendung an. Bei „Wissen macht Ah!“ beispielsweise kann ich Fragen thematisieren, wie „was ist ein Algorithmus?“ oder „wie lernen Maschinen?“. Damit können wir die Mechanismen erklären. Das wäre klassisches Bildungsfernsehen. Es kann aber auch weitergehen: Indem man logische Trugschlüsse behandelt, die Scheinargumente entlarven. Allerdings kann Fernsehen nur Ausschnitte liefern. Die Zuschauer müssen sich anschließend Zeit nehmen, die Inhalte zu vertiefen.
 
