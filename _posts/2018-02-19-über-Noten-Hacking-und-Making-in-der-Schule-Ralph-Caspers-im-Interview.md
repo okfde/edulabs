@@ -56,7 +56,7 @@ Die Frage ist, auf was wir Wert legen: auf die Verpackung oder auf den Inhalt. I
 
 <p class="link-list">
 <span class="link-list-headline">Links</span>
-<a class="external-link" href="https://media.ccc.de/v/camp2015-6987-kissing_heisse_tipps_und_techniken" target="_blank">Ralph Caspers auf dem Chaos Communication Congress</a>
+<a class="external-link" href="https://media.ccc.de/v/camp2015-6987-kissing_heisse_tipps_und_techniken" target="_blank">Ralph Caspers auf dem Chaos Communication Camp 2015</a>
 <a class="external-link" href="https://www.youtube.com/watch?v=Je22SgH8TCk" target="_blank">Die Maus zum Thema: Was ist Strom?</a>
 <a class="external-link" href="https://edulabs.de/blog/videos-produzieren-als-p%C3%A4dagogische-methode" target="_blank">Videos produzieren als pädagogische Methode (Unterrichtsideen)</a>
 <a class="external-link" href="https://edulabs.de/oer/30utp/" target="_blank">Erklärvideos im Unterricht erstellen (Unterrichtsideen)</a>
