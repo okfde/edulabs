@@ -30,7 +30,7 @@ layout: default
     <section id="labs" class="section green col-xs-24">
         <div class="content-wrap">
             <h2 class="section-headline white">Angebote</h2>
-            <p>Das Projekt arbeitet auf folgenden Ebenen, um zeitgemäße Bildung voranzubringen</p>
+            <p>Das Projekt arbeitet auf den folgenden Ebenen, um zeitgemäße Bildung voranzubringen</p>
         </div>
         <!-- teasers -->
         {% include partials/offer-teasers.liquid %}
@@ -42,11 +42,10 @@ layout: default
     <section class="section col-xs-24">
         <div class="content-wrap">
             <h2 class="section-headline">Themen</h2>
-                <ul class="blue about-subline" style="text-align: left;">
-                    <h3 class="blue about-subline" style="text-align: left;"><li>Wir fördern Open Educational Resources, durch redaktionelle Unterstützung, Fortbildungen und Öffentlichkeitsarbeit</li></h3>
-                    <h3 class="blue about-subline" style="text-align: left;"><li>Wir fördern zeitgemäße Bildung, durch redaktionelle Unterstützung, Fortbildungen und Öffentlichkeitsarbeit</li></h3>
-                    <h3 class="blue about-subline" style="text-align: left;"><li>Wir fördern digitale Bildung, durch redaktionelle Unterstützung, Fortbildungen und Öffentlichkeitsarbeit</li></h3>
-                </ul>
+            <p>Mit diesen Themen beschäftigt sich das Projekt</p>
+            <h3 class="blue about-subline" style="text-align: left;">Open Educational Resources...<br></h3>
+            <h3 class="blue about-subline" style="text-align: left;">...<br></h3>
+            <h3 class="blue about-subline" style="text-align: left;">... und anderes krasses Zeug</h3>
          </div>
         <div class="content-wrap btn-wrap">
             <a class="edu-btn black" href="/about" target="_blank">mehr</a>
@@ -54,22 +53,24 @@ layout: default
     </section>
 </div>
 
-<!-- Aktuelles -->
+<!-- blog -->
 <div class="row">
     <section class="section green col-xs-24">
         <div class="content-wrap">
-            <h2 class="section-headline white">Aktuelles</h2>
-            <p>Du findest hier bevorstehende Veranstaltungen und Highlights aus dem Blog</p>
+            <h2 class="section-headline">Aus dem Blog</h2>
         </div>
         <!-- blog teasers -->
         <div class="isotope-wrap col-xs-22 col-xs-push-1 no-padding">
             <div class="grid-sizer col-xs-24 col-sm-12 col-md-8 col-lg-6 col-xlg-4"></div>
 
-            {% assign posts = site.posts | where: "frontpage", true %}
-            {% for post in posts %}
+            {% assign posts = site.posts %}
+            {% for post in posts limit:12 %}
+            {% if post.visible == 0  %}
+            {% else %}
             {% assign categories = post.categories | join:', ' %}
             {% assign categories = "#" | append:categories %}
-            {% include partials/blog/blog-teaser.liquid date=post.date featured=true url=post.url filter=post.categories categories=categories src=post.teaser_img_src headline=post.title copy=post.teaser %}
+            {% include partials/blog/blog-teaser.liquid date=post.date featured=post.featured url=post.url filter=post.categories categories=categories src=post.teaser_img_src headline=post.title copy=post.teaser %}
+            {% endif %}
             {% endfor %}
         </div>
         <div class="content-wrap btn-wrap">
@@ -83,10 +84,10 @@ layout: default
     <section class="section col-xs-24">
         <div class="content-wrap">
             <h2 class="section-headline">Zeitgemäße Unterrichtsideen</h2>
-
             <p>Die edulabs-Community empfiehlt Unterrichtsideen, um zeitgemäße Bildung und Partizipation zu fördern. Alle Materialien findet ihr in der Sammlung.</p>
         </div>
-        {% include partials/edusprint/edusprint-isotope.liquid visible=1 number=3 %}
+        <a href="{{ site.baseurl }}/oer" target="_blank"><img class="img-responsive" src="/assets/img/static/oer_filters_frontpage.jpg"/></a>
+        {% include partials/edusprint/edusprint-isotope.liquid visible=1 number=6 %}
         <div class="content-wrap btn-wrap">
             <a class="edu-btn black" href="{{ site.baseurl }}/oer" target="_blank">zur Sammlung</a>
         </div>
@@ -105,6 +106,23 @@ layout: default
         </div>
         <div class="content-wrap btn-wrap">
             <a class="edu-btn black" href="{{ site.baseurl }}/projects" target="_blank">Weitere Projekte</a>
+        </div>
+    </section>
+</div>
+
+<!-- über das projekt -->
+<div class="row">
+    <section class="section col-xs-24">
+        <div class="content-wrap">
+            <h2 class="section-headline">Über das Projekt</h2>
+            <h3 class="blue about-subline">Wie lassen sich offene Bildungsangebote mit digital gestützten Methoden
+                gestalten? </h3>
+            <p>Edulabs sind lokale Gruppen aus Menschen, die ihre didaktischen,
+                technischen und gestalterischen Fähigkeiten einsetzen, um zusammen innovative und nachnutzbare
+                Bildungsmaterialien zu entwickeln.</p>
+        </div>
+        <div class="content-wrap btn-wrap">
+            <a class="edu-btn black" href="/about" target="_blank">mehr</a>
         </div>
     </section>
 </div>
