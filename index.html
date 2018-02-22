@@ -22,14 +22,43 @@ layout: default
               <div class="content-wrap btn-wrap">
                   <a class="edu-btn black" href="/about" target="_blank">Über das Projekt</a>
               </div>
-          </section>
-      </div>
+    </section>
+</div>
+
+<!-- Angebote -->
+<div class="row">
+    <section id="labs" class="section green col-xs-24">
+        <div class="content-wrap">
+            <h2 class="section-headline white">Angebote</h2>
+            <p>Das Projekt arbeitet auf folgenden Ebenen, um zeitgemäße Bildung voranzubringen</p>
+        </div>
+        <!-- teasers -->
+        {% include partials/offer-teasers.liquid %}
+    </section>
+</div>
+
+<!-- themen -->
+<div class="row">
+    <section class="section col-xs-24">
+        <div class="content-wrap">
+            <h2 class="section-headline">Themen</h2>
+                <ul class="blue about-subline" style="text-align: left;">
+                    <h3 class="blue about-subline" style="text-align: left;"><li>Wir fördern Open Educational Resources, durch redaktionelle Unterstützung, Fortbildungen und Öffentlichkeitsarbeit</li></h3>
+                    <h3 class="blue about-subline" style="text-align: left;"><li>Wir fördern zeitgemäße Bildung, durch redaktionelle Unterstützung, Fortbildungen und Öffentlichkeitsarbeit</li></h3>
+                    <h3 class="blue about-subline" style="text-align: left;"><li>Wir fördern digitale Bildung, durch redaktionelle Unterstützung, Fortbildungen und Öffentlichkeitsarbeit</li></h3>
+                </ul>
+         </div>
+        <div class="content-wrap btn-wrap">
+            <a class="edu-btn black" href="/about" target="_blank">mehr</a>
+        </div>
+    </section>
+</div>
 
 <!-- Aktuelles -->
 <div class="row">
     <section class="section green col-xs-24">
         <div class="content-wrap">
-            <h2 class="section-headline">Aktuelles</h2>
+            <h2 class="section-headline white">Aktuelles</h2>
             <p>Du findest hier bevorstehende Veranstaltungen und Highlights aus dem Blog</p>
         </div>
         <!-- blog teasers -->
@@ -38,9 +67,9 @@ layout: default
 
             {% assign posts = site.posts | where: "frontpage", true %}
             {% for post in posts %}
-              {% assign categories = post.categories | join:', ' %}
-              {% assign categories = "#" | append:categories %}
-              {% include partials/blog/blog-teaser.liquid date=post.date featured=true url=post.url filter=post.categories categories=categories src=post.teaser_img_src headline=post.title copy=post.teaser %}
+            {% assign categories = post.categories | join:', ' %}
+            {% assign categories = "#" | append:categories %}
+            {% include partials/blog/blog-teaser.liquid date=post.date featured=true url=post.url filter=post.categories categories=categories src=post.teaser_img_src headline=post.title copy=post.teaser %}
             {% endfor %}
         </div>
         <div class="content-wrap btn-wrap">
@@ -49,23 +78,11 @@ layout: default
     </section>
 </div>
 
-<!-- Angebote -->
-<div class="row">
-    <section id="labs" class="section col-xs-24">
-        <div class="content-wrap">
-            <h2 class="section-headline">Angebote</h2>
-            <p>Das Projekt arbeitet auf folgenden Ebenen, um zeitgemäße Bildung voranzubringen</p>
-        </div>
-        <!-- teasers -->
-        {% include partials/offer-teasers.liquid %}
-    </section>
-</div>
-
 <!-- OER-Sammlung -->
 <div class="row">
-    <section class="section green col-xs-24">
+    <section class="section col-xs-24">
         <div class="content-wrap">
-            <h2 class="section-headline white">Zeitgemäße Unterrichtsideen</h2>
+            <h2 class="section-headline">Zeitgemäße Unterrichtsideen</h2>
 
             <p>Die edulabs-Community empfiehlt Unterrichtsideen, um zeitgemäße Bildung und Partizipation zu fördern. Alle Materialien findet ihr in der Sammlung.</p>
         </div>
@@ -78,7 +95,7 @@ layout: default
 
 <!-- Projekte und Initiativen -->
 <div class="row">
-    <section class="section  col-xs-24">
+    <section class="section green col-xs-24">
         <div class="content-wrap">
             <h2 class="section-headline">Projekte und Initiativen</h2>
             <p>Verschiedene Aktive und Initiativen aus der edulabs-Community arbeiten an Projekten, um zeitgemäße Bildung voranzubringen.</p>

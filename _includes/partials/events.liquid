@@ -1,0 +1,15 @@
+{% if site.data.events %}
+    <ul>
+        {% for event in site.data.events %}
+            {% if event.url %}
+            <a href="{{event.url}}" target="_blank">
+            {% endif %}
+                <li>
+                    {{ event.date }} - {{ event.name }}, {{ event.city }}
+                </li>
+            {% if event.url %}
+            </a>
+            {% endif %}
+        {% endfor %}
+    </ul>
+{% endif %}

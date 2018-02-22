@@ -1,11 +1,13 @@
-<div class="teaser lab-teaser col-xs-24 col-md-8">
+<div class="teaser lab-teaser col-xs-24 col-md-6">
     <div class="teaser-inner">
-        <div class="teaser-image">
-            <img class="img-responsive" src="{{ site.baseurl }}{{ include.src }}"/>
-        </div>
+        {% if include.src %}
+            <div class="teaser-image">
+                <img class="img-responsive" src="{{ site.baseurl }}{{ include.src }}"/>
+            </div>
+        {% endif %}
         <div class="teaser-content lab-teaser-content">
             <h3 class="teaser-headline">{{ include.name }}</h3>
-            <p class="teaser-copy has-arrow">{{ include.copy }}</p>
+            <p class="teaser-copy {% if include.events %}{% else %}has-arrow{% endif %}">{{ include.copy }}<br>{% if include.events %}{% include {{ include.events }} %}{% endif %}</p>
         </div>
         <div class="teaser-buttons-wrap">
             <a class="edu-btn black" href="{{ include.url }}">mehr</a>
