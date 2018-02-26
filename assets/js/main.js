@@ -4,6 +4,40 @@
  * Date: 14.06.2017
  * Created: 15:16
  **/
+
+
+function sendContentToStaticman(formSel, waitMsgDiv, successMsgDiv, errorMsgDiv) {
+    return function () {
+      var form = $(formSel);
+      $(waitMsgDiv).toggle();
+      $(errorMsgDiv).hide();
+
+      $.ajax({
+        type: form.attr('method'),
+        url: form.attr('action'),
+        data: form.serialize(),
+        contentType: 'application/x-www-form-urlencoded',
+        success: function (data) {
+            form.toggle();
+            $(waitMsgDiv).toggle();
+            $(successMsgDiv).toggle();
+            window.scrollTo(0, 0);
+        },
+        error: function (err) {
+            console.log('Error Response', err);
+            $(waitMsgDiv).toggle();
+             $(errorMsgDiv).show();
+
+            if (err.status === 429) {
+                 console.log("Too many requests");
+            }
+        }
+      });
+
+      return false;
+    }
+}
+
 (function(window){
 
     Controller.prototype.constructor = Controller;
@@ -11,10 +45,12 @@
 
     };
 
+
     var ref , isotopeController,
         lastScrollTop,
         $body, $header, $labTeasers, $memberTeasers, $navToggle, $mainNav, $search, $searchIcon,
         $moreBlock, $moreButton, $filterAccordionWraps, $filterAccordionToggle, $moreFiltersWrap;
+
     function Controller(jQuery){
 
         $ = jQuery;
@@ -52,7 +88,7 @@
         isotopeController = new IsotopeController(this);
         var options = {
             multiple: true, //if set to TRUE you can filter by multiple items
-            shuffle: false
+            shuffle: false,
         };
         isotopeController.init(options);
 
@@ -124,39 +160,42 @@
         });
         updateShortDescCounter();
 
-        $('#edit-project-form').submit(function () {
-          var form = this;
-          $('#edit-project-form-submit').html('<h3>Wird geladen...</h3>');
 
-          $.ajax({
-            type: $(this).attr('method'),
-            url: $(this).attr('action'),
-            data: $(this).serialize(),
-            contentType: 'application/x-www-form-urlencoded',
-            success: function (data) {
-                $('#edit-project-form-submit').toggle();
-                $('#project-submit-message').toggle();
-                $(form).toggle();
-                window.scrollTo(0, 0);
-            },
-            error: function (err) {
-                console.log('RESPONSE', err);
-                console.log(err.status);
-                if (err.status === 429) {
-                     $('#too-many-requests').show();
-                     console.log("Too many requests");
-                } else {
-                  $('#edit-project-form-submit').toggle();
-                  $('#project-submit-message').toggle();
-                  $(form).toggle();
-                  window.scrollTo(0, 0);
-                }
-            }
-          });
+        $('#edit-project-form').submit(sendContentToStaticman('#edit-project-form',
+                                                              '#edit-project-form-submit-waiting',
+                                                              '#project-submit-message',
+                                                              '#oer-card-error'));
+       // function () {
+       //   var form = this;
+       //   $('#edit-project-form-submit').html('');
 
-          return false;
-        });
-
+       //   $.ajax({
+       //     type: $(this).attr('method'),
+       //     url: $(this).attr('action'),
+       //     data: $(this).serialize(),
+       //     contentType: 'application/x-www-form-urlencoded',
+       //     success: function (data) {
+       //         $('#edit-project-form-submit').toggle();
+       //         $('#project-submit-message').toggle();
+       //         $(form).toggle();
+       //         window.scrollTo(0, 0);
+       //     },
+       //     error: function (err) {
+       //         console.log('RESPONSE', err);
+       //         console.log(err.status);
+       //         if (err.status === 429) {
+       //              $('#too-many-requests').show();
+       //              console.log("Too many requests");
+       //         } else {
+       //           $('#edit-project-form-submit').toggle();
+       //           $('#project-submit-message').toggle();
+       //           $(form).toggle();
+       //           window.scrollTo(0, 0);
+       //         }
+       //     }
+       //   });
+       //    return false;
+       //  });
 
     };
 

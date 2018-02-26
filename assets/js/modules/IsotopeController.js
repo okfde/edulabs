@@ -182,6 +182,14 @@
             }, 50);
 
 
+            var hash = window.location.hash
+
+            if (hash !== '') {
+                hash = hash.slice(1);
+                $(`.filter-item[data-filter=".${hash}"]`).click();
+                console.log(`.filter-item[data-filter=".${hash}"]`, $('.filter-item[data-filter=".Events"]'))
+            }
+
             $grid.on( 'arrangeComplete', function( event, filteredItems ) {
                 //Logger.log( '++++++++++++++++++++arrangeComplete with ' + filteredItems.length + ' items' );
             });
