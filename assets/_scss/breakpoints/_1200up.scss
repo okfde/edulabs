@@ -27,6 +27,12 @@ contentpage elements
 
 }
 
+.content-wrap{
+      &.topic-wrap{
+        max-width: 1100px;
+      }
+}
+
 /*********************
 FOOTER STYLES
 *********************/

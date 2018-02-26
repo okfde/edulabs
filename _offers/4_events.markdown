@@ -2,7 +2,7 @@
 layout: lab
 title:  "Events"
 events: "/partials/events.liquid"
-src: "/assets/svg-build/sprite/dauer_01_unterrichtsreihe.svg"
+src: "/assets/img/static/events.png"
 link: "/blog"
 ---
 empty

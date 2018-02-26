@@ -55,3 +55,9 @@ FOOTER STYLES
     }
   }
 }
+
+.content-wrap{
+    &.topic-wrap{
+      max-width: 1300px;
+    }
+}

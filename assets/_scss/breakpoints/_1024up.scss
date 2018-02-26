@@ -56,6 +56,9 @@ WRAPPER STYLES
 
 .content-wrap{
   max-width: 800px;
+        &.topic-wrap{
+          max-width: 900px;
+        }
 }
 
 
