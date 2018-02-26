@@ -7,10 +7,10 @@
         {% endif %}
         <div class="teaser-content lab-teaser-content">
             <h3 class="teaser-headline">{{ include.name }}</h3>
-            <p class="teaser-copy {% if include.events %}{% else %}has-arrow{% endif %}">{{ include.copy }}{% if include.events %}{% include {{ include.events }} %}{% endif %}</p>
+            <p class="teaser-copy">{{ include.copy }}{% if include.events %}{% include {{ include.events }} %}{% endif %}</p>
         </div>
-            <div class="teaser-buttons-wrap">
-                    <a class="edu-btn black" href="{{ include.url }}">mehr</a>
-            </div>
+        <div class="teaser-buttons-wrap">
+                <a class="edu-btn black" href="{{ include.url }}">mehr</a>
+        </div>
     </div>
 </div>
