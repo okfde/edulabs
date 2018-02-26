@@ -1,6 +1,6 @@
 ---
 layout: lab
-title:  "Fortbildungen"
+title:  "Workshops"
 headline: "Hol das edulabs-Team an deine Einrichtung"
 src: "/assets/img/static/fortbildung.png"
 link: "/join"
