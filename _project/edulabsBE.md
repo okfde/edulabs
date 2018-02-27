@@ -6,7 +6,8 @@ headline: "edulabs Berlin - die Bildungswerkstatt"
 lab: 'Initiativen'
 src: "/assets/img/labs/edulabsBE.jpg"
 image_src: "/assets/img/labs/edulabsBE.jpg"
-featured: true
+featured: false
+homepage: true
 ---
 <div class="img-wrap-center">
 <img src="/assets/img/labs/edulabsBE.jpg" style="width: 100%; display: inline-block">
