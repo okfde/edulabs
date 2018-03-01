@@ -18,4 +18,3 @@ slug: lumi-eine-wlan-losung-fur-den-klassenraum
 image_src: /assets/img/projects/Lumi.png
 featured: true
 ---
-
