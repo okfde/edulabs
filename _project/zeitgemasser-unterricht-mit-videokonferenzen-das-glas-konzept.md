@@ -9,7 +9,7 @@ short-desc: >-
   Social Media treten die Lernenden in den direkten Austausch mit im Ausland
   lebenden Schülerinnen und Schülern einer Partnerschule.
 needs: Feedback zur Dokumentation und zum Einsatz des Konzeptes
-content: "Der gezielte Einsatz von Videokonferenzen bietet eine Verbesserung im Bereich der funktional kommunikativen Kompetenzen und bereichert das Lernen darüberhinaus durch den Erwerb von medialen und methodischen Fertigkeiten sowie interkultureller Handlungsfähigkeit.\r\n\r\nDer Name des Konzeptes setzt sich aus den Anfangsbuchstaben der am Pilotprojekt beteiligten Orte und Schulen zusammen: G(ulpen), L(eonhard), A(achen), S(ophianum)"
+content: 'Der gezielte Einsatz von Videokonferenzen bietet eine Verbesserung im Bereich der funktional kommunikativen Kompetenzen und bereichert das Lernen darüberhinaus durch den Erwerb von medialen und methodischen Fertigkeiten sowie interkultureller Handlungsfähigkeit.\r\n\r\nDer Name des Konzeptes setzt sich aus den Anfangsbuchstaben der am Pilotprojekt beteiligten Orte und Schulen zusammen: G(ulpen), L(eonhard), A(achen), S(ophianum)'
 link: 'https://hackmd.io/s/B1xoPtjQG'
 contact-name: Adriane Langela-Bickenbach
 contact-email: adrianebickenbach@web.de
