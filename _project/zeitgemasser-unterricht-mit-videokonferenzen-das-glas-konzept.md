@@ -17,4 +17,3 @@ date: '2018-03-01T11:52:32.925Z'
 slug: zeitgemasser-unterricht-mit-videokonferenzen-das-glas-konzept
 image_src: /assets/img/projects/glas projekt_banner_small.jpg
 ---
-undefined

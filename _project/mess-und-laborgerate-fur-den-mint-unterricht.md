@@ -16,4 +16,3 @@ contact-email: info@raspberryblog.de
 slug: mess-und-laborgerate-fur-den-mint-unterricht
 date: '2017-12-29T19:40:50.560Z'
 ---
-undefined
