@@ -13,7 +13,7 @@ link: 'https://hackmd.io/s/HyzHKRtwG'
 contact-name: Chaos Macht Schule
 contact-email: schule@berlin.ccc.de
 date: '2017-08-09T08:52:50.488Z'
-featured: true
+featured: false
 homepage: true
 image_src: /assets/img/projects/projects1.jpg
 slug: >-

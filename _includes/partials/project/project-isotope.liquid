@@ -1,14 +1,14 @@
 <div class="isotope-wrap col-xs-22 col-xs-push-1 no-padding">
     <div class="grid-sizer col-xs-24 col-sm-12 col-md-6 col-lg-6 col-xlg-6"></div>
     {% if include.homepage %}
-      {% assign projects = site.project | where:"homepage",true %}
+      {% assign projects = site.project | where:"homepage",true | sort:"first" %}
     {% else %}
-      {% assign projects = site.project %}
+      {% assign projects = site.project | sort:"first" %}
     {% endif %}
     {% for project in projects %}
         {% assign categories = project.lab | join:', ' %}
         {% assign categories = "" | append:categories %}
         {% assign url = project.slug %}
-        {% include partials/project/project-teaser.liquid homepage=include.homepage url=url featured=project.featured teaser=project.teaser filter=project.lab categories=categories image_src=project.image_src headline=project.title copy=project.teaser %}
+        {% include partials/project/project-teaser.liquid homepage=include.homepage url=url featured=project.featured teaser=project.teaser filter=project.lab categories=categories image_src=project.image_src headline=project.title copy=project.short-desc %}
     {% endfor %}
 </div>
