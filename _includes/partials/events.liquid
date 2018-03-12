@@ -1,12 +1,13 @@
 {% if site.data.events %}
         {% for event in site.data.events %}
-            {% if event.url %}
-            <a href="{{event.url}}" target="_blank">
-            {% endif %}
-                <img src="/assets/img/static/arrow.svg"/> {{ event.date }} - {{ event.name }}, {{ event.city }}<br>
-            {% if event.url %}
-            </a>
+            {% if event.featured == true %}
+                {% if event.url %}
+                <a href="{{event.url}}" target="_blank">
+                {% endif %}
+                    <img src="/assets/img/static/arrow.svg"/> {{ event.date }} - {{ event.name }}, {{ event.city }}<br>
+                {% if event.url %}
+                </a>
+                {% endif %}
             {% endif %}
         {% endfor %}
-
 {% endif %}
