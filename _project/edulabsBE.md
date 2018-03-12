@@ -10,7 +10,7 @@ src: "/assets/img/labs/edulabsBE.jpg"
 image_src: "/assets/img/labs/edulabsBE.jpg"
 featured: true
 slug: edulabsBE
-first: 1
+firstelement: 1
 homepage: true
 ---
 <div class="img-wrap-center">

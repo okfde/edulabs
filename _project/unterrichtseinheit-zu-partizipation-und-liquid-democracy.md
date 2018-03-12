@@ -20,7 +20,7 @@ slug: unterrichtseinheit-zu-partizipation-und-liquid-democracy
 image_src: /assets/img/projects/aula.jpg
 featured: false
 homepage: true
-first: 2
+firstelement: 2
 ---
 
 Ziele der Einheit sind:
