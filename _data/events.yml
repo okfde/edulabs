@@ -1,0 +1,12 @@
+- name: edusprint
+  url: 'https://www.meetup.com/edulabsKB/events/247422736/'
+  date: 24.02.
+  city: Köln
+  featured: true
+  id: "0001"
+- name: edulabsBE
+  url: 'https://www.meetup.com/edulabsBE/'
+  date: 06.03.
+  city: Berlin
+  featured: true
+  id: "0002"

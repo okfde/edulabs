@@ -1,7 +1,7 @@
 ---
 _id: 2c947910-ecd0-11e7-bde9-99b7584a705b
 title: Mess- und Laborgeräte für den MINT-Unterricht
-lab: BE
+lab: Projekte
 status: building
 short-desc: >-
   Basierend auf der Arduino-, ESP8266/ESP32- oder Raspberry Pi - Plattform
@@ -15,4 +15,5 @@ contact-name: Dr. Martin Lützelberger
 contact-email: info@raspberryblog.de
 slug: mess-und-laborgerate-fur-den-mint-unterricht
 date: '2017-12-29T19:40:50.560Z'
+image_src: /assets/img/projects/Messgeraete_fuer_den_Unterricht.jpg
 ---

@@ -6,7 +6,6 @@
         <ul class="main-nav">
             {% assign base_dir = page.url | split:'/'  %}
             {% assign base_dir = base_dir  %}
-            <li {% if base_dir[1] == 'labs' %} class="current" {% endif %}><a href="/labs">Labs</a></li>
             <li {% if base_dir[1] == 'projects' %} class="current" {% endif %}><a href="/projects">Projekte</a></li>
             <li {% if base_dir[1] == 'blog' %} class="current" {% endif %}><a href="/blog">Blog</a></li>
             <li {% if base_dir[1] == 'oer' %} class="current" {% endif %}><a href="/oer">Unterrichtsideen</a></li>

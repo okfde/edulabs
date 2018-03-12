@@ -4,6 +4,9 @@ PAGE & SECTIONS
 
 .content-wrap{
   width: 100%;
+    &.topic-wrap{
+      max-width: 1200px;
+    }
 }
 
 .edu-btn {

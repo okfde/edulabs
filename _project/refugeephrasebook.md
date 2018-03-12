@@ -1,7 +1,7 @@
 ---
 _id: e9e0ab80-7dd9-11e7-a2c6-89c80ca8ca23
 title: Print-Tool & Übersetzungen für Refugeephrasebook.de
-lab: 'BE'
+lab: 'Projekte'
 status: building
 short-desc: >-
   refugeephrasebook.de sammelt Übersetzungen und Phrasen für die
@@ -14,6 +14,7 @@ contact-name: Markus Neuschäfer
 contact-email: m.neuschaefer@gmail.com
 date: '2017-08-10T14:40:54.531Z'
 slug: refugeephrasebook
+image_src: /assets/img/projects/projects2.jpg
 ---
 
 Das Print-Tool läuft bereits als beta-Version, muss aber in den meisten Sprachen noch getestet werden. <br>

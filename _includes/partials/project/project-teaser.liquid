@@ -1,5 +1,5 @@
 {% assign filter_categories = include.filter | join:' ' | replace:'#','' %}
-<div class="teaser project-teaser {% unless include.image_src %}random-image {% endunless %}isotope-item {{ filter_categories }} {{ include.type }} col-xs-24 col-sm-12 col-md-8 col-lg-12 col-xlg-8">
+<div class="teaser project-teaser isotope-item {{ filter_categories }} {{ include.type }} {% if include.featured %}col-xs-24 col-sm-12 col-md-12 col-lg-12 col-xlg-12 {% else %}col-xs-24 col-sm-12 col-md-6 col-lg-6 col-xlg-6{% endif %}">
         <a href="/projects/{{ include.url }}" class="teaser-inner">
         <div class="teaser-image">
             <img class="img-responsive" src="{{ include.image_src }}"/>

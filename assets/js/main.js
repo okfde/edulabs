@@ -88,7 +88,7 @@ function sendContentToStaticman(formSel, waitMsgDiv, successMsgDiv, errorMsgDiv)
         isotopeController = new IsotopeController(this);
         var options = {
             multiple: true, //if set to TRUE you can filter by multiple items
-            shuffle: false
+            shuffle: false,
         };
         isotopeController.init(options);
 

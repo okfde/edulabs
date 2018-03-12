@@ -603,9 +603,15 @@ PAGE & SECTIONS
   &.btn-wrap{
     padding-top: 60px;
   }
-
 }
 
+.topic-img{
+  width: 100%;
+}
+
+.topic-list{
+    text-align: left !important;
+}
 .subpage-content, .teaser-content{
   text-align: left;
 

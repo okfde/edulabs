@@ -5,6 +5,7 @@ title: "Schulpraxis für offene Bildung: edulabs braucht deine Hilfe"
 teaser: "Adriane Langela-Bickenbach ist Lehrerin und hat das Projekt GLAS gestartet, das 2018 mit dem Deutschen Lehrerpreis ausgezeichnet wurde. Ein Konzept, das Videokonferenzen in den Unterricht einbindet und damit den internationalen Austausch zwischen Lernenden erleichtert sowie zeitgemäße Kompetenzen fördert."
 teaser_img_src: /assets/img/blog/2018/Januar/edulabs-Kontakte_Ausschreibung/edulabs-Kontakte.png
 featured: false
+frontpage: true
 categories: News
 twitter_large_img: /assets/img/blog/2018/Januar/edulabs-Kontakte_Ausschreibung/edulabs-Kontakte.png
 image: /assets/img/blog/2018/Januar/edulabs-Kontakte_Ausschreibung/edulabs-Kontakte.png

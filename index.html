@@ -16,31 +16,54 @@ layout: default
         <div class="content-wrap">
 
             <!-- INSPECT: {{ site.dw | inspect}} -->
-                  <h1 class="regular">Offene Bildung mit digital gestützten Methoden</h1>
-                  <p>Wie lässt sich Lernen und Lehren offen gestalten? edulabs bringen Menschen zusammen, die neue, digitale
-                      Bildungsformate entwickeln und als OER teilen.</p>
+                  <h1 class="regular">edulabs fördert offene & zeitgemäße Bildung</h1>
+                  <p>Wie lässt sich Lernen offen gestalten? Wir unterstützen und vernetzen Menschen, die neue, digitale Bildungsformate entwickeln und unter freien Lizenzen teilen.</p>
               </div>
               <div class="content-wrap btn-wrap">
                   <a class="edu-btn black" href="/about" target="_blank">Über das Projekt</a>
               </div>
-          </section>
-      </div>
-      <!-- labs -->
+    </section>
+</div>
+
+<!-- Angebote -->
 <div class="row">
     <section id="labs" class="section green col-xs-24">
         <div class="content-wrap">
-            <h2 class="section-headline white">Labs</h2>
-            <p>In mehreren Regionen sind regelmäßige edulabs-Treffen geplant, in denen selbstorganisierte Teams zusammen
-                Projekte für offene Bildung entwickeln. Du möchtest mitmachen? Dann besuche einfach eines der folgenden
-                Labs:</p>
+            <h2 class="section-headline">Angebote</h2>
+            <p>Das Projekt arbeitet auf den folgenden Ebenen, um zeitgemäße Bildung voranzubringen</p>
         </div>
-        <!-- lab teasers -->
-        {% include partials/lab-teasers.liquid %}
+        <!-- teasers -->
+        {% include partials/offer-teasers.liquid %}
     </section>
 </div>
-<!-- blog -->
+
+<!-- themen -->
 <div class="row">
     <section class="section col-xs-24">
+        <div class="content-wrap topic-wrap">
+            <h2 class="section-headline">Themen</h2>
+            <h3 class="about-subline blue">edulabs engagiert sich in den folgenden Bereichen</h3>
+            <div class="col-md-12">
+                <img class="topic-img" src="/assets/img/static/Global_Open_Educational_Resources_Logo.svg"/>
+                <span class="caption align-right">CC-BY 3.0 Jonathas Mello</span>
+            </div>
+            <div class="col-md-12">
+                <ul class ="topic-list">
+                    <li><strong>Open Educational Resources:</strong><br>Wir helfen bei der Verbreitung und Entwicklung von frei lizenzierten Bildungsmaterialien.</li>
+                    <li><strong>Open Source & digitalgestützte Methoden:</strong><br>edulabs unterstützt innovative Formate, die Medienbildung fördern und frei nachnutzbar sind.</li>
+                    <li><strong>Zeitgemäße Bildung:</strong><br>Wir fördern partizipative und kompetenzorientierte Bildungsformate.</li>
+                </ul>
+            </div>
+        </div>
+        <div class="content-wrap topic-wrap btn-wrap" style="clear: both;">
+            <a class="edu-btn black" href="/about" target="_blank">Über das Projekt</a>
+        </div>
+    </section>
+</div>
+
+<!-- blog -->
+<div class="row">
+    <section class="section green col-xs-24">
         <div class="content-wrap">
             <h2 class="section-headline">Aus dem Blog</h2>
         </div>
@@ -63,17 +86,29 @@ layout: default
         </div>
     </section>
 </div>
-<!-- projekte -->
+
+<!-- OER-Sammlung -->
+<div class="row">
+    <section class="section col-xs-24">
+        <div class="content-wrap">
+            <h2 class="section-headline">Zeitgemäße Unterrichtsideen</h2>
+            <p>Die edulabs-Redaktion empfiehlt ausgewählte Unterrichtsideen, um zeitgemäße Bildung und Partizipation zu fördern. Alle Materialien findet ihr in der folgenden Sammlung:</p>
+        </div>
+        <a href="{{ site.baseurl }}/oer" target="_blank"><img class="img-responsive" src="/assets/img/static/oer_filters_frontpage.jpg"/></a>
+        {% include partials/edusprint/edusprint-isotope.liquid visible=1 number=8 %}
+        <div class="content-wrap btn-wrap">
+            <a class="edu-btn black" href="{{ site.baseurl }}/oer" target="_blank">zur Sammlung</a>
+        </div>
+    </section>
+</div>
+
+<!-- Projekte und Initiativen -->
 <div class="row">
     <section class="section green col-xs-24">
         <div class="content-wrap">
-            <h2 class="section-headline white">Projekte</h2>
-
-            <p>
-            In den edulabs entwickeln Teams zusammen Projekte für zeitgemäße
-            Bildung.</p>
+            <h2 class="section-headline">Projekte und Initiativen</h2>
+            <p>Die edulabs-Community setzt sich mit zahlreichen Initiativen für zeitgemäße, offene Bildung ein. Werde Teil der Community, unterstütze Projekte oder starte dein eigenes Vorhaben.</p>
         </div>
-        <p>
         <div class="row">
             {% include partials/project/project-isotope.liquid homepage=true %}
         </div>
@@ -82,21 +117,20 @@ layout: default
         </div>
     </section>
 </div>
+
 <!-- über das projekt -->
 <div class="row">
     <section class="section col-xs-24">
         <div class="content-wrap">
             <h2 class="section-headline">Über das Projekt</h2>
-            <h3 class="blue about-subline">Wie lassen sich offene Bildungsangebote mit digital gestützten Methoden
+            <h3 class="blue about-subline">Wie lässt sich offene Bildung mit digital gestützten Methoden
                 gestalten? </h3>
-            <p>Edulabs sind lokale Gruppen aus Menschen, die ihre didaktischen,
-                technischen und gestalterischen Fähigkeiten einsetzen, um zusammen innovative und nachnutzbare
-                Bildungsmaterialien zu entwickeln.</p>
+            <p>edulabs versteht sich als überregionaler Inkubator, in dem Menschen ihre didaktischen, technischen und gestalterischen Fähigkeiten einsetzen, um zusammen innovative und nachnutzbare Bildungsmaterialien zu entwickeln. Wir unterstützen die Community redaktionell, didaktisch, technisch, sowie bei der Organisation von Events.</p>
         </div>
         <div class="content-wrap btn-wrap">
             <a class="edu-btn black" href="/about" target="_blank">mehr</a>
         </div>
-        </section>
+    </section>
 </div>
 <!-- include mitmachen section -->
 {% include partials/sections/apply.liquid %}
