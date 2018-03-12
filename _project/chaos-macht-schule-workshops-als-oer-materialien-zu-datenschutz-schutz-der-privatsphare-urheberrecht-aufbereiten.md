@@ -16,6 +16,7 @@ date: '2017-08-09T08:52:50.488Z'
 featured: false
 homepage: true
 image_src: /assets/img/projects/projects1.jpg
+first: 2
 slug: >-
   chaos-macht-schule-workshops-als-oer-materialien-zu-datenschutz-schutz-der-privatsphare-urheberrecht-aufbereiten
 ---
