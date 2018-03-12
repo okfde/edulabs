@@ -15,5 +15,6 @@ contact-name: Maximilian Voigt
 contact-email: maximilian.voigt@okfn.de
 date: '2017-11-06T12:40:22.862Z'
 slug: vom-physikalischen-ereignis-zum-datensatz-workshop-weiterentwickeln
+image_src: /assets/img/projects/von_der_messung_zum_datensatz_fixed.jpg
 ---
 undefined

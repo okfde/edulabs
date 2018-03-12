@@ -14,6 +14,7 @@ contact-name: Markus Neuschäfer
 contact-email: m.neuschaefer@gmail.com
 date: '2017-08-10T14:40:54.531Z'
 slug: refugeephrasebook
+image_src: /assets/img/projects/projects2.jpg
 ---
 
 Das Print-Tool läuft bereits als beta-Version, muss aber in den meisten Sprachen noch getestet werden. <br>

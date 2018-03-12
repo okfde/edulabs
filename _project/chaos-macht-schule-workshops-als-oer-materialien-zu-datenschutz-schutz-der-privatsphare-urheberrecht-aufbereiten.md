@@ -15,6 +15,7 @@ contact-email: schule@berlin.ccc.de
 date: '2017-08-09T08:52:50.488Z'
 featured: true
 homepage: true
+image_src: /assets/img/projects/projects1.jpg
 slug: >-
   chaos-macht-schule-workshops-als-oer-materialien-zu-datenschutz-schutz-der-privatsphare-urheberrecht-aufbereiten
 ---
