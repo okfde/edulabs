@@ -73,6 +73,24 @@ function sendContentToStaticman(formSel, waitMsgDiv, successMsgDiv, errorMsgDiv)
         $memberTeasers = $('.member-teaser-content');
         $mainNav = $('.main-nav');
         $search = $('.search');
+        $mitmachen = $('.mitmachen');
+
+        $mitmachen.hover(function () {
+            var width = window.innerWidth,
+                height = window.innerHeight;
+
+            console.log(width, height);
+
+            if (width >= 1024) {
+                $(this).toggleClass('submenu-focus');
+                $('.submenu').toggle(300);
+            }
+        });
+
+        $mitmachen.click(function () {
+            $(this).toggleClass('submenu-focus');
+            $('.submenu').slideToggle(300);
+        });
 
         $searchIcon = $('.search-icon');
         $searchIcon.click(function(e){
@@ -351,6 +369,14 @@ function sendContentToStaticman(formSel, waitMsgDiv, successMsgDiv, errorMsgDiv)
         $filterAccordionWraps  = $('.filter-accordion-wrap');
         $filterAccordionToggle  = $('.filter-toggle',$filterAccordionWraps);
         $moreFiltersWrap  = $('.more-filters');
+        $oerFilters = $('.edusprint-filters.view');
+        $zuruckOERLink = $('.zuruck-link');
+
+        $oerFilters.click(function (e) {
+            var parentOffset = $(this).parent().offset();
+            $zuruckOERLink.css({'top': e.pageY - parentOffset.top, 'left': e.pageX - parentOffset.left})
+            $zuruckOERLink.toggle();
+        })
 
         $filterAccordionToggle.click(function(e){
             Logger.log("click");

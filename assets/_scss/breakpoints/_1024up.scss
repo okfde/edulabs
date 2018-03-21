@@ -144,6 +144,7 @@ HEADER STYLES
       display: inline-block;
     }
 
+
     ul.main-nav {
 
       background-color: transparent;
@@ -153,11 +154,13 @@ HEADER STYLES
       width: auto;
       padding: 0;
       max-height: none;
-
       box-shadow: 0px 0px 0px 0px rgba(0,0,0,0.1);
-
       margin-left: 20px;
       margin-top: 2px;
+
+      .submenu {
+       /*  position: inherit; */
+      }
 
       li {
         display: inline-block;

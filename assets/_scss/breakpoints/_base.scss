@@ -480,7 +480,12 @@ HEADER STYLES
       position: absolute;
       width: 100%;
       padding: 0;
-      overflow: hidden;
+
+      @media only screen and (max-width: 1024px) {
+        overflow: hidden;
+      }
+
+      /* overflow: hidden; */
       @include teaser-shadow();
 
       @include transition(max-height .25s ease, padding .25s ease);
@@ -489,6 +494,23 @@ HEADER STYLES
       &.open{
         max-height: 500px;
         padding: 20px 0;
+      }
+
+      .submenu {
+           position: absolute;
+
+           @media only screen and (max-width: 1024px) {
+               position: inherit;
+           }
+
+           background-color: #f8f8f8;
+           margin-top: 0;
+           padding: 10px 15px;
+
+           li {
+                width: 100%;
+                padding-top: 10px;
+           }
       }
 
       li{
@@ -523,9 +545,11 @@ HEADER STYLES
       }
 
     }
-
   }
+}
 
+.submenu-focus {
+    color: $primary-color;
 }
 
 /*********************
@@ -755,6 +779,24 @@ EDUSPRINT
 
   .edusprint-filters{
     display: none;
+
+    .zuruck-link {
+       a{
+         @include transition(background-color .25s ease);
+       }
+     
+       a, a:focus, a:visited{
+         background-color: $link-background;
+       }
+       a:hover{
+         background-color: $link-background-hover;
+       }
+
+       position: absolute;
+       z-index: 10;
+       background-color: white;
+       padding: 10px;
+    }
   }
 
   .edusprint-authors-wrap{
