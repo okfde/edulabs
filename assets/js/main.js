@@ -374,7 +374,6 @@ function sendContentToStaticman(formSel, waitMsgDiv, successMsgDiv, errorMsgDiv)
 
         $oerFilters.click(function (e) {
             var parentOffset = $(this).parent().offset();
-            console.log(e.pageX, e.pageY)
             $zuruckOERLink.css({'top': e.pageY - parentOffset.top, 'left': e.pageX - parentOffset.left})
             $zuruckOERLink.toggle();
         })
