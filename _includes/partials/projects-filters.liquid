@@ -1,6 +1,6 @@
 {% assign rawcategories = "" %}
 {% for project in site.project %}
-    {% assign proj_categories = project.lab | join:'|' | append:'|' %}
+    {% assign proj_categories = project.layout | join:'|' | append:'|' %}
     {% assign rawcategories = rawcategories | append:proj_categories %}
 {% endfor %}
 {% assign rawcategories = rawcategories | split:'|' | sort %}
@@ -19,7 +19,7 @@
 <h4 class="filter-items-headline">NACH KATEGORIE FILTERN:</h4>
 <div class="filter-items-inner col-xs-24">
     {% for cat in categories %}
-    <a href="/" data-filter=".{{ cat }}" class="filter-item">#{{ cat }}</a>
+    <a href="/" data-filter=".{{ cat }}" class="filter-item">#{% if cat == "lab" %}Initiativen{% else %}Projekte{% endif %}</a>
     {% endfor %}
     {% comment %}
     <a href="/" data-filter=".kategorie-1" class="filter-item">#kategorie 1</a>

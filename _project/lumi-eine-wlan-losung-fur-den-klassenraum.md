@@ -1,7 +1,6 @@
 ---
 _id: 6050dc40-7ce0-11e7-807c-1bb98bc71e68
 title: Lumi - Eine WLAN Lösung für den Klassenraum
-lab: 'Projekte'
 status: prototyping
 short-desc: >-
   Lumi ist eine Lernplattform, die auf einem Router (LumiBox) läuft und den

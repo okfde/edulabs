@@ -1,9 +1,8 @@
 ---
-layout: lab
 title:  "edulabsBE"
 team: "/partials/member-teasers-edulabsBE.liquid"
 headline: "edulabs Berlin - die Bildungswerkstatt"
-lab: 'Initiativen'
+layout: lab
 short-desc: >-
   Wir sind Berliner, die ihre didaktischen, technischen und gestalterischen Fähigkeiten einsetzen, um zusammen innovative und nachnutzbare Bildungsmaterialien zu entwickeln. Auch die Vernetzung und der Austausch stehen im Mittelpunkt der Treffen.
 src: "/assets/img/labs/edulabsBE.jpg"
