@@ -10,7 +10,7 @@ desc: >-
   dieses Workshops ist jener Weg, vom natürlichen Ereignis zum digitalen
   Zahlenwert.
 link: 'https://hackmd.io/WqBwj-51SnuY6IfP93F6fA'
-lernziele: "\\- Die Lernenden lernen den Unterschied zwischen Daten und natürlichen Ereignissen kennen.\r\n\\- Sie bauen sich ihr eigenes analoges Thermometer, digitalisieren es im nächsten Schritt und interpretieren die Ergebnisse.\r\n\\- Die Lernenden reflektieren Daten und ihre Wirkung auf den Alltag."
+lernziele: "\\- Die Lernenden lernen den Unterschied zwischen Daten und natürlichen Ereignissen kennen.<br>\\- Sie bauen sich ihr eigenes analoges Thermometer, digitalisieren es im nächsten Schritt und interpretieren die Ergebnisse.<br>\\- Die Lernenden reflektieren Daten und ihre Wirkung auf den Alltag."
 tipp: >-
   In dem Werkshop werden verschiedene Themen aus dem Physik- und
   Mathematikunterricht behandelt. Dadurch lässt er sich gut als
