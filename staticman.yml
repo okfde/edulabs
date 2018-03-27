@@ -16,17 +16,16 @@ comments:
         format      : "iso8601"
 
 projects:
-  allowedFields     : ['title', 'info', 'short-desc', 'needs', 'type', 'status', 'link', 'contact-name', 'contact-email']
+  allowedFields     : ['title', 'info', 'short-desc', 'needs', 'layout', 'status', 'link', 'contact-name', 'contact-email']
   branch            : "master"
   commitMessage     : "New project"
   filename          : "{fields.slug}"
   format            : "frontmatter"
   moderation        : true
   path              : "_project"
-  requiredFields    : ['title', 'short-desc', 'type', 'status', 'contact-name', 'contact-email']
+  requiredFields    : ['title', 'short-desc', 'layout', 'status', 'contact-name', 'contact-email']
   transforms:
     info            : frontmatterContent
-    layout          : type
   generatedFields:
     date:
       type          : "date"
