@@ -16,7 +16,7 @@ comments:
         format      : "iso8601"
 
 projects:
-  allowedFields     : ['title', 'info', 'short-desc', 'needs', 'lab', 'status', 'link', 'contact-name', 'contact-email']
+  allowedFields     : ['title', 'info', 'short-desc', 'needs', 'type', 'status', 'link', 'contact-name', 'contact-email']
   branch            : "master"
   commitMessage     : "New project"
   filename          : "{fields.slug}"
@@ -25,7 +25,8 @@ projects:
   path              : "_project"
   requiredFields    : ['title', 'short-desc', 'lab', 'status', 'contact-name', 'contact-email']
   transforms:
-    content         : frontmatterContent
+    info            : frontmatterContent
+    layout          : type
   generatedFields:
     date:
       type          : "date"
