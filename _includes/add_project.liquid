@@ -1,5 +1,5 @@
 {% if include.new %}
-  {% assign redirect = '{{site.url}}' %}
+  {% assign redirect = site.url %}
   {% assign project_title = '' %}
 {% else %}
   {% capture redirect %}{{site.url}}/projects/{{page.slug}}{% endcapture %}
@@ -63,7 +63,7 @@
             <!-- Project Text -->
             <fieldset>
               <label for="project-form-description"><strong>Weitere Informationen</strong><br>Hier ist Platz für mehr Details zum Projekt.</label>
-              <textarea type="text" rows="6" id="project-form-description" name="fields[info]" spellcheck="true">{{ page.info }}</textarea>
+              <textarea type="text" rows="6" id="project-form-description" name="fields[info]" spellcheck="true">{{ content }}</textarea>
             </fieldset>
 
             <!-- Link to the Project -->
