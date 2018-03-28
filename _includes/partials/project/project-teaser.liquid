@@ -10,8 +10,8 @@
             {% if include.featured %}
             <p class="teaser-copy">{{ include.copy }}</p>
             {% endif %}
-            {% if include.categories %}
-            <span class="teaser-cats">{{ include.categories }}</span>
+            {% if include.filter %}
+            <span class="teaser-cats">{% if include.filter == "lab" %}Initiative{% else %}Projekt{% endif %}</span>
             {% endif %}
             <div class="teaser-arrow has-arrow"></div>
         </div>

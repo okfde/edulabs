@@ -1,7 +1,6 @@
 ---
 _id: 069b1370-1d47-11e8-a430-e94ecbd755e9
 title: Zeitgemäßer Unterricht mit Videokonferenzen - das GLAS-Konzept
-lab: Projekte
 status: releasing
 short-desc: >-
   Das GLAS-Konzept bricht herkömmliche Kommunikationssituationen des regulären

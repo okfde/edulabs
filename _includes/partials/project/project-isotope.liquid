@@ -6,9 +6,9 @@
       {% assign projects = site.project | sort: 'firstelement' %}
     {% endif %}
     {% for project in projects %}
-        {% assign categories = project.lab | join:', ' %}
+        {% assign categories = project.layout    | join:', ' %}
         {% assign categories = "" | append:categories %}
         {% assign url = project.slug %}
-        {% include partials/project/project-teaser.liquid homepage=include.homepage url=url featured=project.featured teaser=project.teaser filter=project.lab categories=categories image_src=project.image_src headline=project.title copy=project.short-desc %}
+        {% include partials/project/project-teaser.liquid homepage=include.homepage url=url featured=project.featured teaser=project.teaser filter=project.layout categories=categories image_src=project.image_src headline=project.title copy=project.short-desc %}
     {% endfor %}
 </div>

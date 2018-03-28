@@ -1,7 +1,6 @@
 ---
 _id: bb9d5360-7dd7-11e7-a2c6-89c80ca8ca23
 title: Unterrichtseinheit zu Partizipation und Liquid Democracy
-lab: 'Projekte'
 status: prototyping
 short-desc: "Im Rahmen des Projekts \"aula-Schule gemeinsam gestalten\" konzipieren wir eine Unterrichtsreihe zu \"Liquid Democracy\" für den Politik und Sozialwissenschaftsunterricht.\r\nZiel: Liquid Democracy anhand von aula kennenlernen und praktisch ausprobieren."
 needs: >-

@@ -1,7 +1,6 @@
 ---
 _id: 939b6240-a1c6-11e7-a2c6-89c80ca8ca23
 title: Crypto-Roomescape und Stadtrallye
-lab: 'Projekte'
 status: brainstorming
 short-desc: >-
   Die im Rahmen einer Cryptoparty vermittelten Kenntnisse sollen in Form einer

@@ -33,8 +33,8 @@
             <fieldset>
               <label for="project-form-lab"><strong>Kategorie</strong> <span class="required">*</span></label>
               <select name="fields[layout]" required>
-                <option value="Projekte" {% if project_lab == "Projekt" %}selected{% endif %}>Projekt</option>
-                <option value="Initiativen" {% if project_lab == "Initiative" %}selected{% endif %}>Initiative</option>
+                <option value="project" {% if project_lab == "Projekt" %}selected{% endif %}>Projekt</option>
+                <option value="lab" {% if project_lab == "Initiative" %}selected{% endif %}>Initiative</option>
               </select>
             </fieldset>
 

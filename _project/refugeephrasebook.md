@@ -1,7 +1,6 @@
 ---
 _id: e9e0ab80-7dd9-11e7-a2c6-89c80ca8ca23
 title: Print-Tool & Übersetzungen für Refugeephrasebook.de
-lab: 'Projekte'
 status: building
 short-desc: >-
   refugeephrasebook.de sammelt Übersetzungen und Phrasen für die
