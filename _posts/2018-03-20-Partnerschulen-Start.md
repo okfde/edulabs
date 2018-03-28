@@ -3,8 +3,8 @@ layout: post
 title: "Abgeschickt: 16 Tablets für zeitgemäße Bildung"
 teaser: "Die ersten Tablets für edulabs-Kontakte und Partnerschulen wurden versandt."
 teaser_img_src: /assets/img/blog/2018/Januar/edulabs-Kontakte_Ausschreibung/edulabs-Kontakte_tablet.jpg
-featured: true
-categories: Interviews
+featured: false
+categories: News
 twitter_large_img: /assets/img/blog/2018/Januar/edulabs-Kontakte_Ausschreibung/edulabs-Kontakte_tablet.jpg
 header_background: /assets/img/blog/2018/Januar/edulabs-Kontakte_Ausschreibung/edulabs-Kontakte_tablet.jpg
 image: /assets/img/blog/2018/Januar/edulabs-Kontakte_Ausschreibung/edulabs-Kontakte_tablet.jpg  
