@@ -1,6 +1,7 @@
 {% if include.new %}
-  {% assign redirect = '{{site.url}}' %}
+  {% assign redirect = site.url %}
   {% assign project_title = '' %}
+  {% assign project_info = '' %}
 {% else %}
   {% capture redirect %}{{site.url}}/projects/{{page.slug}}{% endcapture %}
   {% assign editable = 'readonly' %}
@@ -13,6 +14,7 @@
   {% assign project_contact_name = page.contact-name %}
   {% assign project_contact_email = page.contact-email %}
   {% assign project_image = page.image %}
+  {% capture project_info %}{{page.raw_content}}{% endcapture %}
 {% endif %}
 <div class="row">
     <section class="section first white col-xs-24">
@@ -62,8 +64,10 @@
 
             <!-- Project Text -->
             <fieldset>
+
               <label for="project-form-description"><strong>Weitere Informationen</strong><br>Hier ist Platz für mehr Details.</label>
-              <textarea type="text" rows="6" id="project-form-description" name="fields[info]" spellcheck="true">{{ page.info }}</textarea>
+              <textarea type="text" rows="6" id="project-form-description" name="fields[info]" spellcheck="true">{{ project_info }}</textarea>
+
             </fieldset>
 
             <!-- Link to the Project -->
@@ -115,7 +119,6 @@
               <input type="hidden" name="options[origin]" value="{{ page.url | absolute_url }}">
               <label for="comment-form-location">Leave blank if you are a human</label>
               <input id="spam_info" type="hidden" name="fields[human]" value="false">
-              <input id="redirect_url" type="hidden" name="options[redirect]" value="{{ redirect }}">
             </fieldset>
 
             <p class="hidden js-notice">
