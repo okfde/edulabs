@@ -23,7 +23,7 @@ projects:
   format            : "frontmatter"
   moderation        : true
   path              : "_project"
-  requiredFields    : ['title', 'short-desc', 'layout', 'status', 'contact-name', 'contact-email']
+  requiredFields    : ['title', 'short-desc', 'layout', 'contact-name', 'contact-email']
   transforms:
     info            : frontmatterContent
   generatedFields:
