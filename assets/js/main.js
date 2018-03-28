@@ -1,5 +1,5 @@
 /**
- * Author: CReich
+ * Author: CReich, Edgar
  * Company: Rainbow Unicorn
  * Date: 14.06.2017
  * Created: 15:16
@@ -24,7 +24,6 @@ function sendContentToStaticman(formSel, waitMsgDiv, successMsgDiv, errorMsgDiv)
             window.scrollTo(0, 0);
         },
         error: function (err) {
-            console.log('Error Response', err);
             $(waitMsgDiv).toggle();
              $(errorMsgDiv).show();
 
