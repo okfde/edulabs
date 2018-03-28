@@ -1,3 +1,6 @@
+---
+---
+
 /**
  * Author: CReich, Edgar
  * Company: Rainbow Unicorn
@@ -130,10 +133,23 @@ function sendContentToStaticman(formSel, waitMsgDiv, successMsgDiv, errorMsgDiv)
 
         var createRandomSlug = function (n) {
             var slug = "";
+            var foundSlug = false;
             var chars = "abcdefghijklmnopqrstuvwxyz0123456789";
 
-            for (var i = 0; i < 5; i++) {
-              slug += chars.charAt(Math.floor(Math.random() * chars.length));
+            var existingSlugs = [
+              {% for card in site.dw %}
+              "{{card.slug}}"{% unless forloop.last %},{% endunless %}
+              {% endfor %}
+            ];
+
+            while (!foundSlug) {
+                slug = "";
+                for (var i = 0; i < 5; i++) {
+                  slug += chars.charAt(Math.floor(Math.random() * chars.length));
+                }
+                if (existingSlugs.indexOf(slug)) {
+                    foundSlug = true;
+                }
             }
 
             return slug;
