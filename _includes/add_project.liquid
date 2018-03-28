@@ -25,7 +25,7 @@
 
             <!-- Project Name -->
             <fieldset>
-              <label for="project-form-name"><strong>Projekttitel</strong> <span class="required">*</span></label>
+              <label for="project-form-name"><strong>Titel des Projektes oder der Initiative</strong> <span class="required">*</span></label>
               <input type="text" id="project-form-name" name="fields[title]" value="{{ project_title }}" spellcheck="false" {{editable}}/>
             </fieldset>
 
@@ -40,7 +40,7 @@
 
             <!-- Project status -->
             <fieldset>
-              <label for="project-form-status"><strong>Status</strong> <span class="required">*</span></label>
+              <label for="project-form-status"><strong>Status</strong> (sofern es sich um ein Projekt handelt)</label>
               <select name="fields[status]" required>
                 {% for status in site.data.projects.status %}
                   <option value="{{ status }}" {% if project_status == status %}selected{% endif %}>{{ status }}</option>
@@ -50,25 +50,25 @@
 
             <!-- Project Short Text -->
             <fieldset>
-              <label for="project-form-short-description"><strong>Projektbeschreibung</strong><span class="required"> *</span><br>Bitte beschreibe in wenigen Sätzen, welche Ziele das Projekt hat und welche Probleme es lösen soll. <span id="project-form-short-description-left">(noch 300 Zeichen)</span></label>
+              <label for="project-form-short-description"><strong>Beschreibung</strong><span class="required"> *</span><br>Bitte beschreibe in wenigen Sätzen, welche Ziele das Projekt oder die Initiative hat und welche Probleme gelöst werden. <span id="project-form-short-description-left">(noch 300 Zeichen)</span></label>
               <textarea type="text" rows="6" id="project-form-short-description" name="fields[short-desc]" spellcheck="true">{{ project_text }}</textarea>
             </fieldset>
 
             <!-- Project Needs Text -->
             <fieldset>
-              <label for="project-form-needs"><strong>Welche Unterstützung benötigst du für das Projekt?</strong><span class="required"> *</span><br>Bitte beschreibe in kurzen Sätzen, welche Probleme noch zu lösen sind und die Fertigkeiten, die dafür benötigt werden.</label>
+              <label for="project-form-needs"><strong>Welche Unterstützung benötigst du für das Projekt?</strong><span class="required"> *</span><br>Bitte beschreibe in kurzen Sätzen, welche Probleme noch zu lösen sind und die Fertigkeiten, die dafür benötigt werden (Initiativen können diesen Teil ignorieren).</label>
               <textarea type="text" rows="6" id="project-form-needs" name="fields[needs]" spellcheck="true">{{ project_needs }}</textarea>
             </fieldset>
 
             <!-- Project Text -->
             <fieldset>
-              <label for="project-form-description"><strong>Weitere Informationen</strong><br>Hier ist Platz für mehr Details zum Projekt.</label>
+              <label for="project-form-description"><strong>Weitere Informationen</strong><br>Hier ist Platz für mehr Details.</label>
               <textarea type="text" rows="6" id="project-form-description" name="fields[info]" spellcheck="true">{{ page.info }}</textarea>
             </fieldset>
 
             <!-- Link to the Project -->
             <fieldset>
-              <label for="project-form-link"><strong>Projektlink</strong><br>Hier kannst du einen Link zum Projektdokument oder einem ersten Prototypen teilen.</label>
+              <label for="project-form-link"><strong>Projektlink</strong><br>Hier kannst du einen Link zum Projektdokument, einem ersten Prototypen oder zu der Initiative teilen.</label>
               <input type="text" id="project-form-link" name="fields[link]" value="{{ project_link }}" spellcheck="false"/>
             </fieldset>
 
