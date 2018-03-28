@@ -1,6 +1,6 @@
 <div class="teaser blog-teaser isotope-item {% if include.art == 'noer' %}edusprint-blog{% endif %} {{ include.fach }} {{ include.long-fach }} {{ include.filter }} {{ include.dauer }} {{ include.zielgruppe }} {{ include.top_kmk }} {{ include.medien }} {{ include.fach }} {{ include.type }} {% if include.type == "featured" %}col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xlg-8 {% else %}col-xs-12 col-sm-12 col-md-8 col-lg-6 col-xlg-4{% endif %}">
   {% if include.art != 'noer' %}
-    <a href="/oer/{{ include.title }}" class="teaser-inner">
+    <a href="/oer/{{ include.title }}" target="_blank" class="teaser-inner">
   {% else %}
     <a href="{{ include.link }}" rel="noopener noreferrer" target="_blank" class="teaser-inner">
   {% endif %}
