@@ -1,7 +1,7 @@
 {% if site.data.events %}
         {% for event in site.data.events %}
             {% if event.featured == true %}
-                <img src="/assets/img/static/arrow.svg"/> {% if event.url %}<a href="{{event.url}}" target="_blank">{% endif %}<strong>{{ event.name }}</strong><br>- {{ event.date }}<br>- {{ event.city }}<br>{% if event.url %}</a>{% endif %}
+                <img src="/assets/img/static/arrow.svg"/> {% if event.url %}<a href="{{event.url}}" target="_blank">{% endif %}<strong>{{ event.name }}</strong>{% if event.url %}</a>{% endif %}<br>- {{ event.date }}<br>- {{ event.city }}<br>
             {% endif %}
         {% endfor %}
 {% endif %}
