@@ -4,7 +4,7 @@
                 {% if event.url %}
                 <a href="{{event.url}}" target="_blank">
                 {% endif %}
-                    <img src="/assets/img/static/arrow.svg"/> {{ event.date }} - {{ event.name }}, {{ event.city }}<br>
+                    <img src="/assets/img/static/arrow.svg"/> <strong>{{ event.name }}</strong><br>- {{ event.date }}<br>- {{ event.city }}<br>
                 {% if event.url %}
                 </a>
                 {% endif %}

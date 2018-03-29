@@ -20,5 +20,17 @@
   url: 'https://www.meetup.com/edulabsBE/events/248859067/'
   date: 27.03.
   city: Berlin
+  featured: false
+  id: "0004"
+- name: edulabsBE-Treffen
+  url:
+  date: 10.04.
+  city: Berlin
   featured: true
-  id: "0003"
+  id: "0005"
+- name: edulabs auf der edunautika
+  url: 'http://www.edunautika.de/'
+  date: 06.-07.04.
+  city: Hamburg
+  featured: true
+  id: "0006"
