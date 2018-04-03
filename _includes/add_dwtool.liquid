@@ -41,15 +41,6 @@
             <!-- Visibility -->
             <input type="hidden" id="visible" name="fields[visible]" value="0" spellcheck="false" {{editable}}/>
 
-            <!-- Materialempfehlung -->
-            <fieldset>
-              <label  for="project-form-art"><strong>Materialempfehlung</strong> <span class="required">*</span><br>Mit dieser Kategorie wird das Erscheinungsbild der Materialkarte verändert. Sie muss nur in Sonderfällen geändert werden.</label>
-              <select name="fields[art]" required>
-                <option value="oer" {% if project_art == "oer" %}selected{% endif %}>Materialempfehlung (OER)</option>
-                <option value="noer" {% if project_art == "noer" %}selected{% endif %}>Verweis auf Blogartikel (nicht nur OER)</option>
-              </select>
-            </fieldset>
-
             <!-- Aussagekräftiger Titel -->
             <fieldset>
               <label for="project-form-name"><strong>Aussagekräftiger Titel</strong> <span class="required">*</span></label>
@@ -66,7 +57,7 @@
                 <option value="lizenz-4" {% if project_lizenz == "lizenz-4" %}selected{% endif %}>Andere Lizenz</option>
               </select>
             </fieldset>
-            
+
             <!-- Short Text -->
             <fieldset>
               <label for="project-form-short-description"><strong>Kurzbeschreibung</strong><span class="required"> *</span><br>Was lässt sich mit dem Material vermitteln, worum handelt es sich? Diese Beschreibung ist in der Vorschau sichtbar.<br><span id="project-form-short-description-left">(noch 500 Zeichen)</span></label>
@@ -223,6 +214,15 @@
               <input type="text" id="project-form-tags" name="fields[tags]" value="{{ project_tags }}" spellcheck="false"/>
             </fieldset>
 
+            <!-- Materialempfehlung -->
+            <fieldset>
+              <label  for="project-form-art"><strong>Materialempfehlung</strong> <span class="required">*</span><br>Mit dieser Kategorie wird das Erscheinungsbild der Materialkarte verändert. Sie muss nur in Sonderfällen geändert werden.</label>
+              <select name="fields[art]" required>
+                <option value="oer" {% if project_art == "oer" %}selected{% endif %}>Materialempfehlung (OER)</option>
+                <option value="noer" {% if project_art == "noer" %}selected{% endif %}>Verweis auf Blogartikel (nicht nur OER)</option>
+              </select>
+            </fieldset>
+            
             <fieldset class="hidden" style="display:none;">
               <input type="hidden" name="options[origin]" value="{{ page.url | absolute_url }}">
               <label for="comment-form-location">Leave blank if you are a human</label>
