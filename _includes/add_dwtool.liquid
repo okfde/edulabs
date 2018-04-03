@@ -56,6 +56,17 @@
               <input type="text" id="project-form-name" name="fields[titel]" value="{{ project_title }}" spellcheck="false" {{editable}}/>
             </fieldset>
 
+            <!-- Lizenz des Materials -->
+            <fieldset>
+              <label for="project-form-lizenz"><strong>Lizenz des Materials</strong><br>Mit welcher Lizenz hat der Urheber das verlinkte Material versehen? Die Wahlmöglichkeit "andere Lizenz" ist für Sonderfälle vorgesehen und sollte nur in Absprache mit der Redaktion gewählt werden.</label>
+              <select name="fields[lizenz]" required>
+                <option value="lizenz-1" {% if project_lizenz == "lizenz-1" %}selected{% endif %}>CC0</option>
+                <option value="lizenz-2" {% if project_lizenz == "lizenz-2" %}selected{% endif %}>CC-BY</option>
+                <option value="lizenz-3" {% if project_lizenz == "lizenz-3" %}selected{% endif %}>CC-BY-SA</option>
+                <option value="lizenz-4" {% if project_lizenz == "lizenz-4" %}selected{% endif %}>Andere Lizenz</option>
+              </select>
+            </fieldset>
+            
             <!-- Short Text -->
             <fieldset>
               <label for="project-form-short-description"><strong>Kurzbeschreibung</strong><span class="required"> *</span><br>Was lässt sich mit dem Material vermitteln, worum handelt es sich? Diese Beschreibung ist in der Vorschau sichtbar.<br><span id="project-form-short-description-left">(noch 500 Zeichen)</span></label>
@@ -143,17 +154,6 @@
                 <input name="fields[zielgruppe]" type="checkbox" {% if project_zielgruppe contains zg_name %}checked{% endif %} value="zielgruppe-{{ forloop.index }}"><label>{{ zg }}</label>
                   {% endfor %}
                 <br>
-            </fieldset>
-
-            <!-- Lizenz des Materials -->
-            <fieldset>
-              <label for="project-form-lizenz"><strong>Lizenz des Materials</strong><br>Mit welcher Lizenz hat der Urheber das verlinkte Material versehen? Die Wahlmöglichkeit "andere Lizenz" ist für Sonderfälle vorgesehen und sollte nur in Absprache mit der Redaktion gewählt werden.</label>
-              <select name="fields[lizenz]" required>
-                <option value="lizenz-1" {% if project_lizenz == "lizenz-1" %}selected{% endif %}>CC0</option>
-                <option value="lizenz-2" {% if project_lizenz == "lizenz-2" %}selected{% endif %}>CC-BY</option>
-                <option value="lizenz-3" {% if project_lizenz == "lizenz-3" %}selected{% endif %}>CC-BY-SA</option>
-                <option value="lizenz-4" {% if project_lizenz == "lizenz-4" %}selected{% endif %}>Andere Lizenz</option>
-              </select>
             </fieldset>
 
             <!-- Dauer -->
