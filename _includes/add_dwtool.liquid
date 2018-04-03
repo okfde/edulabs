@@ -27,9 +27,9 @@
 {% endif %}
 <div class="row">
     <section class="section first white col-xs-24">
-        <div class="content-wrap">
-            <!-- <h2 class="section-headline">Projekte</h2> -->
-            <!--    <p>Von der Idee zum Projekt: In den edulabs entwickeln Teams zusammen Projekte für zeitgemäße Bildung. Projektideen sammeln wir zuerst im <a href="https://hackdash.org/dashboards/edulabs">edulabs Hackdash</a>. Hat sich eine Arbeitsgruppe gefunden, wird diese sowie das Vorhaben im Folgenden aufgeführt.</p> -->
+        <div class="content-wrap page-description">
+            <h2 class="section-headline">Unterrichtsidee hinzufügen</h2>
+            <p>Mit diesem Formular kannst du bestehendes Unterrichtsmaterial als Materialkarte zur edulabs-Sammlung hinzufügen. Das Material muss über einen Link erreichbar und <a href="/about/OER">frei lizenziert</a> sein. Ziel der edulabs-Sammlung ist die Empfehlung von besonders gut geeigneten Materialien, die digitale, kommunikative, kreative, kollaborative und kritische Kompetenzen fördern. Nachdem du die Materialkarte eingereicht hast, wird sie durch die <a href="/oer/about">edulabs-Redaktion</a> evaluiert.</p>
         </div>
         <div class="row content-wrap">
           <form id="edit-project-form" class="form" method="post" action="{{ site.staticman_server }}/v2/entry/{{ site.repository }}/master/dw">
@@ -43,7 +43,7 @@
 
             <!-- Materialempfehlung -->
             <fieldset>
-              <label for="project-form-art"><strong>Materialempfehlung</strong> <span class="required">*</span></label>
+              <label  for="project-form-art"><strong>Materialempfehlung</strong> <span class="required">*</span><br>Mit dieser Kategorie wird das Erscheinungsbild der Materialkarte verändert. Sie muss nur in Sonderfällen geändert werden.</label>
               <select name="fields[art]" required>
                 <option value="oer" {% if project_art == "oer" %}selected{% endif %}>Materialempfehlung (OER)</option>
                 <option value="noer" {% if project_art == "noer" %}selected{% endif %}>Verweis auf Blogartikel (nicht nur OER)</option>
@@ -58,7 +58,7 @@
 
             <!-- Short Text -->
             <fieldset>
-              <label for="project-form-short-description"><strong>Kurzbeschreibung</strong><span class="required"> *</span><br><span id="project-form-short-description-left">(noch 500 Zeichen)</span></label>
+              <label for="project-form-short-description"><strong>Kurzbeschreibung</strong><span class="required"> *</span><br>Was lässt sich mit dem Material vermitteln, worum handelt es sich? Diese Beschreibung ist in der Vorschau sichtbar.<br><span id="project-form-short-description-left">(noch 500 Zeichen)</span></label>
               <textarea type="text" rows="6" id="project-form-short-description" name="fields[desc]" spellcheck="true">{{ project_desc }}</textarea>
             </fieldset>
 
@@ -70,7 +70,7 @@
 
             <!-- Wirkung / Lernziele  -->
             <fieldset>
-              <label for="project-form-lernziele"><strong>Wirkung / Lernziele</strong></label>
+              <label for="project-form-lernziele"><strong>Wirkung / Lernziele</strong><br>Welche Themen lassen sich mit dem Material konkret vermitteln, welche Wirkungen sind zu erwarten?</label>
               <textarea type="text" rows="6" id="project-form-lernziele" name="fields[lernziele]" spellcheck="true">{{ project_lernziele }}</textarea>
             </fieldset>
 
@@ -86,7 +86,7 @@
                 <br>
                 {% for medien in site.data.digitalen_welt.medieneinsatz %}
                   {% assign medien_name = "medien-" | append: forloop.index %}
-                  <input name="fields[medien]" type="checkbox" value="medien-{{ forloop.index }}" {% if project_medien contains medien_name %}checked{% endif %}>{{ medien.name }}
+                  <input name="fields[medien]" class="checkbox" type="checkbox" value="medien-{{ forloop.index }}" {% if project_medien contains medien_name %}checked{% endif %}><label>{{ medien.name }}</label>
                   <br>
                 {% endfor %}
             </fieldset>
@@ -97,7 +97,7 @@
                 <br>
                 {% for fach in site.data.digitalen_welt.fachergruppen %}
                   {% assign fach_name = "fach-" | append: forloop.index %}
-                  <input name="fields[fach]" type="checkbox" value="fach-{{ forloop.index }}" {% if project_fach contains fach_name %}checked{% endif %}>{{ fach.name }}
+                  <input name="fields[fach]" type="checkbox" value="fach-{{ forloop.index }}" {% if project_fach contains fach_name %}checked{% endif %}><label>{{ fach.name }}</label>
                   <br>
                 {% endfor %}
             </fieldset>
@@ -109,20 +109,20 @@
                 <br>
                 {% for fach in long_fach %}
                   {% assign long_fach_name = "long-fach-" | append: forloop.index %}
-                  <input name="fields[long-fach]" type="checkbox" value="long-fach-{{ forloop.index }}" {% if project_long-fach contains long_fach_name  %}checked{% endif %}>{{ fach }}
+                  <input name="fields[long-fach]" type="checkbox" value="long-fach-{{ forloop.index }}" {% if project_long-fach contains long_fach_name  %}checked{% endif %}><label>{{ fach }}</label>
                   <br>
                 {% endfor %}
             </fieldset>
 
             <!-- KMK -->
             <fieldset>
-              <label for="project-form-kmk"><strong>Digitale Kompetenzen (KMK)</strong></label>
+              <label for="project-form-kmk"><strong>Digitale Kompetenzen (KMK)</strong><br>Welche der folgenden Kompetenzpakete der <a href="https://www.kmk.org/fileadmin/Dateien/pdf/PresseUndAktuelles/2017/KMK_Kompetenzen_-_Bildung_in_der_digitalen_Welt_Web.html">"Kompetenzen in der digitalen Welt"</a> werden durch das verlinkte Material gefördert.</label>
                 <br>
                 {% for theme in site.data.digitalen_welt.themes %}
                     {%  capture theme_level %}{{ forloop.index }}{% endcapture %}
                     {% assign theme_level_long = 'top-kmk-' | append: theme_level %}
                   <div class="top-kmk-form{% if project_topkmk contains theme_level_long %} checked{% endif %}">
-                  <h4><input name="fields[top-kmk]" type="checkbox" value="top-kmk-{{ theme_level }}" {% if project_topkmk contains theme_level_long %}checked{% endif %}> {{ theme.name }}</h4>
+                  <label><input name="fields[top-kmk]" type="checkbox" value="top-kmk-{{ theme_level }}" {% if project_topkmk contains theme_level_long %}checked{% endif %}> {{ theme.name }}</label>
                   <ul>
                   {% for subtheme in theme.subthemes %}
                     {% assign kmk_name = "kmk-" | append: theme_level | append: "-" | append: forloop.index %}
@@ -140,14 +140,14 @@
                   {% for zg in zielgruppe %}
                     {% assign zg_name = "zielgruppe-" | append: forloop.index %}
                 <br>
-                <input name="fields[zielgruppe]" type="checkbox" {% if project_zielgruppe contains zg_name %}checked{% endif %} value="zielgruppe-{{ forloop.index }}">{{ zg }}
+                <input name="fields[zielgruppe]" type="checkbox" {% if project_zielgruppe contains zg_name %}checked{% endif %} value="zielgruppe-{{ forloop.index }}"><label>{{ zg }}</label>
                   {% endfor %}
                 <br>
             </fieldset>
 
             <!-- Lizenz des Materials -->
             <fieldset>
-              <label for="project-form-lizenz"><strong>Lizenz des Materials</strong></label>
+              <label for="project-form-lizenz"><strong>Lizenz des Materials</strong><br>Mit welcher Lizenz hat der Urheber das verlinkte Material versehen? Die Wahlmöglichkeit "andere Lizenz" ist für Sonderfälle vorgesehen und sollte nur in Absprache mit der Redaktion gewählt werden.</label>
               <select name="fields[lizenz]" required>
                 <option value="lizenz-1" {% if project_lizenz == "lizenz-1" %}selected{% endif %}>CC0</option>
                 <option value="lizenz-2" {% if project_lizenz == "lizenz-2" %}selected{% endif %}>CC-BY</option>
@@ -163,7 +163,7 @@
                   {% for d in dauer %}
                     {% assign d_name = "dauer-" | append: forloop.index %}
               <br>
-              <input name="fields[dauer]" type="checkbox" {% if project_dauer contains d_name %}checked{% endif %} value="dauer-{{ forloop.index }}"> {{ d }}
+              <input name="fields[dauer]" type="checkbox" {% if project_dauer contains d_name %}checked{% endif %} value="dauer-{{ forloop.index }}"><label>{{ d }}</label>
                   {% endfor %}
             </fieldset>
 
@@ -182,7 +182,7 @@
 
             <!-- Tool Author -->
             <fieldset>
-              <strong>Author</strong>
+              <label><strong>Author</strong><br>Bitte trage hier deine eigenen Kontaktinformationen und nicht die des Autors des Materials ein. Du erscheinst dann als Urheber der Materialkarte auf edulabs.de</label>
                     <br>{% for author in page.author-name %}
                          {% if forloop.length == 1 %}
                            {% assign author_name = author %}
@@ -219,7 +219,7 @@
 
             <!-- Tags -->
             <fieldset>
-              <label for="project-form-tags"><strong>Tags</strong></label>
+              <label for="project-form-tags"><strong>Tags</strong><br>Die Tags werden nicht zur Beschreibung, sondern nur für technische <strong>Voraussetzungen</strong> verwendet: Was muss mindestens vorhanden sein, damit die Unterrichtsidee umgesetzt werden kann? Zum Beispiel: "Android, BYOD, Calliope, Mikrocontroller, Raspberry, arduino, iOS"</label>
               <input type="text" id="project-form-tags" name="fields[tags]" value="{{ project_tags }}" spellcheck="false"/>
             </fieldset>
 
