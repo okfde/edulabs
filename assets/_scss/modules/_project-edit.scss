@@ -7,10 +7,16 @@
   fieldset {
     border: none;
     text-align: left;
-
+    label{
+    font-size: 1.5rem;
+    }
     a {
-      font-size: 1rem;
+      font-size: 1.5rem;
       text-decoration: underline;
+    }
+    input[type=checkbox]
+    {
+        font-size: 1.5rem;
     }
   }
 
