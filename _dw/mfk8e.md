@@ -1,7 +1,7 @@
 ---
 _id: 15bbda20-31be-11e8-a430-e94ecbd755e9
 title: mfk8e
-visible: '0'
+visible: '1'
 art: oer
 titel: Vom natürlichen Ereignis zum digitalen Zahlenwert - ein Workshop
 desc: >-
