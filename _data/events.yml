@@ -26,7 +26,7 @@
   url: 'https://www.meetup.com/edulabsBE/events/249380719/'
   date: 10.04.
   city: Berlin
-  featured: true
+  featured: false
   id: "0005"
 - name: edulabs auf der edunautika
   url: 'http://www.edunautika.de/'
@@ -34,3 +34,9 @@
   city: Hamburg
   featured: false
   id: "0006"
+- name: edulabsBE-Treffen
+  url: 'https://www.facebook.com/events/1814653482161610/'
+  date: 24.04.
+  city: Berlin
+  featured: true
+  id: "0007"
