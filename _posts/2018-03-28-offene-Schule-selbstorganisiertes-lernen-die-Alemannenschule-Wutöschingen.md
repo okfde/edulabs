@@ -3,7 +3,7 @@ layout: post
 title: "Selbstorganisiertes Lernen in der Praxis"
 teaser: "Seit sechs Jahren arbeitet die Alemannenschule Wutöschingen an einem zeitgemäßen Lehrkonzept. Wir haben mit Valentin Helling über seine Erfahrungen gesprochen."
 teaser_img_src: /assets/img/blog/2018/März/Interview_Valentin/lernatelier_arbeitsplaetze_weisses_haus_3.jpg
-featured: true
+featured: false
 categories: Interviews
 twitter_large_img: /assets/img/blog/2018/März/Interview_Valentin/lernatelier_arbeitsplaetze_weisses_haus_3.jpg
 header_background: /assets/img/blog/2018/März/Interview_Valentin/lernatelier_arbeitsplaetze_weisses_haus_3.jpg
