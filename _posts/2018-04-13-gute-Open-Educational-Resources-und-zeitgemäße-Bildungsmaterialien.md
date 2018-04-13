@@ -3,12 +3,12 @@
 layout: post
 title: "Freie und zeitgemäße Bildungsmaterialien - eine Reflexion"
 teaser: "Was sind gute OER? In der letzten Zeit habe wir uns dieser Frage stetig zugewandt und möchten die Erkenntnissen offen diskutieren."
-teaser_img_src: /assets/img/static/Global_Open_Educational_Resources_Logo.svg
+teaser_img_src: /assets/img/blog/April/Global_Open_Educational_Resources_Logo.jpg
 featured: true
 categories: News
-twitter_large_img: /assets/img/static/Global_Open_Educational_Resources_Logo.svg
-image: /assets/img/static/Global_Open_Educational_Resources_Logo.svg
-header_background: /assets/img/static/Global_Open_Educational_Resources_Logo.svg
+twitter_large_img: /assets/img/blog/April/Global_Open_Educational_Resources_Logo.jpg
+image: /assets/img/blog/April/Global_Open_Educational_Resources_Logo.jpg
+header_background: /assets/img/blog/April/Global_Open_Educational_Resources_Logo.svg
 header_background_caption: "Bild: Das OER Global Logo von 2012 Jonathas Mello <a href='http://www.jonathasmello.com/'>www.jonathasmello.com</a><br>steht unter der Lizenz Creative Commons Attribution 3.0 Unported (<a href='http://creativecommons.org/licenses/by/3.0/'>CC BY 3.0</a>) via <a href='http://www.unesco.org/new/en/communication-and-information/access-to-knowledge/open-educational-resources/global-oer-logo/'>UNESCO</a>."
 author: Maximilian Voigt
 info_text: |
