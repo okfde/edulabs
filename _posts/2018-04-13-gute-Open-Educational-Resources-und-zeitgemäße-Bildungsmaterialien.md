@@ -20,7 +20,7 @@ Vor einem Jahr sind wir mit dem Projekt edulabs an den Start gegangen, um freie 
 In der letzten Zeit habe wir uns als Projekt dieser Frage stetig zugewandt. Wie zum Beispiel mit dem Public Call "[Was sind gute Arbeitsblätter?](https://edulabs.de/blog/public-call-was-sind-gute-Arbeitsbl%C3%A4tter)", dem Workshop “[The Good, the Bad… und die wirklich Tollen: Sinnvolle OER finden und nutzen](https://www.meetup.com/digitales-lernen/events/248055172/?eventId=248055172)” oder jüngst während einer [Session auf der edunautika](http://pad.edunautika.de/p/edunautika_03_14).
 
 ## Bildungsmaterialien und ihre Offenheit
-**Diese Auseinandersetzung hat zu verschiedenen Erkenntnissen geführt, die wir gerne offen diskutieren möchten:**
+**Diese Auseinandersetzung hat zu verschiedenen Erkenntnissen geführt, die wir gerne offen diskutieren möchten:**<br>
 Zuerst ist bei freien Bildungsmaterialien zwischen technischer und rechtlicher Offenheit und der Offenheit der Bildungsmaterialien selbst zu unterscheiden. Damit fällt die Bewertung von Materialien in zwei Unterbereiche.
 
 ### Technische und rechtliche Offenheit
@@ -31,9 +31,9 @@ Ob es sich um technisch und rechtlich offene Materialien handelt, ist recht leic
 Bei diesem ersten Kriterium der Offenheit geht es also in erster Linie um technische Barrieren und Lizenzfragen, die der Reihe nach geklärt werden können:
 
 * Liegt das Material auf einer Plattform, die den uneingeschränkten Zugriff ermöglicht?
-* Ist es in einem Format, das jeder öffnen kann, ohne sich teure Software kaufen zu müssen?
+* Ist es in einem Format, das jeder und jede öffnen kann, ohne sich teure Software kaufen zu müssen?
 * Wird das Material auch in einem veränderbaren Dateiformat angeboten?
-* Und: Ist die Nachnutzung durch eine offene Lizenz rechtssicher möglich (CC0, CC-BY oder -SA)?
+* Und: Ist die Nachnutzung durch eine [offene Lizenz](https://irights.info/artikel/faq-oer-creative-commons-lizenzen/25467) rechtssicher möglich ([CC0, CC-BY oder -SA](https://creativecommons.org/licenses/?lang=de))?
 
 <br>
 Eine andere Perspektive ergibt sich, wenn es nicht um die Lizenzierung, sondern um die Inhalte und die didaktische Ausrichtung der Materialien geht. Denn für diese erweiterten Kriterien der Offenheit ist die Nachnutzbarkeit nur ein erster Schritt. Was sind also gute Bildungsmaterialien unter der Voraussetzung der technischen und rechtlichen Offenheit?
@@ -55,11 +55,11 @@ Was aber sind zeitgemäße Bildungsmaterialien? In erster Linie sind sie abhäng
 * Und zuletzt spielt die **Gestaltung** eine wichtige Rolle. Denn Design trägt wesentliche zum Erhalt der Aufmerksamkeit bei (Details im Interview mit[ Susanne Stauch](https://edulabs.de/blog/Interkulturelle-Bildung-durch-digitale-Tools-Susanne-Stauch-im-Interview)). Bei selbstorganisierten Lernszenarien muss die Aufmerksamkeit der Lernenden durch die Materialien selbst gehalten werden.
 
 <br>
-Je besser die Materialien aufbereitet und gestaltet sind, desto selbständiger können die Lernenden damit arbeiten. Gelungene Beispiele für die Struktur solcher Lehrdokumente sind ["der Ozobot im Unterricht"](https://edulabs.de/oer/7dngi/) sowie Materialien des[ Materialnetzwerks der Alemannenschule Wutöschingen](https://digitale-lernumgebung.de/materialnetzwerk-gemeinschaftsschulen/lehrmaterial-lernmaterial.html). Die hat ein Konzept entwickelt, mit dem die Lernenden sich eigenständig im individuellen Lernprozess orientieren.
+Je besser die Materialien aufbereitet und gestaltet sind, desto selbständiger können die Lernenden damit arbeiten. Gelungene Beispiele für die Struktur solcher Lehrdokumente sind ["der Ozobot im Unterricht"](https://edulabs.de/oer/7dngi/) sowie Materialien des [Materialnetzwerks der Alemannenschule Wutöschingen](https://digitale-lernumgebung.de/materialnetzwerk-gemeinschaftsschulen/lehrmaterial-lernmaterial.html). Die hat ein Konzept entwickelt, mit dem die Lernenden sich eigenständig im individuellen Lernprozess orientieren.
 <!-- include infobox -->
 {% include partials/content/content-infobox.liquid float="right" headline="Zeitgemäße Unterrichtsideen finden" copy="<a href='/oer'><img src='/assets/img/blog/2018/Februar/Interview_Ralph_Caspers/OER-Filter_preview.jpg' style='width: 100%; display: inline-block'></a><br>Unterrichtsideen aus der edulabs-Community für kompetenzorientierte Bildung und Partizipation.<br><br><a href='/oer'>Zur Sammlung</a>" %}
 
-Neben den selbstorganisierten Lernszenarien gibt es noch weitere zeitgemäße Konzepte. Sie konzentrieren sich entweder auf bestimmte Methoden und Werkzeuge, oder sie haben Projektarbeiten zum Ziel, in dessen Rahmen Lernende sich über einen längeren Zeitraum einer Sache widmen. Beispiele für projektorientierte Vorhaben sind angeleitete[ Hardware-Projekte](https://hackmd.io/WqBwj-51SnuY6IfP93F6fA), bei denen Lernende praktisch ins Machen kommen. Die Materialien dafür sind begleitend und geben den Rahmen vor. Ihre Struktur ist sehr vom Thema und Umfang abhängig. Ähnlich verhält es sich mit Konzepten, die sich auf bestimmte Werkzeuge oder Methoden konzentrieren, wie dem des[ zeitgemäßen Unterrichts mit Videokonferenzen](https://hackmd.io/s/B1xoPtjQG), der browserbasierten [Auseinandersetzung mit Glühwürmchen](http://ncase.me/fireflies/) oder auch des Konzeptes des [pädagogisch offenen Vorhabens](https://edulabs.de/blog/Open-Pedagogy-freie-Bildung), wenn Lernende ihre Materialien mit individuellen Fragen und einem[ Unterrichtsblog](https://edulabs.de/oer/r9w27/) selbst entwickeln. 
+Neben den selbstorganisierten Lernszenarien gibt es noch weitere zeitgemäße Konzepte. Sie konzentrieren sich entweder auf bestimmte Methoden und Werkzeuge, oder sie haben Projektarbeiten zum Ziel, in dessen Rahmen Lernende sich über einen längeren Zeitraum einer Sache widmen. Beispiele für projektorientierte Vorhaben sind angeleitete [Hardware-Projekte](https://hackmd.io/WqBwj-51SnuY6IfP93F6fA), bei denen Lernende praktisch ins Machen kommen. Die Materialien dafür sind begleitend und geben den Rahmen vor. Ihre Struktur ist sehr vom Thema und Umfang abhängig. Ähnlich verhält es sich mit Konzepten, die sich auf bestimmte Werkzeuge oder Methoden konzentrieren, wie dem des [zeitgemäßen Unterrichts mit Videokonferenzen](https://hackmd.io/s/B1xoPtjQG) oder der browserbasierten [Auseinandersetzung mit Glühwürmchen](http://ncase.me/fireflies/). Auch das Konzept des [pädagogisch offenen Vorhabens](https://edulabs.de/blog/Open-Pedagogy-freie-Bildung) ist interessant, in dessen Rahmen Lernende ihre Materialien mit individuellen Fragen und einem [Unterrichtsblog](https://edulabs.de/oer/r9w27/) selbst entwickeln. 
 
 Wenn es um die Erstellung und Bewertung von OER geht, dann gilt es also technische, rechtliche und didaktische Offenheit zusammenzudenken. Nur so erhalten wir wirklich freie Bildungsmaterialien, die nicht nur zugänglich sind, sondern auch zeitgemäßes Lehren und Lernen fördern.
 
