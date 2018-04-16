@@ -65,6 +65,7 @@ Wenn es um die Erstellung und Bewertung von OER geht, dann gilt es also technisc
 
 <p class="link-list">
 <span class="link-list-headline">Links</span>
+<a class="external-link" href="https://hackmd.okfn.de/methodensammlung-metadaten-privacy" target="_blank">Methodensammlung zum Thema Privacy und Metadaten</a>
 <a class="external-link" href="https://hackmd.okfn.de/zeitgemaesser-Unterricht-mit-Videokonferenzen?view" target="_blank">Methodisches Konzept: zeitgemäßer Unterricht mit Videokonferenzen</a>
 <a class="external-link" href="http://ncase.me/fireflies/" target="_blank">Eine browserbasierte Auseinandersetzung mit Glühwürmchen</a>
 <a class="external-link" href="https://edulabs.de/blog/Open-Pedagogy-freie-Bildung" target="_blank">OER zeitgemäß anwenden: Freie Pädagogik</a>
