@@ -8,7 +8,7 @@ short-desc: >-
   Wir möchten unsere erprobten und oft durchgeführten Workshops zu technischen
   Themen besser dokumentieren und als OER zur Verfügung stellen.
 needs: "- OER-Expertise, also wie man gutes Material aufbaut, wo/wie man es am Ende veröffentlicht, wie man sicherstellt, dass es eingesetzt wird etc. \r\n- Expertise von Lehrenden, welche Anforderungen sie an OER-Material zu dem Thema haben und die bereit sind, den dokumentieren Workshop selber zu testen. \r\n- Menschen, die Zeit & Lust auf Dokumentation haben\r\n- Design/Layout am Ende\r\n- Menschen die sich im Bereich Urheberrecht im Bildungsbereich auskennen"
-link: 'https://hackmd.io/s/HyzHKRtwG'
+link: 'https://hackmd.okfn.de/methodensammlung-metadaten-privacy'
 contact-name: Chaos Macht Schule
 contact-email: schule@berlin.ccc.de
 date: '2017-08-09T08:52:50.488Z'

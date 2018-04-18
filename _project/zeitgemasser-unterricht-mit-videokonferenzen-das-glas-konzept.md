@@ -8,7 +8,7 @@ short-desc: >-
   Social Media treten die Lernenden in den direkten Austausch mit im Ausland
   lebenden Schülerinnen und Schülern einer Partnerschule.
 needs: Feedback zur Dokumentation und zum Einsatz des Konzeptes
-link: 'https://hackmd.io/s/B1xoPtjQG'
+link: 'https://hackmd.okfn.de/zeitgemaesser-Unterricht-mit-Videokonferenzen?view'
 contact-name: Adriane Langela-Bickenbach
 contact-email: adrianebickenbach@web.de
 date: '2018-03-01T11:52:32.925Z'

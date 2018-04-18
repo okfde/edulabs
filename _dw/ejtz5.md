@@ -1,29 +1,29 @@
 ---
 _id: 0adb4700-1187-11e8-b16c-338dbd606818
 title: ejtz5
-visible: '0'
+visible: '1'
 art: oer
 titel: Spielen statt klicken. Facebook und Co. als Offline-Spiel
 desc: >-
   Ein Planspiel, um mit SuS über ihre sozialen Netzwerke ins Gespräch zu komme,
   um Datenschutz, Privatsphäre aber auch Themen wie Integration oder
   Globalisierung, Kommunikation, Gesellschaft und Partizipation in den Blick zu
-  nehmen. Das Spiel macht die Dynamiken sozialer Netzwerk erfahrbar ohne das
+  nehmen. Das Spiel macht die Dynamiken sozialer Netzwerk erfahrbar, ohne das
   Internet zu nutzen.
 link: 'http://pb21.de/2013/01/facebook-spiel-download/'
 lernziele: >-
   Die SuS lernen die Funktionsweisen sozialer Netzwerke wie Facebook kennen und
-  können vertiefend Kompetenzen zu Datenschutz + Privatsphäre ausbauen. In der
+  können vertiefend Kompetenzen zu Datenschutz & Privatsphäre ausbauen. In der
   Gruppe werden soziale Kompetenzen und Kommunikationsweisen reflektiert und
   herausgebildet. Eine kritisch-kompetente Mediennutzung wird befördert und
   angemessene Verhaltensweise gestärkt.
 tipp: >-
   Möglicherweise ist es sinnvoller in einem reinen Planspielmodus zu arbeiten
   und komplett mit Fake-Profilen zu arbeiten, um die Privatsphäre der TN zu
-  schützen, bzw. um ohnehin vorhandene Gruppendynamiken nicht 1:1 abzubilden und
-  negativ zu verstärken. IN einer solchen Variante legen die SuS also keine
+  schützen bzw. um ohnehin vorhandene Gruppendynamiken nicht 1:1 abzubilden und
+  negativ zu verstärken. In einer solchen Variante legen die SuS also keine
   realen Profile an, sondern bekommen Rollenkarten um eine Figur im Netzwerk zu
-  spielen. Wie wie z.B. “der Fashion-King”, “Die Gamerin”, “Der Einzelgänger”, …
+  spielen. Wie z.B. “der Fashion-King”, “Die Gamerin”, “Der Einzelgänger”, …
 medien: medien-1
 fach: fach-3
 long-fach:

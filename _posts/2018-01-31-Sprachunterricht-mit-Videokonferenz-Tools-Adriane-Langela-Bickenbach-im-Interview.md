@@ -49,6 +49,7 @@ Eigentlich waren alle Schüler\*innen von Anfang an begeistert und neugierig: en
 <p class="link-list">
 <span class="link-list-headline">Links</span>
 <a class="external-link" href="https://hackmd.io/OwYwhgHCCmAmsFoBsBmMAWB7gAYCMCARtAEwlYTR4Cst1+AZikA=?view" target="_blank">Zum GLAS-Konzept als freies Bildungsmaterial</a>
+<a class="external-link" href="https://www.goethe.de/de/m/spr/mag/21180151.html" target="_blank">Schluss mit Simulationen - authentische Kommunikation in digitalen Medien</a>
 <a class="external-link" href="http://www.aachener-nachrichten.de/lokales/region/deutscher-lehrerpreis-auch-fuer-aachener-gymnasium-1.1802625" target="_blank">Aachener Nachrichten: Das GLAS-Konzept gewinnt den Deutschen Lehrerpreis 2018</a>
 <a class="external-link" href="https://www.youtube.com/watch?v=3ei9cXh65Jg" target="_blank">Video: Adriane beim Deutschen Lehrerpreis 2018</a>
 <a class="external-link" href="http://slg-aachen.de/index.php/mehr-am-leo/90-mehr-am-leo/244-glas-projekt" target="_blank">Zur Internetpräsenz von GLAS</a>
