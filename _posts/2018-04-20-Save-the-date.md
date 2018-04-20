@@ -3,21 +3,21 @@
 layout: post
 title: "6. Juni – Save the Date – Forum Open:Education"
 teaser: "Am 6.6. organisieren wir ein Event in Berlin, um den Austausch von Zivilgesellschaft, Politik und Bildungspraxis zu fördern."
-teaser_img_src: /assets/img/static/join.jpg
+teaser_img_src: /assets/img/static/events.png
 featured: true
-categories: Methoden
-twitter_large_img: /assets/img/static/join.jpg
+categories: News
+twitter_large_img: /assets/img/static/events.png
 image: /assets/img/static/join.jpg
-header_background: /assets/img/static/join.jpg
+header_background: /assets/img/static/events.png
 author: edulabs-Team
 info_text: |
 
 ---
-*Wie gelingt Bildung für eine offene digitale Gesellschaft? Mit dem „Forum Open:Education“ möchten edulabs und das Bündnis freie Bildung die Debatte um zeitgemäßes Lehren und Lernen voranbringen und den Austausch zwischen Zivilgesellschaft, Bildungspraxis und politischen Entscheidergremien fördern.*
+*Wie gelingt Bildung für eine offene digitale Gesellschaft? Mit dem „Forum Open:Education“ möchten edulabs und das Bündnis freie Bildung die Debatte um zeitgemäßes Lehren und Lernen voranbringen und den Austausch zwischen Zivilgesellschaft, Bildungspraxis und politischen Entscheidungsgremien fördern.*
 
-Mit Begegnungsständen, Workshops und Diskussionsrunden erhalten Bildungsinitativen und Projekte eine offene Plattform, um ihr Arbeit zu präsentieren und sich über praktische Erfahrungen auszutauschen.
+Mit Begegnungsständen, Workshops und Diskussionsrunden erhalten Bildungsinitiativen und Projekte eine offene Plattform, um ihr Arbeit zu präsentieren und sich über praktische Erfahrungen auszutauschen.
 
-Den zweiten Teil der Veranstaltung bildet eine Podiumsdiskussion, bei wir mit Bildungspolitiker*innen über die Potentiale digitaler Partizipation und die nächsten Schritte bei der digitalen Transformation der Bildung sprechen. Im Koalitionsvertrag werden zahlreiche Maßnahmen zur Bildungspolitik wie auch eine Open Educational Resources-Strategie genannt und wir möchten in dem Gespräch zusammen erkunden, worauf es dabei ankommt.
+Den zweiten Teil der Veranstaltung bildet eine Podiumsdiskussion, bei der wir mit Bildungspolitiker*innen über die Potenziale digitaler Partizipation und die nächsten Schritte bei der digitalen Transformation der Bildung sprechen. Im Koalitionsvertrag werden zahlreiche Maßnahmen zur Bildungspolitik wie auch eine Open Educational Resources-Strategie genannt und wir möchten in dem Gespräch zusammen erkunden, worauf es dabei ankommt.
 
 ## Vorläufiges Programm
 
@@ -36,5 +36,4 @@ Die Veranstaltung ist offen für alle, die sich für Veränderungen im Bildungsb
 
 Du hast Interesse? Dann melde dich über das folgende Formular an. Der Eintritt ist frei.
 
-<br>
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdS3FbGAMRCEH41l698dUa3cSgVD6eAH3tlgeU6xrrX4Yb95g/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Wird geladen...</iframe><br>
+<div class="video"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdS3FbGAMRCEH41l698dUa3cSgVD6eAH3tlgeU6xrrX4Yb95g/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Wird geladen...</iframe></div><br>
