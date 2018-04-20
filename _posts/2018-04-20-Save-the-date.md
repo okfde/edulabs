@@ -32,7 +32,7 @@ Die Planung der Veranstaltung ist im vollen Gange, eine Website und das detailli
 
 ## Wer ist eingeladen?
 
-Die Veranstaltung ist offen für alle, die sich für Veränderungen im Bildungsbereich einsetzen und sich für innovative Ansätze interessieren, um freie Bildung nachhaltig voranbringen.
+Die Veranstaltung ist offen für alle, die sich für Veränderungen im Bildungsbereich einsetzen und sich für innovative Ansätze interessieren, um freie Bildung nachhaltig voranzubringen.
 
 Du hast Interesse? Dann melde dich über das folgende Formular an. Der Eintritt ist frei.
 
