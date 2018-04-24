@@ -23,5 +23,7 @@ contact-name: Maximilian Voigt
 contact-email: maximilian.voigt@okfn.de
 date: '2018-04-24T15:31:15.222Z'
 slug: open-source-hardware-buchscanner
+firstelement: 2
+image_src: /assets/img/projects/projects3.jpg
 ---
 undefined
