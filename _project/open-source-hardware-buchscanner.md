@@ -12,12 +12,6 @@ needs: >-
   Wer sich an dem Projekt beteiligen oder den aktuellen Stand verfolgen möchte,
   kann an den regelmäßigen Calls zum Projekt teilnehmen (siehe Projektlink).
   Aktuell suchen wir Unterstützung bei der Programmierung der Hardware.
-info: >-
-  Die Projektgruppe möchte die Dokumentation des mäqädat-Scanners
-  vervollständigen und ihn zu einem vollständigen Open Source Hardware-System
-  weiterentwickeln. Aktuell ist der einfache Nachbau des mäqädat nicht möglich.
-  Neben einer lückenlosen Anleitung fehlen die Software für die Ansteuerung des
-  Scanners sowie Konstruktionszeichnungen einiger Anbauteile.
 link: 'https://hackmd.okfn.de/buchscanner_calldoku'
 contact-name: Maximilian Voigt
 contact-email: maximilian.voigt@okfn.de
@@ -26,4 +20,8 @@ slug: open-source-hardware-buchscanner
 firstelement: 2
 image_src: /assets/img/projects/projects3.jpg
 ---
-undefined
+Die Projektgruppe möchte die Dokumentation des mäqädat-Scanners
+vervollständigen und ihn zu einem vollständigen Open Source Hardware-System
+weiterentwickeln. Aktuell ist der einfache Nachbau des mäqädat nicht möglich.
+Neben einer lückenlosen Anleitung fehlen die Software für die Ansteuerung des
+Scanners sowie Konstruktionszeichnungen einiger Anbauteile.
