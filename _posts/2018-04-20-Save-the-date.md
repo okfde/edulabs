@@ -17,7 +17,7 @@ info_text: |
 
 Mit Begegnungsständen, Workshops und Diskussionsrunden erhalten Bildungsinitiativen und Projekte eine offene Plattform, um ihr Arbeit zu präsentieren und sich über praktische Erfahrungen auszutauschen.
 
-Den zweiten Teil der Veranstaltung bildet eine Podiumsdiskussion, bei der wir mit Bildungspolitiker*innen über die Potenziale digitaler Partizipation und die nächsten Schritte bei der digitalen Transformation der Bildung sprechen. Im Koalitionsvertrag werden zahlreiche Maßnahmen zur Bildungspolitik wie auch eine Open Educational Resources-Strategie genannt und wir möchten in dem Gespräch zusammen erkunden, worauf es dabei ankommt.
+Den zweiten Teil der Veranstaltung bildet eine Podiumsdiskussion, bei der wir mit Bildungspolitiker*innen über die Potenziale digitaler Partizipation und die nächsten Schritte bei der digitalen Transformation der Bildung sprechen. Im Koalitionsvertrag werden zahlreiche Maßnahmen zur Bildungspolitik wie auch eine Open Educational Resources-Strategie genannt. In dem Gespräch möchten wir erkunden, worauf es dabei ankommt.
 
 ## Vorläufiges Programm
 
