@@ -3,12 +3,12 @@
 layout: post
 title: "6. Juni – Save the Date – Forum Open:Education"
 teaser: "Am 6.6. organisieren wir ein Event in Berlin, um den Austausch von Zivilgesellschaft, Politik und Bildungspraxis zu fördern."
-teaser_img_src: /assets/img/static/events.png
+teaser_img_src: /assets/img/blog/2018/April/Forum_Open_Education/forum-open-education-B-2000.jpg
 featured: true
 categories: News
-twitter_large_img: /assets/img/static/events.png
-image: /assets/img/static/join.jpg
-header_background: /assets/img/static/events.png
+twitter_large_img: /assets/img/blog/2018/April/Forum_Open_Education/forum-open-education-B-2000.jpg
+image: /assets/img/blog/2018/April/Forum_Open_Education/forum-open-education-B-2000.jpg
+header_background: /assets/img/blog/2018/April/Forum_Open_Education/forum-open-education-B-2000.jpg
 author: edulabs-Team
 info_text: |
 
