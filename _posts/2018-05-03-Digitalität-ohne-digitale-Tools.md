@@ -4,7 +4,7 @@ layout: post
 title: "Digitalität ohne digitale Tools"
 teaser: "Wie zeitgemäße Medienbildung auch ohne digitale Technik auskommt und trotzdem digitale Themen in den Blick nimmt."
 teaser_img_src: /assets/img/blog/2018/März/Toolcard_Christine/square-2724388_1920.jpg
-featured: false
+featured: true
 categories: Methoden
 twitter_large_img: /assets/img/blog/2018/März/Toolcard_Christine/square-2724388_1920.jpg
 image: /assets/img/blog/2018/März/Toolcard_Christine/square-2724388_1920.jpg
@@ -17,7 +17,7 @@ info_text: |
 <!-- include floated image -->
 {% include partials/content/content-float-image.liquid float="right"
 src="/assets/img/static/christinekolbe_square.jpg" caption="Bild: Christine Kolbe arbeitet für den mediale pfade e.V. an edulabs. Lizenz: <a href='https://creativecommons.org/licenses/by/4.0/legalcode'>CC-BY 4.0</a>" %}
-*Für eine gelungene (postdigitale) Gesellschaft müssen digitale Themen und Kompetenzen dringend auch in der Breite vermittelt werden. Die Kompetenzbündel sind geschnürt, viele gute Konzepte zeitgemäßer Medienbildung stehen zu Verfügung. Eine beachtliche Zahl an Lehrenden –  wenn’s gut läuft auch ganze Kollegien – nehmen ihre tragende Rolle vielerorts ernst und an. Soweit so gut. Doch der Blick auf die realen Arbeitsbedingungen in den Schulen, unter denen digitale Themen in den Unterricht integriert werden sollen, ist ebenso oft ernüchternd. Häufig fehlt es an allem: zuverlässiges Internet, funktionierende Ausstattung mit Computern oder Tablets, gepaart mit einem generellen Handyverbot…*
+*Für eine gelungene (postdigitale) Gesellschaft müssen digitale Themen und Kompetenzen dringend auch in der Breite vermittelt werden. Die Kompetenzbündel sind geschnürt, viele gute Konzepte zeitgemäßer Medienbildung stehen zur Verfügung. Eine beachtliche Zahl an Lehrenden –  wenn’s gut läuft auch ganze Kollegien – nehmen ihre tragende Rolle vielerorts ernst und an. Soweit so gut. Doch der Blick auf die realen Arbeitsbedingungen in den Schulen, unter denen digitale Themen in den Unterricht integriert werden sollen, ist ebenso oft ernüchternd. Häufig fehlt es an allem: zuverlässiges Internet, funktionierende Ausstattung mit Computern oder Tablets, gepaart mit einem generellen Handyverbot…*
 
 Dieses Dilemma bat uns die Senatsverwaltung für Bildung, Jugend und Familie in Berlin im Rahmen einer gemeinsamen Fachtagung mit der Friedrich Ebert Stiftung in den Blick zu nehmen. Ziel war es, einen Workshop zum Thema DIGITALITÄT OHNE DIGITALE TOOLS zu konzeptionieren. Ein Widerspruch für einen Akteur wie [mediale pfade](http://www.medialepfade.org/), der zeitgemäße Medienbildung in der Regel an kompetenten Technikeinsatz koppelt? Nein, denn auch digitale Themen und anhängige Kompetenzen können mit analogen Methoden vermittelt werden. Wir fanden diese Frage sehr spannend und haben uns zu diesem Anlass selbst noch einmal auf Lernreise begeben und viele fruchtbare Ideen zusammengetragen.
 
@@ -33,13 +33,13 @@ Sie schaffen Anschlussstellen, um mit Kindern und Jugendlichen über mediale Rä
 
 **Ziel:** Die TN werden mit anregenden Fragen in die Diskussion über eine kritisch-kompetente Medienbildung (Mediennutzung, Meinung zu bestimmten Themen oder Kompetenzabfragen) hineingeholt. Freiräume für Statements aufmachen und untereinander besser in den Austausch kommen.<br>
 **Dauer:** 10 – 15 min<br>
-**Ablauf:** Es werden einzelnd bis zu vier Fragen mit drei Antwortmöglichkeiten in die Gruppe gegeben, die jeweils einer Zahl (1-3) zugeordnet sind.  Die TN werden aufgefordert sich in das jeweilige Feld zu stellen. Die Moderation holt stichprobenartig einige Statements ein, wobei möglichst keine Diskussion entstehen sollte, sondern eher ein schnelles warm-up<br>
+**Ablauf:** Es werden bis zu vier Fragen mit drei Antwortmöglichkeiten in die Gruppe gegeben, die jeweils einer Zahl (1-3) zugeordnet sind.  Die TN werden aufgefordert sich in das jeweilige Feld zu stellen. Die Moderation holt stichprobenartig einige Statements ein, wobei möglichst keine Diskussion entstehen sollte, sondern eher ein schnelles warm-up<br>
 **Beispiel:** Die Ausstattung meiner Lernumgebung entspricht …<br>
 1 = meinen Anforderungen<br>
 2 = überfordert mich<br> 
 3 = nicht den geforderten Lernzielen<br>
 **Material:**<br>
-\- Krepp-Klebeband zum abkleben der Felder auf dem Boden<br>
+\- Krepp-Klebeband zum Abkleben der Felder auf dem Boden<br>
 **Raum und Ausstattung:**<br>
 \- Antwortfelder 1,2 und 3<br>
 \- Tafel / Flipchart / Smartboard (Visualisierung der Fragen + Antwortmöglichkeiten)<br>
@@ -60,7 +60,7 @@ Sie schaffen Anschlussstellen, um mit Kindern und Jugendlichen über mediale Rä
 
 [**Link zum Material**](http://www.bpb.de/253037/roboter-parcours)
 
-### **Kartenspiel zu Memes und Netz(Jugend)Kultur) - What do you Meme?**
+### **Kartenspiel zu Memes und Netz(Jugend)Kultur - What do you Meme?**
 
 **Ziel:** Austausch zu Internet-Memes/Netzkultur, Umgang reflektieren; kreative Praxis im Bereich Bild + Remix kennenlernen.<br>
 **Zeit:** 30-90 min<br>
@@ -74,8 +74,8 @@ In der englischen Version ist das Memes-Spiel ein guter Anreiz für den Fremdspr
 
 **Ziel:** soziale Netzwerke wie Facebook thematisieren; Nutzen + Gefahren sozialer Netzwerke differenzierter betrachten<br>
 **Dauer:** 1-1,5 Stunden<br>
-**Ablauf:** 4 Phasen: Anmeldephase (Profil ausfüllen), Vernetzung (Freunde finden), Spielphase (Aktionskarten), Reflektionsphase<br>
-**Tipps + Ideen:** Möglicherweise ist es sinnvoller in einem reinen Planspielmodus zu arbeiten und nur Fake-Profilen einzusetzen, um die Privatsphäre der TN zu schützen, bzw. um ohnehin vorhandene Gruppendynamiken nicht 1:1 abzubilden und negativ zu verstärken. In einer solchen Variante legen die Lernenden also keine realen Profile an, sondern bekommen Rollenkarten um eine Figur im Netzwerk zu spielen. Wie z.B. “der Fashion-King”, “Die Gamerin”, “Der Einzelgänger”, …
+**Ablauf:** 4 Phasen: Anmeldephase (Profil ausfüllen), Vernetzung (Freunde finden), Spielphase (Aktionskarten), Reflexionsphase<br>
+**Tipps + Ideen:** Möglicherweise ist es sinnvoller in einem reinen Planspielmodus zu arbeiten und nur Fake-Profilen einzusetzen, um die Privatsphäre der TN zu schützen, bzw. um ohnehin vorhandene Gruppendynamiken nicht 1:1 abzubilden und negativ zu verstärken. In einer solchen Variante legen die Lernenden also keine realen Profile an, sondern bekommen Rollenkarten, um eine Figur im Netzwerk zu spielen. Wie z.B. “der Fashion-King”, “Die Gamerin”, “Der Einzelgänger”, …
 
 [**Link zum Material**](http://pb21.de/2013/01/facebook-spiel-download)
 
@@ -86,7 +86,7 @@ In der englischen Version ist das Memes-Spiel ein guter Anreiz für den Fremdspr
 **Ablauf:** Fragengeleitetes Gespräch, das durch Visualisierungen (Icons/Logos) und Hardware/Bauteile unterstützt wird.<br>
 **Raum und Ausstattung:** Stuhlkreis / Sitzkissen oder Tischinsel<br>
 **Tipps + Ideen:** Das zugrunde gelegte Material ist teilweise nicht auf dem neuesten Stand (bspw. die Taschenlampe ist in neuere Smartphones ohne Werbung als allgemeine Funktion integriert) – hier ist eine grundsätzliche Überarbeitung sinnvoll.<br>
-**Hardware** Gut ist es sicherlich dennoch, ein Gerät in möglichst kleine Bestandteile zu zerlegen. Dafür geeignet sind natürlich [Fairphones ](https://de.wikipedia.org/wiki/Fairphone) und Shiftphones, also Smartphones die von Herstellerseite bereits modular aufgebaut und zum auseinanderschrauben gedacht sind.<br>
+**Hardware** Gut ist es sicherlich dennoch, ein Gerät in möglichst kleine Bestandteile zu zerlegen. Dafür geeignet sind natürlich [Fairphones ](https://de.wikipedia.org/wiki/Fairphone) und Shiftphones, also Smartphones die von Herstellerseite bereits modular aufgebaut und zum Auseinanderschrauben gedacht sind.<br>
 **BYOD**  Auch bei einem Handyverbot in der Schule ist es sicherlich möglich, einen Ausnahmetag auszurufen (**B**ring **Y**our **O**wn **D**evice = BYOD). Das steigert die Motivation unserer Erfahrung nach enorm. Außerdem ist es wichtig, dass die Lernenden ihre eigenen Smartphones anschauen, die SIM-Karten auszubauen und in den Einstellungen nachschauen, welches Betriebssystem und welch Apps wie genutzt werden.<br>
 **Icons** können ohne urheberrechtliche Einschränkungen sehr einfach selbst gestaltet werden, wie beispielsweise durch Sketchnotes. Eine andere Quelle sind schöne Icons auf der Website [https://thenounproject.com](https://thenounproject.com/) – sämtlich unter einer CC-BY-Lizenz nutzbar.
 
