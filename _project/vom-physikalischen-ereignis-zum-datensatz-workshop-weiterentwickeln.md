@@ -2,7 +2,7 @@
 _id: 86c5bae0-55bf-11e8-b6f9-1368c5827de4
 title: Vom physikalischen Ereignis zum Datensatz - Workshop weiterentwickeln
 layout: project
-status: building
+status: releasing
 short-desc: >-
   Wie erfassen Geräte, die uns umgeben, Daten? Das Verhalten dieser und damit
   auch unser Verhalten hängt von Messdaten ab. Dabei sind sie alles andere als
@@ -23,6 +23,6 @@ Umwelt, reagieren anhand der Ergebnisse oder speichern sie in Datenbanken ab.
 Sind die Daten einmal erfasst, wirken sie wie kleine Wahrheiten, mit denen wir
 z.B. die Wasser- oder Luftqualität erforschen. Auf dem Weg dahin kann aber
 vieles schiefgehen, weswegen die eigentliche Aufgabe der Forscher*innen* in
-der Fehleranalyse und Interpretation liegt. \r\nAm Beispiel eines
+der Fehleranalyse und Interpretation liegt. Am Beispiel eines
 Temperatursensors, eines sogenannten Heißleiters oder auch Thermistors, wird
 erforscht, was beim Erfassen einer Temperatur passiert.
