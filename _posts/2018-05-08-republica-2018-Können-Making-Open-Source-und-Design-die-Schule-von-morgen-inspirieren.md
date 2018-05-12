@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: "Das war unser Panel auf der re:publica"
+title: "Rückblick: Das edulabs-Panel auf der re:publica"
 teaser: "Zeitgemäße Bildung: Wie Ideen aus Making, Open Source und Design die Schule von morgen in Bewegung bringen"
 teaser_img_src: /assets/img/blog/2018/April/republica_review/republica_panel.JPG
 featured: true
