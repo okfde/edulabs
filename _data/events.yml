@@ -40,15 +40,21 @@
   city: Berlin
   featured: false
   id: "0007"
+- name: edulabs auf der re:publica
+  url: 'https://re-publica.com/en/session/konnen-making-open-source-design-schule-morgen-inspirieren'
+  date: 04.05.
+  city: Berlin
+  featured: false
+  id: "0008"
 - name: edulabsBE
   url: 'https://www.meetup.com/edulabsBE/events/250269037/'
   date: 08.04.
   city: Berlin
-  featured: true
-  id: "0008"
+  featured: false
+  id: "0009"
 - name: Forum Open:Education
   url: 'https://edulabs.de/blog/Save-the-date'
   date: 06.06.
   city: Berlin
   featured: true
-  id: "0009"
+  id: "0010"
