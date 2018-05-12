@@ -4,7 +4,7 @@ layout: post
 title: "Digitalität ohne digitale Tools"
 teaser: "Wie zeitgemäße Medienbildung auch ohne digitale Technik auskommt und trotzdem digitale Themen in den Blick nimmt."
 teaser_img_src: /assets/img/blog/2018/März/Toolcard_Christine/square-2724388_1920.jpg
-featured: true
+featured: false
 categories: Methoden
 twitter_large_img: /assets/img/blog/2018/März/Toolcard_Christine/square-2724388_1920.jpg
 image: /assets/img/blog/2018/März/Toolcard_Christine/square-2724388_1920.jpg
