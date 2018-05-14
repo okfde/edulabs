@@ -41,15 +41,15 @@ Da jeder H5P-Inhalte ohne technisches Wissen erstellen kann, ist es auch Lernend
 {% include partials/content/content-infobox.liquid float="right" headline="„Mein Grundsatz ist: ergänzen statt ersetzen“" copy=page.info_text %}
 
 ### Inklusives Lernen
-Die Kombination verschiedener Inhaltstypen ermöglicht es, in einer inklusiven Lerngruppe individueller, differenzierter und eigentständiger zu arbeiten. Die Erklärung eines Sachverhalts erfolgt beispielsweise über ein Video, in dem die Lehrkraft mündlich Lerninhalte erklärt. Der Inhaltstyp "Speak the Words" erlaubt es anschließend, dass der Lernende die Antworten auf Fragen bzw. Übungsaufgaben, die im Anschluss an das Video gezeigt werden, mündlich gibt und so überprüft, ob er den Lerninhalt verstanden hat.
+Die Kombination verschiedener Inhaltstypen ermöglicht es, in einer inklusiven Lerngruppe individueller, differenzierter und eigentständiger zu arbeiten. Die Erklärung eines Sachverhalts erfolgt beispielsweise über ein Video, in dem die Lehrkraft mündlich Lerninhalte erläutert. Der Inhaltstyp "Speak the Words" erlaubt es anschließend, dass der Lernende die Antworten auf Fragen bzw. Übungsaufgaben, die im Anschluss an das Video gezeigt werden, mündlich gibt und so überprüft, ob er den Lerninhalt verstanden hat.
 
 ## Nachteile
 
 * H5P kann nur genutzt werden, sofern ein Zugang zum Internet zur Verfügung steht. Dies ist leider nach wie vor nicht an allen Schulen gegeben. Allerdings wird in der Community bereits an einer Offline-Version gearbeitet.
 * Bei der Erstellung von H5P-Materialien durch Lernende selbst kann die Vielzahl von Inhaltstypen zum Teil erschlagend sein: Bei der Erstellung von H5P-Inhalten werden zunächst alle installierten Inhaltstypen angezeigt - erst dann erfolgt durch die erstellende Person eine Auswahl.
 * Sofern H5P nicht in die eigene Moodle, Drupal oder WordPress Website integriert wird, ist zur Erstellung von Inhalten ein eigener Account auf h5p.org erforderlich. Auch dies kann an Schulen auf Schwierigkeiten stoßen, da sich hier datenschutzrechtliche Fragen stellen.
-* Schließlich wird gegenüber H5P zum Teil der Vorwurf erhoben, dass die Inhaltstypen zu sehr an einer formativen Didaktik orientiert sind und deshalb im Widerspruch zu kreativem und offenem Lernen stehen. 
-* Nicht zuletzt spielt auch die digitale Kompetenz der Lehrkraft eine große Rolle. Es ist sicher nicht möglich, eine gewinnbringende Unterrichtseinheit mit H5P zu gestalten, ohne sich selbst mit den Funktonsweisen vertraut gemacht zu haben. 
+* Schließlich wird gegenüber H5P zum Teil der Vorwurf erhoben, dass die Inhaltstypen zu sehr an einer formativen Didaktik orientiert sind und deshalb im Widerspruch zu kreativem und offenem Lernen stehen.
+* Nicht zuletzt spielt auch die digitale Kompetenz der Lehrkraft eine große Rolle. Es ist sicher nicht möglich, eine gewinnbringende Unterrichtseinheit mit H5P zu gestalten, ohne sich selbst mit den Funktonsweisen vertraut gemacht zu haben.
 * Schüler\*innen brauchen sicher erst eine Einführung, um danach kreativ werden zu können.
 
 <br>
