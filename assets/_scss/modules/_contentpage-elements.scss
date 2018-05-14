@@ -82,6 +82,22 @@ posts + projects page
   }
 }
 
+.lizenzhinweis{
+  display: block;
+  width: 100%;
+  text-align: right;
+  color: $grey;
+  font-size: 0.8rem;
+  margin-top: 7px;
+
+  a{
+    text-decoration: underline;
+    font-size: 0.7rem !important;
+    color: $grey !important;
+    background-color: none !important;
+  }
+}
+
 /*********************
 contentpage elements
 *********************/
