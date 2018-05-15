@@ -4,7 +4,7 @@ layout: post
 title: "Rückblick: Das edulabs-Panel auf der re:publica"
 teaser: "Zeitgemäße Bildung: Wie Ideen aus Making, Open Source und Design die Schule von morgen in Bewegung bringen"
 teaser_img_src: /assets/img/blog/2018/April/republica_review/republica_panel.JPG
-featured: true
+featured: false
 categories: News Events
 twitter_large_img: /assets/img/blog/2018/April/republica_review/republica_panel.JPG
 image: /assets/img/blog/2018/April/republica_review/republica_panel.JPG
