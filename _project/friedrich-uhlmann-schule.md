@@ -11,8 +11,8 @@ contact-name: Tom Mittelbach
 contact-email: tommittelbach@web.de
 date: '2018-05-15T15:58:26.292Z'
 slug: friedrich-uhlmann-schule
-image_src: /assets/img/projects/projects2.jpg
-src: "/assets/img/projects/projects2.jpg"
+image_src: /assets/img/labs/fus_laupheim_logo.jpg
+src: "/assets/img/labs/fus_laupheim_logo.jpg"
 firstelement: 2
 ---
 Die Friedrich-Uhlmann-Schule in Laupheim /Baden-Württemberg setzt sich als edulabs-Kontakt dafür ein, zeitgemäße Bildung mit Erfahrungen aus der Unterrichtspraxis voranzubringen.
