@@ -11,5 +11,9 @@ contact-name: Julia Bauer
 contact-email: Julia Bauer
 date: '2018-05-15T16:08:59.317Z'
 slug: realschule-am-klostergarte-sindelfingen
+image_src: /assets/img/projects/projects1.jpg
+src: "/assets/img/projects/projects1.jpg"
+firstelement: 2
+
 ---
 undefined
