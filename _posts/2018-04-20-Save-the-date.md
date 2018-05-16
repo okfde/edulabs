@@ -13,22 +13,34 @@ author: edulabs-Team
 info_text: |
 
 ---
-*Wie gelingt Bildung für eine offene digitale Gesellschaft? Mit dem „Forum Open:Education“ möchten edulabs und das Bündnis freie Bildung die Debatte um zeitgemäßes Lehren und Lernen voranbringen und den Austausch zwischen Zivilgesellschaft, Bildungspraxis und politischen Entscheidungsgremien fördern.*
+*Wie gelingt Bildung für eine offene digitale Gesellschaft? Mit dem „[Forum Open:Education](https://education.forum-open.de/)“ möchten edulabs und das Bündnis freie Bildung die Debatte um zeitgemäßes Lehren und Lernen voranbringen und den Austausch zwischen Zivilgesellschaft, Bildungspraxis und politischen Entscheidungsgremien fördern.*
 
 Mit Begegnungsständen, Workshops und Diskussionsrunden erhalten Bildungsinitiativen und Projekte eine offene Plattform, um ihr Arbeit zu präsentieren und sich über praktische Erfahrungen auszutauschen.
 
 Den zweiten Teil der Veranstaltung bildet eine Podiumsdiskussion, bei der wir mit Bildungspolitiker*innen über die Potenziale digitaler Partizipation und die nächsten Schritte bei der digitalen Transformation der Bildung sprechen. Im Koalitionsvertrag werden zahlreiche Maßnahmen zur Bildungspolitik wie auch eine Open Educational Resources-Strategie genannt. In dem Gespräch möchten wir erkunden, worauf es dabei ankommt.
 
-## Vorläufiges Programm
+## Programm
 
-* 16:00 - Eröffnung der Begegnungsstände, Start der Diskussionsrunden und Workshops
-* 18:00 - Pause
-* 18:30 - Begrüßung und Impulsvorträge
-* 19:15 - Pause
-* 19:30 - Podiumsdiskussion
-* 20:30 - Come together & Ausklang
-
-Die Planung der Veranstaltung ist im vollen Gange, eine Website und das detaillierte Programm folgen.
+<ul>
+    <li>16:00 - <strong>Eröffnung der Open Education Fair</strong><br>
+        Start der Workshops & Diskussionsrunden (moderiert von <a href="https://www.ebildungslabor.de/">Nele Hirsch</a>)
+        <ul>
+            <li>16:00 Workshop: Programmieren lernen - der BOB 3 im Unterricht<br>mit Katja Bach (<a href="https://www.bob3.org/de/">BOB 3</a>)</li>
+            <li>16:00 Workshop: Mit der senseBox die Natur vermessen<br>mit Umut Tas (<a href="https://sensebox.de/">senseBox</a>)</li>
+            <li>16:00 Diskussion: Wie kann Partizipation gelernt werden?<br>mit Marina Weisband, Alexa Schaegner & Daniel Schuhmacher (<a href="http://aula-blog.website/">aula</a>)</li>
+            <li>16:30 Diskussion: Lobbyismus an Schulen: Braucht es Unterstützung aus der Politik?<br>mit Fabian Kaske (<a href="https://www.lobbycontrol.de/">LobbyControl</a>)</li>
+            <li>17:00 Diskussion: 5 Forderungen für eine zeitgemäße digitale Bildung an Schulen<br>mit Benni (<a href="https://ccc.de/">CCC</a> / <a href="https://ccc.de/schule">Chaos macht Schule</a>)</li>
+            <li>17:30 Diskussion: Wie sollte die Politik offene Bildungsmaterialien fördern?<br>mit Henry Steinhau (<a href="http://jointly.info/">JOINTLY</a> / <a href="https://irights.info/">iRights</a>) & Luca Mollenhauer (<a href="https://open-educational-resources.de/">OERinfo</a>)</li>
+        </ul>
+    </li>
+    <li>18:00 - Pause: Imbiss und Getränke im Vorraum</li>
+    <li>18:30 - <strong>Parlamentarischer Abend</strong><br>
+        mit einem Vortrag von <a href="https://esbzlog.wordpress.com/">Margret Rasfeld</a>
+    </li>
+    <li>19:20 - <strong>Podiumsdiskussion</strong> - moderiert von <a href="http://blog.richter.fm/about-me">Marcus Richter</a><br>
+        Auf dem Podium: <a href="https://www.saskiaesken.de/">Saskia Esken (MdB)</a>, <a href="https://www.tankred-schipanski.de/">Tankred Schipanski (MdB)</a>, Gabriele Lonz (<a href="https://bm.rlp.de/de/startseite/">Bildungsministerium Rheinland-Pfalz</a>) und <a href="https://edulabs.de/about/#team">Markus Neuschäfer</a> (edulabs.de)</li>
+    <li>20:30 - Come together & Ausklang</li>
+</ul><br>
 
 ## Wer ist eingeladen?
 
