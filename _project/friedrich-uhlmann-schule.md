@@ -15,4 +15,5 @@ image_src: /assets/img/labs/fus_laupheim_logo.jpg
 src: "/assets/img/labs/fus_laupheim_logo.jpg"
 firstelement: 2
 ---
-Die Friedrich-Uhlmann-Schule in Laupheim /Baden-Württemberg setzt sich als edulabs-Kontakt dafür ein, zeitgemäße Bildung mit Erfahrungen aus der Unterrichtspraxis voranzubringen.
+
+Die Einrichtung ist Teil des edulabs-Netzwerks und unterstützt die [OER-Redaktion](https://edulabs.de/oer/about) bei ihrer Arbeit, die [Sammlung von freien Unterrichtsideen](https://edulabs.de/oer/) zu verbessern und in die Breite zu tragen.

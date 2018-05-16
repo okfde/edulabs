@@ -6,7 +6,7 @@ status: brainstorming
 short-desc:
 needs: ''
 info: ''
-link: www.bszleo.de
+link: http://www.bszleo.de/
 contact-name: Christoph Altrock
 contact-email: alt@bszleo.de
 date: '2018-05-15T15:50:31.435Z'
@@ -15,6 +15,5 @@ image_src: "/assets/img/labs/BSZ_Logo_transpatent.png"
 src: "/assets/img/labs/BSZ_Logo_transpatent.png"
 firstelement: 2
 ---
-Das Berufliche Schulzentrum Leonberg setzt sich als edulabs-Kontakt dafür ein, zeitgemäße Bildung mit Erfahrungen aus der Unterrichtspraxis voranzubringen.
 
-<a class="edu-btn black" href="http://www.bszleo.de/">Zur Website</a><br><br>
+Die Einrichtung ist Teil des edulabs-Netzwerks und unterstützt die [OER-Redaktion](https://edulabs.de/oer/about) bei ihrer Arbeit, die [Sammlung von freien Unterrichtsideen](https://edulabs.de/oer/) zu verbessern und in die Breite zu tragen.

@@ -16,3 +16,5 @@ src: "/assets/img/labs/rs_klostergarten.png"
 firstelement: 2
 ---
 
+Die Einrichtung ist Teil des edulabs-Netzwerks und unterstützt die [OER-Redaktion](https://edulabs.de/oer/about) bei ihrer Arbeit, die [Sammlung von freien Unterrichtsideen](https://edulabs.de/oer/) zu verbessern und in die Breite zu tragen.
+

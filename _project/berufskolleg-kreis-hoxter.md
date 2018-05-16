@@ -6,7 +6,7 @@ status: brainstorming
 short-desc:
 needs: ''
 info: ''
-link: www.bkhx.de
+link: http://www.bkhx.de/
 contact-name: Tanja Groddeck
 contact-email: groddeck@bkhx.de
 date: '2018-05-15T16:03:35.154Z'
@@ -15,6 +15,5 @@ image_src: /assets/img/projects/projects2.jpg
 src: "/assets/img/projects/projects2.jpg"
 firstelement: 2
 ---
-Im Berufskolleg Kreis Höxter werden rund 2700 Schülerinnen und Schüler unterrichtet. 143 Kolleginnen und Kollegen arbeiten engagiert an einer qualifizierten und innovativen schulischen und beruflichen Ausbildung in den Berufsfeldern Technik, Ernährung und Hauswirtschaft, Wirtschaft sowie Sozial- und Gesundheitswesen.
 
-<a class="edu-btn black" href="http://www.bkhx.de/">Zur Website</a><br><br>
+Die Einrichtung ist Teil des edulabs-Netzwerks und unterstützt die [OER-Redaktion](https://edulabs.de/oer/about) bei ihrer Arbeit, die [Sammlung von freien Unterrichtsideen](https://edulabs.de/oer/) zu verbessern und in die Breite zu tragen.
