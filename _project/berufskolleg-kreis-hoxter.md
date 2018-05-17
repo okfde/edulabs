@@ -11,8 +11,8 @@ contact-name: Tanja Groddeck
 contact-email: groddeck@bkhx.de
 date: '2018-05-15T16:03:35.154Z'
 slug: berufskolleg-kreis-hoxter
-image_src: /assets/img/projects/projects2.jpg
-src: "/assets/img/projects/projects2.jpg"
+image_src: /assets/img/labs/hoexter.jpg
+src: "/assets/img/labs/hoexter.jpg"
 firstelement: 2
 ---
 
