@@ -11,8 +11,8 @@ contact-name: Kirsten Lachenmeier
 contact-email: Kirsten Lachenmeier
 date: '2018-05-15T16:04:54.978Z'
 slug: drais-gemeinschaftsschule-karlsruhe
-image_src: /assets/img/labs/rs_klostergarten.png
-src: "/assets/img/labs/rs_klostergarten.png"
+image_src: /assets/img/projects/projects3.jpg
+src: "/assets/img/projects/projects3.jpg"
 firstelement: 2
 ---
 

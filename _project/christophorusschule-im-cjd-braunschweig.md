@@ -6,7 +6,7 @@ status: brainstorming
 short-desc:
 needs: ''
 info: ''
-link: http://www.cjd-braunschweig.de/
+link: http://www.gymnasium-braunschweig.de/
 contact-name: Olaf Zelesnik
 contact-email: Olaf.Zelesnik@CJD-BS.de
 date: '2018-05-15T16:02:26.743Z'
