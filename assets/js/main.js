@@ -175,7 +175,7 @@ function sendContentToStaticman(formSel, waitMsgDiv, successMsgDiv, errorMsgDiv)
                 var maxLen = 300;
                 var Length =  $projectShortDesc.val().length;
                 var AmountLeft = maxLen - Length;
-                $projectShortDescLeft.html(`(noch ${AmountLeft} Zeichen)`);
+                $projectShortDescLeft.html('(noch ' + AmountLeft + ' Zeichen)');
             }
         };
         $projectShortDesc = $('#project-form-short-description');
