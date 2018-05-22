@@ -186,8 +186,7 @@
 
             if (hash !== '') {
                 hash = hash.slice(1);
-                $(`.filter-item[data-filter=".${hash}"]`).click();
-                console.log(`.filter-item[data-filter=".${hash}"]`, $('.filter-item[data-filter=".Events"]'))
+                $('.filter-item[data-filter=".' + hash + '"]').click();
             }
 
             $grid.on( 'arrangeComplete', function( event, filteredItems ) {
