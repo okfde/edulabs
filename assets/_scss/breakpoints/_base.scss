@@ -52,7 +52,7 @@ LAYOUT & GRID STYLES
 .section{
 
   position: relative;
-  display: table;
+  display: block;
 
   &.fullwidth{
     width:100%
