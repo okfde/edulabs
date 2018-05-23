@@ -52,7 +52,7 @@
   city: Berlin
   featured: false
   id: "0009"
-- name: edulabs @ Maker Faire
+- name: @ Maker Faire
   url: 'https://maker-faire.de/maker/offene-bildung-edulabs-2/'
   date: 25.05.
   city: Berlin
@@ -64,7 +64,7 @@
   city: Berlin
   featured: true
   id: "0011"
-- name: Forum Open Education
+- name: Forum Open Edu
   url: 'https://edulabs.de/blog/Save-the-date'
   date: 06.06.
   city: Berlin
