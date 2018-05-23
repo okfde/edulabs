@@ -25,15 +25,16 @@ In der ersten Förderphase von edulabs (bis Ende August) entwickeln wir mit Feed
 ## Features
 ### Basics
 * Auf html basierende Inhaltstypen, die das Darstellen von Texten, Videos, Fotos und Embedded-Code-Anwendungen (z.B. H5P) ermöglichen
+* Zwei Arbeitsflächen: Listenansicht, freie Arbeitsfläche
 * Dokumente können durch Links erreicht werden, eine Anmeldung ist nicht erforderlich
 * Flexible Lese- und Schreibrechte, die über Accounts organisierbar sind.
 * Kollaborativer Zugriff und Synchronisierung des Arbeitszustandes
-* Export-Funktion
 <br><br>
 
 ### Optional
 
-* Zwei Arbeitsflächen: freies Gestaltungsfeld, mit Zoom-Funktion sowie eine Version mit festgelegtem Raster
+* Weitere Arbeitsflächen
+* Export-Funktion
 * Offline-Modus
 * Mehrere Download-Möglichkeit: PDF, Instanz-Datei, Markdown
 * Individuelle Gestaltung (z.B. Hintergrundbild, Farben)
