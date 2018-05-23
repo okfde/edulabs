@@ -36,7 +36,7 @@ In der ersten Förderphase von edulabs (bis Ende August) entwickeln wir mit Feed
 * Weitere Arbeitsflächen
 * Export-Funktion
 * Offline-Modus
-* Mehrere Download-Möglichkeit: PDF, Instanz-Datei, Markdown
+* Mehrere Download-Möglichkeiten: PDF, Instanz-Datei, Markdown
 * Individuelle Gestaltung (z.B. Hintergrundbild, Farben)
 * Neue Inhaltstypen können leicht erstellt werden (z.B. um Ton- oder Videoaufnahmen vorzunehmen und einzubinden)
 * Tags, mit denen die Inhaltstypen versehen werden können und die Möglichkeit diese zu filtern
