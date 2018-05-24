@@ -1243,3 +1243,9 @@ FOOTER STYLES
 
     position: absolute;
 }
+
+.gdpr-message {
+    a {
+        color: $secondary-color;
+    }
+}
