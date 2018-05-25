@@ -784,7 +784,7 @@ EDUSPRINT
        a{
          @include transition(background-color .25s ease);
        }
-     
+
        a, a:focus, a:visited{
          background-color: $link-background;
        }

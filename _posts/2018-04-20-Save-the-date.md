@@ -38,7 +38,7 @@ Den zweiten Teil der Veranstaltung bildet eine Podiumsdiskussion, bei der wir mi
         mit einem Vortrag von <a href="https://esbzlog.wordpress.com/">Margret Rasfeld</a>
     </li>
     <li>19:20 - <strong>Podiumsdiskussion</strong> - moderiert von <a href="http://blog.richter.fm/about-me">Marcus Richter</a><br>
-        Auf dem Podium: <a href="https://www.saskiaesken.de/">Saskia Esken (MdB)</a>, <a href="https://www.tankred-schipanski.de/">Tankred Schipanski (MdB)</a>, Gabriele Lonz (<a href="https://bm.rlp.de/de/startseite/">Bildungsministerium Rheinland-Pfalz</a>) und <a href="https://edulabs.de/about/#team">Markus Neuschäfer</a> (edulabs.de)</li>
+        Auf dem Podium: <a href="https://www.marjavoellers.de/">Marja-Liisa Völlers (MdB)</a>, <a href="https://www.tankred-schipanski.de/">Tankred Schipanski (MdB)</a>, Gabriele Lonz (<a href="https://bm.rlp.de/de/startseite/">Bildungsministerium Rheinland-Pfalz</a>) und <a href="https://edulabs.de/about/#team">Markus Neuschäfer</a> (edulabs.de)</li>
     <li>20:30 - Come together & Ausklang</li>
 </ul><br>
 
