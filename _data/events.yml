@@ -56,7 +56,7 @@
   url: 'https://maker-faire.de/maker/offene-bildung-edulabs-2/'
   date: 25.05.
   city: Berlin
-  featured: true
+  featured: false
   id: "0010"
 - name: edulabsBE-Treffen
   url: 'https://www.meetup.com/edulabsBE/events/251017301/'
