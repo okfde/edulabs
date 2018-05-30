@@ -3,13 +3,13 @@
 layout: post
 title: "Warum Open Source Technologien eine Schule modern machen"
 teaser: "Sebastian glaubt, dass freie Inhalte Treiber von Innovation im Bildungswesen sein können und ist großer Freund von Open-Source-Software und deren Einsatz in Schule und Unterricht - ein Interview"
-teaser_img_src: /assets/img/blog/2018/Mai
+teaser_img_src: /assets/img/blog/2018/Mai/interview_sebastian/sebastian_seitz.jpg
 featured: true
 categories: Interviews
-twitter_large_img: /assets/img/blog/2018/Mai
-image: /assets/img/blog/2018/Mai/squarelet/
+twitter_large_img: /assets/img/blog/2018/Mai/interview_sebastian/sebastian_seitz.jpg
+image: /assets/img/blog/2018/Mai/interview_sebastian/sebastian_seitz.jpg
 header_background: /assets/img/blog/2018/Mai
-header_background_caption: "Bild:"
+header_background_caption: "Bild: Leonard Wolf. Lizenz: <a href='https://creativecommons.org/licenses/by/4.0/'>CC-BY 4.0</a>"
 author: Maximilian Voigt
 info_text: |
 
