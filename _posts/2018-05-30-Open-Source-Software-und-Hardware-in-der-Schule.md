@@ -8,7 +8,7 @@ featured: true
 categories: Interviews
 twitter_large_img: /assets/img/blog/2018/Mai/interview_sebastian/sebastian_seitz.jpg
 image: /assets/img/blog/2018/Mai/interview_sebastian/sebastian_seitz.jpg
-header_background: /assets/img/blog/2018/Mai
+header_background: /assets/img/blog/2018/Mai/interview_sebastian/sebastian_seitz.jpg
 header_background_caption: "Bild: Leonard Wolf. Lizenz: <a href='https://creativecommons.org/licenses/by/4.0/'>CC-BY 4.0</a>"
 author: Maximilian Voigt
 info_text: |
@@ -47,8 +47,6 @@ Ich denke, dass das immer mehr verschwimmen wird, indem auf der einen Seite Note
 
 Alle Sachen, die Probleme machen und nicht komfortabel sind, erledigt die Software für dich - mit dem eigentlichen Thema setzen sich die Lernenden nicht wirklich auseinander. 
 
-Links:
-https://irights.info/artikel/auf-neuen-schienen-umsteigen-auf-open-source-software-an-einem-gymnasium/25941
 <p class="link-list">
 <span class="link-list-headline">Links</span>
 <a class="external-link" href="https://irights.info/artikel/auf-neuen-schienen-umsteigen-auf-open-source-software-an-einem-gymnasium/25941" target="_blank">Die Geschichte einer Schule, die auf Open Source umgestiegen ist</a>
