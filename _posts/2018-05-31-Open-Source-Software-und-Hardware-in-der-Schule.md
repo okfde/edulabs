@@ -14,12 +14,11 @@ author: Maximilian Voigt
 info_text: |
 
 ---
-# Zeitgemäße Schulen & Open Source haben viele Gemeinsamkeiten
 *Sebastian leitet seit 2017 die [Demokratielabore](https://demokratielabore.de/) bei der Open Knowledge Foundation Deutschland. Vorher hat er bei einer gemeinnützigen Stiftung in den Themenfeldern Digitale Bildung und Open Educational Resources gearbeitet. In Bielefeld hat er seinen Abschluss in Erziehungswissenschaft mit den Schwerpunkten Schulpädagogik und Medien gemacht. Sebastian glaubt, dass freie Inhalte Treiber von Innovation im Bildungswesen sein können und ist großer Freund von Open-Source-Software und deren Einsatz in Schule und Unterricht.*
 
-**Du hast ein Buch zum Thema "Open Source und
-Schule" herausgegeben. Wieso hast du das gemacht?**<br>
-Weil ich es anstregend fand, Informationen zu diesem Themen zu finden. Es gab nichts Gebündeltes, nur veraltete Listen, in die sich Schulen eintragen konnten, wenn sie Open Source Software nutzen. Das waren dann die engagierten Lehrenden, die sich dort eingetragen haben. Aber wenn die weg waren, gab es keine Ansprechpartner mehr. Mit dem Buch wollte ich diese Informationslücke schließen. Ich wollte, dass wenn jemand im Internet nach Open Source und Schule sucht, sofort ein Werk findet, das über dieses Thema umfangreich informiert. 
+**Du hast ein [Buch zum Thema "Open Source und
+Schule"](https://open-educational-resources.de/wp-content/uploads/Open-Source-und-Schule1.pdf) herausgegeben. Wieso hast du das gemacht?**<br>
+Weil ich es anstregend fand, Informationen zu diesem Thema zu finden. Es gab nichts Gebündeltes, nur veraltete Listen, in die sich Schulen eintragen konnten, wenn sie Open Source Software nutzen. Das waren dann die engagierten Lehrenden, die sich dort eingetragen haben. Aber wenn die weg waren, gab es keine Ansprechpartner mehr. Mit dem Buch wollte ich diese Informationslücke schließen. Ich wollte, dass wenn jemand im Internet nach Open Source und Schule sucht, sofort ein Werk findet, das über dieses Thema umfangreich informiert. 
 
 **Warum ist das Thema wichtig?**<br>
 Da gibt es unterschiedliche Ansätze. Es gibt die klassische Position der [Free Software Foundation Europe](https://fsfe.org/index.de.html), die sagt, dass wir weg müssen von der Produktschulung. Allerdings muss ich sagen, dass es diese Schulungen auch im Fall von Open Source Software gibt. 
@@ -27,14 +26,14 @@ Grundsätzlich passt Open Source von der Idee und der Ausrichtung her sehr gut i
 
 **Mit dem Projekt "[Demokratielabore](https://demokratielabore.de/)" möchtet ihr demokratische Kompetenzen fördern. Wie wichtig sind offene Technologien für die Demokratie?**
 Ich würde immer sagen: offene Standards sind wichtiger als offener Quellcode. Die Kommunikation zwischen den einzelnen Programmen und Technologien ist viel wichtiger als der freieinsehbare Code. 
-Allgemeiner ist Open Source wichtig für eine gut funktionierende Demokratie, besonders wenn es zu Themen kommt wie Unabhängigkeit, Austausch und Innovationsfreude. Ich würde aber nicht sagen, dass die Demokratie davon so wahnsinnig abhängig ist. Allerdings würde ohne Open Source ein sehr wichtiger Teil fehlen, insbesondere, wenn ich an das Internet denke, dass ja zu großen Teilen darauf basiert. 
+Allgemeiner ist Open Source wichtig für eine gut funktionierende Demokratie, besonders, wenn es zu Themen kommt wie Unabhängigkeit, Austausch und Innovationsfreude. Ich würde aber nicht sagen, dass die Demokratie davon so wahnsinnig abhängig ist. Allerdings würde ohne Open Source ein sehr wichtiger Teil fehlen, insbesondere, wenn ich an das Internet denke, das ja zu großen Teilen darauf basiert. 
 Die meisten Meschen profitieren indirekt davon, dass Technologien quelloffen zur Verfügung stehen. 
 
 **Freie Software und insbesondere auch Hardware setzen sich an Schulen nur selten durch. Woran liegt das?**<br>
 Viele Menschen nutzen gerne das Tool auf der Arbeit, was sie auch zuhause nutzen. Das ist einfach eine Komfortfrage. Und von denen, die sich im Schulkontext für digitale Technologien interessieren, haben wenige ein Linux auf dem Privatrechner. Wenn es im Unterricht dann um digitale Themen gehen soll, ist es also für viele eine weitere Hürde, Open Source Software zu verwenden. Das liegt sicherlich auch daran, dass Open Source Technologien immer noch das Image einer Bastlerlösung haben, an der immer herumgebaut werden muss - was Quatsch ist. 
 
 **Was muss passieren, dass sich das ändert?**<br>
-Es brauch an der Schule immer eine Gruppe, die eine gewisse Bereitschaft hat offene Technologien einzusetzen. Die aber auch die Verantwortlichkeit übernehmen darf, das Netz und die Technik vor Ort zu administrieren. Es braucht also ein Vor-Ort-Service. Wenn es keine solche Struktur einer Administrationsgruppe gibt, dann bedeutet es für den Einzelnen immer erst mal Mehrarbeit, Open Source Technologien einzusetzen. Und dazu sind die wenigsten bereit. Denn Open Source Software bieten die wenigsten Servicedienstleister an. 
+Es braucht an der Schule immer eine Gruppe, die eine gewisse Bereitschaft hat offene Technologien einzusetzen, die aber auch die Verantwortlichkeit übernehmen darf, das Netz und die Technik vor Ort zu administrieren. Es braucht also ein Vor-Ort-Service. Wenn es keine solche Struktur einer Administrationsgruppe gibt, dann bedeutet es für den Einzelnen immer erst mal Mehrarbeit, Open Source Technologien einzusetzen. Und dazu sind die wenigsten bereit. Denn Open Source Software bieten wenige Servicedienstleister an. 
 
 Ein anderes Problem ist die Auffassung, dass Schulen auf das Leben vorbereiten und deshalb Werkzeuge lehren müssen, die im Beruf eingesetzt werden. Im Arbeitskontext werden Microsoft-Produkete genutzt, also muss jeder lernen wie man mit diesen arbeitet. Da ist kein Kompetenzgedanke dahinter, es geht nur um Anwendungsschulung. Dass es Blödsinn ist, aktuelle Software zu lehren, merkt man schon alleine daran, wie sehr sich beispielsweise Word in den letzten Jahren verändert hat. Wir kommen gar nicht daran vorbei solche Technologien kompetenzorientiert zu vermitteln. 
 
