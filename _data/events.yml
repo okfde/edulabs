@@ -62,7 +62,7 @@
   url: 'https://www.meetup.com/edulabsBE/events/251017301/'
   date: 29.05.
   city: Berlin
-  featured: true
+  featured: false
   id: "0011"
 - name: Forum Open Edu
   url: 'https://edulabs.de/blog/Save-the-date'
@@ -70,3 +70,9 @@
   city: Berlin
   featured: true
   id: "0012"
+- name: OERcamp
+  url: 'https://www.oercamp.de/18/west/workshops/#WestA1c'
+  date: 08.06.
+  city: Hattingen
+  featured: true
+  id: "0013"
