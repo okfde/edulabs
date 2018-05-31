@@ -4,7 +4,7 @@ layout: post
 title: "Wir entwickeln squarelet!"
 teaser: "squarelet ist ein Open Source-Tool für das kollaborative & freie Konzeptionieren"
 teaser_img_src: /assets/img/blog/2018/Mai/squarelet/squarelet.jpg
-featured: true
+featured: false
 categories: News
 twitter_large_img: /assets/img/blog/2018/Mai/squarelet/squarelet.jpg
 image: /assets/img/blog/2018/Mai/squarelet/squarelet.jpg
