@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: "Warum Open Source Technologien eine Schule modern machen"
+title: "Warum Open Source-Technologien etwas für moderne Schulen sind"
 teaser: "Sebastian glaubt, dass freie Inhalte Treiber von Innovation im Bildungswesen sein können und ist großer Freund von Open-Source-Software und deren Einsatz in Schule und Unterricht - ein Interview"
 teaser_img_src: /assets/img/blog/2018/Mai/interview_sebastian/sebastian_seitz.jpg
 featured: true
@@ -34,10 +34,10 @@ Allgemeiner ist Open Source wichtig für eine gut funktionierende Demokratie, be
 {% include partials/content/content-quote.liquid float="right" content="Open Source: Das Image der Bastlerlösung ist Quatsch." %}
 
 **Freie Software und insbesondere auch Hardware setzen sich an Schulen nur selten durch. Woran liegt das?**<br>
-Viele Menschen nutzen gerne das Tool auf der Arbeit, was sie auch zuhause nutzen. Das ist einfach eine Komfortfrage. Und von denen, die sich im Schulkontext für digitale Technologien interessieren, haben wenige ein Linux auf dem Privatrechner. Wenn es im Unterricht dann um digitale Themen gehen soll, ist es also für viele eine weitere Hürde, Open Source Software zu verwenden. Das liegt sicherlich auch daran, dass Open Source Technologien immer noch das Image einer Bastlerlösung haben, an der immer herum gebaut werden muss - was Quatsch ist. Wobei es wichtig ist zwischen den wenig verbreiteten freien Betriebssystemen und der stark verbreiteten Anwendungssoftware wie LibreOffice oder Firefox zu unterscheiden.
+Viele Menschen nutzen gerne das Tool auf der Arbeit, was sie auch zuhause nutzen. Das ist einfach eine Komfortfrage. Und von denen, die sich im Schulkontext für digitale Technologien interessieren, haben wenige ein Linux auf dem Privatrechner. Wenn es im Unterricht dann um digitale Themen gehen soll, ist es also für viele eine weitere Hürde, Open Source-Software zu verwenden. Das liegt sicherlich auch daran, dass Open Source-Technologien immer noch das Image einer Bastlerlösung haben, an der immer herum gebaut werden muss - was Quatsch ist. Wobei es wichtig ist zwischen den wenig verbreiteten freien Betriebssystemen und der stark verbreiteten Anwendungssoftware wie LibreOffice oder Firefox zu unterscheiden.
 
 **Was muss passieren, dass sich das ändert?**<br>
-Es braucht an der Schule immer eine Gruppe, die eine gewisse Bereitschaft hat offene Technologien einzusetzen, die aber auch die Verantwortlichkeit übernehmen darf, das Netz und die Technik vor Ort zu administrieren. Es braucht also einen Vor-Ort-Service. Wenn es keine solche Struktur einer Administrationsgruppe gibt, dann bedeutet es für den Einzelnen immer erst mal Mehrarbeit, Open Source-Technologien einzusetzen. Und dazu sind die wenigsten, oft auch aus gutem Grund, bereit. Servicedienstleister bieten weniger Open Source Software an als proprietäre Produkte großer Konzerne. 
+Es braucht an der Schule immer eine Gruppe, die eine gewisse Bereitschaft hat offene Technologien einzusetzen, die aber auch die Verantwortlichkeit übernehmen darf, das Netz und die Technik vor Ort zu administrieren. Es braucht also einen Vor-Ort-Service. Wenn es keine solche Struktur einer Administrationsgruppe gibt, dann bedeutet es für den Einzelnen immer erst mal Mehrarbeit, Open Source-Technologien einzusetzen. Und dazu sind die wenigsten, oft auch aus gutem Grund, bereit. Servicedienstleister bieten weniger Open Source-Software an als proprietäre Produkte großer Konzerne. 
 
 {% include partials/content/content-infobox.liquid float="left" headline="Der Raspberry Pi im Unterricht" copy="<a href='/oer'><img src='/assets/img/blog/2017/Oktober/Toolcard_Raspberry Pi/Raspberry Pi.jpg' style='width: 100%; display: inline-block'></a><br>Eine Sammlung von Erfahrungen und Ideen<br><br><a href='https://edulabs.de/blog/Erfahrungen-mit-dem-Raspberry-Pi-in-der-schulischen-und-au%C3%9Ferschulischen-Bildung'>Zur Sammlung</a>" %}
 
