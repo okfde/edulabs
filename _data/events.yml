@@ -68,7 +68,7 @@
   url: 'https://education.forum-open.de/'
   date: 06.06.
   city: Berlin
-  featured: true
+  featured: false
   id: "0012"
 - name: OERcamp
   url: 'https://www.oercamp.de/18/west/workshops/#WestA1c'
