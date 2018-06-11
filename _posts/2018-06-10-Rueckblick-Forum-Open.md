@@ -79,25 +79,23 @@ Bei den Diskussionsrunden erarbeiteten die Teilnehmer*innen Positionen zu offene
 ## Parlamentarischer Abend
 
 ### Eröffnung durch das Bündnis freie Bildung
+<div class="video"><iframe width="100%" height="410" src="https://media.ccc.de/v/forumoe-1-grusswort_open_knowledge_foundation/oembed" frameborder="0" allowfullscreen></iframe></div>
+<div class="caption">Begrüßung durch Nadine Evers, Open Knowledge Foundation Deutschland e.V. / Bündnis freie Bildung</div>
+<br><br>
 
-<iframe width="100%" height="450" src="https://media.ccc.de/v/forumoe-1-grusswort_open_knowledge_foundation/oembed" frameborder="0" allowfullscreen></iframe>
-Begrüßung durch Nadine Evers, Open Knowledge Foundation Deutschland e.V. / Bündnis freie Bildung
-
-
-<iframe width="100%" height="450" src="https://media.ccc.de/v/forumoe-2-grusswort_wikimedia_deutschland/oembed" frameborder="0" allowfullscreen></iframe>
-Begrüßung durch Janna Schlender, Wikimedia Deutschland e.V. / Bündnis freie Bildung
-
+<div class="video"><iframe width="100%" height="410" src="https://media.ccc.de/v/forumoe-2-grusswort_wikimedia_deutschland/oembed" frameborder="0" allowfullscreen></iframe></div>
+<div class="caption">Begrüßung durch Janna Schlender, Wikimedia Deutschland e.V. / Bündnis freie Bildung</div>
+<br><br>
 
 ### Impulsvortrag von Margret Rasfeld: Bildung der Zukunft für die Zukunft der Welt
-<iframe width="100%" height="450" src="https://media.ccc.de/v/forumoe-3-impulsvortrag_bildung_der_zukunft_fuer_die_zukunft_der_welt/oembed" frameborder="0" allowfullscreen></iframe>
-Impulsvortrag von Margret Rasfeld, <a href="http://www.schule-im-aufbruch.de/">Schule im Aufbruch</a>
-
+<div class="video"><iframe width="100%" height="410" src="https://media.ccc.de/v/forumoe-3-impulsvortrag_bildung_der_zukunft_fuer_die_zukunft_der_welt/oembed" frameborder="0" allowfullscreen></iframe></div>
+<div class="caption">Impulsvortrag von Margret Rasfeld, <a href="http://www.schule-im-aufbruch.de/">Schule im Aufbruch</a></div>
+<br><br>
 
 ### Podiumsdiskussion: Wie gelingt Bildung für eine offene digitale Gesellschaft?
-
-<iframe width="100%" height="450" src="https://media.ccc.de/v/forumoe-4-podiumsdiskussion/oembed" frameborder="0" allowfullscreen></iframe>
-Auf dem Podium: Marcus Richter (Moderation), Marja-Luise Völlers (MdB), Tankred Schipanski (MdB), Gabriele Lonz und Markus Neuschäfer
-
+<div class="video"><iframe width="100%" height="410" src="https://media.ccc.de/v/forumoe-4-podiumsdiskussion/oembed" frameborder="0" allowfullscreen></iframe></div>
+<div class="caption">Auf dem Podium: Marcus Richter (Moderation), Marja-Luise Völlers (MdB), Tankred Schipanski (MdB), Gabriele Lonz und Markus Neuschäfer</div>
+<br><br>
 
 ## Danke! Und bis zum nächsten Mal :-)
 Das Forum Open Education wurde nur möglich dank vielfacher Unterstützung. Maximilian Voigt aus dem [[edulabs-Team](https://edulabs.de/about/) verantwortete die wunderbare Eventorganisation; Christine Kolbe von edulabs/mediale pfade unterstützte bei Konzept und Planung; bei Technik, Ton, Film und Aufbau halfen Aaron Kraus, Robert Alisch, Matthias Haist; Nele Hirsch moderierte die Workshops, Daniel Molkentin vom [CCC VOC](https://c3voc.de/)-Team koordinierte den Livestream; das OKF-Team unterstützte bei Empfang, Abbau und Transporten und viele andere machten die Veranstaltung durch ihren Einsatz und ihre Teilnahme möglich. Herzlichen Dank an alle!  
