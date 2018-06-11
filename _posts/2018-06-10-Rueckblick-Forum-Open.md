@@ -14,7 +14,7 @@ author: Markus Neuschäfer
 info_text: |
 
 ---
-*Das erste Forum Open:Education am 6.6. war ein voller Erfolg: Über 80 Teilnehmer*innen, 15 Initiativen, 6 Diskussionsrunden und Workshops, spannende Diskussionen und gute Gespräche. In diesem Beitrag stellen wir Eindrücke, Bilder und Videos vor.*
+*Das erste Forum Open:Education am 6.6. war ein voller Erfolg: Über 80 Teilnehmer\*innen, 15 Initiativen, 6 Diskussionsrunden und Workshops, spannende Diskussionen und gute Gespräche. In diesem Beitrag stellen wir Eindrücke, Bilder und Videos vor.*
 
 Die Idee für das Forum Open:Education wurde angeregt durch den Koalitonsvertrag: Nach langen Verhandlungen entstand ein Papier, in dem 5 Mrd. für Bildung angekündigt wurden. Davon findet sich im Haushalt für 2018 noch [nichts](http://www.deutschlandfunk.de/haushaltsdebatte-im-bundestag-keine-mehrausgaben-fuer.680.de.html?dram:article_id=418229), aber nächstes Jahr soll es mit ersten Projekten losgehen. Wie aber werden diese Mittel investiert, und welcher Vorstellung von guter Bildung ist die neue Förderlandschaft verpflichtet? Initiativen aus der Zivilgesellschaft werden bei der Planung noch kaum berücksichtigt, den Austausch mit politischen Entscheidergremien wollten wir mit diesem Event verbessern.
 
