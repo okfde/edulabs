@@ -99,7 +99,7 @@ Auf dem Podium: Marcus Richter (Moderation), Marja-Luise Völlers (MdB), Tankred
 
 
 ## Danke! Und bis zum nächsten Mal :-)
-Das Forum Open Education wurde nur möglich dank vielfacher Unterstützung. Maximilian Voigt aus dem [[edulabs-Team](https://edulabs.de/about/) verantwortete die wunderbare Eventorganisation; bei Technik, Ton, Film und Aufbau halfen Aaron Kraus, Robert Alisch, Matthias Haist; Nele Hirsch moderierte die Workshops, Daniel Molkentin vom [CCC VOC](https://c3voc.de/)-Team koordinierte den Livestream; das OKF-Team unterstützte bei Empfang, Abbau und Transporten und viele andere machten die Veranstaltung durch ihren Einsatz und ihre Teilnahme möglich. Herzlichen Dank an alle!  
+Das Forum Open Education wurde nur möglich dank vielfacher Unterstützung. Maximilian Voigt aus dem [[edulabs-Team](https://edulabs.de/about/) verantwortete die wunderbare Eventorganisation; Christine Kolbe von edulabs/mediale pfade unterstützte bei Konzept und Planung; bei Technik, Ton, Film und Aufbau halfen Aaron Kraus, Robert Alisch, Matthias Haist; Nele Hirsch moderierte die Workshops, Daniel Molkentin vom [CCC VOC](https://c3voc.de/)-Team koordinierte den Livestream; das OKF-Team unterstützte bei Empfang, Abbau und Transporten und viele andere machten die Veranstaltung durch ihren Einsatz und ihre Teilnahme möglich. Herzlichen Dank an alle!  
 
 Die Bilder der Veranstaltung von Leonard Wolf aus dem OKF-Team sind – selbstverständlich mit CC-Lizenz – auf [Flickr](https://www.flickr.com/photos/okfde/sets/72157691980797310/); für den Austausch auf Twitter gab es den Hashtag [#fo18](https://twitter.com/search?q=%23fo18&src=typd).
 
