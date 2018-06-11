@@ -80,7 +80,7 @@ Bei den Diskussionsrunden erarbeiteten die Teilnehmer*innen Positionen zu offene
 
 ### Eröffnung durch das Bündnis freie Bildung
 
-<iframe width="100%" height="576" src="https://media.ccc.de/v/forumoe-1-grusswort_open_knowledge_foundation/oembed" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="450" src="https://media.ccc.de/v/forumoe-1-grusswort_open_knowledge_foundation/oembed" frameborder="0" allowfullscreen></iframe>
 Begrüßung durch Nadine Evers, Open Knowledge Foundation Deutschland e.V. / Bündnis freie Bildung
 
 
