@@ -1,10 +1,9 @@
 ---
-
 layout: post
 title: "Warum Open Source-Technologien etwas für moderne Schulen sind"
 teaser: "Sebastian glaubt, dass freie Inhalte Treiber von Innovation im Bildungswesen sein können und ist großer Freund von Open-Source-Software und deren Einsatz in Schule und Unterricht - ein Interview"
 teaser_img_src: /assets/img/blog/2018/Mai/interview_sebastian/sebastian_seitz.jpg
-featured: true
+featured: false
 categories: Interviews
 twitter_large_img: /assets/img/blog/2018/Mai/interview_sebastian/sebastian_seitz.jpg
 image: /assets/img/blog/2018/Mai/interview_sebastian/sebastian_seitz.jpg
