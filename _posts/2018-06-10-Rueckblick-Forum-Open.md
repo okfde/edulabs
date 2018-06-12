@@ -23,7 +23,7 @@ Die Idee für das Forum Open:Education wurde angeregt durch den Koalitonsvertrag
 
 Vor der Veranstaltung sammelte das Bündnis freie Bildung Videostatements aus der Community, um Fragen und Bedarfe möglichst vielstimmig zu vertreten:
 <div class="video">
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/_5Cz_usG8y0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="500" src="https://www.youtube.com/embed?listType=playlist&list=PLo8xyjlJniKPXNSU6pa9ttTlSasnE0_Hm" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 ### Initiativen für zeitgemäße Bildung

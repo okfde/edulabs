@@ -25,7 +25,7 @@ url: "https://edulabs.de"
 highlighter: rouge
 markdown: kramdown
 theme: minima
-plugins:
+gems:
   - jekyll-feed
   - jekyll-bootstrap-sass
   - jekyll-lunr-js-search
