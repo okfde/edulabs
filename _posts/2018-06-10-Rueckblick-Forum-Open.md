@@ -14,7 +14,7 @@ author: Markus Neuschäfer
 info_text: |
 
 ---
-*Das erste Forum Open:Education am 6.6. war ein voller Erfolg: Über 100 Teilnehmer\*innen, 15 Initiativen, 6 Diskussionsrunden und Workshops, spannende Diskussionen und gute Gespräche. In diesem Beitrag stellen wir Eindrücke, Bilder und Videos vor.*
+*Das erste Forum Open:Education am 6.6. war ein Erfolg: Über 100 Teilnehmer\*innen, 15 Initiativen, 6 Diskussionsrunden und Workshops, spannende Diskussionen und gute Gespräche. Das Engagement von Bund und Ländern für offene Bildung hat aber gerade erst begonnen. In diesem Beitrag stellen wir Eindrücke, Bilder und Videos vor.*
 
 Die Idee für das Forum Open:Education wurde angeregt durch den Koalitonsvertrag: Nach langen Verhandlungen entstand ein Papier, in dem 5 Mrd. für Bildung angekündigt wurden. Davon findet sich im Haushalt für 2018 noch [nichts](http://www.deutschlandfunk.de/haushaltsdebatte-im-bundestag-keine-mehrausgaben-fuer.680.de.html?dram:article_id=418229), aber nächstes Jahr soll es mit ersten Projekten losgehen. Wie aber werden diese Mittel investiert, und welcher Vorstellung von guter Bildung ist die neue Förderlandschaft verpflichtet? Initiativen aus der Zivilgesellschaft werden bei der Planung noch kaum berücksichtigt, den Austausch mit politischen Entscheidergremien wollten wir mit diesem Event verbessern.
 
@@ -107,9 +107,13 @@ Die Diskussionsrunden moderierte Nele Hirsch, auf ihrem Blog findet sich dazu ei
 <div class="video"><iframe width="100%" height="410" src="https://media.ccc.de/v/forumoe-4-podiumsdiskussion/oembed" frameborder="0" allowfullscreen></iframe></div>
 <div class="image-subtitle">Auf dem Podium: Marcus Richter (Moderation), Marja-Luise Völlers (MdB),<br>Tankred Schipanski (MdB), Gabriele Lonz und Markus Neuschäfer</div>
 
+In der Podiumsdiskussion wurde deutlich, dass das Ziel digitaler Mündigkeit in der Bildungspolitik bereits angekommen ist. Zugleich wurde klar, dass sich Bund und Länder hier noch vielfach selbst blockieren: Zwischen den engagierten Appellen für mehr Mut und Verantwortung aus dem Impulsvortrag und der Frage nach der politischen Verantwortung aus der Podiumsdiskussion gab es eine erhebliche Lücke. Im Koalitionsvertrag wird eine OER-Strategie zwar erwähnt; damit die Umsetzung gelingt, bleibt noch viel zu tun. 
+
+Nach einer OECD-Studie wären im Bildungsbereich Mehrausgaben nötig, die [weit über den Umfang des Digitalpaktes hinausgehen](http://www.handelsblatt.com/politik/deutschland/oecd-studie-30-milliarden-euro-zu-wenig-fuer-bildung-pro-jahr/20316926.html?ticket=ST-448335-umlkHEwlJl2B3MGg2iND-ap5). Die aktuellen Maßnahmen können daher nur ein Anfang sein, und selbst die ersten Schritte für mehr Bildungsförderung über den Digitalpakt werden noch in Frage gestellt. Hier kommt es weiter auf eine aktive Zivilgesellschaft an, Bildungspolitik kritisch zu begleiten und die Entwicklung einer offenen digitale Gesellschaft entschlossen zu fordern. 
+
 
 ## Danke! Und bis zum nächsten Mal
-Das Forum Open Education wurde nur möglich dank vielfacher Unterstützung. Maximilian Voigt aus dem [[edulabs-Team](https://edulabs.de/about/) verantwortete die wunderbare Eventorganisation; Christine Kolbe von edulabs/mediale pfade unterstützte bei Konzept und Planung; bei Technik, Ton, Film und Aufbau halfen Aaron Kraus, Robert Alisch, Matthias Haist; Nele Hirsch moderierte die Workshops, Daniel Molkentin vom [CCC VOC](https://c3voc.de/)-Team koordinierte den Livestream; das OKF-Team unterstützte bei Empfang, Abbau und Transporten und viele andere machten die Veranstaltung durch ihren Einsatz und ihre Teilnahme möglich. Herzlichen Dank an alle!  
+Das Forum Open Education wurde nur möglich dank vielfacher Unterstützung. Maximilian Voigt aus dem [edulabs-Team](https://edulabs.de/about/) verantwortete die wunderbare Eventorganisation; Christine Kolbe von edulabs/mediale pfade unterstützte bei Konzept und Planung; bei Technik, Ton, Film und Aufbau halfen Aaron Kraus, Robert Alisch, Matthias Haist; Nele Hirsch moderierte die Workshops, Daniel Molkentin vom [CCC VOC](https://c3voc.de/)-Team koordinierte den Livestream; das OKF-Team unterstützte bei Empfang, Abbau und Transporten und viele andere machten die Veranstaltung durch ihren Einsatz und ihre Teilnahme möglich. Herzlichen Dank an alle!  
 
 Die Bilder der Veranstaltung von Leonard Wolf aus dem OKF-Team sind – selbstverständlich mit CC-Lizenz – auf [Flickr](https://www.flickr.com/photos/okfde/sets/72157691980797310/); für den Austausch auf Twitter gab es den Hashtag [#fo18](https://twitter.com/search?q=%23fo18&src=typd).
 
@@ -117,4 +121,6 @@ Die Bilder der Veranstaltung von Leonard Wolf aus dem OKF-Team sind – selbstve
 <span class="link-list-headline">Links</span>
 <a class="external-link" href="https://media.ccc.de/v/forumoe" target="_blank">Videos der Veranstaltung bei media.ccc.de</a>
 <a class="external-link" href="https://www.flickr.com/photos/okfde/sets/72157691980797310" target="_blank">Bilder zur Veranstaltung (Fotos: Leonard Wolf)</a>
+<a class="external-link" href="https://www.ebildungslabor.de/blog/forum-open-education" target="_blank">Blogartikel von Nele Hirsch zum Forum Open Education</a>
+<a class="external-link" href="https://open-educational-resources.de/fuer-mehr-gestaltungsmut-der-schule-das-forum-open-education-berlin/" target="_blank">Bericht der OER-Infostelle von Luca Mollenhauer</a>
 </p>
