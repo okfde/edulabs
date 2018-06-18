@@ -74,11 +74,17 @@
   url: 'https://www.oercamp.de/18/west/workshops/#WestA1c'
   date: 08.06.
   city: Hattingen
-  featured: true
+  featured: false
   id: "0013"
 - name: edulabsBE
   url: 'https://www.meetup.com/edulabsBE/events/251374415/'
   date: 12.06.
   city: Berlin
-  featured: true
+  featured: false
   id: "0014"
+- name: edulabsBE
+  url:
+  date: 26.06.
+  city: Berlin
+  featured: true
+  id: "0015"
