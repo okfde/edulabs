@@ -4,7 +4,7 @@ layout: post
 title: "So war das 1. Forum Open:Education"
 teaser: "Politik und Zivilgesellschaft für zeitgemäße Bildung – ein Rückblick"
 teaser_img_src: /assets/img/blog/2018/Juni/Forum_Open_Education/forum_open_1.jpg
-featured: true
+featured: false
 categories: News Events
 twitter_large_img: /assets/img/blog/2018/Juni/Forum_Open_Education/forum_open_1.jpg
 image: /assets/img/blog/2018/Juni/Forum_Open_Education/forum_open_1.jpg
