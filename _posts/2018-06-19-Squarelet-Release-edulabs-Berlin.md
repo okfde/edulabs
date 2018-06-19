@@ -24,7 +24,7 @@ info_text: |
 Mit squarelet lassen sich flexibel Bilder, Videos, Texte und html-Anwendungen organisieren. Auch das Abbilden von Brainstorming-Prozessen ist möglich. Der Fokus liegt auf der kollaborativen Entwicklung von Ideen und Konzepten, ohne durch eine technische Struktur einzugrenzen.
 
 ## Ihr habt Interesse und möchtet am Treffen teilnehmen?
-Dann kommt **am 26. Juni, 18:30** in die ESBZ oder schaltet euch live dazu. Ab 19:00 öffnen wir die Veranstaltung wieder digital und ihr könnt über das Programm Zoom und den folgenden Link teilnehmen:
+Dann kommt **am 26. Juni, 18:30** in die [ESBZ](https://duckduckgo.com/?q=Wallstra%C3%9Fe+32%2C+10179+Berlin&t=canonical&ia=maps&iaxm=maps) oder schaltet euch live dazu. Ab 19:00 öffnen wir die Veranstaltung wieder digital und ihr könnt über den [zoom Client](https://zoom.us/download#client_4meeting) und den folgenden Link teilnehmen:
 
 <center><a class="btn btn-lg btn-default"
   href="https://zoom.us/j/404711202"
