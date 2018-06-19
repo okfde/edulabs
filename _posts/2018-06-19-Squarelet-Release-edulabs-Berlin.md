@@ -32,6 +32,6 @@ Dann kommt **am 26. Juni, 18:30** in die [ESBZ](https://duckduckgo.com/?q=Wallst
 
 <p class="link-list">
     <span class="link-list-headline">Links</span>
-    <a class="external-link" href="https://www.meetup.com/edulabsBE/events/" target="_blank">Zum Meetup am 26. Juni - 18:30</a>
+    <a class="external-link" href="https://www.meetup.com/edulabsBE/events/251921495/" target="_blank">Zum Meetup am 26. Juni - 18:30</a>
     <a class="external-link" href="https://edulabs.de/blog/squarelet-ein-Open-Source-Brainstorming-Tool-zum-freien-Organisieren-von-Videos-Fotos-Texten-und-html-Inhalten" target="_blank">Details über Squarelet</a>
 </p>
