@@ -26,6 +26,10 @@ Mit squarelet lassen sich flexibel Bilder, Videos, Texte und html-Anwendungen or
 ## Ihr habt Interesse und möchtet am Treffen teilnehmen?
 Dann kommt **am 26. Juni, 18:30** in die ESBZ oder schaltet euch live dazu. Ab 19:00 öffnen wir die Veranstaltung wieder digital und ihr könnt über das Programm Zoom und den folgenden Link teilnehmen:
 
+<center><a class="btn btn-lg btn-default"
+  href="https://zoom.us/j/404711202"
+  role="button">Zum Public Call (Di 26.06., 19:00) »</a></center><br>
+
 <p class="link-list">
     <span class="link-list-headline">Links</span>
     <a class="external-link" href="https://www.meetup.com/edulabsBE/events/" target="_blank">Zum Meetup am 26. Juni - 18:30</a>
