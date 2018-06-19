@@ -16,7 +16,7 @@ info_text: |
 ---
 *Das kommende edulabs-Treffen in Berlin - **[am 26. Juni, 18:30](https://www.meetup.com/edulabsBE/events/)** - dreht sich um die erste Version von Squarelet - ein browserbasiertes Tool zum offenen digitalen Arbeiten.*
 
-[Im Mai kündigten wir eine erste Raodmap an](https://edulabs.de/blog/public-call-Internetzugang-an-Schulen). Jetzt kann der erste Prototyp getestet werden. Besonders im Fokus stehen konkrete Anwendungsfelder: Wann lässt sich das Tool sinnvoll einsetzen, wie kann es für diesen Einsatz verbessert werden? Die Projektgruppe stellt den Prototypen vor und sammelt Erfahrungen beim gemeinsamen Testen.
+[Im Mai kündigten wir eine erste Roadmap an](https://edulabs.de/blog/public-call-Internetzugang-an-Schulen). Jetzt kann der erste Prototyp getestet werden. Besonders im Fokus stehen konkrete Anwendungsfelder: Wann lässt sich das Tool sinnvoll einsetzen, wie kann es für diesen Einsatz verbessert werden? Die Projektgruppe stellt den Prototypen vor und sammelt Erfahrungen beim gemeinsamen Testen.
 
 <div class="video"><iframe width="560" height="315" src="https://www.youtube.com/embed/O8-53_o9WGY?ecver=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 <div class="caption" style="text-align: right">Squarelet beta - Demo. Lizenz: <a href='https://creativecommons.org/licenses/by/4.0/'>CC-BY 4.0</a><br><br></div>
