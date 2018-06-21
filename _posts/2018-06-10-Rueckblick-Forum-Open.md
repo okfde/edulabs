@@ -39,7 +39,7 @@ Damit Politiker*innen teilnehmen konnten, haben wir den parlamentarischen Abend 
 * [Lumi - Jan Philip Schellenberg](http://lumi.education/)
 * [Köpfchen statt Kohle - stratum GmbH](https://koepfchenstattkohle.org/)
 * [SenseBox - Universität Münster](https://sensebox.de/)
-* [[Demokratielabore](http://demokratielabore.de)
+* [Demokratielabore](http://demokratielabore.de)
 * [OERinfo - Informationsstelle zu Open Educational Resources](https://open-educational-resources.de/)
 * [Jugend hackt](http://www.jugendhackt.de)
 * [mediale pfade – Verein für Medienbildung e.V.](http://medialepfade.org)
