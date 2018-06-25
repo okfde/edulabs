@@ -20,7 +20,7 @@ Tools wie [freemind](https://freemind.sourceforge.net), Padlet und andere Whiteb
 
 Das wollen wir mit *squarelet* ändern und ein offenes System bauen, für das leicht neue Inhaltstypen entwickelt werden können. Mit squarelet werden sich flexibel Bilder, Videos, Texte und html-Anwendungen organisieren lassen. Auch das Abbilden von Brainstorming-Prozessen wird möglich sein. Damit bleibt viel Raum für das Entwickeln von Ideen und Konzepten, ohne eingegrenzt zu werden. 
 
-In der ersten Förderphase von edulabs (bis Ende August) entwickeln wir mit Feedback aus der Community einen ersten Prototypen, um den Bedarf für neue Features genauer zu ermitteln. Mit einer ersten Version ist bis Mitte Juni zu rechnen. Schneller geht es, wenn sich andere beteiligen. Meldet euch gerne bei uns und arbeitet mit!
+Während dieser Förderphase von edulabs (bis Ende August) entwickeln wir mit dem Feedback aus der Community einen ersten Prototypen, um den Bedarf für neue Features genauer zu ermitteln. Mit einer Alpha-Version ist bis Mitte Juni zu rechnen. Schneller geht es, wenn sich andere beteiligen. Meldet euch gerne bei uns und arbeitet mit!
 
 ## Features
 ### Basics
