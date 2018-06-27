@@ -86,5 +86,11 @@
   url:
   date: 26.06.
   city: Berlin
-  featured: true
+  featured: false
   id: "0015"
+- name: Kickoff edulabsMÜ
+  url: 'https://www.meetup.com/edulabs-Munchen/events/252023300/'
+  date: 11.07.
+  city: München
+  featured: true
+  id: "0016"
