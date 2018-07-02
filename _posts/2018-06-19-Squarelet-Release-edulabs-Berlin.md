@@ -4,7 +4,7 @@ layout: post
 title: "Wir stellen vor: Squarelet alpha - das Tool zum offenen Arbeiten"
 teaser: "Das kommende edulabs-Treffen in Berlin - am 26. Juni, 18:30 - dreht sich um die erste Version von Squarelet - ein browserbasiertes Tool zum offenen digitalen Arbeiten."
 teaser_img_src: /assets/img/blog/2018/Juni/squarelet_edulabs_berlin/squarelet_example.png
-featured: true
+featured: false
 categories: News Events
 twitter_large_img: /assets/img/blog/2018/Juni/squarelet_edulabs_berlin/squarelet_example.png
 image: /assets/img/blog/2018/Juni/squarelet_edulabs_berlin/squarelet_example.png
