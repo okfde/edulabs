@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "edulabs München: start einer Community für zeitgemäße Bildung"
-teaser: "Melanie Hörth ist Lehr-Lern-Forscherin und beschäftigt sich beruflich mit der Qualitätsentwicklung und Wirkungsmessung von Bildungsprogrammen. Am 11. Juli startet sie edulabs in München. Wir haben mit ihr über ihre Ideen und ihre Motivation für edulabs gesprochen."
+teaser: "Melanie Hörth ist Lehr-Lern-Forscherin und beschäftigt sich beruflich mit der Qualitätsentwicklung und Wirkungsmessung von Bildungsprogrammen. Am 11. Juli startet sie edulabs in München. Wir haben mit ihr über ihre Ideen und Motivation für edulabs gesprochen."
 teaser_img_src: /assets/img/blog/2018/Juli/edulabs_münchen/800px-München_Panorama.JPG
 featured: true
 categories: Interviews Events
