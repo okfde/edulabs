@@ -1,15 +1,15 @@
 ---
 _id: 44138ce0-2865-11e8-a430-e94ecbd755e9
 title: qtjph
-visible: '0'
+visible: '1'
 art: oer
-titel: 'Werkbetrachtung Architektur-Selbstgesteuerte, kolaborative Lerneinheit'
+titel: 'Werkbetrachtung Architektur-Selbstgesteuerte, kollaborative Lerneinheit'
 desc: >-
-  SuS erhalten Aufgabenstellung und Materialübersicht über ein Padlet. Arbeiten
-  kollaborativ in Gruppen an der Lösung in einem eigenen Padlet (Nutzung als
+  Die Lernenden erhalten die Aufgabenstellung und Materialübersicht über ein Padlet. Anschließend arbeiten
+  sie kollaborativ in Gruppen an der Lösung in einem eigenen Padlet (Nutzung als
   Kanbantafel).
 link: 'https://padlet.com/strsa/Zumthorabi'
-lernziele: "Aufgabenstellung mit Überblick über alle zu berücksichtigenden Materialien, ähnlich einem Advance Organizer. \r\nGemeinsame Textarbeit mit Möglichkeit zur Diskussion und gegenseitigem Verbessern."
+lernziele: "Aufgabenstellung mit Überblick über alle zu berücksichtigenden Materialien, ähnlich einem Advance Organizer. \r\nGemeinsame Textarbeit mit der Möglichkeit zur Diskussion und des gegenseitigen Verbesserns."
 tipp: >-
   Die Bearbeitung sollte gemeinsam im Unterricht beginnen, falls man plant, die
   Aufgabe als Hausaufgabe zu vergeben.
