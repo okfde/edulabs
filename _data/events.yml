@@ -92,5 +92,11 @@
   url: 'https://www.meetup.com/edulabs-Munchen/events/252023300/'
   date: 11.07.
   city: München
-  featured: true
+  featured: false
   id: "0016"
+- name: Sommerpause
+  url: 'https://media.giphy.com/media/TXvbvcWwnkUjS/giphy.gif'
+  date:
+  city:
+  featured: true
+  id: "0017"
