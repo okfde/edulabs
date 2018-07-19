@@ -100,3 +100,9 @@
   city:
   featured: true
   id: "0017"
+- name: edulabsMÜ
+  url: 'https://www.meetup.com/edulabs-Munchen/events/252927295/'
+  date: 24.07.2018
+  city: München
+  featured: true
+  id: "0018"
