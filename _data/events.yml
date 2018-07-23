@@ -98,7 +98,7 @@
   url: 'https://media.giphy.com/media/TXvbvcWwnkUjS/giphy.gif'
   date:
   city:
-  featured: true
+  featured: false
   id: "0017"
 - name: edulabsMÜ
   url: 'https://www.meetup.com/edulabs-Munchen/events/252927295/'
