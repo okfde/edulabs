@@ -5,7 +5,7 @@ title: "Programmieren lernen mit Apps - Erfahrungen und Ideen"
 teaser: "Die meisten Lernenden besitzen Smartphones. Im Artikel werden verschiedene Apps vorgestellt, die das informatische Lernen mit dem Smartphone fördern."
 teaser_img_src: /assets/img/blog/2017/November/POCKET_CODE_Toolcard/scratch_uebersicht.jpg
 featured: false
-categories: Toolcard
+categories: Tools
 twitter_large_img: /assets/img/blog/2017/November/POCKET_CODE_Toolcard/scratch_uebersicht.jpg
 image: /assets/img/blog/2017/November/POCKET_CODE_Toolcard/scratch_uebersicht.jpg
 header_background: /assets/img/blog/2017/November/POCKET_CODE_Toolcard/scratch_uebersicht.jpg

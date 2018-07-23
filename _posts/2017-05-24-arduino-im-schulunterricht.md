@@ -5,7 +5,7 @@ title: "Ein-Chip-Computer und die Arduino-Plattform im Unterricht"
 teaser: "Was ist die Arduino-Plattform und welche Vor- und Nachteile hat sie für die Anwendung im Schulunterricht?"
 teaser_img_src: /assets/img/blog/2017/Mai/arduino/arduino.jpg
 featured: false
-categories: Toolcard
+categories: Tools
 twitter_large_img: /assets/img/blog/2017/Mai/arduino/arduino.jpg
 header_background: /assets/img/blog/2017/Mai/arduino/arduino.jpg
 header_background_caption: 'Bild: <a href="https://commons.wikimedia.org/wiki/File:Barbone_Arduino_Uno.jpg">Barbone Arduino Uno</a> by Kallap85'
