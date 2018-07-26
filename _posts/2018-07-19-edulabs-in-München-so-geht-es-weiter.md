@@ -3,7 +3,7 @@ layout: post
 title: "edulabs in München: So geht's weiter"
 teaser: "Um die zwanzig Interessierte haben sich getroffen, um sich aktiv mit den Themen zeitgemäße und freie Bildung auseinanderzusetzen - am 24. Juli geht es weiter."
 teaser_img_src: /assets/img/blog/2018/Juli/review_edulabsM/brainstorming_edulabsM.JPG
-featured: true
+featured: false
 categories: Interviews Events
 twitter_large_img: /assets/img/blog/2018/Juli/review_edulabsM/brainstorming_edulabsM.JPG
 image: /assets/img/blog/2018/Juli/review_edulabsM/brainstorming_edulabsM.JPG
