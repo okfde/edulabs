@@ -1,6 +1,6 @@
 ---
 title:  "edulabsMUC"
-team: ""
+team:
 headline: "edulabs München - die offene Bildungswerkstatt"
 layout: lab
 short-desc: >-
