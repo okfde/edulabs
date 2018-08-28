@@ -98,7 +98,7 @@
   url: 'https://media.giphy.com/media/TXvbvcWwnkUjS/giphy.gif'
   date:
   city:
-  featured: true
+  featured: false
   id: "0017"
 - name: edulabsMÜ
   url: 'https://www.meetup.com/edulabs-Munchen/events/252927295/'
@@ -106,3 +106,9 @@
   city: München
   featured: false
   id: "0018"
+- name: edulabsNRW
+  url: 'https://www.meetup.com/edulabsKB/events/254034975/'
+  date: 12.09.2018
+  city: Düsseldorf
+  featured: true
+  id: "0019"
