@@ -1,0 +1,87 @@
+---
+layout: post
+title: "Offene Bildungswerkstätten: revolutionäre Lernorte"
+teaser: "Im Gespräch mit Tom Hansing - über offene Werkstätten & ihr Bildungspotenzial."
+teaser_img_src: /assets/img/blog/2018/August/tom hansing_interview/repairCafe_1.jpg
+featured: true
+categories: Interviews
+twitter_large_img: /assets/img/blog/2018/August/tom hansing_interview/repairCafe_1.jpg
+image: /assets/img/blog/2018/August/tom hansing_interview/repairCafe_1.jpg
+header_background: /assets/img/blog/2018/August/tom hansing_interview/repairCafe_1.jpg
+header_background_caption: "Bild: Verbund offener Werkstätten. Lizenz: <a href='https://creativecommons.org/licenses/by/4.0/'>CC-BY 4.0</a>"
+author: Maximilian Voigt
+info_text: |
+   <a href="/blog/making-und-oer"><img src="/assets/img/blog/2017/Juli/interview_kristin_narr/making_1.jpg"></a>
+   <br>Die Medienpädagogin Kristin Narr berichtet von ihren Erfahrungen mit Making sowie der Verwandtschaft von Making und OER.
+
+---
+
+<!-- include floated image -->
+{% include partials/content/content-float-image.liquid float="left"
+src="/assets/img/blog/2018/August/tom hansing_interview/Tom Hansing.jpg" caption="Tom Hansing. Foto: Verbund offener Werkstätten.<br>Lizenz: <a href='https://creativecommons.org/licenses/by-nc-sa/2.0/'>CC BY-NC-SA 2.0</a>" %}
+
+*Tom Hansing ist Soziologe, mit dem Schwerpunkt auf die "praxiologische Perspektive". Er ist der Auffassung, dass praktische Erfahrungen die Theorie leiten und beschäftigt sich mit nachhaltigen Lebenszielen in der Praxis. Er arbeitet für die Stiftung anstiftung aus München, ist Mitbegründer und permanenter Beisitzer des [Verbunds Offener Werkstätten e.V.](https://www.offene-werkstaetten.org/werkstatt-suche), Mitgründer der Offenen Siebdruckwerkstatt SDW-Neukölln und hat das Sharingportal velogistics.net ins Leben gerufen. Wir haben mit ihm über offene Werkstätten gesprochen, an denen sich die [edulabs](https://edulabs.de/blog/offene-Bildungswerkst%C3%A4tten-als-Labore-f%C3%BCr-neue-Materialien-und-Konzepte) orientieren.*
+
+**Du bist gewissermaßen Experte für offene Werkstätten, was haben diese mit zeitgemäßer Bildung zu tun?**<br>
+Man kann den Charakter einer offenen Werkstatt gut hervorheben, indem man sie mit einer Ausbildungswerkstatt vergleicht. Dort geht es um konkrete Berufsbilder, die produktiven Charakter haben. Da gibt es dann Lehrende, Anleitende, die  Auszubildende, Laien mit Wissen segnen oder fit machen für einen bestimmten Berufszweig, bzw. ein konkretes Berufsbild. Das Ziel ist also ein bestimmtes Level von Qualifikation.
+Im Gegensatz dazu steht die Offene Werkstatt. Dort können solche Expertinnen und Experten auch vor Ort sein, aber sie stehen nicht im Mittelpunkt. Viel mehr geht es um die gegenseitige Befähigung von Gleichgestellten. Diese hat nicht in erster Linie zum Ziel einen Qualifizierungsnachweis hervorzubringen, sondern es geht um das praktische Hands-On-Wissen selbst. In Offenen Werkstätten kommen Menschen zusammen, die Interesse daran haben sich selber fortzubilden, selbst etwas im Tun zu lernen und diese Erfahrungen anderen weiterzugeben und in dieser sozialen Interaktion gemeinschaftlich zu wachsen. Diese Art der gemeinschaftlichen Auseinander- oder besser: Zusammensetzung ist viel näher an dem Idealbild des intrinsisch motivierten lebenslangen Lernens.
+
+<div class="video"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/YAwxDIHD1bw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+<div class="image-subtitle">Video: Was sind offene Werkstätten?</div>
+
+**Das selbstorganisierte Lernen steht also im Mittelpunkt. Aber worum geht es genau, was wird dort konkret gelernt?**<br>
+Einmal geht es um das Gewerk, das in der Werkstatt vollführt werden kann und das hängt immer von der konkreten Ausstattung ab. Da gibt es Werkstätten, die einen klaren handwerklichen Bezug haben - wie Metall-, Holz-, oder Keramikwerkstätten. Oder es sind Makerspaces, die multifunktionale Werkstätten darstellen, die wie Fab Labs auch digitale Produktionsmethoden und -Maschinen anbieten.
+Neben diesen Techniken gibt es den Aspekt, der durch die Logik einer Werkstatt bedingt ist. Eine Werkstatt bringt immer ihre eigene Logik mit und wirkt dadurch idiologiebefreiend. Man kann eine Werkstatt nicht zum Klingen bringen, wenn man ihre Logik nicht durchsteigt und sich ihr anpasst. Das ist etwas Positives - denn im Tun muss man sich dem Arrangement hingeben. Denn es geht ja nicht nur um das Erlernen einer Technik oder eines Handwerkes - nach dem Motto: so macht man es richtig, um an ein bestimmtes Ziel zu gelangen. Sondern es findet auch eine soziale Konfrontation statt, die sich durch das Gefüge der offenen Werkstatt herausbildet. Es gibt ja keine Verpflichtung sich gegenseitig zu unterstützen oder zu helfen. Alles ist ein Aushandlungsprozess. Das führt dazu, dass man lernt mit seinen "Kapitalien" sinnvoll und generös umzugehen. Wenn ich etwas von jemand anderen lernen möchte, der aber nicht dazu verpflichtet ist mir etwas beizubringen, dann muss ich mich auf soziale Beitragensprozesse einlassen. Ich muss mehr kommunizieren, ich muss mich mehr dem anderen hinwenden um ein gemeinsames Level zu schaffen, in dessen Rahmen wir uns austauschen können. Mit anderen Worten: Diese ganzen Soft-Skills, von denen immer die Rede ist, die jenseits von praktischen Fertigkeiten angesiedelt sind, die werden dort trainiert.
+
+<!-- include quote -->
+{% include partials/content/content-quote.liquid float="right" content="Im Gegensatz dazu steht die Schule. Sie ist ein System, das schwer zu beeinflussen und selber zu gestalten ist. Man muss überhaupt nichts beitragen, damit sie existiert." %}
+Hinzu kommt, dass jede Werkstatt auch ein soziales Betriebssystem hat. Denn meistens handelt es sich nicht um ein Dienstleistungsangebot. Sondern eine Gruppe sorgt gemeinsam dafür, dass nicht nur ich als Individuum auf meine Kosten komme, sondern dass wir als Gruppe auf unsere Kosten kommen - das sind soziale Prozesse, die das Bewusstsein stärken, dass Infrastrukturen gepflegt werden müssen und nur durch die Beiträge von vielen dauerhaft existieren können; und das ohne, dass die sonst klassischen Marktmechanismen notwendig sind, dass also mit Geld, mit dem gewerksmäßigen Angebot einiger weniger, etwas für die vielen Nutzerinnen und Nutzern zur Verfügung gestellt würde. Diese Strukturen werden aufgebrochen, weil die Räumlichkeiten, Ausstattung und Co selbst geschaffen, erhalten und weitergepflegt werden. Man lernt also sowas wie "Commoning". Und das ist im Gegensatz zur Schule ein ganz anderer Vorgang. Denn die Schule ist da, sie wird gemanaged. Sie ist ein System, das sogar recht schwer zu beeinflussen und selber zu gestalten ist. Man muss überhaupt nichts beitragen, damit sie existiert und "funktioniert". Das ist in einer offenen Werkstatt ganz anders. Wenn ich da nicht anfange beizutragen, dann werde ich dort wahrscheinlich nicht lange Spaß haben.
+
+**Bisher haben wir die Werkstätten im außerschulischen Bereich betrachtet. Welche Rolle können sie in der formalen Bildung spielen?**<br>
+Also gerade weil dort Wissenserwerb und Austausch, Tätig werden und Ausprobieren anders strukturiert sind, bringen die Werkstätten eine andere Lernkultur in die Schule. Sie kommen mit dieser Eigenbildungskultur in die Schule, organisieren spannende Eigenarbeits-Projekte, die oft einen ganz anderen Ansatz haben, indem sie Dinge thematisieren, die erst mal frei sind von irgendeiner "externen" Zwecksetzung. Da geht es nicht darum ein bestimmtes Objek zu konstruieren, um damit physikalische Gesetzmäßigkeiten zu verstehen oder Fähigkeiten zu erwerben, um dieses und jenes curriculär gesetzte Ziel zu erreichen. Das Lernen, dieser Wissenserwerb, der dann auch in schulischen Kontexten abgefragt werden kann, ist ein eher unintendierter Nebeneffekt. Und das ist das Spannende. Mit den Angeboten Offener Werkstätten wird diese intrinsische Motivation, sich Dinge anzueignen, abgeholt. Und das, was an Schulen häufig kritisiert wird - Uniformierung und Gleichmacherei unterschiedlicher Lerntypen, die für die Krativität und Motivation gar nicht so förderlich ist - wird womöglich etwas aufgeweicht. "Mach dein eigenes Ding" ist häufig das tragende Motto.
+
+<!-- include quote -->
+{% include partials/content/content-quote.liquid float="left" content="Dadurch erfahren Lernende Arbeitsplätze nicht als fremdgestaltete Orte, in die der Mensch sich einzufriemeln hat - sondern sie spüren, dass dieses Setting von Menschen gemacht ist." %}
+Offene Werkstätten können also auch außerschulische Lernräume oder - wie ich sie auch bezeichne - Wohnzimmerergänzugsräume, lebensweltlich strukturierte Produktivorte sein. Das heißt in den Werkstätten habe ich nicht nur die Arbeitsplätze, sondern Offene Werkstätten sind oft sehr kreativ gestaltet und brechen mit den mitunter sterilen Vorstellungen, wie eine Werkstatt auszusehen hat. Dadurch kann sich bei den Lernenden auch der Begriff von Arbeit und was Arbeiten bedeutet anders formen, indem sie Arbeitsplätze nicht als fremdgestaltete, rein auf Effizienz gebürstete Orte erfahren, in die der Mensch sich sozusagen einzufriemeln hat - sondern sie spüren, dass dieses Setting von Menschen gemacht ist. Sie erfahren, dass das Tätigsein etwas ist, das man selber gestalten kann. Und das ist sehr wichtig, denn sich seinen eigenen Lebenspfad zu gestalten wird immer notwendiger. Dieses Potenzial kann man in Offenen Werkstätten herauskitzeln und entfalten.
+
+**Braucht also jede Schule eine offene Werkstatt?**<br>
+Ich glaube, dass es schwer ist, innerhalb des schulischen Kontextes eine echte Offene Werkstattkultur zu etablieren. Ich denke nicht, dass man eine nichtschulische Kultur innehralb der Schule mit Schulpersonal entwickeln kann.
+Der erste Impuls ist: Schulen sollten mit diesen zivilgesellschaftlichen Akteursgruppen kooperieren, denn sie sind es, die diese andere Kultur praktizieren. Das heißt, dass die Schulen die pädagogische Begleitung übernehmen - aber die innerliche Gestaltung der Projekte könnte man den Werkstätten überlassen, damit dieser Effizienz und Leistungsgedanke nicht so dominant ist. Ich bezweifle sehr, dass Offene Werkstätten und Notenvergaben miteinander korrespondieren.
+
+Ich kann mir eine Offene Werkstatt an einer Schule dann vorstellen, wenn sie auch für die Eltern, Lehrenden, Anwohnenden und die offene, freie Beschäftigung am Nachmittag gedacht wird. Nicht nur als Werkzeug für den schulischen Lehrplan, sondern als Nachbarschaftswerkstatt für alle. Dabei können die Schulen von den Expertisen Offener Werkstätten profitieren.
+
+**Gibt es dafür konkrete Beispiele? Wo ist die Integration offener Kulturgüter in den Schulkontext gelungen?**<br>
+Da gibt es die Plattform [Werkstatt-lastenrad.de](http://werkstatt-lastenrad.de/index.php?title=Hauptseite)  - das ist eine offene Wissensallmende-Plattform rund um das thema Lastenrad-Eigenbau. Eine der besonders gut dokumentierten Modelle - der Long Andre - wurde vom Verkehrsclub Deutschland zu einem [DIY-Bildungspaket](https://bildungsservice.vcd.org/bildungsmaterial/berufsschule/diy-lastenradbau/) weiterentwickelt.
+<div class="img-wrap-center">
+    <img src="/assets/img/blog/2018/August/tom hansing_interview/Long_Andre_0767.JPG" style="width: 100%; display: inline-block">
+    <div class="caption" style="text-align: right">Das Lastenrad 'Long Andre'. Lizenz: <a href='https://creativecommons.org/licenses/by-nc-sa/3.0/'>CC BY-NC-SA 3.0</a></div>
+</div>
+Es wurde also Open Source-Wissen verwendet, um im Berufsschulkontext ein komplettes "marktfähiges" Produkt zum Selberbauen möglich zu machen und es bis ins kleinste Detail verstehen zu können.
+
+Die Open Source-Projekte, die in offenen Werkstätten entstehen, können also auch im Bildungskontext angewendet werden. Das sind bisweilen recht komplexe Dinge, die vollumfänglich dokumentiert zu finden sind. Das verschafft die Möglichkeit sich selbstständig ganz tief in ein Wissensgebiet einzuarbeiten - und nicht erst dann, wenn ich als Schlosser ausgebildet wurde.
+
+**Das sind recht anspruchsvolle Projekte. Welche Möglichkeiten haben Schulen klein anzufangen?**<br>
+Das ist eine interessante Frage. Einige Schulen sind ja mit Werkstätten gesegnet - und verfügen somit über die Infrastruktur. Eine Möglichkeit wäre es, die Werkstatt den Kindern und Jungendlichen anders näher zu bringen. Indem man beispielsweise nicht mit einem konkreten Vorhaben dort hinein geht, sondern sie wie im Rahmen einer Expidition erkundet. Wie funktionieren die Gerätschaften? Wozu sind sie da? Das sind Fragen, die vor dem eigentlichen Projekt interessant sind und durch die man einen Zugang zum Ort entwickelt. Dabei können auch schon die ersten praktischen Ideen kommen.
+
+<!-- include an infobox -->
+{% include partials/content/content-infobox.liquid float="right" headline="Making und OER" copy=page.info_text %}
+Für viele Kinder und Jugendliche ist es völlig intransparent wie die Dinge in die Welt kommen. Sie werden in der Regel gekauft. Wie aber Dinge entstehen und produziert werden ist oft eine Blackbox. Wenn man sich dann Werkstätten anschaut, wo solche Gegenstände entstehen, kommt man dem Inhalt der Blackbox schon ein Stück näher.
+
+Spannend ist zum Beispiel auch die [Stiftung Pfefferwerk](https://www.stpw.org/aktuelles) - die seit ein paar Jahren Schulen dabei unterstützt die Ideen aus dem Repair Café-Kontext in den Klassenraum zu bringen. Da geht es nicht darum, dass sie ein Repair Café veranstalten, sondern, dass sie das Potenzial des gemeinschaftlichen Reparierens in den schulischen Kontext wurzeln. Ein Beispiel ist, dass eine AG an einer Schule damit begonnen hat die Stühle, also die eigene Infrastruktur der Schule, Stück für Stück selber zu reparieren, anstatt sie immer wegzuwerfen und neuzukaufen. Eine andere hat angefangen mit Erkundungstouren zuhause - mit der Frage, welche Geräte zuhause stehen und kaputt sind und was mit ihnen mal gemacht wurde. Die Geräte sollten mit in die Schule gebracht werden. Dort wurden sie gemeinschaftlich aufgeschraubt und diskutiert, wie lange sie schon existieren, was mit ihnen mal gemacht wurde - hat man mit dem Mixer auch Eiswürfel gecruched, war das so gedacht? Was kann man jetzt mit dem Gerät (noch) anstellen, wenn es nicht mehr reparierbar sein sollte. Aus welchen Bauteilen besteht es... und so fort.
+
+Es geht also um verschiedene Ansätze, um sich durch das Reparieren mit der dinglichen Umwelt zu beschäftigen. So kommen Bildungsinhalte - wie das Thema Nachhaltigkeit - nicht so frontal, sondern nebenher zum Tragen. Wenn man sich praktisch mit etwas auseinandersetzt, kommt man irgendwann auf die Idee, sich mit Herstellungsbedingungen auseinanderzusetzen - warum ist das eigentlich so gebaut wie es gebaut ist, möchte ich, dass es lange nutzbar ist, was kann ich selber repaieren und was nicht?
+Durch die praktische Auseinandersetzung rücken weichere Inhalte näher an die persönliche Erfahrung heran. Umso mehr ich selber gesehen habe, wie aufwändig es ist ein Gerät zu reparieren, desto mehr Verständnis bekomme ich dafür, warum es für Reparierende so notwendig ist an Ersatzteile heranzukommen. Oder ich verstehe viel besser, was gute Reparierbarkeit bedeutet oder bedeuten würde.
+
+<!-- include quote -->
+{% include partials/content/content-quote.liquid float="left" content="Es erhöht den Autonomiegrad der Menschen, wenn sie verstehen wie die Dinge funktionieren." %}
+**Warum ist dieses Wissen oder diese Erfahrung wichtig?**<br>
+Für die herstellende Industrie ist es natürlich praktischer, wenn sich die Kosumenten weniger mit den Dingen auseinandersetzen - denn sie sind dann leichter steuerbar. Je weniger jemand über etwas weiß, desto eher ist er reiner Anwender. Aber weil unsere Lebenswelt stark von Technik und Technologie bestimmt ist erhöht es den Autonomiegrad der Menschen, wenn sie verstehen wie die Dinge funktionieren. Denn dann sind sie ihnen nicht so ausgeliefert, dann können sie ihnen auch Nutzungen abtrotzen, die vieleicht nicht vorgesehen waren. Damit haben sie die Möglichkeit mehr Selbstwirksamkeit zu spüren. Wenn ich zum Beispiel etwas repariere erfahre ich, dass ich in meine Umwelt eingreifen, etwas verändern kann.
+
+Es geht nicht darum, den Menschen zu konditionieren mit Technologie versiert umzugehen, sondern es geht darum Technologie so zu durchdringen, dass ich auch ablehnen kann, dass ich den Verlockungen der immer neuen Bedürfnisse schaffenden Industrie nicht ausgeliefert bin, weil ich es nicht besser weiß. Sondern wenn ich Technologie durchdringe, dann kann ich mich auch entscheiden etwas nicht zu brauchen. Ich kaufe mir beispielsweise nicht jedes Jahr ein neues Handy, sondern ein besonderes, dass ich reparieren kann.
+Es ist also notwendig sich mit Technologie zu beschäftigen, um nicht von den immer kürzer werdenden Innovationszyklen dominiert zu werden.
+
+<p class="link-list">
+    <a class="external-link" href="https://www.offene-werkstaetten.org/werkstatt-suche" target="_blank">Eine Übersicht der offenen Werkstätten in Deutschland</a>
+    <a class="external-link" href="/blog/offene-Bildungswerkstätten-als-Labore-für-neue-Materialien-und-Konzepte" target="_blank">Offene Bildungswerkstätten als Labore für neue Materialien & Konzepte</a>
+    <a class="external-link" href="https://bildungsservice.vcd.org/bildungsmaterial/berufsschule/diy-lastenradbau/" target="_blank">Das Bildungspaket zum Lastenrad "Long Andre"</a>
+</p>

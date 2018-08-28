@@ -3,7 +3,7 @@ layout: post
 title: "Offene Bildungswerkstätten als Labore für neue Materialien & Konzepte"
 teaser: "Neue Themenfelder, wie es das zeitgemäße Lehren und lernen sind, brauchen konkrete Konzepte und Versuche, die den Rahmen der Möglichkeiten abstecken und theoretische Überlegungen mit praktischen Wahrheiten konfrontieren."
 teaser_img_src: /assets/img/static/header-home.jpg
-featured: true
+featured: false
 categories: News
 twitter_large_img: /assets/img/static/header-home.jpg
 image: /assets/img/static/header-home.jpg
