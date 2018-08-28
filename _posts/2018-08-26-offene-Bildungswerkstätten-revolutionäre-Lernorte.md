@@ -27,7 +27,7 @@ Man kann den Charakter einer offenen Werkstatt gut hervorheben, indem man sie mi
 Im Gegensatz dazu steht die Offene Werkstatt. Dort können solche Expertinnen und Experten auch vor Ort sein, aber sie stehen nicht im Mittelpunkt. Viel mehr geht es um die gegenseitige Befähigung von Gleichgestellten. Diese hat nicht in erster Linie zum Ziel einen Qualifizierungsnachweis hervorzubringen, sondern es geht um das praktische Hands-On-Wissen selbst. In Offenen Werkstätten kommen Menschen zusammen, die Interesse daran haben sich selber fortzubilden, selbst etwas im Tun zu lernen und diese Erfahrungen anderen weiterzugeben und in dieser sozialen Interaktion gemeinschaftlich zu wachsen. Diese Art der gemeinschaftlichen Auseinander- oder besser: Zusammensetzung ist viel näher an dem Idealbild des intrinsisch motivierten lebenslangen Lernens.
 
 <div class="video"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/YAwxDIHD1bw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
-<div class="image-subtitle">Video: Was sind offene Werkstätten?</div>
+<div class="caption" style="text-align: right">Video: Was sind offene Werkstätten?</div>
 
 **Das selbstorganisierte Lernen steht also im Mittelpunkt. Aber worum geht es genau, was wird dort konkret gelernt?**<br>
 Einmal geht es um das Gewerk, das in der Werkstatt vollführt werden kann und das hängt immer von der konkreten Ausstattung ab. Da gibt es Werkstätten, die einen klaren handwerklichen Bezug haben - wie Metall-, Holz-, oder Keramikwerkstätten. Oder es sind Makerspaces, die multifunktionale Werkstätten darstellen, die wie Fab Labs auch digitale Produktionsmethoden und -Maschinen anbieten.
