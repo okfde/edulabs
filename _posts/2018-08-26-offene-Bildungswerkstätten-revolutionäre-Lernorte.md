@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Offene Bildungswerkstätten: revolutionäre Lernorte"
+title: "Offene Werkstätten: revolutionäre Lernorte"
 teaser: "Im Gespräch mit Tom Hansing - über offene Werkstätten & ihr Bildungspotenzial."
 teaser_img_src: /assets/img/blog/2018/August/tom hansing_interview/repairCafe_1.jpg
 featured: true
