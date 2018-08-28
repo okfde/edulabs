@@ -82,6 +82,6 @@ Es ist also notwendig sich mit Technologie zu beschäftigen, um nicht von den im
 
 <p class="link-list">
     <a class="external-link" href="https://www.offene-werkstaetten.org/werkstatt-suche" target="_blank">Eine Übersicht der offenen Werkstätten in Deutschland</a>
-    <a class="external-link" href="/blog/offene-Bildungswerkstätten-als-Labore-für-neue-Materialien-und-Konzepte" target="_blank">Offene Bildungswerkstätten als Labore für neue Materialien & Konzepte</a>
+    <a class="external-link" href="/blog/offene-Bildungswerkstätten-als-Labore-für-neue-Materialien-und-Konzepte" target="_blank">edulabs: Offene Bildungswerkstätten als Labore für neue Materialien & Konzepte</a>
     <a class="external-link" href="https://bildungsservice.vcd.org/bildungsmaterial/berufsschule/diy-lastenradbau/" target="_blank">Das Bildungspaket zum Lastenrad "Long Andre"</a>
 </p>
