@@ -4,7 +4,7 @@ title: "edusprint für #zeitgemäßeBildung, am 18.11. in Köln"
 teaser: "Wir organisieren einen eintägigen edusprint, um Empfehlungen für Materialien und Unterrichtsformate zu digitalen Kompetenzen zu entwickeln."
 teaser_img_src: /assets/img/blog/2017/Oktober/edusprint_Koeln/edusprint_Koeln.png
 featured: false
-categories: News Events edulabsKBN
+categories: News Events edulabsNRW
 twitter_large_img: /assets/img/blog/2017/Oktober/edusprint_Koeln/edusprint_Koeln.png
 header_background: /assets/img/blog/2017/Oktober/edusprint_Koeln/edusprint_atmo.jpg
 image: /assets/img/blog/2017/Oktober/edusprint_Koeln/edusprint_Koeln.png

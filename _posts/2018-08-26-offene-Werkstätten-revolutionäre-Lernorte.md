@@ -8,7 +8,7 @@ categories: Interviews
 twitter_large_img: /assets/img/blog/2018/August/tom hansing_interview/repairCafe_1.jpg
 image: /assets/img/blog/2018/August/tom hansing_interview/repairCafe_1.jpg
 header_background: /assets/img/blog/2018/August/tom hansing_interview/repairCafe_1.jpg
-header_background_caption: "Bild: Verbund offener Werkstätten. Lizenz: <a href='https://creativecommons.org/licenses/by/4.0/'>CC-BY 4.0</a>"
+header_background_caption: "Bild: Maximilian Voigt - Repair Café im FabLab Cottbus. Lizenz: <a href='https://creativecommons.org/licenses/by/4.0/'>CC-BY 4.0</a>"
 author: Maximilian Voigt
 info_text: |
    <a href="/blog/making-und-oer"><img src="/assets/img/blog/2017/Juli/interview_kristin_narr/making_1.jpg"></a>

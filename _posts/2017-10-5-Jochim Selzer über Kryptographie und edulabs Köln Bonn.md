@@ -5,7 +5,7 @@ title: "Über Kryptographie und wie man sie vermittelt"
 teaser: "Im Gespräch mit Jochim Selzer zu Cryptoparties und zu seinen Pläne mit edulabs Köln/Bonn"
 teaser_img_src: /assets/img/blog/2017/Oktober/Interview_Jochim/Enigma-rotor.jpg
 featured: false
-categories: Interviews edulabsKBN
+categories: Interviews edulabsNRW
 twitter_large_img: /assets/img/blog/2017/Oktober/Interview_Jochim/Enigma-rotor.jpg
 image: /assets/img/blog/2017/Oktober/Interview_Jochim/Enigma-rotor.jpg
 header_background: /assets/img/blog/2017/Oktober/Interview_Jochim/Enigma-rotor.jpg
