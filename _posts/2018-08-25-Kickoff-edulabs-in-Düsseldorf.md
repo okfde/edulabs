@@ -2,11 +2,11 @@
 layout: post
 title: "Kickoff: edulabs startet in Düsseldorf"
 teaser: "Das Treffen beginnt am 12. September, 18 Uhr im LibraryLab der Stadtbibliothek."
-teaser_img_src: /assets/img/blog/2018/August/edulabs_dd/770px-Duesseldorf_Rheinturm_Medienhafen.jpg
+teaser_img_src: /assets/img/blog/2018/August/edulabs_dd/edulabsNRW.png
 featured: false
 categories: News edulabsNRW
-twitter_large_img: /assets/img/blog/2018/August/edulabs_dd/770px-Duesseldorf_Rheinturm_Medienhafen.jpg
-image: /assets/img/blog/2018/August/edulabs_dd/770px-Duesseldorf_Rheinturm_Medienhafen.jpg
+twitter_large_img: /assets/img/blog/2018/August/edulabs_dd/edulabsNRW.png
+image: /assets/img/blog/2018/August/edulabs_dd/edulabsNRW.png
 header_background: /assets/img/blog/2018/August/edulabs_dd/770px-Duesseldorf_Rheinturm_Medienhafen.jpg
 header_background_caption: "Bild: Till Niermann - Medienhafen with Rheinturm in Düsseldorf. Lizenz: <a href='https://creativecommons.org/licenses/by-sa/3.0/deed.en'>CC-BY-SA 3.0</a>"
 author: Maximilian Voigt
