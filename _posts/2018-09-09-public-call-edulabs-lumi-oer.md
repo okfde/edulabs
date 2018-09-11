@@ -16,11 +16,13 @@ Am 11. September laden wir alle ein, mit uns über den Stand von edulabs selbst 
 
 Jan Schellenberg stellt den aktuellen Stand von Lumi vor, einem Open Source-Tool für die Schule. Und wir beleuchten die edulabs-Sammlung, ihre Redaktion sowie die Fragen und Projekte der Partnerschulen. Wir freuen uns auf ein spannendes Treffen.
 
-**Gibt es weitere Themen, die ihr ansprechen mögt? Dann tragt sie in das Pad zur Agenda ein: https://pad.okfn.de/p/edulabs-call**
+**Gibt es weitere Themen, die ihr ansprechen mögt? Dann tragt sie in das Pad zur Agenda ein:**
+
+
+ *[https://pad.okfn.de/p/edulabs-call](https://pad.okfn.de/p/edulabs-call)*
+
 
  Schaltet euch am 11.9., um 19:00 Uhr online dazu:
-
-Los geht's um 19 Uhr. Wenn ihr nicht in Berlin wohnt, könnt ihr online am Erfahrungsaustausch teilnehmen. 
 
 Um dem Call beizutreten, benötigt ihr diesen [zoom Client](https://zoom.us/download#client_4meeting), zudem kann man per Telefon teilnehmen. Am Dienstag könnt ihr Euch über den folgenden Link einwählen:
            <center><a class="btn btn-lg btn-default"
