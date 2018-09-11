@@ -12,7 +12,7 @@ header_background_caption: ""
 author: Markus Neuschäfer
 
 ---
-Am 11. September laden wir alle ein, mit uns über den Stand von edulabs selbst und der vielen Projekte zu sprechen, die in der letzten Zeit im Rahmen von edulabs entstanden sind. 
+Am **11. September, 19 Uhr** laden wir alle ein, mit uns über den Stand von edulabs selbst und der vielen Projekte zu sprechen, die in der letzten Zeit im Rahmen von edulabs entstanden sind. 
 
 Jan Schellenberg stellt den aktuellen Stand von Lumi vor, einem Open Source-Tool für die Schule. Und wir beleuchten die edulabs-Sammlung, ihre Redaktion sowie die Fragen und Projekte der Partnerschulen. Wir freuen uns auf ein spannendes Treffen.
 
