@@ -110,5 +110,17 @@
   url: 'https://www.meetup.com/edulabsKB/events/254034975/'
   date: 12.09.2018
   city: Düsseldorf
-  featured: true
+  featured: false
   id: "0019"
+- name: edulabsMUC
+  url: 'https://www.meetup.com/edulabs-Munchen/events/254441771/'
+  date: 17.09.2018
+  city: München
+  featured: true
+  id: "0020"
+- name: edulabsNRW
+  url: 
+  date: 11.10.2018
+  city: Düsseldorf
+  featured: true
+  id: "0021"
