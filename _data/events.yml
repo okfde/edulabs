@@ -119,13 +119,13 @@
   featured: false
   id: "0020"
 - name: edulabsBE
-  url: 'https://www.meetup.com/edulabsBE/'
+  url: 'https://www.meetup.com/de-DE/edulabsBE/events/254855220/'
   date: 09.10.2018
   city: Berlin
   featured: true
   id: "0021"
 - name: edulabsNRW
-  url: 
+  url: 'https://www.meetup.com/edulabsKB/events/254960213/'
   date: 11.10.2018
   city: Düsseldorf
   featured: true
