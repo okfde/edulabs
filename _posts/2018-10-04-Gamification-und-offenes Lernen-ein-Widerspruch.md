@@ -46,9 +46,9 @@ Da gibt es ein paar gute Ansätze. Wichtig ist aber immer, dass diese Spiele in 
 <p class="link-list">
     <span class="link-list-headline">Links</span>
     <a class="external-link" href="http://medienkompetent-mit-games.de/category/open-educational-resources/konzepte-und-methoden" target="_blank">Medienkompetent mit digitalen Spielen - Konzepte & Methoden</a>
-    <a class="external-link" href="https://digitale-spielewelten.de/" target="_blank">Methoden & Materialien zu digitalen Spielwelten</a>
-    <a class="external-link" href="https://games.jff.de/category/methoden/" target="_blank">Publikationen des JFF – Institut für Medienpädagogik zum Thema digitale Spielwelten</a>
-    <a class="external-link" href="http://award.codeweek.de/lernmaterial/" target="_blank">Die Materialsammlung der Code Week</a>
+    <a class="external-link" href="https://digitale-spielewelten.de/" target="_blank">Konzepte & Methoden auf der Platform Digitales Spielewelten</a>
+    <a class="external-link" href="https://games.jff.de/category/methoden/" target="_blank">Publikationen des JFF – Institut für Medienpädagogik zum Thema Games</a>
+    <a class="external-link" href="http://award.codeweek.de/lernmaterial/" target="_blank">Die Materialsammlung des Code Week Awards</a>
 
 
 </p>
