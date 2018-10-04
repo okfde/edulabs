@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Gamification & offenes Lernen: ein Widerspruch?"
-teaser: "Melanie Hörth ist Lehr-Lern-Forscherin und beschäftigt sich beruflich mit der Qualitätsentwicklung und Wirkungsmessung von Bildungsprogrammen. Am 11. Juli startet sie edulabs in München. Wir haben mit ihr über ihre Ideen und Motivation für edulabs gesprochen."
+teaser: "„Ein spielerischer Lernansatz schließt nicht unbedingt Gamification ein.“ - sagt Matthias Löwe im Interview mit edulabs & gibt Beispiele."
 teaser_img_src: /assets/img/blog/2018/Oktober/Interview_Mat/gaming.jpg
 featured: true
 categories: Interviews
