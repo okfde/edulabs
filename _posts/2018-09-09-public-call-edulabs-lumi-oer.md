@@ -4,7 +4,7 @@ layout: post
 title: "Public Call: Edulabs, Lumi, OER und zeitgemäße Bildung"
 teaser: "Wir sprechen über die Erfahrungen bisher aus dem edulabs-Projekt und das Lumi-Projekt stellt sich vor, eine mobile Lösung für individualisierten Unterricht."
 teaser_img_src: /assets/img/static/public_call.jpg
-featured: true
+featured: false
 categories: edulabsCall
 twitter_large_img: /assets/img/static/public_call.jpg
 header_background: /assets/img/static/public_call.jpg
