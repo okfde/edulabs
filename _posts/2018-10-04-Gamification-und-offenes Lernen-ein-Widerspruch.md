@@ -17,6 +17,8 @@ info_text: |
 {% include partials/content/content-float-image.liquid float="right"
 src="/assets/img/blog/2018/Oktober/Interview_Mat/matthias.jpg" caption="Bild: Matthias Löwe" %}
 
+*Mat arbeitet seit 2017 an Workshopformaten der [FamilienLabore](https://familienlabore.de/) und [Demokratielabore](https://demokratielabore.de/) - Projekte des [Open Knowledge Foundation Deutschland e.V.](https://okfn.de/) Als Interaktionsdesigner setzt er sich für einen künstlerischen und kreativen Umgang mit Spielen und Spielmechaniken ein. In Form von Workshops, Talks und Festivals engagiert er sich darüber hinaus in der Initiative [Creative Gaming](http://www.creative-gaming.eu/) und veranstaltet Spielkultur-Events.*
+
 **Warum ist Gamification oder ein spielerischer Lernansatz wichtig?**<br>
 Das sind für mich zwei unterschiedliche Herangehensweisen. Ein spielerischer Lernansatz schließt nicht unbedingt Gamification ein. Gamification finde ich auch oft nicht vorteilhaft. Aber dazu später mehr.
 Ganz grundlegend: Ein spielerischer Lernansatz ist sehr wichtig, weil er in der Regel das Setzen von individuellen Zielen ermöglicht. Dadurch ergibt sich für die Lernenden ein persönlicher Nutzen, denn es geht nicht darum externe Vorgaben zu verfolgen. Ein spielerisches Lernszenario regt auch verstärkt die Kreativität und unterschiedliche Sichtweisen auf eine Aufgabe an, wodurch das Lernen an sich viel effektiver ist.
