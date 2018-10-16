@@ -122,11 +122,29 @@
   url: 'https://www.meetup.com/de-DE/edulabsBE/events/254855220/'
   date: 09.10.2018
   city: Berlin
-  featured: true
+  featured: false
   id: "0021"
 - name: edulabsNRW
   url: 'https://www.meetup.com/edulabsKB/events/254960213/'
   date: 11.10.2018
   city: Düsseldorf
-  featured: true
+  featured: false
   id: "0022"
+- name: edulabsNRW
+  url: 'https://www.meetup.com/edulabsKB/events/255575876/'
+  date: 25.10.2018
+  city: Düsseldorf
+  featured: true
+  id: "0023"
+- name: edulabsBE
+  url:
+  date: 06.11.2018
+  city: Berlin
+  featured: true
+  id: "0024"
+- name: edulabsNRW
+  url: 'https://www.meetup.com/edulabsKB/events/255575942/'
+  date: 08.11.2018
+  city: Düsseldorf
+  featured: true
+  id: "0025"
