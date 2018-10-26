@@ -140,7 +140,7 @@
   url: 'https://www.meetup.com/edulabsKB/events/255575876/'
   date: 25.10.2018
   city: Düsseldorf
-  featured: true
+  featured: false
   id: "0024"
 - name: edulabsBE
   url:

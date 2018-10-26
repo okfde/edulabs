@@ -3,7 +3,7 @@ layout: post
 title: "Gamification & offenes Lernen: ein Widerspruch?"
 teaser: "„Ein spielerischer Lernansatz schließt nicht unbedingt Gamification ein.“ - sagt Matthias Löwe im Interview mit edulabs & gibt Beispiele."
 teaser_img_src: /assets/img/blog/2018/Oktober/Interview_Mat/gaming.jpg
-featured: true
+featured: false
 categories: Interviews
 twitter_large_img: /assets/img/blog/2018/Oktober/Interview_Mat/gaming.jpg
 image: /assets/img/blog/2018/Oktober/Interview_Mat/gaming.jpg
