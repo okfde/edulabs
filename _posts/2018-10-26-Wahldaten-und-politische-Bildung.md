@@ -24,6 +24,7 @@ In der zeitlichen Betrachtung dieser Fragen steckt sehr viel drin. Dadurch läss
 Wenn man sich zum Beispiel die Frage herausnimmt, ob flächendeckender islamischer Religionsunterricht angeboten werden soll, dann ist die CSU bei der Landtagswahl in Bayern ganz klar dagegen und die CDU im Saarland ganz klar dafür. Sie hat also eine total konträre Position. Wenn man sich damit sonst nicht so sehr beschäftigt, dann wäre das erst mal überhaupt nicht sichtbar. Auf Metawahl lässt sich jetzt direkt einsehen, dass die CDU im Saarland eine andere Politik will als die CSU in Bayern.
 
 <div class="video"><iframe src="https://metawahl.de/iframe/hessen/44"></iframe></div>
+<div class="caption" style="text-align: right">Die Hessenwahl 2018, dargestellt auf Metawahl.de</div>
 
 Was auch noch interessant ist: Mit Metawahl lässt sich  herausfinden, welche Positionen von einer Mehrheit über die Parteien gewählt wurden. Diese Themen sind aber immer wieder gar nicht das, was die Mehrheit eigentlich will. Durch die repräsentative Wahl werden auch eigentlich ungewünschte Positionen mit eingekauft. Es wird also sichtbar gemacht, was hier unter einem Kompromiss mit gewählt wurde.
 
