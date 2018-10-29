@@ -42,7 +42,7 @@ Metawahl bietet konkrete Anhaltspunkte, um sich mit politischen Themen zu besch�
 **Du hast ein Quiz entwickelt, was hat es damit auf sich?**<br>
 Bei dem Quiz ist es das Ziel, zu erraten, welche Politik von der Mehrzahl der Wählenden gewählt wurde. Man nimmt sich also beispielsweise ein Thema wie die Frage nach den Polizeibefugnissen. Anschließend darf geschätzt werden: Hat die Mehrzahl der Wählenden eine Partei gewählt, die die Befugnisse ausweiten möchte oder nicht? Die spannende Frage ist, ob man einschätzen kann, welche Politik bei einer Wahl mehrheitsfähig ist. Die Ergebnisse sind oft überraschend, weil zum Teil Themen eine Mehrheit bekommen haben, bei denen man das gar nicht so gedacht hätte.
 
-<div class="video"><iframe src="https://metawahl.de/iframe/quiz/hessen/44"></iframe></div>
+<div class="video"><iframe src="https://metawahl.de/iframe/quiz/hessen/44" scrolling="no"></iframe></div>
 <div class="caption" style="text-align: right">Ein Quiz-Beispiel zur Hessenwahl auf metawahl.de</div>
 
 **Metawahl ist ein offenes Projekt: Wie kann man michtmachen?**<br>
