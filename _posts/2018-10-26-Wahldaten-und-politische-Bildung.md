@@ -11,14 +11,14 @@ header_background: /assets/img/blog/2018/Oktober/Interview_Vincent/Vincent.jpg
 header_background_caption: "Lizenz: CC-BY Vincent Ahrend"
 author: Maximilian Voigt
 info_text: |
-   <a href="https://media.ccc.de/v/jh-berlin-2018-7-lightning_talk_metawahl_wahl_o_mat_im_remix">Was ist Metawahl.de?<img src="/assets/img/blog/2018/Oktober/Interview_Vincent/play.jpg"></a>
+   <a href="https://media.ccc.de/v/jh-berlin-2018-7-lightning_talk_metawahl_wahl_o_mat_im_remix"><img src="/assets/img/blog/2018/Oktober/Interview_Vincent/play.jpg"></a>
    <br>Video: Vincent Ahrend bei Jugend hackt 2018 - Wahl-o-Mat im Remix.
 
 ---
 *Vincent Ahrend ist freiberuflicher Software sowie Produktentwickler in Berlin und arbeitet an Web-Tools für Demokratie- und Bürgerrechte. Kürzlich veröffentlichte er die Plattform [Metawahl.de](https://metawahl.de/).*
 
 <!-- include an infobox -->
-{% include partials/content/content-infobox.liquid float="right" headline="Making und OER" copy=page.info_text %}
+{% include partials/content/content-infobox.liquid float="right" headline="Was ist Metawahl.de?" copy=page.info_text %}
 
 **Es gibt ja inzwischen verschiedene Plattformen zu politischen Wahlen. Was macht [Metawahl.de](https://metawahl.de/) besonders?**<br>
 Die Plattform baut auf den Fragen des Wahl-o-Maten auf, die über dieses Format zu vielen verschiedenen Wahlen  veröffentlicht werden. Diese Fragen werden durch ihre Kopplung an die Wahlen aber immer nur im Vorfeld verwendet. Dabei sind es interessante Daten, in denen viel mehr steckt, als das, was sich mit dem Wahl-o-Maten betrachten lässt. Sie sind eigentlich eine strukturierte Bestandsaufnahme der politischen Positionen der Parteien und wie sich diese unterschieden haben.
