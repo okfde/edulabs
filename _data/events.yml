@@ -134,7 +134,7 @@
   url: 'https://www.meetup.com/edulabs-Munchen/events/255601571/'
   date: 23.10.2018
   city: München
-  featured: true
+  featured: false
   id: "0023"
 - name: edulabsNRW
   url: 'https://www.meetup.com/edulabsKB/events/255575876/'
