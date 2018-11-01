@@ -4,7 +4,7 @@ title: "MozFest 18: mit einem Blick hinter Artificial Intelligence"
 teaser: "Ein kleiner Rückblick zum Mozilla Festival 2018"
 teaser_img_src: /assets/img/blog/2018/Oktober/mozfest_2018/mozfest_2018.jpg
 featured: true
-categories: Interviews
+categories: News
 twitter_large_img: /assets/img/blog/2018/Oktober/mozfest_2018/mozfest_2018.jpg
 image: /assets/img/blog/2018/Oktober/mozfest_2018/mozfest_2018.jpg
 header_background: /assets/img/blog/2018/Oktober/mozfest_2018/mozfest_2018.jpg
@@ -19,8 +19,8 @@ Wer ein besonders buntes Fachpublikum sucht ist auf dem Mozilla Festival richtig
 Ein Highlight fand allerdings schon vor dem eigentlich Festival statt: die Preisverleihung des Creative Media Awards zum Thema Artificial Intelligence (AI). Mozilla zeichnete sieben Projekte aus, die sich mit AI auf eine aufklärerische Art und Weise beschäftigen. Eine Übersicht zu den Gewinnern findet sich auf dem [Mozilla Blog](https://blog.mozilla.org/blog/2018/10/24/keeping-ai-accountable-with-science-fiction-documentaries-and-doodles-plus-225000/).
 
 <div class="img-wrap-center">
-    <img src="/assets/img/blog/2018/Oktober/mozfest_2018/tech-demo.jpg" style="width: 100%; display: inline-block">
-    <div class="caption" style="text-align: right">Eine Demo von [Stealing Ur Feelings](https://github.com/noahlevenson/stealing-ur-feelings). Copyright by Noah Levenson</div>
+    <img src="/assets/img/blog/2018/Oktober/mozfest_2018/tech-demo.gif" style="width: 100%; display: inline-block">
+    <div class="caption" style="text-align: right">Eine Demo von <a href'https://github.com/noahlevenson/stealing-ur-feelings'>Stealing Ur Feelings</a>. Copyright by Noah Levenson</div>
 </div>
 
 Mein persönliches Highlight ist das Projekt “[Stealing Ur Feelings](https://github.com/noahlevenson/stealing-ur-feelings)”. Bei diesem geht es um die Auswertung von Emotionen durch Gesichtserkennung, die immer häufiger durch soziale Netzwerke vorgenommen wird. Noah Levenson arbeitet an einem interaktiven Film, “that reveals how social networks and apps use your face to secretly collect data about your emotions.” Eine [Demo](https://noahlevenson.github.io/stealing-ur-feelings/tech-demo/) läuft bereits, allerdings nur auf Desktop-Computer, die mit einer Webcam ausgestattet sind.

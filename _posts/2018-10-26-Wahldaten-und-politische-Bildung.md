@@ -3,7 +3,7 @@ layout: post
 title: "Wie Wahldaten die politische Bildung bereichern können"
 teaser: "Vincent Ahrend im Interview - zu seiner Plattform Metawahl.de"
 teaser_img_src: /assets/img/blog/2018/Oktober/Interview_Vincent/Vincent.jpg
-featured: true
+featured: false
 categories: Interviews
 twitter_large_img: /assets/img/blog/2018/Oktober/Interview_Vincent/Vincent.jpg
 image: /assets/img/blog/2018/Oktober/Interview_Vincent/Vincent.jpg
