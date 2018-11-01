@@ -20,7 +20,7 @@ Ein Highlight fand allerdings schon vor dem eigentlich Festival statt: die Preis
 
 <div class="img-wrap-center">
     <img src="/assets/img/blog/2018/Oktober/mozfest_2018/tech-demo.gif" style="width: 100%; display: inline-block">
-    <div class="caption" style="text-align: right">Eine Demo von <a href'https://github.com/noahlevenson/stealing-ur-feelings'>Stealing Ur Feelings</a>. Copyright by Noah Levenson</div>
+    <div class="caption" style="text-align: right">Eine Demo von <a href='https://github.com/noahlevenson/stealing-ur-feelings'>Stealing Ur Feelings</a>. Copyright by Noah Levenson</div>
 </div>
 
 Mein persönliches Highlight ist das Projekt “[Stealing Ur Feelings](https://github.com/noahlevenson/stealing-ur-feelings)”. Bei diesem geht es um die Auswertung von Emotionen durch Gesichtserkennung, die immer häufiger durch soziale Netzwerke vorgenommen wird. Noah Levenson arbeitet an einem interaktiven Film, “that reveals how social networks and apps use your face to secretly collect data about your emotions.” Eine [Demo](https://noahlevenson.github.io/stealing-ur-feelings/tech-demo/) läuft bereits, allerdings nur auf Desktop-Computer, die mit einer Webcam ausgestattet sind.
