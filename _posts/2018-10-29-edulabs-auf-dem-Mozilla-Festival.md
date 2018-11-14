@@ -3,7 +3,7 @@ layout: post
 title: "MozFest 18: mit einem Blick hinter Artificial Intelligence"
 teaser: "Ein kleiner Rückblick zum Mozilla Festival 2018"
 teaser_img_src: /assets/img/blog/2018/Oktober/mozfest_2018/mozfest_2018.jpg
-featured: true
+featured: false
 categories: News
 twitter_large_img: /assets/img/blog/2018/Oktober/mozfest_2018/mozfest_2018.jpg
 image: /assets/img/blog/2018/Oktober/mozfest_2018/mozfest_2018.jpg
