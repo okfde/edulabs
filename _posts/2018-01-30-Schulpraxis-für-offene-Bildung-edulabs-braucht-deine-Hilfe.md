@@ -32,7 +32,7 @@ Ca. 2-5 Stunden pro Monat (März-Juli)
 \- Euer persönliches Engagement für zeitgemäße Bildung wird überregional sichtbar.
 
 **Wie sieht das in der Praxis aus?**<br>
-Für die Schulen stehen 15 speziell konfigurierte Tablets zur Verfügung.<br> 
+Für die Schulen stehen 16 speziell konfigurierte Tablets zur Verfügung.<br> 
 Die **Kontakte**...<br>
 … organisieren, dass die Geräte im Lehrerzimmer aufgestellt und wahrgenommen werden.<br>
 … geben im Rahmen einer Gesamtkonferenz eine kurze Einführung in die Sammlung.<br>
