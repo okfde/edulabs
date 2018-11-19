@@ -146,11 +146,11 @@
   url: 'https://www.meetup.com/edulabsBE/events/255967241/'
   date: 06.11.2018
   city: Berlin
-  featured: true
+  featured: false
   id: "0025"
 - name: edulabsNRW
   url: 'https://www.meetup.com/edulabsKB/events/255575942/'
   date: 08.11.2018
   city: Düsseldorf
-  featured: true
+  featured: false
   id: "0026"
