@@ -154,3 +154,10 @@
   city: Düsseldorf
   featured: false
   id: "0026"
+- name: edulabsBE
+  url: 'https://www.meetup.com/edulabsBE/events/256713396'
+  date: 04.12.2018
+  city: Berlin
+  featured: false
+  id: "0027"
+
