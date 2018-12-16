@@ -21,7 +21,7 @@ Do whatever you want to...GOSH!
       font-style: normal;
 }
 
-@import url('https://fonts.googleapis.com/css?family=Karla:400,700');
+@import url($baseurl + '/assets/fonts/family-Karla-400-700.css');
 
 @font-face {
   font-family: 'Work Sans';
