@@ -158,6 +158,24 @@
   url: 'https://www.meetup.com/edulabsBE/events/256713396'
   date: 04.12.2018
   city: Berlin
-  featured: true
+  featured: false
   id: "0027"
+- name: edulabsBE
+  url: 'https://www.meetup.com/edulabsBE/events/'
+  date:
+  city: Berlin
+  featured: true
+  id: "0028"
+- name: edulabsMUC
+  url: 'https://www.meetup.com/edulabs-Munchen/events/'
+  date:
+  city: München
+  featured: true
+  id: "0029"
+- name: edulabsNRW
+  url: 'https://www.meetup.com/edulabsKB/events/'
+  date:
+  city: Düsseldorf
+  featured: true
+  id: "0030"
 

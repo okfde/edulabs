@@ -1,8 +1,8 @@
 ---
 layout: lab
 title:  "Materialien"
-headline: "Wir helfen dir dabei, Bildungsmaterialien zu entwickeln"
+headline: "Zeitgemäße Unterrichtsideen findest du über unsere Plattform"
 src: "/assets/img/static/materialien.png"
-link: "/join/#projects"
+link: "/oer/"
 ---
 empty
