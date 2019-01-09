@@ -2,7 +2,7 @@
 _id: 8f7b00e0-ddf1-11e8-a056-0d2e3f1e36fa
 title: cfcnh
 desc2: empty
-visible: '0'
+visible: '1'
 titel: Programmieren lernen in der Schule mit B•O•B•3
 lizenz: lizenz-3
 desc: >-
@@ -16,7 +16,7 @@ tipp: >-
   Für die Durchführung im Unterricht wird pro Computer-Arbeitsplatz jeweils ein
   BOB3 Roboter und ein Programmierhelm benötigt. Der Programmierkurs auf
   http://www.progBob.org ist frei verfügbar und kann mit beliebig vielen
-  Schülern durchgeführt werden. Das Tutorial ist in verschiedene Sub-Tutorials
+  Lernenden durchgeführt werden. Das Tutorial ist in verschiedene Sub-Tutorials
   unterteilt, die Grundlagen-Tutorials sollen von allen Lernenden bearbeitet
   werden, die Vertiefungs-Tutorials sind zur inneren Differenzierung für
   leistungsstarke Schülerinnen und Schüler konzipiert.
