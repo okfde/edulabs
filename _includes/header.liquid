@@ -9,12 +9,9 @@
             <li {% if base_dir[1] == 'blog' %} class="current" {% endif %}><a href="/blog">Blog</a></li>
             <li {% if base_dir[1] == 'about' %} class="current" {% endif %}><a href="/about">About</a></li>
             <li {% if base_dir[1] == 'oer' %} class="current" {% endif %}><a href="/oer">Unterrichtsideen</a></li>
-            <li class="mitmachen" {% if base_dir[1] == 'join' %} class="mitmachen current" {% endif %}> <a href="#">Mitmachen</a>
-                <ul class="submenu" style="display: none">
-                    <li><a href="/join">Community</a></li>
-                    <li><a href="/projects">Projekte & Initiativen</a></li>
-                </ul>
-            </li>
+            <li {% if base_dir[1] == 'projects' %} class="current" {% endif %}><a href="/projects">Projekte</a></li>
+            <li {% if base_dir[1] == 'join' %} class="current" {% endif %}><a href="/join">Mitmachen</a></li>
+
             <li class="search mobile" style="display: none">
                 <form action="" method="get">
                     <div class="form-group">
