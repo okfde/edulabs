@@ -13,5 +13,8 @@ contact-email: info@edulabs.de
 date: '2018-12-07T17:17:39.146Z'
 image_src: /assets/img/projects/squarelet.png
 slug: squarelet-ein-online-pinboard-fur-oer-und-kooperatives-lernen
+featured: false
+homepage: true
+firstelement: 2
 ---
 
