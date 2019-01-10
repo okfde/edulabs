@@ -14,7 +14,7 @@ info_text: |
  ...
 
 ---
-*Am 24. Februar lädt [edulabs Köln/Bonn](https://edulabs.de/labs/edulabsk-bn) gemeinsam mit der [OKF](https://www.okfn.de) und [mediale pfade](http://www.medialepfade.org/) zu einem eintägigen edusprint ein, um Empfehlungen für freie Materialien und Unterrichtsformate zu digitalen Kompetenzen zu gestalten.*
+*Am 24. Februar lädt [edulabs Köln/Bonn](https://edulabs.de/labs/edulabsNRW) gemeinsam mit der [OKF](https://www.okfn.de) und [mediale pfade](http://www.medialepfade.org/) zu einem eintägigen edusprint ein, um Empfehlungen für freie Materialien und Unterrichtsformate zu digitalen Kompetenzen zu gestalten.*
 
 <!-- include infobox -->
 {% include partials/content/content-infobox.liquid float="right" headline="OER-Unterrichtsideen: Zeitgemäße Bildung mit digital gestützten Methoden" copy="<a href='/oer'><img src='/assets/img/blog/2017/November/OER-Preview/OER-Filter_preview.png' style='width: 100%; display: inline-block'></a>" %}

@@ -15,7 +15,7 @@ info_text: |
 
 ---
 *Wie lässt sich Bildung mit digital gestützten Methoden gestalten? Wir entwickeln eine Sammlung von Unterrichtsideen mit freien Materialien, in denen [zeitgemäße Bildung](https://edulabs.de/blog/Interview-mit-Dejan-Mihajlovic-zu-zeitgemae%C3%9Fer-Bildung) innovativ umgesetzt wird.
-Am 18. November lädt [edulabs Köln/Bonn](https://edulabs.de/labs/edulabsk-bn) gemeinsam mit der [OKF](https://www.okfn.de) und [mediale pfade](http://www.medialepfade.org/) zu einem eintägigen edusprint ein, um Empfehlungen für freie Materialien und Unterrichtsformate zu digitalen Kompetenzen zu gestalten.*
+Am 18. November lädt [edulabs Köln/Bonn](https://edulabs.de/labs/edulabsNRW) gemeinsam mit der [OKF](https://www.okfn.de) und [mediale pfade](http://www.medialepfade.org/) zu einem eintägigen edusprint ein, um Empfehlungen für freie Materialien und Unterrichtsformate zu digitalen Kompetenzen zu gestalten.*
 
 <!-- include floated image -->
 {% include partials/content/content-float-image.liquid float="right"
