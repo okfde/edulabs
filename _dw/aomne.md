@@ -33,7 +33,6 @@ vorbereitungszeit: vorbereitungszeit-3
 author-name: Stefan Trenkel
 author-email: info@stefantrenkel.de
 author-website: www.jshero.net
-tags: 'PC, Laptop'
 art: oer
 date: '2018-10-18T20:45:18.769Z'
 slug: aomne
