@@ -3,7 +3,7 @@ _id: b9159220-d316-11e8-a056-0d2e3f1e36fa
 title: aomne
 desc2: empty
 visible: '1'
-titel: Programmieren mit JavaScript lernen
+titel: Programmieren lernen mit JavaScript
 lizenz: lizenz-3
 desc: >-
   Lerne programmieren mit JavaScript Hero, dem Tutorial mit interaktiven
