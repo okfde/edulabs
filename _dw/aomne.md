@@ -2,7 +2,7 @@
 _id: b9159220-d316-11e8-a056-0d2e3f1e36fa
 title: aomne
 desc2: empty
-visible: '0'
+visible: '1'
 titel: JavaScript Hero
 lizenz: lizenz-4
 desc: >-
