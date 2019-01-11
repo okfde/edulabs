@@ -4,7 +4,7 @@ title: aomne
 desc2: empty
 visible: '1'
 titel: JavaScript Hero
-lizenz: lizenz-4
+lizenz: lizenz-3
 desc: >-
   Lerne programmieren mit JavaScript Hero, dem Tutorial mit interaktiven
   Übungen. Auf jeder Seite findest du eine Lektion und eine Programmieraufgabe.
