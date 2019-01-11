@@ -10,7 +10,7 @@ desc: >-
   Übungen. Auf jeder Seite findest du eine Lektion und eine Programmieraufgabe.
   Die Aufgabe kannst du direkt auf der Seite beantworten. Starte dann die Tests
   und du bekommst gesagt, ob du die Aufgabe richtig gelöst hast.
-link: www.jshero.net
+link: https://www.jshero.net
 lernziele: >-
   Neben einer Einführung in die Programmiersprache "JavaScript" lernt man
   Grundbegriffe der Programmierung kennen: Variablen, Funktionen, Strings,
