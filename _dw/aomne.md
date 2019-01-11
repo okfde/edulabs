@@ -32,7 +32,7 @@ dauer:
 vorbereitungszeit: vorbereitungszeit-3
 author-name: Stefan Trenkel
 author-email: info@stefantrenkel.de
-author-website: https://www.jshero.net
+author-website: http://www.jshero.net
 art: oer
 date: '2018-10-18T20:45:18.769Z'
 slug: aomne
