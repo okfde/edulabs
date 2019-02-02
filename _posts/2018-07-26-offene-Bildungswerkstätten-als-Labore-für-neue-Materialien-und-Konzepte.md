@@ -2,13 +2,13 @@
 layout: post
 title: "Offene Bildungswerkstätten als Labore für neue Materialien & Konzepte"
 teaser: "Neue Themenfelder, wie es das zeitgemäße Lehren und lernen sind, brauchen konkrete Konzepte und Versuche, die den Rahmen der Möglichkeiten abstecken und theoretische Überlegungen mit praktischen Wahrheiten konfrontieren."
-teaser_img_src: /assets/img/static/header-home.jpg
+teaser_img_src: /assets/img/labs/edulabs-Treffen_ESBZ.JPG
 featured: false
-categories: News
-twitter_large_img: /assets/img/static/header-home.jpg
-image: /assets/img/static/header-home.jpg
-header_background: /assets/img/static/header-home.jpg
-header_background_caption: "Bild: <a href=\"http://katringreiner.com/\">Katrin Greiner</a>. Lizenz: <a href='https://creativecommons.org/licenses/by/4.0/'>CC-BY 4.0</a>"
+categories: News Abschlussbericht
+twitter_large_img: /assets/img/labs/edulabs-Treffen_ESBZ.JPG
+image: /assets/img/labs/edulabs-Treffen_ESBZ.JPG
+header_background: /assets/img/labs/edulabs-Treffen_ESBZ.JPG
+header_background_caption: "Bild: Ein Berliner edulabs-Treffen in der ESBZ"
 author: Maximilian Voigt
 info_text: |
 

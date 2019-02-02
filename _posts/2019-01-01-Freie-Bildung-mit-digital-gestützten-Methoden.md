@@ -5,11 +5,11 @@ title: "Im Überblick: Freie Bildung mit digital gestützten Methoden"
 teaser: ""
 teaser_img_src: /assets/img/static/header-home.jpg
 categories: Abschlussbericht
-featured: false
+featured: true
 twitter_large_img: /assets/img/static/header-home.jpg
 image: /assets/img/static/header-home.jpg
 header_background: /assets/img/static/header-home.jpg
-header_background_caption: ""
+header_background_caption: "Bild: <a href=\"http://katringreiner.com/\">Katrin Greiner</a>. Lizenz: <a href='https://creativecommons.org/licenses/by/4.0/'>CC-BY 4.0</a>"
 author: edulabs-Team
 ---
 *Die Förderung durch das BMBF des Projektes edulabs ist ausgelaufen und wir dokumentieren mit der Artikelreihe "Abschlussbericht" unsere Erkenntnisse. Der vorliegende Beitrag führt in die Ausgangssituation ein und klärt grundlegende Bergriffe.*

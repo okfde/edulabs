@@ -5,7 +5,7 @@ title: "Es geht los! Erstes edulabs-Treffen in Berlin"
 teaser: "Am 13.06. startet das edulab Berlin in den Räumen der Technischen Universität als Hackathon. Du möchtest Bildung aktiv mitgestalten? Dann bist du herzlich eingeladen!"
 teaser_img_src: /assets/img/blog/2017/Juni/edulabsBE1/Start des edulabs Berlin.jpg
 featured: false
-categories: edulabsBE Events
+categories: Events
 twitter_large_img: /assets/img/blog/2017/Juni/edulabsBE1/caption.jpg
 header_background: /assets/img/blog/2017/Juni/edulabsBE1/Start des edulabs Berlin.jpg
 header_background_caption: ""

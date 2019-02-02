@@ -4,7 +4,7 @@ title: "edusprint für #zeitgemäßeBildung, am 3.3. in Karlsruhe"
 teaser: "Wir organisieren einen eintägigen edusprint, um Empfehlungen für Materialien und Unterrichtsformate zu digitalen Kompetenzen zu entwickeln."
 teaser_img_src: /assets/img/blog/2017/Oktober/edusprint_Koeln/edusprint_atmo.jpg
 featured: false
-categories: News Events edulabsKA
+categories: News Events
 twitter_large_img: /assets/img/blog/2017/Oktober/edusprint_Koeln/edusprint_atmo.jpg
 header_background: /assets/img/blog/2017/Oktober/edusprint_Koeln/edusprint_atmo.jpg
 image: /assets/img/blog/2017/Oktober/edusprint_Koeln/edusprint_atmo.jpg
