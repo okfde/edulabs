@@ -5,7 +5,7 @@ title: "Kollaboratives Lernen mit Squarelet, Padlet & co"
 teaser: "Zu Gast beim edulabs-Call: Dr. Michael Kirch, Lehrstuhl für Grundschulpädagogik und Didaktik der Ludwig-Maximilians-Universität München."
 teaser_img_src: /assets/img/static/public_call.jpg
 categories: edulabsCall
-featured: true
+featured: false
 twitter_large_img: /assets/img/static/public_call.jpg
 image: /assets/img/static/public_call.jpg
 header_background: /assets/img/static/public_call.jpg

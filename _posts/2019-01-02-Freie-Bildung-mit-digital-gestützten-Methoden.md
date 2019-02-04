@@ -12,7 +12,7 @@ header_background: /assets/img/static/header-home.jpg
 header_background_caption: "Bild: <a href=\"http://katringreiner.com/\">Katrin Greiner</a>. Lizenz: <a href='https://creativecommons.org/licenses/by/4.0/'>CC-BY 4.0</a>"
 author: edulabs-Team
 ---
-*Die Förderung durch das BMBF des Projektes edulabs ist ausgelaufen und wir dokumentieren mit der Artikelreihe "Abschlussbericht" unsere Erkenntnisse. Der vorliegende Beitrag führt in die Ausgangssituation ein und klärt grundlegende Bergriffe.*
+*Die Projektförderung von edulabs ist ausgelaufen, das Netzwerk bleibt aber noch aktiv und die zahlreichen Inhalte dieser Seite werden erhalten. Mit der Artikelreihe „Abschlussbericht“ dokumentiere wir unsere Erkenntnisse. Der vorliegende Beitrag führt in die Ausgangssituation des Projektes ein und klärt grundlegende Bergriffe. [Alle weiteren Artikel findet ihr hier.](/blog/#Abschlussbericht)*
 
 Digitalisierung schafft eine Lebenswelt, in der persönliche Orientierung und gesellschaftliche Teilhabe neu organisiert und gedacht werden. Digitale Lebenswelten sind selbstverständlicher, zumeist unreflektierter Handlungsraum; dabei nicht ohne Spannungsfelder für das Zusammenleben und den Einzelnen. Um Menschen jeden Alters mit Kompetenzen zu befähigen, die Mündigkeit auch in einer digitalen Welt stärken, bedarf es vielfältiger kreativer Bezugspunkte, die den Lernenden in seiner lebensweltlichen Praxis abholen und von innen heraus motivieren. Dazu gehört es, den Lernprozess in digital gestützte Settings zu verlagern: einerseits um Online-Formate als Informationsquelle und Möglichkeitsraum zu nutzen, andererseits um die Handlungsoptionen im Digitalen in didaktischer Feinarbeit zu erweitern. Diesen Herausforderungen stellte sich unser Projekt edulabs.de, das im März 2017 im Rahmen der OERinfo-Förderlinie des BMBF seine Arbeit aufnahm.
 
@@ -47,3 +47,8 @@ Die so genannten **4Ks  - Kommunikation, Kollaboration, Kreativität und kritisc
 **Digitale Mündigkeit** bezeichnet ein ganzes Bündel an Kompetenzen, die zu einem selbstbestimmten Leben und zur gleichberechtigten Teilhabe in einer Gesellschaft befähigt, die in allen Bereichen von digitalen Technologien und Ordnungsmustern durchzogen ist. In den Blick geraten hier neben dem Schutz der Privatsphäre und informationeller Selbstbestimmung auch die Fähigkeit, Wissen im digitalen Raum für die eigenen Ziele zu nutzen und abzulegen, aber auch an Prozessen gemeinschaftlichen Aushandelns und Entscheidens teilzunehmen.
 
 Um die Entwicklung dieser Theme und Begriffe mitzuverfolgen – oder mitzugestalten – haben wir einige Kontaktpunkte und Netzwerke zusammengestellt, bei denen man sich aktiv beteiligen kann. Neben den Online-Formaten gestaltet sich zeitgemäße Bildung sehr lebendig auch im direkten Austausch vor Ort. Im nächsten Kapitel beschreiben wir genauer, wie sich die edulabs-Formate anpassen und nachnutzen lassen.
+
+<p class="link-list">
+<span id="toc" class="link-list-headline">Weiterlesen</span>
+<a class="external-link" href="/blog/#Abschlussbericht" target="_blank">Alle Beiträge zum Projekt edulabs</a>
+</p>
