@@ -14,7 +14,7 @@ author: edulabs-Team
 info_text: |
 
 ---
-*Die Projektförderung von edulabs ist ausgelaufen, das Netzwerk bleibt aber noch aktiv und die zahlreichen Inhalte dieser Seite werden erhalten. Mit der Artikelreihe „Abschlussbericht“ dokumentiere wir unsere Erkenntnisse. Der vorliegende Beitrag behandelt Erfahrungen rund um die Qualität von freien Bildungsmaterialien, mit dem Fokus auf das edusprint-Format. [Alle weiteren Artikel findet ihr hier.](/blog/#Abschlussbericht)*
+*Die Projektförderung von edulabs ist ausgelaufen, das Netzwerk bleibt aber noch aktiv und die zahlreichen Inhalte dieser Seite werden erhalten. Mit der Artikelreihe „Abschlussbericht“ dokumentiere wir unsere Erkenntnisse. Der vorliegende Beitrag behandelt die Rolle von Tools bei der Entwicklung und Verbreitung von freien Bildungsmaterialien. [Alle weiteren Artikel findet ihr hier.](/blog/#Abschlussbericht)*
 
 Neben den Szenarien, in denen Aktive bei Lab-Treffen oder edusprints gemeinschaftlich an Materialien und Konzepten arbeiten, spielen auch die verwendeten Tools eine Rolle. Wie bereits im Text zu freien und zeitgemäßen Bildungsmaterialien erwähnt gibt es ein paar Bedingungen, die Tools erfüllen müssen, damit das Resultat auch wirklich frei zugänglich ist. Außerdem prägt der technische Rahmen die Möglichkeiten der Zusammenarbeit, Nachnutzbarkeit und individuellen Aufbereitung. Denn besonders "offen" sind die Inhalte dann, wenn die dafür notwendigen Programme selber keine Hürde für die Nutzung darstellen.
 
