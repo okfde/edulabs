@@ -51,7 +51,7 @@ Bei dem ersten Forum Open Education in Berlin ergab sich daraus das folgende Pro
 * 20:30 - Come together & Ausklang
 
 <br>
-Damit Politiker*innen teilnehmen konnten, haben wir den parlamentarischen Abend während der Sitzungswochen geplant, an einem Mittwoch. Zugleich war es uns aber auch wichtig, die Aktivitäten der Community sichtbar zu machen. Daher gab es vor dem parlamentarischen Teil der Veranstaltung eine "Open Education Fair" ab 16 Uhr, an der sich Initiativen für offene und zeitgemäße Bildung beteiligten. Diese waren auch mit eigenen Ständen vertreten, um sich zu vernetzen und mit dem Publikum zu diskutieren:
+Damit Politiker\*innen teilnehmen konnten, haben wir den parlamentarischen Abend während der Sitzungswochen geplant, an einem Mittwoch. Zugleich war es uns aber auch wichtig, die Aktivitäten der Community sichtbar zu machen. Daher gab es vor dem parlamentarischen Teil der Veranstaltung eine "Open Education Fair" ab 16 Uhr, an der sich Initiativen für offene und zeitgemäße Bildung beteiligten. Diese waren auch mit eigenen Ständen vertreten, um sich zu vernetzen und mit dem Publikum zu diskutieren:
 
 * [aula - politik-digital e.V.](http://verein.politik-digital.de/projekte/aula-schule-gemeinsam-gestalten/)
 * [Chaos macht Schule - Chaos Computer Club e. V.]()
@@ -86,7 +86,7 @@ Neben den Ständen gab es verschiedene Diskussionsrunden und Workshops:
 <div class="caption" style="text-align: right">Bild: edulabs / Leonard Wolf. Lizenz: <a href='https://creativecommons.org/licenses/by/4.0/'>CC-BY 4.0</a></div>
 </div>
 
-Bei den Diskussionsrunden erarbeiteten die Teilnehmer*innen Positionen zu offener Bildung, die später auch in die Podiumsdiskussion eingebracht wurden. Dabei wurde die Bedeutung von digitaler Mündigkeit für zeitgemäße Bildung hervorgehoben, aber auch konkrete Bedarfe wie etwa eine bessere Unterstützung der Lehrkräfte angeregt.
+Bei den Diskussionsrunden erarbeiteten die Teilnehmer\*innen Positionen zu offener Bildung, die später auch in die Podiumsdiskussion eingebracht wurden. Dabei wurde die Bedeutung von digitaler Mündigkeit für zeitgemäße Bildung hervorgehoben, aber auch konkrete Bedarfe wie etwa eine bessere Unterstützung der Lehrkräfte angeregt.
 
 Die Diskussionsrunden moderierte Nele Hirsch, auf ihrem Blog findet sich dazu eine gelungene[ Zusammenfassung der Diskussionsergebnisse](https://www.ebildungslabor.de/blog/forum-open-education). Demnach braucht zeitgemäße Bildung – unter anderem – ein grundlegendes Umdenken in Hinblick
 
@@ -104,7 +104,7 @@ Wir haben mit dem Event sehr kurzfristig auf die bildungspolitischen Pläne im K
 * **Rahmenbedingungen früh festlegen**: Wann, wo, und mit wem? Ein frühzeitiges "Save the Date" ist besonders für beschäftigte Teilnehmende wichtig.
 * **Vielfalt entwickeln** durch parallel verlaufende Angebote: Durch gleichzeitig stattfindende Workshops und Diskussionsrunden entstand eine lebhafte Atmosphäre, die als positiv wahrgenommen wurde. Die Teilnehmenden konnten sich ihren Interessen entsprechend entscheiden und der zeitliche Rahmen der Veranstaltung wurde nicht gesprengt.
 * **Inhaltliche Vorbereitung mit der Community**: Die Positionen für die Diskussionsrunde ließen sich vorab mit dem Publikum im Plenum abstimmen. Dies gelingt besser, wenn man die Fragen vorab in Blogposts und Videostatements veröffentlicht.
-* **Diskussionsrunden öffnen**: Die klassische Aufteilung von Expert*innen auf der Bühne und einem Publikum kann auch bei guter Moderation zu einzelnen Monologen führen. Offenere Anordnungen wie das Fishbowl-Format sind eine gute Alternative.
+* **Diskussionsrunden öffnen**: Die klassische Aufteilung von Expert\*innen auf der Bühne und einem Publikum kann auch bei guter Moderation zu einzelnen Monologen führen. Offenere Anordnungen wie das Fishbowl-Format sind eine gute Alternative.
 * **Nachbereitung veröffentlichen**: Damit die Diskussion weitergeht, ist eine Dokumentation der Ergebnisse in einem [Blogpost](https://edulabs.de/blog/Rueckblick-Forum-Open) oder in [weiterführenden Artikeln](https://netzpolitik.org/2018/digitale-muendigkeit-gibt-es-nicht-umsonst-fuenf-forderungen-aus-der-bildungspraxis/) hilfreich, in denen die Positionen und Argumente aus der Veranstaltung wieder aufgegriffen werden.
 
 <br>

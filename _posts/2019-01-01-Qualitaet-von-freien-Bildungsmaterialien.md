@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: "Edusprints: Gute Bildungsmaterialien zusammen finden, auswählen und entwickeln"
+title: "Bildungsmaterialien gemeinsam finden, auswählen und entwickeln"
 teaser: "Gemeinsam Bildungsmaterialien erstellen: hoher Output, Austausch und Feedback"
 teaser_img_src: /assets/img/blog/2017/Oktober/edusprint_Koeln/edusprint_atmo.jpg
 featured: false

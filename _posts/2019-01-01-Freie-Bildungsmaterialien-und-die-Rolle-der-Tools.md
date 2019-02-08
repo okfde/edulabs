@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: "Freie Bildungsmaterialien: die Rolle von Tools bei der Entwicklung von OER"
+title: "Freie Bildungsmaterialien: die Rolle von Tools"
 teaser: "Freie und barrierefreie Tools sind ein wichtiger Faktor für die Verbreitung und Weiterentwicklung von OER."
 teaser_img_src: /assets/img/static/squarelet.png
 featured: false
@@ -24,7 +24,6 @@ Jedes als PDF oder Bilddatei veröffentlichtes und frei lizenziertes Material gr
 Ein weiterer Aspekt ist das kollaborative Arbeiten, das bei der Erstellung von freien Lern- und Lehrdokumenten eine wesentliche Rolle spielt. Denn sind die Autoren und Autorinnen interdisziplinäre Teams, so verkomplizieren lokal installierte Softwarelösungen den Arbeitsablauf und ziehen das Vorhaben in die Länge.
 
 **Eine Lösung ist Software, die browserbasiert funktioniert**. Damit sind zwei Probleme gelöst: das der Zugänglichkeit sowie der individuellen Anpassbarkeit - denn jeder kann die Dokumente über einen entsprechenden Link erreichen, sofern die Anwendung kostenlos zugänglich ist. Manche Anwendungen erlauben außerdem das Einbinden von bereits frei lizenzierten Medien. Insbesondere für Textanwendungen gibt es hier bereits gute Lösungen; Beispiele hierfür sind Wikis, Hackmd (Open Source nun als [CodiMD](https://github.com/hackmdio/codimd)) und Etherpad.
-
 Bisher ist allerdings die Anwendung von klassischen Microsoft-Produkten und aufwendig anpassbaren PDF-Dokumenten noch sehr verbreitet. Die Herausforderung besteht also darin, Open Source-Lösungen in die Breite zu bringen und die Nutzung von browserbasierten Anwendungen zu fördern.
 
 ### Neue Tools befruchten das selbstorganisierte Lernen
@@ -38,11 +37,9 @@ Um eine kostenfreie Open Source-Alternative zur Verfügung zu stellen entwickelt
 #### Etherpad
 Etherpads sind sehr einfache webbasierter Texteditoren zum kollaborativen Bearbeitung von Texten (collaborative real-time editor). Mit Etherpad können mehrere Personen gleichzeitig ein Textdokument bearbeiten. Alle Änderungen sind sofort bei allen Teilnehmern sichtbar und können farblich unterschieden werden.
 
-Die Open Source Software wird von verschiedenen Initiativen zur Verfügung gestellt:
-
-Open Knowledge Foundation [[https://pad.okfn.de/start](https://pad.okfn.de/start)]
-
-Mozilla Foundation [https://public.etherpad-mozilla.org/](https://public.etherpad-mozilla.org/)
+Die Open Source Software wird von verschiedenen Initiativen gehostet:
+* [Open Knowledge Foundation Deutschland e.V.](https://pad.okfn.de/start)
+* [Mozilla Foundation](https://public.etherpad-mozilla.org/)
 
 #### Markdown-Editoren
 Im Unterschied zu Etherpad bieten die so genannten Markdown-Editoren mehr Möglichkeiten in den Bereichen Formatierung und Gestaltung. Mit Markdown können Bilder, Filme und weitere Elemente wie Notenschrift, mathematische Formeln, Flussdiagramme, Fußnoten oder interaktive [H5P-Module](https://edulabs.de/blog/H5P-im-Unterricht-Erfahrungen-Ideen) eingebunden werden. Neben dem Bearbeitungsmodus gibt es verschiedene Ansichten - es können schlanke Websites aber auch Präsentationen erstellt, gemeinsam bearbeitet und online geteilt abe rauch exportiert und offline verwaltet werden. Insgesamt bieten die Editoren-Tools eine gute Organisation der Dokumente und ganzer Arbeitsumgebungen.
