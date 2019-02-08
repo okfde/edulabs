@@ -29,7 +29,7 @@ Im Rahmen von edulabs stand die konkrete Entwicklung und Bewerbung von guten OER
 
 ### Technische und rechtliche Offenheit
 Ob es sich um technisch und rechtlich offene Materialien handelt, ist recht leicht festzustellen, denn die Anforderungen sind klar formuliert:
-<br>*„Open means anyone can freely access, use, modify, and share for any purpose (subject, at most, to requirements that preserve provenance and openness)."* -[ Open Definition](http://opendefinition.org/).
+*„Open means anyone can freely access, use, modify, and share for any purpose (subject, at most, to requirements that preserve provenance and openness)."* -[ Open Definition](http://opendefinition.org/).
 <br>Bei diesem ersten Kriterium der Offenheit geht es also in erster Linie um technische Barrieren und Lizenzfragen, die der Reihe nach geklärt werden können:
 
 * Liegt das Material auf einer Plattform, die den uneingeschränkten Zugriff ermöglicht?
@@ -40,11 +40,10 @@ Ob es sich um technisch und rechtlich offene Materialien handelt, ist recht leic
 
 Eine andere Perspektive ergibt sich, wenn es nicht um die Lizenzierung, sondern um die Inhalte und die didaktische Ausrichtung der Materialien geht. Denn für diese erweiterten Kriterien der Offenheit ist die Nachnutzbarkeit nur ein erster Schritt. Was sind also gute Bildungsmaterialien unter der Voraussetzung der technischen und rechtlichen Offenheit?
 
-### Didaktische Offenheit: zeitgemäße Bildungsmaterialien
-
 <!-- include infobox -->
 {% include partials/content/content-infobox.liquid float="left" headline="Was ist Freie Pädagogik?" copy="<a href='/blog/Open-Pedagogy-freie-Bildung'><img src='/assets/img/blog/2017/Dezember/Open_Padagogy/david_wiley.jpg' style='width: 100%; display: inline-block'></a><br>„OER in der gleichen Weise zu nutzen, wie kommerzielle Lehrbücher, schöpft ihr volles Potenzial nicht aus.“<br><br><a href='/blog/Open-Pedagogy-freie-Bildung'>Zum Artikel</a>" %}
 
+### Didaktische Offenheit: zeitgemäße Bildungsmaterialien
 Die Frage nach didaktisch guten Bildungsmaterialien hängt eng mit der Bewertung von Bildung im Ganzen zusammen und dadurch auch mit der aktuellen Diskussion um [zeitgemäße Bildung](https://edulabs.de/blog/Interview-mit-Dejan-Mihajlovic-zu-zeitgemae%C3%9Fer-Bildung). Hier steht vor allem die Förderung [digitaler, kommunikativer, kreativer, kollaborativer und kritischer Kompetenzen](https://de.wikipedia.org/wiki/4K-Modell_des_Lernens) im Vordergrund. Mit Blick auf die Rahmenbedingungen der Bildungssysteme geht es um Materialien, die ein individualisiertes, fächerübergreifendes und projektorientiertes, sowie ein inklusives Lernen unterstützen.
 Was aber sind zeitgemäße Bildungsmaterialien? Wenn wir davon ausgehen, dass zeitgemäßer Unterricht selbstorganisiert gelingen soll, dass Lernende eigenverantwortlich arbeiten und sich ihrem Stand entsprechend mit Themen auseinandersetzen, dann ergeben sich folgende Anforderungen:
 
