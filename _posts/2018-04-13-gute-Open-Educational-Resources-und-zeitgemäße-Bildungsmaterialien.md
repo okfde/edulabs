@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: "Freie und zeitgemäße Bildungsmaterialien - eine Reflexion"
+title: "Gute Bildungsmaterialien: eine Reflexion"
 teaser: "Was sind gute OER? In der letzten Zeit habe wir uns dieser Frage stetig zugewandt und möchten die Erkenntnissen offen diskutieren."
 teaser_img_src: /assets/img/blog/2018/April/Global_Open_Educational_Resources_Logo.jpg
 featured: false
