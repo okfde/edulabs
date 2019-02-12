@@ -2,7 +2,7 @@
 
 layout: post
 title: "Im Überblick: Freie Bildung mit digital gestützten Methoden"
-teaser: ""
+teaser: "Die Projektförderung von edulabs ist ausgelaufen, das Netzwerk bleibt aber noch aktiv und die zahlreichen Inhalte dieser Seite werden erhalten. Mit der Artikelreihe „Abschlussbericht“ dokumentiere wir unsere Erkenntnisse."
 teaser_img_src: /assets/img/static/header-home.jpg
 categories: Abschlussbericht
 featured: true
