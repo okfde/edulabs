@@ -16,6 +16,7 @@ needs: >-
   Schwierigkeiten, Problemen oder Features die noch fehlen, etc.
 info: ''
 link: 'https://LiaScript.github.io'
+image_src: /assets/img/projects/lia_preview.gif
 contact-name: André Dietrich
 contact-email: andredietrich@web.de
 date: '2019-04-09T09:06:38.927Z'
