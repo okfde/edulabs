@@ -2,7 +2,7 @@
 _id: b3093e50-305d-11e9-a3de-2dac567c917c
 title: 3t3rs
 desc2: empty
-visible: '0'
+visible: '1'
 titel: Hebocon – ein zeitgemässes Format der Medienbildung rund um Robotik
 lizenz: lizenz-2
 desc: >-
