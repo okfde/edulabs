@@ -4,7 +4,7 @@ layout: post
 title: "Jetzt online: eine Materialplattform für die Jugendbildung"
 teaser: "Wie gelingt es, eine Gesellschaft zu gestalten, die offen und im Sinne der Gemeinschaft ist? Zu dieser Frage gibt es jetzt eine Materialplattform auf demokratielabore.de"
 teaser_img_src: /assets/img/blog/2019/screenshot_plattform.png
-featured: true
+featured: false
 categories: News
 twitter_large_img: /assets/img/blog/2019/screenshot_plattform.png
 image: /assets/img/blog/2019/screenshot_plattform.png
