@@ -5,7 +5,7 @@ title: "Ein Jahr edulabs in NRW"
 teaser: "Seit einem Jahr treffen sich aktive BildungsreformerInnen in NRW - aktuell in der Stadtbibliothek Düsseldorf. Wir reflektieren die Zeit mit Lab Lead Heiko Wolf."
 teaser_img_src: /assets/img/blog/2018/August/edulabs_dd/770px-Duesseldorf_Rheinturm_Medienhafen.jpg
 featured: true
-categories: News, Events
+categories: News Events
 twitter_large_img: /assets/img/blog/2018/August/edulabs_dd/770px-Duesseldorf_Rheinturm_Medienhafen.jpg
 image: /assets/img/blog/2018/August/edulabs_dd/770px-Duesseldorf_Rheinturm_Medienhafen.jpg
 header_background: /assets/img/blog/2018/August/edulabs_dd/770px-Duesseldorf_Rheinturm_Medienhafen.jpg
