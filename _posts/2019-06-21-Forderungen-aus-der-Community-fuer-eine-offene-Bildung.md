@@ -4,7 +4,7 @@ layout: post
 title: "Für eine offene Bildung: Forderungen aus der Community"
 teaser: "Anlässlich des 2. Forum Open Education wurden Forderungen für mehr offene Bildung gesammelt"
 teaser_img_src: /assets/img/blog/2018/Mai/squarelet/squarelet.jpg
-featured: true
+featured: false
 categories: News
 twitter_large_img: /assets/img/blog/2018/Mai/squarelet/squarelet.jpg
 image: /assets/img/blog/2018/Mai/squarelet/squarelet.jpg
