@@ -1,0 +1,71 @@
+I"12<p>Der Raspberry Pi ist ein leistungsstarker, aber gleichzeitig sehr kompakter und günstiger Einplatinencomputer. All seine Bauteile sind auf einer Fläche untergebracht, die etwa der Größe einer Kreditkarte entspricht. Ursprünglich wurde der Raspberry Pi im Jahr 2012 von der britischen <a href="http://raspberry.org">Raspberry Pi Stiftung</a> veröffentlicht. Das Ziel war, junge Menschen und Schüler*innen für Technik zu begeistern sowie den Erwerb von Programmier- und Hardwarekenntnissen zu fördern.</p>
+
+<div class="video"><iframe width="560" height="315" src="https://www.youtube.com/embed/Z1dyLPc18Lw?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen=""></iframe></div>
+<div class="caption">Der Lehrer Tobias Hübner spricht über seine Erfahrungen mit dem Raspberry Pi.</div>
+
+<p>Für den Betrieb ist mindestens eine Mikro-SD Karte, die als „Festplatte“ dient, sowie ein USB-Netzteil erforderlich. Außerdem werden Bildschirm, Tastatur und Maus benötigt, wenn direkt am Raspberry Pi gearbeitet werden soll (und nicht über eine Netzwerkverbindung). Als Betriebssystem stehen verschiedene Linux-Distributionen zur Verfügung. Microsoft bietet sogar Windows 10 in einer abgespeckten und kostenlosen <a href="https://blogs.windows.com/buildingapps/2015/02/02/windows-10-coming-to-raspberry-pi-2/">Version</a> für den Pi an, die jedoch ohne graphische Benutzeroberfläche auskommen muss.</p>
+
+<p>Über seine <a href="https://de.wikipedia.org/wiki/Allzweckeingabe/-ausgabe">GPIO-Schnittstelle</a> (<strong>G</strong>eneral <strong>P</strong>urpose <strong>I</strong>nput <strong>O</strong>utput) können kleine elektronische Schaltungen entwickelt und unkompliziert mit Programmcode angesteuert werden. Anleitungen, <a href="https://tutorials-raspberrypi.de/raspberry-pi-gpio-erklaerung-beginner-programmierung-lernen/">wie Ein- und Ausgänge angesteuert werden können</a> und <a href="https://tutorials-raspberrypi.de/raspberry-pi-einstieg-wie-starte-ich/">zur Einrichtung des Raspberry Pis</a>, gibt es zahlreiche.</p>
+
+<p>Hinzu kommt ein umfangreiches Softwareangebot, das von der Raspberry Pi Stiftung bereitgestellt wird. Neben dem Einsatz von Lernprogrammen für informatische Zwecke kann der Pi im Klassenraum auch für Standard-Anwendungen, wie die Textverarbeitung mit <a href="https://de.libreoffice.org/">LibreOffice</a> oder für Internetrecherchen, eingesetzt werden. Selbst der Einsatz als Mediencenter, Internetkiosk oder Cloud-Speicher ist möglich, wie es zum Beispiel im <a href="https://edulabs.de/projects/lumi-eine-wlan-losung-fur-den-klassenraum/">edulabsBE Projekt Lumi</a> passiert.</p>
+
+<p>Besonders hervorzuheben ist, dass die Raspberry Pi Stiftung dem Betriebssystem viele normalerweise kostenpflichtige Softwarepakete beigelegt hat, wie beispielsweise <a href="https://de.wikipedia.org/wiki/Mathematica">Wolfram Mathematica</a> oder <a href="https://de.wikipedia.org/wiki/Minecraft">eine spezielle Version von Minecraft</a>, mit der sich auf spielerische Art die Programmiersprache Python erlernen lässt.</p>
+
+<p>In der Maker- und Bastlerszene erfreut sich der Minirechner so großer Beliebtheit, dass mittlerweile mehr als 12 Millionen Stück verkauft wurden. Damit kratzt der Raspberry am Weltrekord des beliebten Heimcomputers <a href="https://de.wikipedia.org/wiki/Commodore_64">Commodore C64</a>.
+Mit den Verkaufsgewinnen finanziert die gemeinnützige Raspberry Pi Stiftung die Entwicklung neuer Versionen des Boards. Auch sponsort sie Veranstaltungen, wie die Fortbildung von Lehrenden oder Code Clubs und <a href="https://www.raspberrypi.org/jam/">Raspberry Jams</a>, auf denen Mitglieder*innen der Raspberry-Community mit Anfängern*innen ihr Wissen teilen oder gemeinsam an Projekten arbeiten.
+<!-- include ionfobox -->
+<span class="content-element infobox left">
+    <span class="infobox-headline">Die Arduino-Plattform im Unterricht</span>
+    <span class="infobox-copy"><a href="/blog/arduino-im-schulunterricht"><img src="/assets/img/blog/2017/Mai/arduino/arduino.jpg" style="width: 100%; display: inline-block" /></a><br />Was ist die Arduino-Plattform und welche Vor- und Nachteile hat sie für die Anwendung im Schulunterricht?</span>
+</span></p>
+
+<p>Der große Erfolg des Raspberry Pi hat eine ganze Geräteklasse von Einplatinencomputern hervorgebracht, bei denen fehlende „Features“ ergänzt oder Bauteile durch leistungsfähigere Komponenten ersetzt wurden, während der Formfaktor bei den meisten dieser „Klone“ erhalten blieb. Viele dieser Boards punkten mit einer schnelleren CPU, mehr Arbeitsspeicher, SATA-Schnittstelle für eine externe Festplatte oder Gigabit LAN. Vor der Anschaffung eines <a href="https://en.wikipedia.org/wiki/Comparison_of_single-board_computers">Orange Pi, Banana Pi, Asus Tinker Boards, Odroid oder Cubieboards</a> sollte man jedoch bedenken, dass deren Community vergleichsweise klein und der Hardware-Support häufig schlecht bis nicht existent ist. Auch der Einsatz eines Raspberrys im Schulunterricht bedarf einer Abwägung und hängt vom verfügbaren Budget, dem Alter der Schüler*innen, den Lerninhalten und dem Einsatzzweck ab. Vor der Anschaffung eines Klassensatzes sollte man also überlegen, ob eine andere Plattform, wie ein <a href="/blog/arduino-im-schulunterricht">Arduino Uno</a> oder <a href="/blog/Maxim-Loick-Gruender-von-Calliope-und-dem-CoderDojo-Bonn-im-Interview">Calliope Mini</a>, besser geeignet wären.</p>
+
+<h2 id="nachteile-des-raspberry-pis">Nachteile des Raspberry Pis</h2>
+<ul>
+  <li>Auch wenn die Inbetriebnahme eines Raspberrys vergleichsweise einfach ist (z.B. als die Installation eines Windows-Betriebssystems), muss der Käufer <strong>eine kleine Hürde</strong> überwinden: das Betriebssystem auf eine Micro-SD Karte übertragen und in das für diese vorgesehenen Slot im Pi platzieren.</li>
+  <li>Der Rasberry ist <strong>nur bedingt für Grundschüler*innen geeignet</strong>. So sind für den Aufbau von elektronischen Schaltungen auf Steckbrettern rudimentäre Grundkenntnisse von Strom, Spannung und Widerstand von Vorteil.</li>
+  <li>Fehlerhaft zusammengesteckte Schaltungen oder Programmierfehler führen möglicherweise zu <strong>Frust</strong> über das ausbleibende Erfolgserlebnis.</li>
+  <li>Wer den Raspberry Pi dennoch mit Grundschüler*innen nutzen möchte, sollte möglichst <strong>viel vorbereiten</strong>, denn eigenständige Programmieraufgaben können die Kinder in diesem Alter eher selten umsetzen.</li>
+  <li>Viele Quellen und <strong>Tutorials sind in englischer Sprache</strong>. Fehlende Sprachkenntnisse können also ein Hindernis sein. Ganz vermeiden lässt sich dies jedoch nicht, weil sich auch die Anweisungen vieler Programmiersprachen aus englischen Begriffen zusammensetzen (was widerum auch eine Chance für den fachübergreifenden Unterricht ist).
+<br /><br /></li>
+</ul>
+
+<center><strong>Teste die Programmiersprache Python und drücke auf „Play“.</strong><iframe src="https://trinket.io/embed/python/840be3db9c" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen=""></iframe><br /><br /></center>
+
+<h2 id="die-vorteile-des-raspberry-pis">Die Vorteile des Raspberry Pis</h2>
+<ul>
+  <li>Der Pi ist ein <strong>vollwertiger PC-Ersatz</strong>, der schnell genug für gängige Anwendungen ist.</li>
+  <li>Je nach Modell beträgt der Preis für die Platine nur <strong>10€ bis 35€</strong>.</li>
+  <li>Die <strong>Hardwareausstattung des Raspberrys</strong> wurde seit seinem Erscheinen beständig verbessert, so dass das Modell 3 inzwischen mit einem QuadCore-Prozessor sowie integriertem WLAN und Bluetooth ausgestattet ist. Trotzdem können bei der Anschaffung Zusatzkosten enstehen, die den Preis des Minirechners weit übersteigen. Zum Beispiel für den Fall, dass Bildschirm, Tastatur und Maus fehlen. Andererseits ist für die Programmierung eines Arduino ein PC oder Notebook erforderlich. Der Calliope erfordert sogar einen Internetzugang, weil es zurzeit (noch) keine Offline-Entwicklungsumgebung gibt.</li>
+  <li>Im Gegensatz zu anderen Einplatinencomputern, die später als der Pi auf den Markt gekommen sind, gibt es <strong>eine riesige und sehr aktive Community</strong>. Sie treibt die Entwicklung von Open Source Software und vielen Projekten voran. Diese lassen sich in der Regel leicht nachbauen und für den Schulunterricht nutzen.</li>
+  <li>Viele der Projekte werden monatlich im kostenlos erhältlichen <a href="https://www.raspberrypi.org/magpi/">MagPi Magazin</a> der Raspberry Pi Stiftung und in MagPi-Themenheften und Sonderausgaben veröffentlicht. Darüber hinaus hat die Stiftung allerlei <a href="https://www.raspberrypi.org/resources/">Handreichungen und Unterrichtsbeispiele</a> unter Creative Commons-Lizenz veröffentlicht.
+<!-- include floated image -->
+<span class="content-element right">
+  <img src="/assets/img/blog/2017/Oktober/Toolcard_Raspberry Pi/Sense Hat.jpg" />
+  <span class="caption">Bild: Sense Hat: Tobias Hübner - <a href="https://www.codingschule.de/" rel="nofollow">codingschule.de</a>. Lizenz: <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</a></span>
+</span></li>
+  <li>Seit dem Erscheinen des Raspberrys wurden <strong>eine Vielzahl von Erweiterungsmodulen</strong> entwickelt, die sich als sogenannte „HATs“ einfach auf die GPIO-Schnittstelle aufstecken lassen. Der <a href="https://www.raspberrypi.org/products/sense-hat/">Sense HAT</a> ist beispielsweise mit zahlreichen Sensoren für Luftdruck, Temperatur und Feuchte sowie einem Beschleunigungssensor ausgestattet. Für den Einsatz im Schulunterricht stehen sehr viel Code-Beispiele und Pyhon-Module zur Verfügung.</li>
+  <li>Die von der Raspberry Stiftung entwickelte Linux-Distribution „<a href="https://www.raspbian.org/">Raspbian</a>“ ist für die meiste Hardware bereits vorkonfiguriert, so dass sich die Erweiterungsmodule auch von jüngeren Schüler*innen leicht installieren und nutzen lassen.</li>
+  <li>Im Gegensatz zu Mikrocontrollern, wie dem Arduino oder Calliope, besteht die Möglichkeit, <strong>verschiedene Programmiersprachen</strong> zu nutzen. Durch <a href="https://de.wikipedia.org/wiki/Scratch_(Programmiersprache)">Scratch</a>, <a href="https://de.wikipedia.org/wiki/Python_(Programmiersprache)">Python</a> oder <a href="https://de.wikipedia.org/wiki/C_(Programmiersprache)">C/C++</a> eignet sich der Pi für alle Altersklassen, d.h. Anfänger und Fortgeschrittene zugleich. 
+<br /><br /></li>
+</ul>
+
+<h2 id="anwendungsmöglichkeiten">Anwendungsmöglichkeiten</h2>
+<p>Der Raspberry Pi lässt sich in verschiedenen Unterrichtskontexten einsetzen und mit unterschiedlichen Fächern kombinieren. Zum Beispiel können die Schüler*innen im Physik Unterricht die Hardware dieses <a href="https://raspberryblog.de/?p=1681">Nistkastenprojektes</a> einrichten. Im Fach Biologie wäre dann der Nistkasten selbst dran. Der Englisch- oder Deutschunterricht ist dann der Ort der Reflexion, an dem abschließend ein Bericht über das Projekt verfasst wird.</p>
+
+<p class="link-list">
+<span class="link-list-headline">Links</span>
+<a class="external-link" href="https://www.raspberrypi.org/magpi/" target="_blank">Das MagPi Magazin</a>
+<a class="external-link" href="https://raspberryblog.de/?p=1681" target="_blank">Ein Bauprojekt, in dem auch Themen aus dem Biologieunterricht Platz haben</a>
+<a class="external-link" href="http://www.forum-raspberrypi.de/" target="_blank">Das Raspberry Pi-Forum mit vielen Aktiven</a>
+<a class="external-link" href="https://www.medienpaedagogik-praxis.de/2016/08/31/programmieren-lernen-mit-dem-raspberry-pi-und-minecraft-handbuch-making-aktivitaeten/" target="_blank">Programmieren lernen mit dem Raspberry Pi und Minecraft</a>
+<a class="external-link" href="http://ddi.uni-wuppertal.de/material/materialsammlung/mittelstufe/raspberry.html" target="_blank">Diverse Unterrichtsmaterialien zum Pi</a>
+<a class="external-link" href="http://medienistik.de/lab-Heft_Stationenlernen.pdf" target="_blank">Stationenlernen mit dem Raspberry Pi</a>
+<a class="external-link" href="https://www.rahner-edu.de/raspberry-pi/blinklichter/" target="_blank">Verschiedene Bauprojekte, Unterrichts- und Lehrmaterialien zum Raspberry Pi</a>
+<a class="external-link" href="http://kodi.wiki/view/HOW-TO:Install_Kodi_on_Raspberry_Pi" target="_blank">Der Raspberry Pi als Medienserver</a>
+<a class="external-link" href="http://www.medienistik.de/Themenheft_RaspberryPi.pdf" target="_blank">Themenheft: Unterricht mit dem Raspberry Pi</a>
+</p>
+
+<p><strong>Dieser Artikel ist im Aufbau: Du hast Verbesserungsvorschläge oder Aspekte, die beigefügt werden sollten? Dann hinterlasse einfach einen Kommentar und editiere den Text direkt über <a href="https://hackmd.io/MYZghsBMAcBGCmBaEBOalEBY0DNGxAEYAGfMANgJU0NhQHZig===?both">Hackmd</a>.</strong></p>
+:ET

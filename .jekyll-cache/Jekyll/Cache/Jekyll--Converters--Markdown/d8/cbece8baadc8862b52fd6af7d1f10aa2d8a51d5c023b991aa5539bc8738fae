@@ -1,0 +1,47 @@
+I"�<p><em>Es sind bereits viele Tools für das kollaborative Zusammenarbeiten im Netz, einige davon sogar unter freien Lizenzen. Anwendungen wie hackmd.io oder stackedit.io bieten auch die Möglichkeit, nicht nur Texte zu verarbeiten, sondern auch Bilder, Videos und andere html-Formate einzubinden. Allerdings folgen sie alle dem linearen Aufbau eines Textdokumentes.</em></p>
+
+<p>Tools wie <a href="https://freemind.sourceforge.net">freemind</a>, Padlet und andere Whiteboard- sowie Brainstorming-Anwendungen haben versucht das zu ändern: Über Content-Boxen können Inhalte recht frei und unabhängig voneinander organisiert werden. Allerdings sind hier Open Source-Lösungen eher die Seltenheit.</p>
+
+<p>Das wollen wir mit <em>squarelet</em> ändern und ein offenes System bauen, für das leicht neue Inhaltstypen entwickelt werden können. Mit squarelet werden sich flexibel Bilder, Videos, Texte und html-Anwendungen organisieren lassen. Auch das Abbilden von Brainstorming-Prozessen wird möglich sein. Damit bleibt viel Raum für das Entwickeln von Ideen und Konzepten, ohne eingegrenzt zu werden.</p>
+
+<p>Während dieser Förderphase von edulabs (bis Ende August) entwickeln wir mit dem Feedback aus der Community einen ersten Prototypen, um den Bedarf für neue Features genauer zu ermitteln. Mit einer Alpha-Version ist bis Mitte Juni zu rechnen. Schneller geht es, wenn sich andere beteiligen. Meldet euch gerne bei uns und arbeitet mit!</p>
+
+<h2 id="features">Features</h2>
+<h3 id="basics">Basics</h3>
+<ul>
+  <li>Auf html basierende Inhaltstypen, die das Darstellen von Texten, Videos, Fotos und Embedded-Code-Anwendungen (z.B. H5P) ermöglichen</li>
+  <li>Zwei Arbeitsflächen: Listenansicht, freie Arbeitsfläche</li>
+  <li>Dokumente können durch Links erreicht werden, eine Anmeldung ist nicht erforderlich</li>
+  <li>Flexible Lese- und Schreibrechte, die über Accounts organisierbar sind.</li>
+  <li>Kollaborativer Zugriff und Synchronisierung des Arbeitszustandes
+<br /><br /></li>
+</ul>
+
+<h3 id="optional">Optional</h3>
+
+<ul>
+  <li>Weitere Arbeitsflächen</li>
+  <li>Export-Funktion</li>
+  <li>Offline-Modus</li>
+  <li>Mehrere Download-Möglichkeiten: PDF, Instanz-Datei, Markdown</li>
+  <li>Individuelle Gestaltung (z.B. Hintergrundbild, Farben)</li>
+  <li>Neue Inhaltstypen können leicht erstellt werden (z.B. um Ton- oder Videoaufnahmen vorzunehmen und einzubinden)</li>
+  <li>Tags, mit denen die Inhaltstypen versehen werden können und die Möglichkeit diese zu filtern</li>
+  <li>Kurzlinks</li>
+  <li>Bearbeitungs-History
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="du-bist-entwickler-und-möchtest-dich-beteiligen">Du bist Entwickler und möchtest dich beteiligen?</h2>
+<h3 id="der-aktuelle-aufbau">Der aktuelle Aufbau:</h3>
+
+<ul>
+  <li>Browser-Client/Interface: <a href="https://vuejs.org/">Vue.js</a> (Javascript)</li>
+  <li>Authentifikation: <a href="https://oauth.net/">OAuth</a></li>
+  <li>Echtzeitkommunikation: <a href="https://socket.io/">socket.IO</a> (Javascript)</li>
+  <li>Backend: Noch unklar, wahrscheinlich auf Python- oder Javascript-Basis
+<br /><br /></li>
+</ul>
+
+<p>Du hast Erfahrung mit den genannten Paketen und Sprachen oder Ideen für andere Lösungen? Dann melde dich bei uns.</p>
+:ET

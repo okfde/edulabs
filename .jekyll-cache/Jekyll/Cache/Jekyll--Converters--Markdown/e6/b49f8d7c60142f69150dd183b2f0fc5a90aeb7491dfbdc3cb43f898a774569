@@ -1,0 +1,32 @@
+I"�<h3 id="beschreibung">Beschreibung</h3>
+<p>Arduino ist der Markenname sowohl für eine Software als auch für eine Hardware-Plattform. Die Kombination beider Systeme erlaubt den vereinfachten Einstieg in die Programmierung von Elektronik oder auch das “physical computing”. Der Kern liegt in der Arduino <a href="https://de.wikipedia.org/wiki/Integrierte_Entwicklungsumgebung">IDE</a>, die eine übersichtliche Oberfläche, schnelle Verbindung zur Hardware und den Zugriff auf eine große Bibliothek ermöglicht. Die Bibliothek erlaubt das Programmieren mit alltagsähnlichen Begriffen. Die Hardware erspart durch vereinfachtes Design den Blick ins Datenblatt des verbauten <a href="https://de.wikipedia.org/wiki/Mikrocontroller">Mikrocontrollers</a>, der normalerweise nötig ist.</p>
+
+<h3 id="anwendungsmöglichkeiten">Anwendungsmöglichkeiten</h3>
+<p>Im Gegensatz zum Programmieren von Programmen, die auf Betriebssystemen ausgeführt werden, erfordert das Programmieren von Mikrocontrollern zusätzlich elektrotechnisches sowie physikalisches Wissen. Damit sind die Mikrocontroller gewissermaßen eine Schnittstelle. Denn in ihnen werden logische Begriffe in physikalische Aktionen umgesetzt. Das passiert natürlich in jedem Computer, aber die Programmierung von Mikrocontrollern erfordert die Auseinandersetzung damit. Weil es sich bei <em>physical computing</em> also um eine Schnittstelle zwischen der physischen und logischen, mathematischen Welt handelt, sind Arduino-Projekte in verschiedenen Unterrichtskontexten, wie Physik, Mathematik, Informatik denkbar. Neben den technischen können auch gesellschaftliche Aspekte behandelt werden; die Rolle von Mikrocontrollern und Daten im Alltag, die Vernetzung unserer Umwelt oder ökologische Aspekte der Herstellung.</p>
+
+<h3 id="vorteile">Vorteile</h3>
+<ul>
+  <li>Arduino ermöglicht einen anschaulichen Einstieg in Elektronik und Programmieren, die Projekte bieten anschauliche Anwendungsbeispiele für Physik und Mathematik.</li>
+  <li>Erste Projekte können schnell umgesetzt werden.</li>
+  <li>Die Hardware sowie die Software sind <a href="https://de.wikipedia.org/wiki/Open_Source">Open Source</a>.</li>
+  <li>Die Auseinandersetzung mit Mikrocontrollern vermittelt Grundwissen über Technologien, die in vielen Produkten des Alltags zu finden sind. Dieses Verständnis stärkt die Mündigkeit in technischen Debatten und erhöht die Freiheit im Umgang mit Technik.<br /><br /></li>
+</ul>
+
+<h3 id="nachteile">Nachteile</h3>
+<ul>
+  <li>Arduino vereinfacht zwar den Einstieg in das Programmieren, die Programmiersprache bleibt aber <a href="https://de.wikipedia.org/wiki/C_(Programmiersprache)">C</a>. Diese erfordert ein gewisses Abstraktionsvermögen und die Kenntnis der Syntax. Auf beides sollten Schüler*innen vorbereitet werden. Tools wie <a href="http://s4a.cat/">Scratch for Arduino</a> können dabei helfen.</li>
+  <li>Auch wenn es <a href="http://fritzing.org/home/">Hardware-Simulatoren</a> gibt, so ist der haptische Zugang im Hinblick auf das <a href="https://de.wikipedia.org/wiki/Konstruktionismus">konstruktionistische Lernen</a> der effektivere Weg: Der Unterricht setzt eine Grundausstattung an Hardware voraus. Verschiedene Hersteller bieten Starter-Kits an, in denen alle wichtigen Bauteile enthalten sind.</li>
+</ul>
+
+<p>Wer Geld sparen möchte, kann auf die Arduino-Boards verzichten und mit den Schüler*innen die Hardware auf Steckplatinen selbst zusammenbauen. Die Teile dafür können z.B. gemeinsam mit den Schüler*innen durch die Demontage alter Hardware gewonnen werden.</p>
+
+<p class="link-list">
+<span class="link-list-headline">Links und Quellen</span>
+<a class="external-link" href="http://fablearn.stanford.edu/fellows/blog/arduinos-classroom" target="_blank">Erfahrungen mit Arduino im Schulunterricht von Mario Parade</a>
+<a class="external-link" href="https://riecken.de/index.php/2013/09/informatik-mit-arduino/" target="_blank">Ein Unterrichtskonzept von Maik Riecken</a>
+<a class="external-link" href="http://starthardware.org/arduino-unterrichtsmaterial/" target="_blank">Kurzworkshop und Materialien für den Schulunterricht von Stefan Hermann</a>
+<a class="external-link" href="http://www.spiegel.de/netzwelt/gadgets/arduino-erklaert-das-kann-der-microcontroller-a-1105328.html" target="_blank">Ein Artikel über die Arduino IDE</a>
+</p>
+
+<p><strong>Dieser Artikel ist im Aufbau: Du hast Verbesserungsvorschläge oder Aspekte, die beigefügt werden sollten? Dann hinterlasse einfach einen Kommentar.</strong></p>
+:ET

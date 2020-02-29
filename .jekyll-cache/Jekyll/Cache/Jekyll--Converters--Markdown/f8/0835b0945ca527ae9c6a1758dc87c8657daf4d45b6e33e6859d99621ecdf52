@@ -1,0 +1,38 @@
+I"P<p>Den meisten mag es schon aufgefallen sein: <a href="/">edulabs.de</a> hat ein Update bekommen. Nicht nur das Design ist ein neues, auch Projekte haben jetzt die Möglichkeit, sich prominenter darzustellen. Während Vorhaben bisher über den <a href="https://hackdash.org/dashboards/edulabs">edulabs Hackdash</a> geteilt wurden, könnt ihr sie jetzt direkt auf edulabs.de veröffentlichen. Damit lichten wir den Tool-Jungle und die Projekte bekommen mehr Aufmerksamkeit. Du möchtest deinem Vorhaben eine Plattform geben? Dann nutze das <a href="/projects/add">edulabs Online-Formular</a>, um es für mögliche Unterstützer*innen sichtbar zu machen.</p>
+
+<p>Vier Teams haben ihre Projekte bereits öffentlich gemacht und freuen sich über Mitgestalter*innen:</p>
+
+<h3 id="lumi---eine-wlan-lösung-für-den-klassenraum">Lumi - Eine WLAN-Lösung für den Klassenraum</h3>
+<p><span class="content-element infobox right">
+    <span class="infobox-headline">Das wird gesucht</span>
+    <span class="infobox-copy">- Entwickler*innen<br />- PR-Unterstützung<br />- Designer*innen<br /><br /><a class="btn btn-lg btn-default" href="/projects/lumi-eine-wlan-losung-fur-den-klassenraum/" role="button">Zum Projekt »</a></span>
+</span>
+Lumi ist eine Lernplattform, die auf einem Router (LumiBox) läuft und den unterrichtsbezogenen Einsatz von Smartphones ohne Internetverbindung ermöglicht. Die LumiBox öffnet ein lokales WLAN und stellt Smartphone-optimierte Software und Werkzeuge zum Teilen und Bearbeiten von Inhalten zur Verfügung.
+<br />
+<br />
+<br /></p>
+<h3 id="mess--und-laborgeräte-für-den-mint-unterricht">Mess- und Laborgeräte für den MINT-Unterricht</h3>
+<p><span class="content-element infobox left">
+    <span class="infobox-headline">Das wird gesucht</span>
+    <span class="infobox-copy">- Schulen<br />- Pädagog*innen<br /><br /><a class="btn btn-lg btn-default" href="/projects/mess-und-laborgerate-fur-den-mint-unterricht/" role="button">Zum Projekt »</a></span>
+</span>
+Basierend auf der Arduino-, ESP8266/ESP32- oder Raspberry Pi - Plattform werden preisgünstige (IoT-fähige) Open-Source Mess- und Laborgeräte als Bausätze für den MINT-Unterricht entwickelt werden ( vorwiegend Bio, Chemie, Physik, Geografie).
+<br />
+<br />
+<br /></p>
+<h3 id="chaos-macht-schule-workshops-als-oer-materialien-zu-datenschutz-schutz-der-privatsphäre-urheberrecht-aufbereiten">Chaos macht Schule-Workshops als OER-Materialien zu Datenschutz, Schutz der Privatsphäre, Urheberrecht aufbereiten</h3>
+<p><span class="content-element infobox right">
+    <span class="infobox-headline">Das wird gesucht</span>
+    <span class="infobox-copy">- OER-Expert*innen<br />- Pädagog*innen<br />- Schreibende<br />- Designer*innen<br /><br /><a class="btn btn-lg btn-default" href="/projects/chaos-macht-schule-workshops-als-oer-materialien-zu-datenschutz-schutz-der-privatsphare-urheberrecht-aufbereiten/" role="button">Zum Projekt »</a></span>
+</span>
+Wir möchten unsere erprobten und oft durchgeführten Workshops zu technischen Themen besser dokumentieren und als OER zur Verfügung stellen.
+<br />
+<br />
+<br /></p>
+<h3 id="vom-physikalischen-ereignis-zum-datensatz---workshop-weiterentwickeln">Vom physikalischen Ereignis zum Datensatz - Workshop weiterentwickeln</h3>
+<p><span class="content-element infobox left">
+    <span class="infobox-headline">Das wird gesucht</span>
+    <span class="infobox-copy">- Pädagog*innen<br /><br /><a class="btn btn-lg btn-default" href="/projects/vom-physikalischen-ereignis-zum-datensatz-workshop-weiterentwickeln/" role="button">Zum Projekt »</a></span>
+</span>
+Wie erfassen Geräte, die uns umgeben, Daten? Das Verhalten dieser und damit auch unser Verhalten hängt von Messdaten ab. Dabei sind die Daten alles andere als zuverlässig - es gibt viele Fehlerquellen. Durch eine interaktive Bauanleitung eines Temperaturfühlers soll der Leitfrage nachgegangen werden.</p>
+:ET
