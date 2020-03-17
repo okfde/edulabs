@@ -4,7 +4,7 @@ layout: post
 title: "Offene Bildung politisch stärken: edulabs in 2020"
 teaser: "edulabs hat zahlreiche Innovationen im Bereich der Offenen Bildung gefördert. In 2020 konzentriert sich das Projekt auf die politische Arbeit sowie die Digitalisierung in der Jugendbildung."
 teaser_img_src: /assets/img/blog/2018/Juni/Forum_Open_Education/forum_open_2.jpg
-featured: true
+featured: false
 categories: News
 twitter_large_img: /assets/img/blog/2018/Juni/Forum_Open_Education/forum_open_2.jpg
 image: /assets/img/blog/2018/Juni/Forum_Open_Education/forum_open_2.jpg
