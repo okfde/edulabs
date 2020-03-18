@@ -10,7 +10,7 @@ twitter_large_img: /assets/img/static/public_call.jpg
 image: /assets/img/static/public_call.jpg
 header_background: /assets/img/static/public_call.jpg
 header_background_caption: ""
-author: Maximilian Voigt
+author: edulabs-Berlin
 info_text: |
 
 ---
