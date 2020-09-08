@@ -22,4 +22,4 @@ Bereichen, entsprechend behandeln auch unsere <a href="/projects/">Lab-Projekte<
 
 Du hast Lust, dir unser Lab anzuschauen? Dann komm einfach zum nächsten Treffen vorbei:
 
-<a class="edu-btn black" href="https://www.meetup.com/edulabsKB/">Meetup-Gruppe</a><br><br>
+<a class="edu-btn black" href="https://gettogether.community/edulabs-nrw/">Meetup-Gruppe</a><br><br>
