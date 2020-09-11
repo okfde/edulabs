@@ -84,6 +84,6 @@ Insgesamt lässt sich sagen, dass durch den Einsatz von H5P **acht wesentliche G
 <p class="link-list">
 <span class="link-list-headline">Links</span>
 <a class="external-link" href="http://www.lernkiste.org/tag/h5p/" target="_blank">H5P Materialien aus der Praxis</a>
-<a class="external-link" href="http://www.ebildungslabor.de/online-kurs-interaktive-website-inhalte-selbst-gestalten" target="_blank">Ein offener Online Kurs für den Einstieg in H5P</a>
+<a class="external-link" href="https://www.oncampus.de/weiterbildung/moocs/einstieg-in-h5p" target="_blank">Ein offener Online Kurs für den Einstieg in H5P</a>
 <a class="external-link" href="https://www.youtube.com/watch?v=pSobm8PdXtE&list=PL4lOawnmqTnEjL-Tpg8aAEADYFxN5WCOW" target="_blank">Tutorials zu H5P von Oliver Tacke (englischsprachig)</a>
 </p>
