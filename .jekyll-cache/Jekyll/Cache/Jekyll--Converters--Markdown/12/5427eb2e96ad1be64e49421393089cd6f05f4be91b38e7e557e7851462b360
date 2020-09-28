@@ -1,4 +1,4 @@
-I"�&<p><em><a href="https://h5p.org/">H5P</a> ist eine freie und <a href="https://de.wikipedia.org/wiki/Open_Source">quelloffene Software</a> zum Erstellen von interaktiven Lern- und Lehrinhalten. Mit diesen treten Nutzende in Interaktion, statt sie einseitig zu konsumieren. Beispiele sind: Lückentexte, Drag and Drop, interaktive Videos oder Online-Memory. Die verschiedenen Inhaltstypen sind miteinander kombinierbar, sodass vielfältige Lehr- und Lerninhalte entstehen.
+I"�&<p><em><a href="https://h5p.org/">H5P</a> ist eine freie und <a href="https://de.wikipedia.org/wiki/Open_Source">quelloffene Software</a> zum Erstellen von interaktiven Lern- und Lehrinhalten. Mit diesen treten Nutzende in Interaktion, statt sie einseitig zu konsumieren. Beispiele sind: Lückentexte, Drag and Drop, interaktive Videos oder Online-Memory. Die verschiedenen Inhaltstypen sind miteinander kombinierbar, sodass vielfältige Lehr- und Lerninhalte entstehen.
 Inhalte werden direkt auf der H5P-Website erstellt und anschließend über einen Code in den Quelltext des eigenen Blogartikels eingefügt. Alternativ lässt sich H5P auch als Plugin in eine Drupal, WordPress oder Moodle-Installation integrieren. Die Erstellung von H5P-Inhalten funktioniert dann analog zur Erstellung eines Blogbeitrages.
 Einmal erstellte H5P-Inhalte können heruntergeladen und auf Wunsch weiter bearbeitet werden. Es sind keine Programmier- oder Technik-Kenntnisse erforderlich.
 Initiiert wurde H5P in Norwegen und wird getragen vom Gedanken der <a href="https://de.wikipedia.org/wiki/Open_Educational_Resources">Open Educational Resources</a>. Das Projekt setzt auf offene Standards wie <a href="https://de.wikipedia.org/wiki/HTML5">HTML5</a>, wodurch Nutzenden das Erstellen, Teilen und Verändern von Inhalten erleichtert wird.</em></p>
@@ -76,7 +76,7 @@ Die Bandbreite der Inhaltstypen bietet schon jetzt eine große Vielfalt. Zudem k
 <p class="link-list">
 <span class="link-list-headline">Links</span>
 <a class="external-link" href="http://www.lernkiste.org/tag/h5p/" target="_blank">H5P Materialien aus der Praxis</a>
-<a class="external-link" href="http://www.ebildungslabor.de/online-kurs-interaktive-website-inhalte-selbst-gestalten" target="_blank">Ein offener Online Kurs für den Einstieg in H5P</a>
+<a class="external-link" href="https://www.oncampus.de/weiterbildung/moocs/einstieg-in-h5p" target="_blank">Ein offener Online Kurs für den Einstieg in H5P</a>
 <a class="external-link" href="https://www.youtube.com/watch?v=pSobm8PdXtE&amp;list=PL4lOawnmqTnEjL-Tpg8aAEADYFxN5WCOW" target="_blank">Tutorials zu H5P von Oliver Tacke (englischsprachig)</a>
 </p>
 :ET
