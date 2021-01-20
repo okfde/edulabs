@@ -4,7 +4,7 @@ layout: post
 title: "edulabs-Call: Erfahrungen & Hilfe zum Thema Homeschooling"
 teaser: "Bedingt durch COVID-19 trifft sich edulabs in Berlin online und öffnet das Meetup für alle."
 teaser_img_src: /assets/img/static/public_call.jpg
-featured: true
+featured: false
 categories: edulabsCall
 twitter_large_img: /assets/img/static/public_call.jpg
 image: /assets/img/static/public_call.jpg
