@@ -36,6 +36,7 @@ exclude:
   - commands.txt
   - start_serve.bat
   - start_watch.bat
+  - path/ruby
 
 # Assets
 #

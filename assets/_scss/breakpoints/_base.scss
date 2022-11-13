@@ -379,10 +379,6 @@ HEADER STYLES
 
   @include transition(transform .25s ease);
 
-  &.fixed{
-    position: fixed;
-  }
-
   &.hardgone {
       display:none;
   }

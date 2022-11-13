@@ -1,0 +1,5 @@
+---
+  errors:
+    syntax:
+      extends: "Syntax Error in 'extends' - Valid syntax: extends [template]"
+      inherited_block: "Syntax Error in 'block' - Valid syntax: block [name]"
