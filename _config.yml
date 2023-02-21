@@ -95,6 +95,7 @@ repository: 'okfde/edulabs'
 
 staticman:
   branch: "master"
+  git_provider: "github"
 
 title: "edulabs"
 description: "Offene Bildung mit digital gestützten Methoden"

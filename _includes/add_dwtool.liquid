@@ -32,7 +32,7 @@
             <p>Mit diesem Formular kannst du bestehendes Unterrichtsmaterial als Materialkarte zur edulabs-Sammlung hinzufügen. Das Material muss über einen Link erreichbar und <a href="/about/OER">frei lizenziert</a> sein. Ziel der edulabs-Sammlung ist die Empfehlung von besonders gut geeigneten Materialien, die digitale, kommunikative, kreative, kollaborative und kritische Kompetenzen fördern. Nachdem du die Materialkarte eingereicht hast, wird sie durch die <a href="/oer/about">edulabs-Redaktion</a> evaluiert.</p>
         </div>
         <div class="row content-wrap">
-          <form id="edit-project-form" class="form" method="post" action="{{ site.staticman_server }}/v2/entry/{{ site.repository }}/master/dw">
+          <form id="edit-project-form" class="form" method="post" action="{{ site.staticman_server }}/v3/entry/{{ site.staticman.git_provider }}/{{ site.repository }}/master/dw">
 
             <!-- Random Slug -->
             <input type="hidden" id="random-slug" name="fields[title]" value="{{ project_random_slug }}" spellcheck="false" {{editable}}/>
