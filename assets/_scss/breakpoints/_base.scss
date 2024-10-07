@@ -1245,3 +1245,30 @@ FOOTER STYLES
         color: $secondary-color;
     }
 }
+
+.deprecation-banner__content {
+  border: 2px solid $primary-color;
+  padding: 10px;
+  padding-left: 25px;
+  position: relative;
+
+  a {
+    font-size: 1em !important;
+  }
+}
+
+.deprecation-banner__content:before {
+  content: "!";
+  position: absolute;
+  top: calc(50% - 15px);
+  left: -15px;
+  color: $primary-color;
+  background-color: black;
+  border-radius: 50%;
+  height: 30px;
+  width: 30px;
+  display: flex;
+  justify-content: center;
+  align-items:center;
+}
+
