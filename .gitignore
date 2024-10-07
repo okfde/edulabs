@@ -85,6 +85,4 @@ $RECYCLE.BIN/
 
 _site/*
 
-_site/index.html
-
-_site/index.html
+.bundle
