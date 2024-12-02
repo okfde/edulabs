@@ -23,7 +23,7 @@
             <!--    <p>Von der Idee zum Projekt: In den edulabs entwickeln Teams zusammen Projekte für zeitgemäße Bildung. Projektideen sammeln wir zuerst im <a href="https://hackdash.org/dashboards/edulabs">edulabs Hackdash</a>. Hat sich eine Arbeitsgruppe gefunden, wird diese sowie das Vorhaben im Folgenden aufgeführt.</p> -->
         </div>
         <div class="row content-wrap">
-          <form id="edit-project-form" class="form" method="post" action="{{ site.staticman_server }}/v2/entry/{{ site.repository }}/{{ site.staticman.branch }}/projects">
+          <form id="edit-project-form" class="form" method="post" action="{{ site.staticman_server }}/v3/entry/{{ site.staticman.git_provider }}/{{ site.repository }}/{{ site.staticman.branch }}/projects">
 
             <!-- Project Name -->
             <fieldset>
